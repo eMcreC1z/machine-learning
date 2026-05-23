@@ -1,0 +1,53 @@
+{
+  "github_queries": [
+    "medical machine learning in:readme stars:>20 pushed:>={since}",
+    "clinical prediction machine learning in:readme stars:>10 pushed:>={since}",
+    "medical imaging deep learning in:readme stars:>20 pushed:>={since}",
+    "radiomics machine learning in:readme stars:>5 pushed:>={since}",
+    "bioinformatics machine learning in:readme stars:>20 pushed:>={since}",
+    "EHR machine learning healthcare in:readme stars:>10 pushed:>={since}",
+    "survival analysis machine learning medicine in:readme stars:>5 pushed:>={since}"
+  ],
+  "pubmed_query": "((machine learning[Title/Abstract]) OR (deep learning[Title/Abstract]) OR (artificial intelligence[Title/Abstract]) OR (foundation model[Title/Abstract]) OR (large language model[Title/Abstract])) AND ((medicine[Title/Abstract]) OR (clinical[Title/Abstract]) OR (diagnosis[Title/Abstract]) OR (prognosis[Title/Abstract]) OR (medical imaging[Title/Abstract]) OR (radiology[Title/Abstract]) OR (pathology[Title/Abstract]) OR (genomics[Title/Abstract]) OR (multi-omics[Title/Abstract]) OR (electronic health records[Title/Abstract]))",
+  "crossref_query": "machine learning artificial intelligence medicine clinical prediction medical imaging bioinformatics",
+  "priority_journals": [
+    "Nature Medicine",
+    "The Lancet Digital Health",
+    "The Lancet",
+    "JAMA",
+    "BMJ",
+    "Annals of Internal Medicine",
+    "Radiology",
+    "JAMA Oncology",
+    "Lancet Oncology",
+    "Lancet Respiratory Medicine",
+    "Lancet Neurology",
+    "Lancet Gastroenterology & Hepatology",
+    "npj Digital Medicine",
+    "eBioMedicine",
+    "Medical Image Analysis",
+    "IEEE Transactions on Medical Imaging",
+    "Journal of Biomedical Informatics",
+    "Bioinformatics",
+    "Briefings in Bioinformatics",
+    "Genome Medicine",
+    "Nature Biomedical Engineering",
+    "Nature Communications",
+    "Science Translational Medicine"
+  ],
+  "application_areas": {
+    "医学影像": ["imaging", "radiology", "CT", "MRI", "ultrasound", "segmentation", "detection", "radiomics"],
+    "临床预测": ["clinical prediction", "prognosis", "risk", "survival", "outcome", "EHR", "electronic health record"],
+    "病理与组学": ["pathology", "genomics", "transcriptomics", "multi-omics", "single-cell", "spatial"],
+    "临床文本与大模型": ["large language model", "LLM", "clinical notes", "NLP", "report generation", "foundation model"],
+    "药物与转化": ["drug", "target", "biomarker", "trial", "therapeutic", "treatment"]
+  },
+  "quality_flags": [
+    "是否有公开代码或可复现实验流程",
+    "是否有独立外部验证队列",
+    "是否报告校准、决策曲线或临床效益",
+    "是否清楚说明纳入排除标准和缺失值处理",
+    "是否避免把相关性结论写成因果结论"
+  ]
+}
+
