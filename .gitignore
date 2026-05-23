@@ -3,4 +3,5 @@ __pycache__/
 .env
 logs/*.tmp
 logs/*.lock
-
+logs/*.log
+logs/*_git_result.json

@@ -1,12 +1,12 @@
 {
   "github_queries": [
-    "medical machine learning in:readme stars:>20 pushed:>={since}",
-    "clinical prediction machine learning in:readme stars:>10 pushed:>={since}",
-    "medical imaging deep learning in:readme stars:>20 pushed:>={since}",
-    "radiomics machine learning in:readme stars:>5 pushed:>={since}",
-    "bioinformatics machine learning in:readme stars:>20 pushed:>={since}",
-    "EHR machine learning healthcare in:readme stars:>10 pushed:>={since}",
-    "survival analysis machine learning medicine in:readme stars:>5 pushed:>={since}"
+    "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>={since}",
+    "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>={since}",
+    "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>={since}",
+    "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>={since}",
+    "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>={since}",
+    "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>={since}",
+    "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>={since}"
   ],
   "pubmed_query": "((machine learning[Title/Abstract]) OR (deep learning[Title/Abstract]) OR (artificial intelligence[Title/Abstract]) OR (foundation model[Title/Abstract]) OR (large language model[Title/Abstract])) AND ((medicine[Title/Abstract]) OR (clinical[Title/Abstract]) OR (diagnosis[Title/Abstract]) OR (prognosis[Title/Abstract]) OR (medical imaging[Title/Abstract]) OR (radiology[Title/Abstract]) OR (pathology[Title/Abstract]) OR (genomics[Title/Abstract]) OR (multi-omics[Title/Abstract]) OR (electronic health records[Title/Abstract]))",
   "crossref_query": "machine learning artificial intelligence medicine clinical prediction medical imaging bioinformatics",
@@ -50,4 +50,3 @@
     "是否避免把相关性结论写成因果结论"
   ]
 }
-

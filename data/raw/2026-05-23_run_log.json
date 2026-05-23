@@ -1,66 +1,138 @@
 [
   {
     "source": "github",
-    "url": "https://api.github.com/search/repositories?q=medical+machine+learning+in%3Areadme+stars%3A%3E20+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=30",
+    "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.32,
+    "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-05-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.13,
+    "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-05-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22radiomics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.26,
+    "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-05-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.41,
+    "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-05-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.16,
+    "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-05-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.25,
+    "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-05-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=20",
     "ok": true,
     "status": 200,
     "error": null,
     "seconds": 2.3,
-    "query": "medical machine learning in:readme stars:>20 pushed:>=2026-05-13"
+    "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-05-13"
   },
   {
-    "source": "github",
-    "url": "https://api.github.com/search/repositories?q=clinical+prediction+machine+learning+in%3Areadme+stars%3A%3E10+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=30",
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/K-Dense-AI/scientific-agent-skills/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.44,
-    "query": "clinical prediction machine learning in:readme stars:>10 pushed:>=2026-05-13"
+    "seconds": 1.85,
+    "repo": "K-Dense-AI/scientific-agent-skills"
   },
   {
-    "source": "github",
-    "url": "https://api.github.com/search/repositories?q=medical+imaging+deep+learning+in%3Areadme+stars%3A%3E20+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=30",
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Yuan1z0825/nature-skills/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.26,
-    "query": "medical imaging deep learning in:readme stars:>20 pushed:>=2026-05-13"
+    "seconds": 1.52,
+    "repo": "Yuan1z0825/nature-skills"
   },
   {
-    "source": "github",
-    "url": "https://api.github.com/search/repositories?q=radiomics+machine+learning+in%3Areadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=30",
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.52,
-    "query": "radiomics machine learning in:readme stars:>5 pushed:>=2026-05-13"
+    "seconds": 1.93,
+    "repo": "ai-boost/awesome-prompts"
   },
   {
-    "source": "github",
-    "url": "https://api.github.com/search/repositories?q=bioinformatics+machine+learning+in%3Areadme+stars%3A%3E20+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=30",
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/promptslab/Awesome-Prompt-Engineering/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.43,
-    "query": "bioinformatics machine learning in:readme stars:>20 pushed:>=2026-05-13"
+    "seconds": 1.92,
+    "repo": "promptslab/Awesome-Prompt-Engineering"
   },
   {
-    "source": "github",
-    "url": "https://api.github.com/search/repositories?q=EHR+machine+learning+healthcare+in%3Areadme+stars%3A%3E10+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=30",
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/volcano-sh/volcano/readme",
+    "ok": false,
+    "status": null,
+    "error": "URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))",
+    "seconds": 8.01,
+    "repo": "volcano-sh/volcano"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/youngfish42/Awesome-FL/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.57,
-    "query": "EHR machine learning healthcare in:readme stars:>10 pushed:>=2026-05-13"
+    "seconds": 2.34,
+    "repo": "youngfish42/Awesome-FL"
   },
   {
-    "source": "github",
-    "url": "https://api.github.com/search/repositories?q=survival+analysis+machine+learning+medicine+in%3Areadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-13&sort=updated&order=desc&per_page=30",
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ai-boost/awesome-ai-for-science/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.45,
-    "query": "survival analysis machine learning medicine in:readme stars:>5 pushed:>=2026-05-13"
+    "seconds": 1.79,
+    "repo": "ai-boost/awesome-ai-for-science"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/valeman/awesome-conformal-prediction/readme",
+    "ok": false,
+    "status": null,
+    "error": "URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))",
+    "seconds": 8.01,
+    "repo": "valeman/awesome-conformal-prediction"
   },
   {
     "source": "pubmed_esearch",
@@ -68,22 +140,22 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.46
+    "seconds": 1.39
   },
   {
     "source": "pubmed_esummary",
     "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42172727%2C42172726%2C42172695%2C42172670%2C42172660%2C42172625%2C42172616%2C42172608%2C42172590%2C42172571%2C42172528%2C42172303%2C42172283%2C42172279%2C42172254%2C42172235%2C42172217%2C42172197%2C42172171%2C42172162%2C42171997%2C42171947%2C42171922%2C42171897%2C42171886%2C42171867%2C42171860%2C42171841%2C42171798%2C42171796%2C42171788%2C42171780%2C42171757%2C42171740%2C42171726%2C42171725%2C42171694%2C42171638%2C42171404%2C42171373",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.64
+    "ok": false,
+    "status": null,
+    "error": "URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))",
+    "seconds": 15.03
   },
   {
     "source": "crossref",
-    "url": "https://api.crossref.org/works?query.bibliographic=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-05-13%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
+    "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-05-13%2Cuntil-pub-date%3A2026-05-23%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.91
+    "seconds": 2.17
   }
 ]

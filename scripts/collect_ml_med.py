@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import base64
 import datetime as dt
 import json
 import math
@@ -20,6 +21,38 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = REPO_ROOT / "config" / "topics.json"
 DEFAULT_REMOTE_URL = "https://github.com/eMcreC1z/机器学习.git"
 USER_AGENT = "medical-ml-auto-collector/1.0 (research digest; contact via repo owner)"
+ML_TERMS = [
+    "machine learning",
+    "deep learning",
+    "artificial intelligence",
+    "foundation model",
+    "large language model",
+    "llm",
+    "neural network",
+    "radiomics",
+    "computer vision",
+    "nlp",
+]
+MEDICAL_TERMS = [
+    "medical",
+    "medicine",
+    "clinical",
+    "patient",
+    "diagnosis",
+    "prognosis",
+    "radiology",
+    "imaging",
+    "pathology",
+    "genomics",
+    "omics",
+    "ehr",
+    "electronic health record",
+    "hospital",
+    "disease",
+    "cancer",
+    "survival",
+    "biomarker",
+]
 
 
 def utc_now() -> dt.datetime:
@@ -56,7 +89,25 @@ def table_cell(value: Any, limit: int = 120) -> str:
     return text
 
 
-def request_json(url: str, source: str, token: str | None = None, timeout: int = 30) -> tuple[Any | None, dict[str, Any]]:
+def keyword_match(text: str, keyword: str) -> bool:
+    text_l = text.lower()
+    keyword_l = keyword.lower()
+    if len(keyword_l) <= 3 or keyword_l.isupper():
+        return re.search(rf"\b{re.escape(keyword_l)}\b", text_l) is not None
+    if re.match(r"^[a-z0-9 ]+$", keyword_l):
+        return re.search(rf"\b{re.escape(keyword_l)}\b", text_l) is not None
+    return keyword_l in text_l
+
+
+def keyword_count(text: str, keywords: list[str]) -> int:
+    return sum(1 for keyword in keywords if keyword_match(text, keyword))
+
+
+def is_medical_ml_relevant(text: str) -> bool:
+    return keyword_count(text, ML_TERMS) >= 1 and keyword_count(text, MEDICAL_TERMS) >= 1
+
+
+def request_json(url: str, source: str, token: str | None = None, timeout: int = 15) -> tuple[Any | None, dict[str, Any]]:
     headers = {
         "Accept": "application/json",
         "User-Agent": USER_AGENT,
@@ -100,10 +151,9 @@ def parse_datetime(value: str | None) -> dt.datetime | None:
 
 
 def infer_area(text: str, config: dict[str, Any]) -> str:
-    lowered = text.lower()
     for area, keywords in config.get("application_areas", {}).items():
         for keyword in keywords:
-            if keyword.lower() in lowered:
+            if keyword_match(text, keyword):
                 return area
     return "综合医学机器学习"
 
@@ -124,14 +174,34 @@ def github_score(item: dict[str, Any], config: dict[str, Any]) -> float:
         days = max(0, (utc_now() - updated.astimezone(dt.timezone.utc)).days)
     keyword_hits = 0
     for keywords in config.get("application_areas", {}).values():
-        keyword_hits += sum(1 for keyword in keywords if keyword.lower() in text)
+        keyword_hits += sum(1 for keyword in keywords if keyword_match(text, keyword))
     return round(math.log10(stars + 1) * 4 + math.log10(forks + 1) * 1.5 + max(0, 5 - days / 7) + keyword_hits * 0.8, 2)
 
 
-def collect_github(config: dict[str, Any], since: dt.date, max_items: int) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+def fetch_readme_sample(full_name: str, token: str | None, logs: list[dict[str, Any]]) -> str:
+    encoded = urllib.parse.quote(full_name, safe="/")
+    url = f"https://api.github.com/repos/{encoded}/readme"
+    data, log = request_json(url, "github_readme", token=token, timeout=8)
+    log["repo"] = full_name
+    logs.append(log)
+    if not data:
+        return ""
+    content = data.get("content") or ""
+    if data.get("encoding") == "base64":
+        try:
+            decoded = base64.b64decode(content, validate=False).decode("utf-8", errors="replace")
+            return normalize_text(decoded)[:12000]
+        except Exception as exc:
+            log["ok"] = False
+            log["error"] = f"README decode failed: {exc!r}"
+            return ""
+    return normalize_text(content)[:12000]
+
+
+def collect_github(config: dict[str, Any], since: dt.date, max_items: int, readme_limit: int) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     token = os.environ.get("GITHUB_TOKEN")
     logs: list[dict[str, Any]] = []
-    seen: dict[str, dict[str, Any]] = {}
+    candidates: dict[str, dict[str, Any]] = {}
     for query_template in config.get("github_queries", []):
         query = query_template.format(since=since.isoformat())
         params = urllib.parse.urlencode(
@@ -139,7 +209,7 @@ def collect_github(config: dict[str, Any], since: dt.date, max_items: int) -> tu
                 "q": query,
                 "sort": "updated",
                 "order": "desc",
-                "per_page": min(max_items, 30),
+                "per_page": min(max_items, 20),
             }
         )
         url = f"https://api.github.com/search/repositories?{params}"
@@ -174,10 +244,51 @@ def collect_github(config: dict[str, Any], since: dt.date, max_items: int) -> tu
                 "application_area": infer_area(text, config),
                 "score": github_score(item, config),
             }
-            if full_name not in seen or entry["score"] > seen[full_name]["score"]:
-                seen[full_name] = entry
+            if full_name not in candidates or entry["score"] > candidates[full_name]["score"]:
+                candidates[full_name] = entry
         time.sleep(1.1)
-    repos = sorted(seen.values(), key=lambda row: row["score"], reverse=True)
+    refined: list[dict[str, Any]] = []
+    presorted = sorted(candidates.values(), key=lambda row: (row["stars"], row["score"]), reverse=True)
+    for entry in presorted[: max(0, readme_limit)]:
+        metadata_text = " ".join(
+            [
+                normalize_text(entry.get("full_name")),
+                normalize_text(entry.get("description")),
+                " ".join(entry.get("topics") or []),
+            ]
+        )
+        readme = fetch_readme_sample(entry["full_name"], token, logs)
+        combined = f"{metadata_text} {readme}"
+        if not is_medical_ml_relevant(combined):
+            continue
+        entry["application_area"] = infer_area(combined, config)
+        entry["score"] = round(entry["score"] + keyword_count(combined, ML_TERMS) + keyword_count(combined, MEDICAL_TERMS) * 0.8, 2)
+        entry["evidence_terms"] = {
+            "ml": [term for term in ML_TERMS if keyword_match(combined, term)][:6],
+            "medical": [term for term in MEDICAL_TERMS if keyword_match(combined, term)][:6],
+        }
+        refined.append(entry)
+        if len(refined) >= max_items:
+            break
+        time.sleep(0.2)
+    if len(refined) < max_items:
+        for entry in presorted:
+            if entry in refined:
+                continue
+            metadata_text = " ".join(
+                [
+                    normalize_text(entry.get("full_name")),
+                    normalize_text(entry.get("description")),
+                    " ".join(entry.get("topics") or []),
+                ]
+            )
+            if not is_medical_ml_relevant(metadata_text):
+                continue
+            entry["score"] = round(entry["score"] + 1.0, 2)
+            refined.append(entry)
+            if len(refined) >= max_items:
+                break
+    repos = sorted(refined, key=lambda row: row["score"], reverse=True)
     return repos[:max_items], logs
 
 
@@ -206,7 +317,7 @@ def paper_score(paper: dict[str, Any], config: dict[str, Any]) -> float:
     if paper.get("priority_journal"):
         score += 5
     for keywords in config.get("application_areas", {}).values():
-        score += sum(0.7 for keyword in keywords if keyword.lower() in text)
+        score += sum(0.7 for keyword in keywords if keyword_match(text, keyword))
     if paper.get("doi"):
         score += 0.5
     if paper.get("pmid"):
@@ -285,10 +396,10 @@ def crossref_date(item: dict[str, Any]) -> str:
     return ""
 
 
-def collect_crossref(config: dict[str, Any], since: dt.date, max_items: int) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+def collect_crossref(config: dict[str, Any], since: dt.date, today: dt.date, max_items: int) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     params = {
-        "query.bibliographic": config.get("crossref_query", ""),
-        "filter": f"from-pub-date:{since.isoformat()},type:journal-article",
+        "query.title": config.get("crossref_query", ""),
+        "filter": f"from-pub-date:{since.isoformat()},until-pub-date:{today.isoformat()},type:journal-article",
         "rows": str(min(max_items, 50)),
         "sort": "published",
         "order": "desc",
@@ -302,6 +413,8 @@ def collect_crossref(config: dict[str, Any], since: dt.date, max_items: int) -> 
     for item in data.get("message", {}).get("items", [])[:max_items]:
         title = normalize_text((item.get("title") or [""])[0])
         journal = normalize_text((item.get("container-title") or [""])[0])
+        if not is_medical_ml_relevant(f"{title} {journal}"):
+            continue
         doi = normalize_text(item.get("DOI"))
         paper = {
             "title": title,
@@ -516,6 +629,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--days-back", type=int, default=10, help="Lookback window for fresh sources.")
     parser.add_argument("--max-github", type=int, default=30, help="Maximum GitHub repositories to keep.")
     parser.add_argument("--max-papers", type=int, default=40, help="Maximum papers to keep after merging.")
+    parser.add_argument("--github-readme-limit", type=int, default=18, help="Maximum GitHub README files to fetch for relevance checks.")
     parser.add_argument("--commit", action="store_true", help="Commit generated files to git.")
     parser.add_argument("--push", action="store_true", help="Push committed changes to origin/main.")
     parser.add_argument("--remote-url", default=os.environ.get("ML_MED_REMOTE_URL", DEFAULT_REMOTE_URL), help="Git remote URL.")
@@ -531,13 +645,13 @@ def main(argv: list[str]) -> int:
     since = day - dt.timedelta(days=max(1, args.days_back))
     logs: list[dict[str, Any]] = []
 
-    repos, github_logs = collect_github(config, since, args.max_github)
+    repos, github_logs = collect_github(config, since, args.max_github, args.github_readme_limit)
     logs.extend(github_logs)
 
     pubmed, pubmed_logs = collect_pubmed(config, since, day, args.max_papers)
     logs.extend(pubmed_logs)
 
-    crossref, crossref_logs = collect_crossref(config, since, args.max_papers)
+    crossref, crossref_logs = collect_crossref(config, since, day, args.max_papers)
     logs.extend(crossref_logs)
 
     papers = merge_papers(pubmed, crossref, max_items=args.max_papers, config=config)
