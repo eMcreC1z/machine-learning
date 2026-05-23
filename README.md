@@ -34,7 +34,6 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\run_daily.ps1
 1. 初始化本地 Git 仓库。
 2. 写入当日 Markdown 报告与 JSON 数据。
 3. 提交变更。
-4. 尝试推送到 `https://github.com/eMcreC1z/机器学习.git`。
+4. 尝试推送到 `https://github.com/eMcreC1z/machine-learning.git`。
 
 当前目标仓库需要已经存在，并且本机 Git 凭据需要具备推送权限；否则报告仍会保存在本地，推送失败原因会写入日志。
-

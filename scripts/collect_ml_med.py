@@ -19,7 +19,7 @@ from typing import Any
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = REPO_ROOT / "config" / "topics.json"
-DEFAULT_REMOTE_URL = "https://github.com/eMcreC1z/机器学习.git"
+DEFAULT_REMOTE_URL = "https://github.com/eMcreC1z/machine-learning.git"
 USER_AGENT = "medical-ml-auto-collector/1.0 (research digest; contact via repo owner)"
 ML_TERMS = [
     "machine learning",
