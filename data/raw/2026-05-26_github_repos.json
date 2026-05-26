@@ -1,0 +1,487 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "language": "Python",
+    "stars": 25877,
+    "forks": 2697,
+    "open_issues": 34,
+    "updated_at": "2026-05-26T01:20:22Z",
+    "pushed_at": "2026-05-25T11:50:40Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 40.4,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 434,
+    "forks": 41,
+    "open_issues": 0,
+    "updated_at": "2026-05-26T00:35:15Z",
+    "pushed_at": "2026-05-26T00:35:12Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 30.19,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "diagnosis",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "Yuan1z0825/nature-skills",
+    "name": "nature-skills",
+    "url": "https://github.com/Yuan1z0825/nature-skills",
+    "description": "符合nature论文学术表达和科研绘图的Skill",
+    "language": "Python",
+    "stars": 11996,
+    "forks": 743,
+    "open_issues": 5,
+    "updated_at": "2026-05-26T01:44:45Z",
+    "pushed_at": "2026-05-25T23:31:49Z",
+    "topics": [
+      "codex-skills",
+      "nature",
+      "nature-skills"
+    ],
+    "application_area": "医学影像",
+    "score": 29.22,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "ai-boost/awesome-prompts",
+    "name": "awesome-prompts",
+    "url": "https://github.com/ai-boost/awesome-prompts",
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+    "language": "",
+    "stars": 8007,
+    "forks": 741,
+    "open_issues": 24,
+    "updated_at": "2026-05-25T21:48:40Z",
+    "pushed_at": "2026-05-25T21:48:36Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "gpt4",
+      "gpts",
+      "gptstore",
+      "papers",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "application_area": "临床预测",
+    "score": 27.52,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 389,
+    "forks": 49,
+    "open_issues": 28,
+    "updated_at": "2026-05-22T09:29:11Z",
+    "pushed_at": "2026-05-20T02:14:47Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.08,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "ai-boost/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai-boost/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1585,
+    "forks": 169,
+    "open_issues": 36,
+    "updated_at": "2026-05-25T23:32:55Z",
+    "pushed_at": "2026-05-25T23:32:51Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 25.75,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "albumentations-team/AlbumentationsX",
+    "name": "AlbumentationsX",
+    "url": "https://github.com/albumentations-team/AlbumentationsX",
+    "description": "Next-generation Albumentations: dual-licensed for open-source and commercial use",
+    "language": "Python",
+    "stars": 454,
+    "forks": 28,
+    "open_issues": 32,
+    "updated_at": "2026-05-25T18:54:09Z",
+    "pushed_at": "2026-05-25T18:59:23Z",
+    "topics": [
+      "3d",
+      "augmentation",
+      "bounding-box",
+      "computer-vision",
+      "data-augmentation",
+      "deep-learning",
+      "deeplearning",
+      "image-augmentation",
+      "image-classification",
+      "image-processing",
+      "image-segmentations",
+      "instance-segmentation",
+      "keypoint-detection",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "python",
+      "pytorch",
+      "segmentation",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 24.83,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1203,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-05-25T13:43:26Z",
+    "pushed_at": "2026-05-25T13:43:22Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.75,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 262,
+    "forks": 65,
+    "open_issues": 7,
+    "updated_at": "2026-05-24T01:43:25Z",
+    "pushed_at": "2026-05-22T13:11:21Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 24.12,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 443,
+    "forks": 50,
+    "open_issues": 0,
+    "updated_at": "2026-05-25T10:02:48Z",
+    "pushed_at": "2026-05-25T10:02:44Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.75,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "GPTomics/bioSkills",
+    "name": "bioSkills",
+    "url": "https://github.com/GPTomics/bioSkills",
+    "description": "a set of SKILLS.md for doing bioinformatics with agents like claude code",
+    "language": "Python",
+    "stars": 781,
+    "forks": 141,
+    "open_issues": 0,
+    "updated_at": "2026-05-26T01:41:13Z",
+    "pushed_at": "2026-05-25T23:47:24Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 23.2,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "clinical",
+        "genomics",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "yhzhu99/ehr-llm-benchmark",
+    "name": "ehr-llm-benchmark",
+    "url": "https://github.com/yhzhu99/ehr-llm-benchmark",
+    "description": "[npj Digital Medicine 2026] ClinicRealm: Re-evaluating Large Language Models with Conventional Machine Learning for Non-Generative Clinical Prediction Tasks",
+    "language": "Python",
+    "stars": 13,
+    "forks": 2,
+    "open_issues": 0,
+    "updated_at": "2026-05-25T09:14:25Z",
+    "pushed_at": "2026-05-25T09:14:21Z",
+    "topics": [
+      "benchmark",
+      "ehr",
+      "llm"
+    ],
+    "application_area": "临床预测",
+    "score": 13.7
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 7,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-05-26T00:38:51Z",
+    "pushed_at": "2026-05-26T00:38:48Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.26
+  },
+  {
+    "full_name": "HossamBalaha/BE-645-Artificial-Intelligence-and-Radiomics",
+    "name": "BE-645-Artificial-Intelligence-and-Radiomics",
+    "url": "https://github.com/HossamBalaha/BE-645-Artificial-Intelligence-and-Radiomics",
+    "description": "BE 645: Artificial Intelligence (AI) and Radiomics (Spring 2026)",
+    "language": "Python",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-05-22T19:48:32Z",
+    "pushed_at": "2026-05-22T19:48:27Z",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "machine-learning",
+      "medical",
+      "medical-image-analysis",
+      "radiomics"
+    ],
+    "application_area": "医学影像",
+    "score": 9.17
+  },
+  {
+    "full_name": "BioTender-max/awesome-bio-agent-skills",
+    "name": "awesome-bio-agent-skills",
+    "url": "https://github.com/BioTender-max/awesome-bio-agent-skills",
+    "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "updated_at": "2026-05-25T18:54:19Z",
+    "pushed_at": "2026-05-25T18:54:16Z",
+    "topics": [
+      "ai-agent",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "biomedical",
+      "genomics",
+      "llm",
+      "protein-design",
+      "single-cell",
+      "skills"
+    ],
+    "application_area": "病理与组学",
+    "score": 8.85
+  }
+]
