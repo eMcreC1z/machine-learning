@@ -1,27 +1,23 @@
 # 医学机器学习自动整理日报 - 2026-05-28
 
-> 自动采集时间：2026-05-28 01:00:55。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-05-28 01:09:18。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
 - GitHub 项目候选：19 个
 - 论文候选：40 篇
-- 高影响/Q1候选论文：3 篇
-- 采集异常来源：1 个
-
-## 采集限制
-
-- crossref: TimeoutError('The read operation timed out')
+- 高影响/Q1候选论文：4 篇
+- 采集异常来源：0 个
 
 ## 优先关注 GitHub 项目
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 26209 | 2026-05-27T16:56:50Z | 医学影像 | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.；评分 40.43 |
+| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 26211 | 2026-05-27T17:06:28Z | 医学影像 | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.；评分 40.43 |
 | 2 | [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) | 1006 | 2026-05-27T16:04:18Z | 医学影像 | Latest Advances on Agentic AI & AI Agents for Healthcare；评分 35.27 |
 | 3 | [mk-runner/Awesome-Radiology-Report-Generation](https://github.com/mk-runner/Awesome-Radiology-Report-Generation) | 435 | 2026-05-27T06:44:19Z | 医学影像 | paper list, dataset, and tools for radiology report generation；评分 30.21 |
 | 4 | [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | 8202 | 2026-05-27T15:36:06Z | 医学影像 | AI Toolkit for Healthcare Imaging；评分 29.62 |
-| 5 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 12996 | 2026-05-27T16:50:10Z | 医学影像 | 符合nature论文学术表达和科研绘图的Skill；评分 29.41 |
+| 5 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 12997 | 2026-05-27T17:00:32Z | 医学影像 | 符合nature论文学术表达和科研绘图的Skill；评分 29.42 |
 | 6 | [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) | 437 | 2026-05-26T19:01:46Z | 医学影像 | Daily ArXiv Papers.；评分 26.17 |
 | 7 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1205 | 2026-05-27T08:07:39Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.76 |
 | 8 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 443 | 2026-05-26T11:18:06Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.61 |
@@ -38,25 +34,25 @@
 | 排名 | 题名 | 期刊 | 日期 | DOI/PMID | 方向 | 复核说明 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Who labels best? Radiologists, rules, or large language models for CT reports on pulmonary embolism.](https://pubmed.ncbi.nlm.nih.gov/42201590/) | European radiology experimental | 2026 May 27 | DOI: 10.1186/s41747-026-00738-7; PMID: 42201590 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
-| 2 | [Alignment of Policy, Practice, and Patient Safety for Trustworthy AI in Radiology.](https://pubmed.ncbi.nlm.nih.gov/42200797/) | Radiology. Artificial intelligence | 2026 May 27 | DOI: 10.1148/ryai.250982; PMID: 42200797 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
-| 3 | [Angioarchitectural features of hemorrhagic presentation of brain arteriovenous malformations: A multivariate and explainable machine learni...](https://pubmed.ncbi.nlm.nih.gov/42201351/) | Neuroradiology | 2026 May 27 | DOI: 10.1007/s00234-026-04035-3; PMID: 42201351 | 综合医学机器学习 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
-| 4 | [DeepMetabio-mCRC Screener: A Multi-Omics Deep Learning Framework for Early Risk Prediction and Biomarker Discovery in Colorectal Liver Meta...](https://pubmed.ncbi.nlm.nih.gov/42199376/) | Computational and structural biotechnology journal | 2026 | DOI: 10.34133/csbj.0074; PMID: 42199376 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 5 | [Multimodal Artificial Intelligence for Cardiac Amyloidosis Diagnosis: Integrating Echocardiography With Clinical and Laboratory Data for Im...](https://pubmed.ncbi.nlm.nih.gov/42200278/) | Circulation. Cardiovascular imaging | 2026 May 27 | DOI: 10.1161/CIRCIMAGING.126.019610; PMID: 42200278 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 6 | [Measuring Radiology's Impact: Core Concepts for Tracking Patient-Oriented Outcomes and Delivering High-Value Care-A Perspective by the ACR'...](https://pubmed.ncbi.nlm.nih.gov/42201720/) | AJR. American journal of roentgenology | 2026 May 27 | DOI: 10.2214/AJR.26.34767; PMID: 42201720 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 7 | [Reply to "Beyond Procurement: Equity Considerations in Radiology Artificial Intelligence Adoption".](https://pubmed.ncbi.nlm.nih.gov/42201719/) | AJR. American journal of roentgenology | 2026 May 27 | DOI: 10.2214/AJR.26.35244; PMID: 42201719 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 8 | [Beyond Procurement: Equity Considerations in Radiology Artificial Intelligence Adoption.](https://pubmed.ncbi.nlm.nih.gov/42201718/) | AJR. American journal of roentgenology | 2026 May 27 | DOI: 10.2214/AJR.26.35147; PMID: 42201718 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 9 | [Rice Annotation Project Database (RAP-DB): Literature-Curated Gene Annotation and Integrated Omics Resources for Rice Functional Genomics a...](https://pubmed.ncbi.nlm.nih.gov/42201463/) | Rice (New York, N.Y.) | 2026 May 27 | DOI: 10.1186/s12284-026-00924-6; PMID: 42201463 | 病理与组学 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 10 | [Arrhythmia Burden and Clinical Responses Under Continuous Monitoring in Heart Failure: Observations From the ALLEVIATE-HF Trial.](https://pubmed.ncbi.nlm.nih.gov/42201276/) | Journal of the American College of Cardiology | 2026 May 27 | DOI: 10.1016/j.jacc.2026.03.174; PMID: 42201276 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 11 | [Impact of MetS on Long-Term Prognosis Among STEMI Patients Treated with pPCI-Ten-Year Follow-Up Study.](https://pubmed.ncbi.nlm.nih.gov/42201060/) | Medical sciences (Basel, Switzerland) | 2026 May 21 | DOI: 10.3390/medsci14020268; PMID: 42201060 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 12 | [Human-in-the-Loop Enhances Machine Learning Inference in Intraoperative Optical Coherence Tomography Glioma Imaging.](https://pubmed.ncbi.nlm.nih.gov/42201055/) | Medical sciences (Basel, Switzerland) | 2026 May 20 | DOI: 10.3390/medsci14020263; PMID: 42201055 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 13 | [How Machine Learning Can Help Close Evidence Gaps for Drug Safety in Pregnant Women.](https://pubmed.ncbi.nlm.nih.gov/42200783/) | Journal of medical Internet research | 2026 May 27 | DOI: 10.2196/101042; PMID: 42200783 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 14 | [The expanding horizon: Role of widefield imaging in uveitis.](https://pubmed.ncbi.nlm.nih.gov/42200731/) | Indian journal of ophthalmology | 2026 Jun 1 | DOI: 10.4103/IJO.IJO_2978_25; PMID: 42200731 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 15 | [AI-Assisted MRI Interpretation in Diagnosing Bankart and Reverse Bankart Lesions.](https://pubmed.ncbi.nlm.nih.gov/42200663/) | The American journal of sports medicine | 2026 May 27 | DOI: 10.1177/03635465261449797; PMID: 42200663 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 16 | [Advanced molecular detection, bioinformatics, and artificial intelligence era in medical laboratory science education.](https://pubmed.ncbi.nlm.nih.gov/42200654/) | Journal of microbiology & biology education | 2026 May 27 | DOI: 10.1128/jmbe.00334-25; PMID: 42200654 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 17 | [AI-assisted case-based learning and flipped classroom to improve clinical decision-making: a randomized controlled trial in reproductive me...](https://pubmed.ncbi.nlm.nih.gov/42200362/) | Medical education online | 2026 Dec 31 | DOI: 10.1080/10872981.2026.2670047; PMID: 42200362 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 18 | [Short-Term Prognosis in Acute Asthma Exacerbations: A Comparative Evaluation of Machine Learning Models Using Spirometry and Tracheal Respi...](https://pubmed.ncbi.nlm.nih.gov/42199980/) | International journal of general medicine | 2026 | DOI: 10.2147/IJGM.S602311; PMID: 42199980 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 19 | [Deep Learning-Assisted Radiomics for Predicting Thoracolumbar Osteoporotic Vertebral Fractures.](https://pubmed.ncbi.nlm.nih.gov/42199482/) | Clinical interventions in aging | 2026 | DOI: 10.2147/CIA.S600030; PMID: 42199482 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 20 | [Strategies for the Prevention and Control of Complications of Pathological Myopia: A Systematic Review of Research Progress from Axial Cont...](https://pubmed.ncbi.nlm.nih.gov/42199322/) | Clinical ophthalmology (Auckland, N.Z.) | 2026 | DOI: 10.2147/OPTH.S598127; PMID: 42199322 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 2 | [Letter to the Editor: Traditional medical image interpretation and deep learning-based image analysis in predicting risk in patients with s...](https://doi.org/10.4329/wjr.v18.i5.118969) | World Journal of Radiology | 2026-05-28 | DOI: 10.4329/wjr.v18.i5.118969 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 3 | [Alignment of Policy, Practice, and Patient Safety for Trustworthy AI in Radiology.](https://pubmed.ncbi.nlm.nih.gov/42200797/) | Radiology. Artificial intelligence | 2026 May 27 | DOI: 10.1148/ryai.250982; PMID: 42200797 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 4 | [Angioarchitectural features of hemorrhagic presentation of brain arteriovenous malformations: A multivariate and explainable machine learni...](https://pubmed.ncbi.nlm.nih.gov/42201351/) | Neuroradiology | 2026 May 27 | DOI: 10.1007/s00234-026-04035-3; PMID: 42201351 | 综合医学机器学习 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 5 | [DeepMetabio-mCRC Screener: A Multi-Omics Deep Learning Framework for Early Risk Prediction and Biomarker Discovery in Colorectal Liver Meta...](https://pubmed.ncbi.nlm.nih.gov/42199376/) | Computational and structural biotechnology journal | 2026 | DOI: 10.34133/csbj.0074; PMID: 42199376 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 6 | [Multimodal Artificial Intelligence for Cardiac Amyloidosis Diagnosis: Integrating Echocardiography With Clinical and Laboratory Data for Im...](https://pubmed.ncbi.nlm.nih.gov/42200278/) | Circulation. Cardiovascular imaging | 2026 May 27 | DOI: 10.1161/CIRCIMAGING.126.019610; PMID: 42200278 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 7 | [Artificial Intelligence-Assisted Endoscopic Ultrasound-Guided Ablation of Pancreatic Neuroendocrine Tumors: Toward Precision Diagnosis, Ris...](https://doi.org/10.7759/cureus.109721) | Cureus | 2026-05-27 | DOI: 10.7759/cureus.109721 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 8 | [Multilayer WS2/Graphene/Black Phosphorus Terahertz Metasurface Biosensor for Label-Free Pregnancy Detection with Machine Learning–Assisted...](https://doi.org/10.1007/s11220-026-00807-6) | Sensing and Imaging | 2026-05-27 | DOI: 10.1007/s11220-026-00807-6 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 9 | [Artificial Intelligence Dystocia Algorithm (AIDA) for Risk Stratification of Occiput Posterior Fetal Head Position](https://doi.org/10.3390/jimaging12060230) | Journal of Imaging | 2026-05-27 | DOI: 10.3390/jimaging12060230 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 10 | [Measuring Radiology's Impact: Core Concepts for Tracking Patient-Oriented Outcomes and Delivering High-Value Care-A Perspective by the ACR'...](https://pubmed.ncbi.nlm.nih.gov/42201720/) | AJR. American journal of roentgenology | 2026 May 27 | DOI: 10.2214/AJR.26.34767; PMID: 42201720 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 11 | [Reply to "Beyond Procurement: Equity Considerations in Radiology Artificial Intelligence Adoption".](https://pubmed.ncbi.nlm.nih.gov/42201719/) | AJR. American journal of roentgenology | 2026 May 27 | DOI: 10.2214/AJR.26.35244; PMID: 42201719 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 12 | [Beyond Procurement: Equity Considerations in Radiology Artificial Intelligence Adoption.](https://pubmed.ncbi.nlm.nih.gov/42201718/) | AJR. American journal of roentgenology | 2026 May 27 | DOI: 10.2214/AJR.26.35147; PMID: 42201718 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 13 | [Rice Annotation Project Database (RAP-DB): Literature-Curated Gene Annotation and Integrated Omics Resources for Rice Functional Genomics a...](https://pubmed.ncbi.nlm.nih.gov/42201463/) | Rice (New York, N.Y.) | 2026 May 27 | DOI: 10.1186/s12284-026-00924-6; PMID: 42201463 | 病理与组学 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 14 | [Arrhythmia Burden and Clinical Responses Under Continuous Monitoring in Heart Failure: Observations From the ALLEVIATE-HF Trial.](https://pubmed.ncbi.nlm.nih.gov/42201276/) | Journal of the American College of Cardiology | 2026 May 27 | DOI: 10.1016/j.jacc.2026.03.174; PMID: 42201276 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 15 | [Impact of MetS on Long-Term Prognosis Among STEMI Patients Treated with pPCI-Ten-Year Follow-Up Study.](https://pubmed.ncbi.nlm.nih.gov/42201060/) | Medical sciences (Basel, Switzerland) | 2026 May 21 | DOI: 10.3390/medsci14020268; PMID: 42201060 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 16 | [Human-in-the-Loop Enhances Machine Learning Inference in Intraoperative Optical Coherence Tomography Glioma Imaging.](https://pubmed.ncbi.nlm.nih.gov/42201055/) | Medical sciences (Basel, Switzerland) | 2026 May 20 | DOI: 10.3390/medsci14020263; PMID: 42201055 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 17 | [How Machine Learning Can Help Close Evidence Gaps for Drug Safety in Pregnant Women.](https://pubmed.ncbi.nlm.nih.gov/42200783/) | Journal of medical Internet research | 2026 May 27 | DOI: 10.2196/101042; PMID: 42200783 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 18 | [The expanding horizon: Role of widefield imaging in uveitis.](https://pubmed.ncbi.nlm.nih.gov/42200731/) | Indian journal of ophthalmology | 2026 Jun 1 | DOI: 10.4103/IJO.IJO_2978_25; PMID: 42200731 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 19 | [AI-Assisted MRI Interpretation in Diagnosing Bankart and Reverse Bankart Lesions.](https://pubmed.ncbi.nlm.nih.gov/42200663/) | The American journal of sports medicine | 2026 May 27 | DOI: 10.1177/03635465261449797; PMID: 42200663 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 20 | [Advanced molecular detection, bioinformatics, and artificial intelligence era in medical laboratory science education.](https://pubmed.ncbi.nlm.nih.gov/42200654/) | Journal of microbiology & biology education | 2026 May 27 | DOI: 10.1128/jmbe.00334-25; PMID: 42200654 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
 
 ## 医学研究应用整理
 
@@ -110,33 +106,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=1.8
-- github: OK; status=200; seconds=1.56
-- github: OK; status=200; seconds=1.73
-- github: OK; status=200; seconds=1.56
-- github: OK; status=200; seconds=1.44
-- github: OK; status=200; seconds=1.53
-- github: OK; status=200; seconds=1.38
-- github_readme: OK; status=200; seconds=1.15
-- github_readme: OK; status=200; seconds=0.81
-- github_readme: OK; status=200; seconds=0.95
-- github_readme: OK; status=200; seconds=0.84
-- github_readme: OK; status=200; seconds=0.7
-- github_readme: OK; status=200; seconds=1.0
-- github_readme: OK; status=200; seconds=0.99
-- github_readme: OK; status=200; seconds=1.14
-- github_readme: OK; status=200; seconds=1.3
-- github_readme: OK; status=200; seconds=1.63
-- github_readme: OK; status=200; seconds=1.39
-- github_readme: OK; status=200; seconds=1.07
-- github_readme: OK; status=200; seconds=1.29
-- github_readme: OK; status=200; seconds=1.1
-- github_readme: OK; status=200; seconds=1.17
-- github_readme: OK; status=200; seconds=1.15
-- github_readme: OK; status=200; seconds=1.23
-- github_readme: OK; status=200; seconds=1.08
-- pubmed_esearch: OK; status=200; seconds=2.41
-- pubmed_esummary: OK; status=200; seconds=2.47
-- crossref: FAILED; status=None; seconds=107.95
+- github: OK; status=200; seconds=3.75
+- github: OK; status=200; seconds=2.58
+- github: OK; status=200; seconds=2.86
+- github: OK; status=200; seconds=2.78
+- github: OK; status=200; seconds=3.84
+- github: OK; status=200; seconds=3.34
+- github: OK; status=200; seconds=4.3
+- github_readme: OK; status=200; seconds=9.3
+- github_readme: OK; status=200; seconds=2.09
+- github_readme: OK; status=200; seconds=2.98
+- github_readme: OK; status=200; seconds=2.85
+- github_readme: OK; status=200; seconds=1.55
+- github_readme: OK; status=200; seconds=2.02
+- github_readme: OK; status=200; seconds=5.27
+- github_readme: OK; status=200; seconds=6.8
+- github_readme: OK; status=200; seconds=12.48
+- github_readme: OK; status=200; seconds=7.89
+- github_readme: OK; status=200; seconds=5.29
+- github_readme: OK; status=200; seconds=2.45
+- github_readme: OK; status=200; seconds=9.69
+- github_readme: OK; status=200; seconds=3.67
+- github_readme: OK; status=200; seconds=3.38
+- github_readme: OK; status=200; seconds=7.06
+- github_readme: OK; status=200; seconds=6.51
+- github_readme: OK; status=200; seconds=2.57
+- pubmed_esearch: OK; status=200; seconds=1.71
+- pubmed_esummary: OK; status=200; seconds=2.45
+- crossref: OK; status=200; seconds=12.04
 
 本次运行已完成：2026-05-28_ml_med_research_digest.md

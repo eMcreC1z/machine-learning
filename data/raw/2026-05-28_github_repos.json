@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
     "language": "Python",
-    "stars": 26209,
+    "stars": 26211,
     "forks": 2722,
     "open_issues": 34,
-    "updated_at": "2026-05-27T16:56:50Z",
+    "updated_at": "2026-05-27T17:06:28Z",
     "pushed_at": "2026-05-25T11:50:40Z",
     "topics": [
       "agent-skills",
@@ -159,10 +159,10 @@
     "url": "https://github.com/Yuan1z0825/nature-skills",
     "description": "符合nature论文学术表达和科研绘图的Skill",
     "language": "Python",
-    "stars": 12996,
+    "stars": 12997,
     "forks": 805,
     "open_issues": 7,
-    "updated_at": "2026-05-27T16:50:10Z",
+    "updated_at": "2026-05-27T17:00:32Z",
     "pushed_at": "2026-05-27T16:50:03Z",
     "topics": [
       "codex-skills",
@@ -170,7 +170,7 @@
       "nature-skills"
     ],
     "application_area": "医学影像",
-    "score": 29.41,
+    "score": 29.42,
     "evidence_terms": {
       "ml": [
         "machine learning",

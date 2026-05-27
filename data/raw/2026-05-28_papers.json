@@ -21,6 +21,21 @@
     "score": 7.4
   },
   {
+    "title": "Letter to the Editor: Traditional medical image interpretation and deep learning-based image analysis in predicting risk in patients with spontaneous intracerebral hemorrhage",
+    "journal": "World Journal of Radiology",
+    "date": "2026-05-28",
+    "authors": [],
+    "pmid": null,
+    "doi": "10.4329/wjr.v18.i5.118969",
+    "url": "https://doi.org/10.4329/wjr.v18.i5.118969",
+    "source": "Crossref",
+    "application_area": "医学影像",
+    "priority_journal": true,
+    "citation_count": 0,
+    "cas_q1_note": "高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 6.9
+  },
+  {
     "title": "Alignment of Policy, Practice, and Patient Safety for Trustworthy AI in Radiology.",
     "journal": "Radiology. Artificial intelligence",
     "date": "2026 May 27",
@@ -103,6 +118,51 @@
     "priority_journal": false,
     "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
     "score": 2.4
+  },
+  {
+    "title": "Artificial Intelligence-Assisted Endoscopic Ultrasound-Guided Ablation of Pancreatic Neuroendocrine Tumors: Toward Precision Diagnosis, Risk Stratification, and Personalized Therapy",
+    "journal": "Cureus",
+    "date": "2026-05-27",
+    "authors": [],
+    "pmid": null,
+    "doi": "10.7759/cureus.109721",
+    "url": "https://doi.org/10.7759/cureus.109721",
+    "source": "Crossref",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "citation_count": 0,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.9
+  },
+  {
+    "title": "Multilayer WS2/Graphene/Black Phosphorus Terahertz Metasurface Biosensor for Label-Free Pregnancy Detection with Machine Learning–Assisted Response Prediction",
+    "journal": "Sensing and Imaging",
+    "date": "2026-05-27",
+    "authors": [],
+    "pmid": null,
+    "doi": "10.1007/s11220-026-00807-6",
+    "url": "https://doi.org/10.1007/s11220-026-00807-6",
+    "source": "Crossref",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "citation_count": 0,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.9
+  },
+  {
+    "title": "Artificial Intelligence Dystocia Algorithm (AIDA) for Risk Stratification of Occiput Posterior Fetal Head Position",
+    "journal": "Journal of Imaging",
+    "date": "2026-05-27",
+    "authors": [],
+    "pmid": null,
+    "doi": "10.3390/jimaging12060230",
+    "url": "https://doi.org/10.3390/jimaging12060230",
+    "source": "Crossref",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "citation_count": 0,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.9
   },
   {
     "title": "Measuring Radiology's Impact: Core Concepts for Tracking Patient-Oriented Outcomes and Delivering High-Value Care-A Perspective by the ACR's Relevance and Impact Committee.",
@@ -402,6 +462,21 @@
     "score": 1.7
   },
   {
+    "title": "Deep learning and radiomics models in patients with advanced non-small cell lung cancer treated with immunotherapy combined with stereotactic radiotherapy",
+    "journal": "Scientific Reports",
+    "date": "2026-05-28",
+    "authors": [],
+    "pmid": null,
+    "doi": "10.1038/s41598-026-53520-5",
+    "url": "https://doi.org/10.1038/s41598-026-53520-5",
+    "source": "Crossref",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "citation_count": 0,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.2
+  },
+  {
     "title": "Application of Sparse Autoencoders to Enhance Mechanistic Interpretability of Large Language Models in Medicine.",
     "journal": "JMIR AI",
     "date": "2026 May 27",
@@ -687,107 +762,6 @@
     "pmid": "42200286",
     "doi": "10.1161/STROKEAHA.126.055253",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42200286/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "Construction and Validation of a Predictive Model for Chronic Obstructive Pulmonary Disease with Pulmonary Hypertension Based on Lasso Regression.",
-    "journal": "International journal of general medicine",
-    "date": "2026",
-    "authors": [
-      "Zhou Q",
-      "Zhu G",
-      "Zhang P",
-      "Qi B"
-    ],
-    "pmid": "42199984",
-    "doi": "10.2147/IJGM.S599529",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42199984/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "i2b2-ML: module to facilitate machine learning in the informatics for integrating biology and the bedside platform.",
-    "journal": "JAMIA open",
-    "date": "2026 Jun",
-    "authors": [
-      "Klann JG",
-      "Mendis MM",
-      "Visweswaran S",
-      "Murphy SN",
-      "Estiri H",
-      "Wagholikar KB"
-    ],
-    "pmid": "42199616",
-    "doi": "10.1093/jamiaopen/ooag047",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42199616/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "Artificial Intelligence Driven Adjusted OCT-Based Classification System for Diabetic Macular Edema (AIDME).",
-    "journal": "Clinical ophthalmology (Auckland, N.Z.)",
-    "date": "2026",
-    "authors": [
-      "Abreu-González R",
-      "Quezada-Peralta G",
-      "Udaondo P",
-      "Gil-Hernández MA",
-      "Donate-López J"
-    ],
-    "pmid": "42199327",
-    "doi": "10.2147/OPTH.S604743",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42199327/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "Transforming surgical decisions: the rise of predictive and personalized digital tools.",
-    "journal": "Expert review of medical devices",
-    "date": "2026 May 27",
-    "authors": [
-      "Eitah HE",
-      "Kamel M",
-      "Alharbi AA",
-      "Almagharbeh WT",
-      "Altayar MA",
-      "El-Shiekh RA"
-    ],
-    "pmid": "42199078",
-    "doi": "10.1080/17434440.2026.2678899",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42199078/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "Comparative machine learning for accurate EEG-based epileptic seizure state classification using sub-band analysis.",
-    "journal": "Journal of medical engineering & technology",
-    "date": "2026 May 27",
-    "authors": [
-      "Omran E",
-      "Nour AA",
-      "Dabbour K",
-      "Elloud M",
-      "Felemban M"
-    ],
-    "pmid": "42199034",
-    "doi": "10.1080/03091902.2026.2674650",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42199034/",
     "source": "PubMed",
     "application_area": "综合医学机器学习",
     "priority_journal": false,
