@@ -1,0 +1,547 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 26428,
+    "forks": 2737,
+    "open_issues": 23,
+    "updated_at": "2026-05-29T01:33:06Z",
+    "pushed_at": "2026-05-28T22:52:15Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 39.44,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "Yuan1z0825/nature-skills",
+    "name": "nature-skills",
+    "url": "https://github.com/Yuan1z0825/nature-skills",
+    "description": "符合nature论文学术表达和科研绘图的Skill",
+    "language": "Python",
+    "stars": 13459,
+    "forks": 836,
+    "open_issues": 1,
+    "updated_at": "2026-05-29T01:42:45Z",
+    "pushed_at": "2026-05-29T01:21:14Z",
+    "topics": [
+      "codex-skills",
+      "nature",
+      "nature-skills"
+    ],
+    "application_area": "医学影像",
+    "score": 29.5,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "ai-boost/awesome-prompts",
+    "name": "awesome-prompts",
+    "url": "https://github.com/ai-boost/awesome-prompts",
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+    "language": "",
+    "stars": 8059,
+    "forks": 749,
+    "open_issues": 24,
+    "updated_at": "2026-05-28T21:36:13Z",
+    "pushed_at": "2026-05-28T20:56:01Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "gpt4",
+      "gpts",
+      "gptstore",
+      "papers",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "application_area": "医学影像",
+    "score": 27.54,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 389,
+    "forks": 49,
+    "open_issues": 27,
+    "updated_at": "2026-05-26T17:34:31Z",
+    "pushed_at": "2026-05-26T17:34:10Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.23,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 528,
+    "forks": 107,
+    "open_issues": 14,
+    "updated_at": "2026-05-28T15:55:31Z",
+    "pushed_at": "2026-05-28T18:41:46Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.34,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "delibae/claude-prism",
+    "name": "claude-prism",
+    "url": "https://github.com/delibae/claude-prism",
+    "description": "An offline-first scientific writing workspace powered by Claude. LaTeX + Python + 100+ scientific skills all running locally.",
+    "language": "TypeScript",
+    "stars": 1515,
+    "forks": 136,
+    "open_issues": 28,
+    "updated_at": "2026-05-28T17:59:53Z",
+    "pushed_at": "2026-05-28T17:58:21Z",
+    "topics": [
+      "academic",
+      "ai",
+      "claude",
+      "claude-code",
+      "desktop-app",
+      "editor",
+      "latex",
+      "llm",
+      "offline",
+      "open-source",
+      "privacy",
+      "python",
+      "research",
+      "rust",
+      "scientific-writing",
+      "tauri",
+      "tectonic",
+      "zotero"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.13,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "genomics",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "ai-boost/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai-boost/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1603,
+    "forks": 171,
+    "open_issues": 37,
+    "updated_at": "2026-05-29T00:27:35Z",
+    "pushed_at": "2026-05-29T00:27:31Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 25.77,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 437,
+    "forks": 98,
+    "open_issues": 556,
+    "updated_at": "2026-05-28T19:13:19Z",
+    "pushed_at": "2026-05-28T19:12:58Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 25.16,
+    "evidence_terms": {
+      "ml": [
+        "neural network"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "patient",
+        "ehr",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1207,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-05-28T14:19:41Z",
+    "pushed_at": "2026-05-29T01:45:15Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.75,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 442,
+    "forks": 50,
+    "open_issues": 0,
+    "updated_at": "2026-05-28T20:27:32Z",
+    "pushed_at": "2026-05-28T11:14:33Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.75,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "GPTomics/bioSkills",
+    "name": "bioSkills",
+    "url": "https://github.com/GPTomics/bioSkills",
+    "description": "a set of SKILLS.md for doing bioinformatics with agents like claude code",
+    "language": "Python",
+    "stars": 804,
+    "forks": 145,
+    "open_issues": 0,
+    "updated_at": "2026-05-29T01:09:13Z",
+    "pushed_at": "2026-05-29T01:09:23Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 23.27,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "clinical",
+        "genomics",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "mdozmorov/HiC_tools",
+    "name": "HiC_tools",
+    "url": "https://github.com/mdozmorov/HiC_tools",
+    "description": "A collection of tools for Hi-C data analysis",
+    "language": "Python",
+    "stars": 643,
+    "forks": 135,
+    "open_issues": 1,
+    "updated_at": "2026-05-28T18:49:09Z",
+    "pushed_at": "2026-05-28T18:49:04Z",
+    "topics": [
+      "3d-genome",
+      "chromatin",
+      "hi-c"
+    ],
+    "application_area": "医学影像",
+    "score": 22.84,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "imaging",
+        "genomics",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "BioTender-max/awesome-bio-agent-skills",
+    "name": "awesome-bio-agent-skills",
+    "url": "https://github.com/BioTender-max/awesome-bio-agent-skills",
+    "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
+    "language": "Python",
+    "stars": 20,
+    "forks": 7,
+    "open_issues": 1,
+    "updated_at": "2026-05-28T17:14:58Z",
+    "pushed_at": "2026-05-26T20:11:00Z",
+    "topics": [
+      "ai-agent",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "biomedical",
+      "genomics",
+      "llm",
+      "protein-design",
+      "single-cell",
+      "skills"
+    ],
+    "application_area": "病理与组学",
+    "score": 15.04
+  },
+  {
+    "full_name": "yhzhu99/ehr-llm-benchmark",
+    "name": "ehr-llm-benchmark",
+    "url": "https://github.com/yhzhu99/ehr-llm-benchmark",
+    "description": "[npj Digital Medicine 2026] ClinicRealm: Re-evaluating Large Language Models with Conventional Machine Learning for Non-Generative Clinical Prediction Tasks",
+    "language": "Python",
+    "stars": 13,
+    "forks": 2,
+    "open_issues": 0,
+    "updated_at": "2026-05-25T09:14:25Z",
+    "pushed_at": "2026-05-25T09:14:21Z",
+    "topics": [
+      "benchmark",
+      "ehr",
+      "llm"
+    ],
+    "application_area": "临床预测",
+    "score": 13.27
+  },
+  {
+    "full_name": "gopaljilab/Clinical-Insight-Engine",
+    "name": "Clinical-Insight-Engine",
+    "url": "https://github.com/gopaljilab/Clinical-Insight-Engine",
+    "description": "Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines a Python-based interpretable machine learning model with a modern React frontend, presenting results differently for clinicians and patients.",
+    "language": "TypeScript",
+    "stars": 9,
+    "forks": 24,
+    "open_issues": 35,
+    "updated_at": "2026-05-28T21:59:02Z",
+    "pushed_at": "2026-05-28T18:30:36Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 12.9
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 7,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-05-28T23:39:38Z",
+    "pushed_at": "2026-05-28T23:39:35Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.26
+  },
+  {
+    "full_name": "GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "name": "Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "url": "https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "description": "A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a full-stack web application for interactive graph exploration.",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-05-28T16:13:17Z",
+    "pushed_at": "2026-05-28T16:13:12Z",
+    "topics": [
+      "fastapi",
+      "graph-database",
+      "medical-informatics",
+      "nlp",
+      "react",
+      "time-series"
+    ],
+    "application_area": "临床预测",
+    "score": 10.98
+  },
+  {
+    "full_name": "HossamBalaha/BE-645-Artificial-Intelligence-and-Radiomics",
+    "name": "BE-645-Artificial-Intelligence-and-Radiomics",
+    "url": "https://github.com/HossamBalaha/BE-645-Artificial-Intelligence-and-Radiomics",
+    "description": "BE 645: Artificial Intelligence (AI) and Radiomics (Spring 2026)",
+    "language": "Python",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-05-22T19:48:32Z",
+    "pushed_at": "2026-05-22T19:48:27Z",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "machine-learning",
+      "medical",
+      "medical-image-analysis",
+      "radiomics"
+    ],
+    "application_area": "医学影像",
+    "score": 8.74
+  }
+]
