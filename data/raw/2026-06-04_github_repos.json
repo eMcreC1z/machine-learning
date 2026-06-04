@@ -1,0 +1,580 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 27120,
+    "forks": 2801,
+    "open_issues": 26,
+    "updated_at": "2026-06-04T00:39:20Z",
+    "pushed_at": "2026-06-01T12:04:35Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 39.5,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "mathworks/MATLAB-Simulink-Challenge-Project-Hub",
+    "name": "MATLAB-Simulink-Challenge-Project-Hub",
+    "url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub",
+    "description": "This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.",
+    "language": "HTML",
+    "stars": 2047,
+    "forks": 390,
+    "open_issues": 7,
+    "updated_at": "2026-06-03T21:39:02Z",
+    "pushed_at": "2026-06-03T21:38:58Z",
+    "topics": [
+      "ai",
+      "autonomous",
+      "capstone",
+      "capstone-project",
+      "computer-vision",
+      "deep-learning",
+      "drones",
+      "energy",
+      "final-project",
+      "final-year-project",
+      "master-thesis",
+      "matlab",
+      "project-ideas",
+      "robotics",
+      "senior-design",
+      "senior-project",
+      "simulink",
+      "student-project",
+      "students",
+      "thesis"
+    ],
+    "application_area": "医学影像",
+    "score": 29.53,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "diagnosis",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4632,
+    "forks": 711,
+    "open_issues": 0,
+    "updated_at": "2026-06-03T15:30:17Z",
+    "pushed_at": "2026-05-31T15:22:55Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.34,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 531,
+    "forks": 107,
+    "open_issues": 14,
+    "updated_at": "2026-06-03T17:44:32Z",
+    "pushed_at": "2026-06-03T15:04:41Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.35,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "ANTsX/ANTs",
+    "name": "ANTs",
+    "url": "https://github.com/ANTsX/ANTs",
+    "description": "Advanced Normalization Tools (ANTs)",
+    "language": "C++",
+    "stars": 1468,
+    "forks": 405,
+    "open_issues": 92,
+    "updated_at": "2026-06-03T21:23:10Z",
+    "pushed_at": "2026-06-04T00:28:57Z",
+    "topics": [
+      "image-registration",
+      "image-segmentation",
+      "medical-image-processing",
+      "neuroimaging"
+    ],
+    "application_area": "医学影像",
+    "score": 25.78,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "uhub/awesome-python",
+    "name": "awesome-python",
+    "url": "https://github.com/uhub/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries and software.",
+    "language": "",
+    "stars": 1184,
+    "forks": 190,
+    "open_issues": 19,
+    "updated_at": "2026-06-03T00:07:12Z",
+    "pushed_at": "2026-06-03T00:07:07Z",
+    "topics": [],
+    "application_area": "临床文本与大模型",
+    "score": 25.37,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1206,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-06-03T06:51:26Z",
+    "pushed_at": "2026-06-03T06:51:23Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.75,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 457,
+    "forks": 51,
+    "open_issues": 5,
+    "updated_at": "2026-06-03T22:04:45Z",
+    "pushed_at": "2026-06-03T19:43:11Z",
+    "topics": [],
+    "application_area": "病理与组学",
+    "score": 24.22,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 444,
+    "forks": 50,
+    "open_issues": 0,
+    "updated_at": "2026-05-31T12:51:45Z",
+    "pushed_at": "2026-05-30T19:34:26Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.33,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "numfocus/gsoc",
+    "name": "gsoc",
+    "url": "https://github.com/numfocus/gsoc",
+    "description": "NumFOCUS Google Summer of Code Materials",
+    "language": "TeX",
+    "stars": 619,
+    "forks": 460,
+    "open_issues": 1,
+    "updated_at": "2026-06-03T18:44:15Z",
+    "pushed_at": "2026-06-03T18:44:10Z",
+    "topics": [
+      "gsoc",
+      "gsoc-2023"
+    ],
+    "application_area": "医学影像",
+    "score": 22.77,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "imaging",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "flyingdoog/awesome-graph-explainability-papers",
+    "name": "awesome-graph-explainability-papers",
+    "url": "https://github.com/flyingdoog/awesome-graph-explainability-papers",
+    "description": "Papers about explainability of GNNs",
+    "language": "",
+    "stars": 804,
+    "forks": 76,
+    "open_issues": 1,
+    "updated_at": "2026-06-03T17:34:39Z",
+    "pushed_at": "2026-06-03T17:34:33Z",
+    "topics": [
+      "deep-learning",
+      "explainability",
+      "explainable-ai",
+      "graph-mining",
+      "graph-neural-networks",
+      "machine-learning",
+      "xai"
+    ],
+    "application_area": "医学影像",
+    "score": 22.25,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "neural network"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "DIAGNijmegen/rse-grand-challenge",
+    "name": "rse-grand-challenge",
+    "url": "https://github.com/DIAGNijmegen/rse-grand-challenge",
+    "description": "A platform for end-to-end development of machine learning solutions in biomedical imaging",
+    "language": "Python",
+    "stars": 190,
+    "forks": 58,
+    "open_issues": 50,
+    "updated_at": "2026-06-03T18:59:24Z",
+    "pushed_at": "2026-06-03T18:59:22Z",
+    "topics": [
+      "ai",
+      "challenges",
+      "computer-vision",
+      "django",
+      "django-rest-framework",
+      "docker",
+      "machine-learning",
+      "medical-imaging",
+      "python",
+      "reproducible-research"
+    ],
+    "application_area": "医学影像",
+    "score": 18.58
+  },
+  {
+    "full_name": "ANTsX/ANTsPyNet",
+    "name": "ANTsPyNet",
+    "url": "https://github.com/ANTsX/ANTsPyNet",
+    "description": "Pre-trained models and utilities for deep learning on medical images in Python (Keras/TensorFlow)",
+    "language": "Python",
+    "stars": 254,
+    "forks": 34,
+    "open_issues": 9,
+    "updated_at": "2026-06-03T15:35:58Z",
+    "pushed_at": "2026-06-03T15:29:17Z",
+    "topics": [
+      "convolutional-neural-networks",
+      "deep-learning",
+      "python"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 17.94
+  },
+  {
+    "full_name": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "name": "AlterLab-Academic-Skills",
+    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills",
+    "description": "🧬 180 Claude AI skills for faculty & academic researchers — installable as a Claude Code plugin, organized into 13 research domains. Turn Claude into a domain-specific research expert.",
+    "language": "Python",
+    "stars": 22,
+    "forks": 4,
+    "open_issues": 2,
+    "updated_at": "2026-06-03T14:39:43Z",
+    "pushed_at": "2026-06-03T14:35:39Z",
+    "topics": [
+      "academic-research",
+      "agent-skills",
+      "ai-skills",
+      "anthropic",
+      "bioinformatics",
+      "cheminformatics",
+      "claude-ai",
+      "claude-code",
+      "claude-plugin",
+      "claude-projects",
+      "claude-skills",
+      "clinical-research",
+      "data-science",
+      "llm",
+      "prompt-engineering",
+      "research-tools",
+      "scientific-computing",
+      "scientific-writing",
+      "skills"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 13.3
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 7,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-06-03T23:00:26Z",
+    "pushed_at": "2026-06-03T23:00:22Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.26
+  },
+  {
+    "full_name": "GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "name": "Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "url": "https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "description": "A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a full-stack web application for interactive graph exploration.",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-03T02:14:52Z",
+    "pushed_at": "2026-06-03T02:14:49Z",
+    "topics": [
+      "fastapi",
+      "graph-database",
+      "medical-informatics",
+      "nlp",
+      "react",
+      "time-series"
+    ],
+    "application_area": "临床预测",
+    "score": 10.98
+  },
+  {
+    "full_name": "HossamBalaha/BE-645-Artificial-Intelligence-and-Radiomics",
+    "name": "BE-645-Artificial-Intelligence-and-Radiomics",
+    "url": "https://github.com/HossamBalaha/BE-645-Artificial-Intelligence-and-Radiomics",
+    "description": "BE 645: Artificial Intelligence (AI) and Radiomics (Spring 2026)",
+    "language": "Python",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-02T14:49:28Z",
+    "pushed_at": "2026-06-02T14:40:45Z",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "machine-learning",
+      "medical",
+      "medical-image-analysis",
+      "radiomics"
+    ],
+    "application_area": "医学影像",
+    "score": 9.45
+  },
+  {
+    "full_name": "rbr7/MedClawMini",
+    "name": "MedClawMini",
+    "url": "https://github.com/rbr7/MedClawMini",
+    "description": "A focused, production-minded library of 197 clinical-AI and healthcare data-science skills for the OpenClaw agent platform featuring data quality, clinical NLP, big-data ML, explainable AI, drug safety, and regulatory.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-02T18:11:29Z",
+    "pushed_at": "2026-06-02T18:08:11Z",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "entity-resolution",
+      "health-tech",
+      "healthcare-data-science",
+      "medical-ai",
+      "mlops",
+      "openclaw",
+      "openclaw-agent",
+      "openclaw-skills",
+      "regulatory"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 7.46
+  },
+  {
+    "full_name": "masirahshaikh3/medbridge-ai-healthcare-platform",
+    "name": "medbridge-ai-healthcare-platform",
+    "url": "https://github.com/masirahshaikh3/medbridge-ai-healthcare-platform",
+    "description": "AI-powered healthcare platform combining skin disease detection, retinal disease detection, eye disease detection, symptom-based disease prediction, and intelligent medical assistance using Deep Learning and Machine Learning.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-03T17:03:13Z",
+    "pushed_at": "2026-06-03T17:03:09Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 6.8
+  }
+]
