@@ -1,0 +1,81 @@
+[
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
+    "ok": false,
+    "status": null,
+    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
+    "seconds": 0.28,
+    "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-05-26"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
+    "ok": false,
+    "status": null,
+    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
+    "seconds": 0.0,
+    "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-05-26"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22radiomics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
+    "ok": false,
+    "status": null,
+    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
+    "seconds": 0.0,
+    "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-05-26"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
+    "ok": false,
+    "status": null,
+    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
+    "seconds": 0.0,
+    "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-05-26"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
+    "ok": false,
+    "status": null,
+    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
+    "seconds": 0.0,
+    "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-05-26"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
+    "ok": false,
+    "status": null,
+    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
+    "seconds": 0.0,
+    "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-05-26"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
+    "ok": false,
+    "status": null,
+    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
+    "seconds": 0.0,
+    "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-05-26"
+  },
+  {
+    "source": "pubmed_esearch",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28%28machine+learning%5BTitle%2FAbstract%5D%29+OR+%28deep+learning%5BTitle%2FAbstract%5D%29+OR+%28artificial+intelligence%5BTitle%2FAbstract%5D%29+OR+%28foundation+model%5BTitle%2FAbstract%5D%29+OR+%28large+language+model%5BTitle%2FAbstract%5D%29%29+AND+%28%28medicine%5BTitle%2FAbstract%5D%29+OR+%28clinical%5BTitle%2FAbstract%5D%29+OR+%28diagnosis%5BTitle%2FAbstract%5D%29+OR+%28prognosis%5BTitle%2FAbstract%5D%29+OR+%28medical+imaging%5BTitle%2FAbstract%5D%29+OR+%28radiology%5BTitle%2FAbstract%5D%29+OR+%28pathology%5BTitle%2FAbstract%5D%29+OR+%28genomics%5BTitle%2FAbstract%5D%29+OR+%28multi-omics%5BTitle%2FAbstract%5D%29+OR+%28electronic+health+records%5BTitle%2FAbstract%5D%29%29&retmode=json&retmax=40&sort=pub%2Bdate&datetype=pdat&mindate=2026%2F05%2F26&maxdate=2026%2F06%2F05",
+    "ok": false,
+    "status": null,
+    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
+    "seconds": 0.0
+  },
+  {
+    "source": "crossref",
+    "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-05-26%2Cuntil-pub-date%3A2026-06-05%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
+    "ok": false,
+    "status": null,
+    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
+    "seconds": 0.0
+  }
+]
