@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.62,
+    "seconds": 1.71,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-05-26"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.54,
+    "seconds": 1.75,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-05-26"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.86,
+    "seconds": 1.55,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-05-26"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.59,
+    "seconds": 1.45,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-05-26"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.38,
+    "seconds": 1.47,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-05-26"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.43,
+    "seconds": 1.5,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-05-26"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.51,
+    "seconds": 1.73,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-05-26"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.43,
+    "seconds": 0.91,
     "repo": "K-Dense-AI/scientific-agent-skills"
   },
   {
@@ -77,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.67,
+    "seconds": 0.78,
     "repo": "PyO3/pyo3"
   },
   {
@@ -86,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.12,
+    "seconds": 0.8,
     "repo": "yzhao062/pyod"
   },
   {
@@ -95,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.55,
+    "seconds": 1.15,
     "repo": "ai-boost/awesome-prompts"
   },
   {
@@ -104,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.37,
+    "seconds": 0.95,
     "repo": "r0f1/datascience"
   },
   {
@@ -113,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.46,
+    "seconds": 0.94,
     "repo": "mathworks/MATLAB-Simulink-Challenge-Project-Hub"
   },
   {
@@ -122,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.29,
+    "seconds": 0.98,
     "repo": "ai-boost/awesome-ai-for-science"
   },
   {
@@ -131,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 6.2,
+    "seconds": 1.28,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -140,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.86,
+    "seconds": 1.05,
     "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
   },
   {
@@ -149,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.89,
+    "seconds": 0.84,
     "repo": "NVIDIA/skills"
   },
   {
@@ -158,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.99,
+    "seconds": 0.92,
     "repo": "richard-peng-xia/awesome-multimodal-in-medical-imaging"
   },
   {
@@ -167,16 +167,16 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.85,
+    "seconds": 0.98,
     "repo": "GPTomics/bioSkills"
   },
   {
     "source": "github_readme",
     "url": "https://api.github.com/repos/superiorlu/AITreasureBox/readme",
-    "ok": false,
-    "status": null,
-    "error": "IncompleteRead(425984 bytes read)",
-    "seconds": 10.47,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.29,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -185,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.7,
+    "seconds": 0.95,
     "repo": "mdozmorov/MachineLearning_notes"
   },
   {
@@ -194,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.55,
+    "seconds": 0.68,
     "repo": "TissueImageAnalytics/tiatoolbox"
   },
   {
@@ -203,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.59,
+    "seconds": 0.97,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -212,7 +212,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.31,
+    "seconds": 1.43,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -221,7 +221,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.63,
+    "seconds": 0.73,
     "repo": "RosettaCommons/atomworks"
   },
   {
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.43
+    "seconds": 3.25
   },
   {
     "source": "pubmed_esummary",
@@ -238,14 +238,14 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.82
+    "seconds": 2.61
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-05-26%2Cuntil-pub-date%3A2026-06-05%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
-    "ok": false,
-    "status": null,
-    "error": "URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))",
-    "seconds": 15.03
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 104.32
   }
 ]

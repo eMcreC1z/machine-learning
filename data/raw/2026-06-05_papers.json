@@ -164,6 +164,21 @@
     "score": 2.4
   },
   {
+    "title": "Optimizing acquisition time and injected dose in 18F-FDG PET/CT imaging using deep learning: enhancing image protocol efficiency and safety",
+    "journal": "BMC Medical Informatics and Decision Making",
+    "date": "2026-06-05",
+    "authors": [],
+    "pmid": null,
+    "doi": "10.1186/s12911-026-03612-z",
+    "url": "https://doi.org/10.1186/s12911-026-03612-z",
+    "source": "Crossref",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "citation_count": 0,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.9
+  },
+  {
     "title": "DEHP-induced male reproductive toxicity: Evidence from population studies, animal experiments, and multi-omics profiling.",
     "journal": "Ecotoxicology and environmental safety",
     "date": "2026 Jun 4",
@@ -763,27 +778,6 @@
     "pmid": "42238842",
     "doi": "10.1016/j.scog.2026.100443",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42238842/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "Lactate-Modified Prognostic Nutritional Index (LPNI) and Its Association with ICU Mortality in Patients with Sepsis: A Retrospective Cohort Study.",
-    "journal": "Journal of inflammation research",
-    "date": "2026",
-    "authors": [
-      "Li X",
-      "Qian S",
-      "Chen H",
-      "Yuan X",
-      "Xia X",
-      "Gao X"
-    ],
-    "pmid": "42238772",
-    "doi": "10.2147/JIR.S604786",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42238772/",
     "source": "PubMed",
     "application_area": "综合医学机器学习",
     "priority_journal": false,

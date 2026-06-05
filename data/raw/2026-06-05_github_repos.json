@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 27263,
+    "stars": 27270,
     "forks": 2817,
     "open_issues": 26,
-    "updated_at": "2026-06-05T02:09:36Z",
+    "updated_at": "2026-06-05T02:59:56Z",
     "pushed_at": "2026-06-04T18:56:51Z",
     "topics": [
       "agent-skills",
@@ -88,10 +88,10 @@
     "url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub",
     "description": "This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.",
     "language": "HTML",
-    "stars": 2048,
+    "stars": 2049,
     "forks": 390,
     "open_issues": 8,
-    "updated_at": "2026-06-04T21:32:25Z",
+    "updated_at": "2026-06-05T03:03:18Z",
     "pushed_at": "2026-06-04T21:32:22Z",
     "topics": [
       "ai",
@@ -116,7 +116,7 @@
       "thesis"
     ],
     "application_area": "医学影像",
-    "score": 29.53,
+    "score": 29.54,
     "evidence_terms": {
       "ml": [
         "machine learning",
@@ -415,10 +415,10 @@
     "url": "https://github.com/GPTomics/bioSkills",
     "description": "a set of SKILLS.md for doing bioinformatics with agents like claude code",
     "language": "Python",
-    "stars": 850,
+    "stars": 851,
     "forks": 153,
     "open_issues": 0,
-    "updated_at": "2026-06-05T01:47:56Z",
+    "updated_at": "2026-06-05T02:39:40Z",
     "pushed_at": "2026-06-04T22:57:08Z",
     "topics": [],
     "application_area": "医学影像",
@@ -471,8 +471,8 @@
     "stars": 6,
     "forks": 0,
     "open_issues": 0,
-    "updated_at": "2026-06-04T15:48:34Z",
-    "pushed_at": "2026-06-04T15:47:48Z",
+    "updated_at": "2026-06-05T03:05:55Z",
+    "pushed_at": "2026-06-05T03:05:52Z",
     "topics": [
       "fastapi",
       "graph-database",
@@ -505,20 +505,5 @@
     ],
     "application_area": "医学影像",
     "score": 9.31
-  },
-  {
-    "full_name": "ernest-edem/behaviour-ai",
-    "name": "behaviour-ai",
-    "url": "https://github.com/ernest-edem/behaviour-ai",
-    "description": "BehaviorLens AI is an intelligent healthcare platform that uses Artificial Intelligence (AI) and Explainable AI (XAI) to assess disease risks and behavioral health vulnerabilities using multidimensional lifestyle, psychological, physiological, and social indicators.",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "updated_at": "2026-06-04T19:26:53Z",
-    "pushed_at": "2026-06-04T19:26:49Z",
-    "topics": [],
-    "application_area": "综合医学机器学习",
-    "score": 6.0
   }
 ]
