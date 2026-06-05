@@ -2,80 +2,250 @@
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
-    "seconds": 0.28,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 3.62,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-05-26"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
-    "seconds": 0.0,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.54,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-05-26"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22radiomics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
-    "seconds": 0.0,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.86,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-05-26"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
-    "seconds": 0.0,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 3.59,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-05-26"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
-    "seconds": 0.0,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.38,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-05-26"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
-    "seconds": 0.0,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.43,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-05-26"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-05-26&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.51,
+    "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-05-26"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/K-Dense-AI/scientific-agent-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 3.43,
+    "repo": "K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/PyO3/pyo3/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.67,
+    "repo": "PyO3/pyo3"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/yzhao062/pyod/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.12,
+    "repo": "yzhao062/pyod"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.55,
+    "repo": "ai-boost/awesome-prompts"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/r0f1/datascience/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.37,
+    "repo": "r0f1/datascience"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/mathworks/MATLAB-Simulink-Challenge-Project-Hub/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 3.46,
+    "repo": "mathworks/MATLAB-Simulink-Challenge-Project-Hub"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ai-boost/awesome-ai-for-science/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 3.29,
+    "repo": "ai-boost/awesome-ai-for-science"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/liliu-avril/Awesome-Segment-Anything/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 6.2,
+    "repo": "liliu-avril/Awesome-Segment-Anything"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 3.86,
+    "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/NVIDIA/skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.89,
+    "repo": "NVIDIA/skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/richard-peng-xia/awesome-multimodal-in-medical-imaging/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.99,
+    "repo": "richard-peng-xia/awesome-multimodal-in-medical-imaging"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/GPTomics/bioSkills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.85,
+    "repo": "GPTomics/bioSkills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/superiorlu/AITreasureBox/readme",
     "ok": false,
     "status": null,
-    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
-    "seconds": 0.0,
-    "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-05-26"
+    "error": "IncompleteRead(425984 bytes read)",
+    "seconds": 10.47,
+    "repo": "superiorlu/AITreasureBox"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/mdozmorov/MachineLearning_notes/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.7,
+    "repo": "mdozmorov/MachineLearning_notes"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/TissueImageAnalytics/tiatoolbox/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.55,
+    "repo": "TissueImageAnalytics/tiatoolbox"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/OmicsML/awesome-foundation-model-single-cell-papers/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.59,
+    "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zezhishao/DailyArXiv/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.31,
+    "repo": "zezhishao/DailyArXiv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/RosettaCommons/atomworks/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.63,
+    "repo": "RosettaCommons/atomworks"
   },
   {
     "source": "pubmed_esearch",
     "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28%28machine+learning%5BTitle%2FAbstract%5D%29+OR+%28deep+learning%5BTitle%2FAbstract%5D%29+OR+%28artificial+intelligence%5BTitle%2FAbstract%5D%29+OR+%28foundation+model%5BTitle%2FAbstract%5D%29+OR+%28large+language+model%5BTitle%2FAbstract%5D%29%29+AND+%28%28medicine%5BTitle%2FAbstract%5D%29+OR+%28clinical%5BTitle%2FAbstract%5D%29+OR+%28diagnosis%5BTitle%2FAbstract%5D%29+OR+%28prognosis%5BTitle%2FAbstract%5D%29+OR+%28medical+imaging%5BTitle%2FAbstract%5D%29+OR+%28radiology%5BTitle%2FAbstract%5D%29+OR+%28pathology%5BTitle%2FAbstract%5D%29+OR+%28genomics%5BTitle%2FAbstract%5D%29+OR+%28multi-omics%5BTitle%2FAbstract%5D%29+OR+%28electronic+health+records%5BTitle%2FAbstract%5D%29%29&retmode=json&retmax=40&sort=pub%2Bdate&datetype=pdat&mindate=2026%2F05%2F26&maxdate=2026%2F06%2F05",
-    "ok": false,
-    "status": null,
-    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
-    "seconds": 0.0
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.43
+  },
+  {
+    "source": "pubmed_esummary",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42241798%2C42241778%2C42241738%2C42241703%2C42241702%2C42241701%2C42241692%2C42241685%2C42241684%2C42241447%2C42241444%2C42241437%2C42241388%2C42241369%2C42241338%2C42241217%2C42241216%2C42240998%2C42240941%2C42240937%2C42240917%2C42240903%2C42240861%2C42240797%2C42240788%2C42240757%2C42240739%2C42240737%2C42240684%2C42240646%2C42240645%2C42240644%2C42240534%2C42240460%2C42240416%2C42240329%2C42240230%2C42240027%2C42238842%2C42238772",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.82
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-05-26%2Cuntil-pub-date%3A2026-06-05%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
     "ok": false,
     "status": null,
-    "error": "URLError(gaierror(11001, 'getaddrinfo failed'))",
-    "seconds": 0.0
+    "error": "URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))",
+    "seconds": 15.03
   }
 ]
