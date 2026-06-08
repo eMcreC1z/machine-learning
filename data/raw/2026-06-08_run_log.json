@@ -2,19 +2,19 @@
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-29&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(TimeoutError('timed out'))",
-    "seconds": 15.09,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.66,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-05-29"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-05-29&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(TimeoutError('timed out'))",
-    "seconds": 27.05,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.45,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-05-29"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 13.43,
+    "seconds": 1.43,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-05-29"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.33,
+    "seconds": 1.45,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-05-29"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.39,
+    "seconds": 1.31,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-05-29"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.47,
+    "seconds": 1.32,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-05-29"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.52,
+    "seconds": 1.46,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-05-29"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 8.0,
+    "seconds": 1.24,
     "repo": "rust-unofficial/awesome-rust"
   },
   {
@@ -82,11 +82,20 @@
   },
   {
     "source": "github_readme",
+    "url": "https://api.github.com/repos/Project-MONAI/MONAI/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.64,
+    "repo": "Project-MONAI/MONAI"
+  },
+  {
+    "source": "github_readme",
     "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.04,
+    "seconds": 1.09,
     "repo": "ai-boost/awesome-prompts"
   },
   {
@@ -95,8 +104,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.96,
+    "seconds": 1.01,
     "repo": "r0f1/datascience"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/alvinreal/awesome-opensource-ai/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.03,
+    "repo": "alvinreal/awesome-opensource-ai"
   },
   {
     "source": "github_readme",
@@ -104,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.95,
+    "seconds": 0.98,
     "repo": "ai-boost/awesome-ai-for-science"
   },
   {
@@ -113,8 +131,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.11,
+    "seconds": 1.23,
     "repo": "liliu-avril/Awesome-Segment-Anything"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.03,
+    "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
   },
   {
     "source": "github_readme",
@@ -122,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.1,
+    "seconds": 1.15,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -131,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.05,
+    "seconds": 1.01,
     "repo": "trackawesomelist/trackawesomelist"
   },
   {
@@ -140,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.83,
+    "seconds": 0.86,
     "repo": "ozekik/awesome-ontology"
   },
   {
@@ -149,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.03,
+    "seconds": 1.02,
     "repo": "eudk/awesome-ai-tools"
   },
   {
@@ -158,8 +185,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.86,
+    "seconds": 0.83,
     "repo": "withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/OmicsML/awesome-foundation-model-single-cell-papers/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.87,
+    "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
     "source": "github_readme",
@@ -167,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.06,
+    "seconds": 1.14,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -176,7 +212,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.64,
+    "seconds": 0.63,
     "repo": "Jianqiuer/Awesome6DPoseEstimation"
   },
   {
@@ -185,44 +221,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.96,
+    "seconds": 0.97,
     "repo": "hongbo-miao/hongbomiao.com"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/kaapana/kaapana/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.75,
-    "repo": "kaapana/kaapana"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/andrew/ultimate-awesome/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.61,
-    "repo": "andrew/ultimate-awesome"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/gopala-kr/summary/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.07,
-    "repo": "gopala-kr/summary"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/KentoNishi/awesome-all-you-need-papers/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.02,
-    "repo": "KentoNishi/awesome-all-you-need-papers"
   },
   {
     "source": "pubmed_esearch",
@@ -230,15 +230,15 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.11
+    "seconds": 0.92
   },
   {
     "source": "pubmed_esummary",
     "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42251787%2C42251750%2C42251739%2C42251728%2C42251631%2C42251622%2C42251621%2C42251454%2C42251412%2C42251380%2C42251377%2C42251334%2C42251301%2C42251269%2C42251166%2C42251160%2C42251153%2C42251145%2C42251139%2C42251135%2C42251100%2C42251092%2C42251050%2C42251044%2C42250964%2C42250952%2C42250883%2C42250865%2C42250863%2C42250854%2C42250835%2C42250724%2C42250691%2C42250604%2C42250488%2C42250470%2C42250455%2C42250450%2C42250408%2C42250371",
-    "ok": false,
-    "status": null,
-    "error": "URLError(TimeoutError('timed out'))",
-    "seconds": 26.07
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.47
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 81.12
+    "seconds": 90.37
   }
 ]

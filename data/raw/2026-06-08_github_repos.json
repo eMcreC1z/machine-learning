@@ -8,7 +8,7 @@
     "stars": 27496,
     "forks": 2835,
     "open_issues": 26,
-    "updated_at": "2026-06-08T01:40:59Z",
+    "updated_at": "2026-06-08T01:42:42Z",
     "pushed_at": "2026-06-07T23:47:37Z",
     "topics": [
       "agent-skills",
@@ -43,6 +43,75 @@
         "radiology",
         "imaging",
         "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1039,
+    "forks": 111,
+    "open_issues": 4,
+    "updated_at": "2026-06-06T19:59:57Z",
+    "pushed_at": "2026-06-04T22:56:48Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 35.2,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8250,
+    "forks": 1515,
+    "open_issues": 479,
+    "updated_at": "2026-06-07T21:17:05Z",
+    "pushed_at": "2026-06-07T21:16:58Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.64,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
       ]
     }
   },
@@ -183,37 +252,28 @@
     }
   },
   {
-    "full_name": "kaapana/kaapana",
-    "name": "kaapana",
-    "url": "https://github.com/kaapana/kaapana",
-    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
-    "language": "Python",
-    "stars": 262,
-    "forks": 65,
-    "open_issues": 7,
-    "updated_at": "2026-06-03T11:02:32Z",
-    "pushed_at": "2026-06-07T18:27:15Z",
-    "topics": [
-      "ai",
-      "cloud-computing",
-      "imaging",
-      "kubernetes",
-      "medical-image-processing",
-      "medical-imaging",
-      "platform"
-    ],
-    "application_area": "医学影像",
-    "score": 23.84,
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 460,
+    "forks": 52,
+    "open_issues": 5,
+    "updated_at": "2026-06-05T11:03:39Z",
+    "pushed_at": "2026-06-03T19:43:11Z",
+    "topics": [],
+    "application_area": "病理与组学",
+    "score": 23.96,
     "evidence_terms": {
       "ml": [
-        "machine learning",
-        "deep learning",
-        "radiomics"
+        "foundation model",
+        "llm"
       ],
       "medical": [
-        "medical",
-        "clinical",
-        "imaging",
+        "pathology",
+        "genomics",
+        "omics",
         "cancer"
       ]
     }
@@ -334,6 +394,58 @@
     ],
     "application_area": "临床文本与大模型",
     "score": 13.37
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 7,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-06-08T01:02:59Z",
+    "pushed_at": "2026-06-08T01:02:55Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.26
+  },
+  {
+    "full_name": "GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "name": "Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "url": "https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "description": "A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a full-stack web application for interactive graph exploration.",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-06T16:25:38Z",
+    "pushed_at": "2026-06-06T16:25:34Z",
+    "topics": [
+      "fastapi",
+      "graph-database",
+      "medical-informatics",
+      "nlp",
+      "react",
+      "time-series"
+    ],
+    "application_area": "临床预测",
+    "score": 10.84
   },
   {
     "full_name": "HossamBalaha/BE-645-Artificial-Intelligence-and-Radiomics",
