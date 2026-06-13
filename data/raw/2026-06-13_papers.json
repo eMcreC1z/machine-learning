@@ -21,6 +21,21 @@
     "score": 6.7
   },
   {
+    "title": "ActiTect: a generalizable machine learning pipeline for REM sleep behavior disorder screening through standardized actigraphy",
+    "journal": "npj Digital Medicine",
+    "date": "2026-06-13",
+    "authors": [],
+    "pmid": null,
+    "doi": "10.1038/s41746-026-02738-8",
+    "url": "https://doi.org/10.1038/s41746-026-02738-8",
+    "source": "Crossref",
+    "application_area": "综合医学机器学习",
+    "priority_journal": true,
+    "citation_count": 0,
+    "cas_q1_note": "高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 5.5
+  },
+  {
     "title": "A Large Language Model for Extracting Post-marketing Adverse Drug Events from Clinical Notes in the Electronic Health Record.",
     "journal": "Drug safety",
     "date": "2026 Jun 12",
@@ -77,6 +92,21 @@
     "priority_journal": false,
     "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
     "score": 3.1
+  },
+  {
+    "title": "Spatial-temporal recurrence patterns of grade 4 glioma using deep learning integrated multiparametric MRI and molecular pathology",
+    "journal": "npj Precision Oncology",
+    "date": "2026-06-13",
+    "authors": [],
+    "pmid": null,
+    "doi": "10.1038/s41698-026-01557-0",
+    "url": "https://doi.org/10.1038/s41698-026-01557-0",
+    "source": "Crossref",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "citation_count": 0,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 2.6
   },
   {
     "title": "Fully automated three-dimensional deep learning-based magnetic resonance imaging segmentation of brain cavities in epilepsy surgery.",
@@ -746,48 +776,6 @@
     "pmid": "42282449",
     "doi": "10.1007/s13755-026-00464-9",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42282449/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "A deep learning model based on combining surface and esophageal ECG data for diagnosis of paroxysmal supraventricular tachycardia.",
-    "journal": "Digital health",
-    "date": "2026 Jan-Dec",
-    "authors": [
-      "Li S",
-      "Fu B",
-      "Chi H",
-      "He L",
-      "Zeng L",
-      "Zhu A"
-    ],
-    "pmid": "42282244",
-    "doi": "10.1177/20552076261458191",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42282244/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "Don't stop the heart: a performance analysis of large language models and potassium dosing.",
-    "journal": "medRxiv : the preprint server for health sciences",
-    "date": "2026 Jun 4",
-    "authors": [
-      "Blotske K",
-      "Zhao X",
-      "Henry K",
-      "Murray B",
-      "Gao Y",
-      "Smith SE"
-    ],
-    "pmid": "42282198",
-    "doi": "10.64898/2026.06.02.26354762",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42282198/",
     "source": "PubMed",
     "application_area": "综合医学机器学习",
     "priority_journal": false,

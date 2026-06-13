@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.58,
+    "seconds": 2.54,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-06-03"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.45,
+    "seconds": 2.26,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-03"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.44,
+    "seconds": 2.21,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-06-03"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.49,
+    "seconds": 2.35,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-06-03"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.47,
+    "seconds": 2.27,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-03"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.36,
+    "seconds": 2.48,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-06-03"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.42,
+    "seconds": 2.3,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-06-03"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.11,
+    "seconds": 2.03,
     "repo": "awesome-selfhosted/awesome-selfhosted"
   },
   {
@@ -77,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.15,
+    "seconds": 2.02,
     "repo": "rust-unofficial/awesome-rust"
   },
   {
@@ -86,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.81,
+    "seconds": 1.57,
     "repo": "K-Dense-AI/scientific-agent-skills"
   },
   {
@@ -95,17 +95,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.91,
+    "seconds": 1.67,
     "repo": "lucidrains/vit-pytorch"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.2,
-    "repo": "ai-boost/awesome-prompts"
   },
   {
     "source": "github_readme",
@@ -113,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.02,
+    "seconds": 2.23,
     "repo": "alvinreal/awesome-opensource-ai"
   },
   {
@@ -122,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.9,
+    "seconds": 1.56,
     "repo": "ZhengPeng7/BiRefNet"
   },
   {
@@ -131,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.94,
+    "seconds": 1.68,
     "repo": "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials"
   },
   {
@@ -140,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.85,
+    "seconds": 1.59,
     "repo": "TorchIO-project/torchio"
   },
   {
@@ -149,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.95,
+    "seconds": 1.98,
     "repo": "ai-boost/awesome-ai-for-science"
   },
   {
@@ -158,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.19,
+    "seconds": 2.33,
     "repo": "tmgthb/Autonomous-Agents"
   },
   {
@@ -167,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.9,
+    "seconds": 1.65,
     "repo": "NVIDIA/skills"
   },
   {
@@ -176,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.17,
+    "seconds": 2.17,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -185,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.27,
+    "seconds": 2.32,
     "repo": "freeCodeCamp/awesome-quincy-larson-emails"
   },
   {
@@ -194,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.9,
+    "seconds": 1.63,
     "repo": "GPTomics/bioSkills"
   },
   {
@@ -203,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.13,
+    "seconds": 2.05,
     "repo": "andysingal/llm-course"
   },
   {
@@ -212,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.14,
+    "seconds": 2.14,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -221,8 +212,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.06,
+    "seconds": 2.18,
     "repo": "trackawesomelist/trackawesomelist"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/TissueImageAnalytics/tiatoolbox/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.55,
+    "repo": "TissueImageAnalytics/tiatoolbox"
   },
   {
     "source": "pubmed_esearch",
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.26
+    "seconds": 1.57
   },
   {
     "source": "pubmed_esummary",
@@ -238,14 +238,14 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.3
+    "seconds": 1.76
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-06-03%2Cuntil-pub-date%3A2026-06-13%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
-    "ok": false,
-    "status": null,
-    "error": "TimeoutError('The read operation timed out')",
-    "seconds": 77.24
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.78
   }
 ]

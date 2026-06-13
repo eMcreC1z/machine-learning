@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 28078,
-    "forks": 2887,
+    "stars": 28079,
+    "forks": 2889,
     "open_issues": 29,
-    "updated_at": "2026-06-12T23:59:22Z",
+    "updated_at": "2026-06-13T01:10:56Z",
     "pushed_at": "2026-06-12T20:53:22Z",
     "topics": [
       "agent-skills",
@@ -43,40 +43,6 @@
         "radiology",
         "imaging",
         "pathology"
-      ]
-    }
-  },
-  {
-    "full_name": "ai-boost/awesome-prompts",
-    "name": "awesome-prompts",
-    "url": "https://github.com/ai-boost/awesome-prompts",
-    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
-    "language": "",
-    "stars": 8193,
-    "forks": 764,
-    "open_issues": 28,
-    "updated_at": "2026-06-12T23:54:18Z",
-    "pushed_at": "2026-06-12T14:20:12Z",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "chatgpt",
-      "gpt4",
-      "gpts",
-      "gptstore",
-      "papers",
-      "prompt",
-      "prompt-engineering"
-    ],
-    "application_area": "医学影像",
-    "score": 27.58,
-    "evidence_terms": {
-      "ml": [
-        "llm"
-      ],
-      "medical": [
-        "clinical",
-        "diagnosis"
       ]
     }
   },
@@ -140,6 +106,48 @@
       "medical": [
         "medical",
         "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 535,
+    "forks": 106,
+    "open_issues": 11,
+    "updated_at": "2026-06-12T16:01:54Z",
+    "pushed_at": "2026-06-12T17:04:21Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.36,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
       ]
     }
   },
@@ -298,21 +306,6 @@
     ],
     "application_area": "病理与组学",
     "score": 16.98
-  },
-  {
-    "full_name": "gopaljilab/Clinical-Insight-Engine",
-    "name": "Clinical-Insight-Engine",
-    "url": "https://github.com/gopaljilab/Clinical-Insight-Engine",
-    "description": "Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines a Python-based interpretable machine learning model with a modern React frontend, presenting results differently for clinicians and patients.",
-    "language": "TypeScript",
-    "stars": 19,
-    "forks": 62,
-    "open_issues": 66,
-    "updated_at": "2026-06-12T18:06:27Z",
-    "pushed_at": "2026-06-12T17:52:20Z",
-    "topics": [],
-    "application_area": "临床预测",
-    "score": 14.7
   },
   {
     "full_name": "AlterLab-IEU/AlterLab-Academic-Skills",
