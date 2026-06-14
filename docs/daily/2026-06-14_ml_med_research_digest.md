@@ -1,37 +1,37 @@
 # 医学机器学习自动整理日报 - 2026-06-14
 
-> 自动采集时间：2026-06-14 09:08:54。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-06-14 09:45:31。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：19 个
+- GitHub 项目候选：17 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：5 篇
 - 采集异常来源：1 个
 
 ## 采集限制
 
-- crossref: HTTP 429:
+- github_readme: URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))
 
 ## 优先关注 GitHub 项目
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 28136 | 2026-06-14T00:31:36Z | 医学影像 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scien... |
-| 2 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 72773 | 2026-06-13T20:21:46Z | 医学影像 | A curated list of awesome Machine Learning frameworks, libraries and software.；评分 36.33 |
+| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 28137 | 2026-06-14T01:33:59Z | 医学影像 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scien... |
+| 2 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 72774 | 2026-06-14T01:18:26Z | 医学影像 | A curated list of awesome Machine Learning frameworks, libraries and software.；评分 36.33 |
 | 3 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 8201 | 2026-06-14T00:33:48Z | 医学影像 | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering pape... |
 | 4 | [ai-boost/awesome-ai-for-science](https://github.com/ai-boost/awesome-ai-for-science) | 1644 | 2026-06-13T22:48:37Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
 | 5 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1207 | 2026-06-12T02:53:27Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.61 |
 | 6 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 468 | 2026-06-13T01:51:05Z | 病理与组学 | 近期活跃项目；评分 24.27 |
 | 7 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 447 | 2026-06-11T20:29:52Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.48 |
-| 8 | [rendeirolab/LazySlide](https://github.com/rendeirolab/LazySlide) | 298 | 2026-06-13T20:08:29Z | 医学影像 | Accessible and interoperable whole slide image analysis；评分 22.5 |
-| 9 | [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) | 445 | 2026-06-12T03:14:22Z | 临床文本与大模型 | Daily ArXiv Papers.；评分 21.25 |
-| 10 | [aramis-lab/clinicadl](https://github.com/aramis-lab/clinicadl) | 181 | 2026-06-13T17:14:59Z | 医学影像 | Open-source Python library for reproducible deep learning in neuroimaging；评分 18.52 |
-| 11 | [gopaljilab/Clinical-Insight-Engine](https://github.com/gopaljilab/Clinical-Insight-Engine) | 20 | 2026-06-13T18:15:37Z | 临床预测 | Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines... |
-| 12 | [NKI-AI/dlup](https://github.com/NKI-AI/dlup) | 30 | 2026-06-13T13:24:41Z | 病理与组学 | Dlup are the Deep Learning Utilities for Pathology developed at the Netherlands Cancer Institute；评分 14.03 |
-| 13 | [AlterLab-IEU/AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) | 27 | 2026-06-12T13:49:14Z | 临床文本与大模型 | 210 evaluated academic Claude/agent skills across 16 research domains — bioinformatics, cheminformatics, data science, databases, clinical, Turkish academia &... |
-| 14 | [SaharStudios/LungCancerClassification](https://github.com/SaharStudios/LungCancerClassification) | 7 | 2026-06-13T22:27:06Z | 医学影像 | This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using St... |
-| 15 | [GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Le...](https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning) | 6 | 2026-06-12T14:55:35Z | 临床预测 | A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a f... |
+| 8 | [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) | 445 | 2026-06-12T03:14:22Z | 临床文本与大模型 | Daily ArXiv Papers.；评分 21.25 |
+| 9 | [aramis-lab/clinicadl](https://github.com/aramis-lab/clinicadl) | 181 | 2026-06-13T17:14:59Z | 医学影像 | Open-source Python library for reproducible deep learning in neuroimaging；评分 18.52 |
+| 10 | [gopaljilab/Clinical-Insight-Engine](https://github.com/gopaljilab/Clinical-Insight-Engine) | 20 | 2026-06-13T18:15:37Z | 临床预测 | Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines... |
+| 11 | [NKI-AI/dlup](https://github.com/NKI-AI/dlup) | 30 | 2026-06-13T13:24:41Z | 病理与组学 | Dlup are the Deep Learning Utilities for Pathology developed at the Netherlands Cancer Institute；评分 14.03 |
+| 12 | [AlterLab-IEU/AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) | 27 | 2026-06-12T13:49:14Z | 临床文本与大模型 | 210 evaluated academic Claude/agent skills across 16 research domains — bioinformatics, cheminformatics, data science, databases, clinical, Turkish academia &... |
+| 13 | [SaharStudios/LungCancerClassification](https://github.com/SaharStudios/LungCancerClassification) | 7 | 2026-06-14T01:16:32Z | 医学影像 | This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using St... |
+| 14 | [GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Le...](https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning) | 6 | 2026-06-12T14:55:35Z | 临床预测 | A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a f... |
+| 15 | [DesusLove/OncoVision](https://github.com/DesusLove/OncoVision) | 0 | 2026-06-13T21:27:55Z | 医学影像 | End-to-end AI powered breast cancer diagnosis and classification platform featuring binary and multiclass prediction models. Built with PyTorch deep learning,... |
 
 ## 高水平论文候选
 
@@ -111,33 +111,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=2.57
-- github: OK; status=200; seconds=2.96
-- github: OK; status=200; seconds=2.12
-- github: OK; status=200; seconds=2.45
-- github: OK; status=200; seconds=2.41
+- github: OK; status=200; seconds=3.05
+- github: OK; status=200; seconds=2.56
 - github: OK; status=200; seconds=2.26
-- github: OK; status=200; seconds=2.1
-- github_readme: OK; status=200; seconds=1.89
-- github_readme: OK; status=200; seconds=2.21
-- github_readme: OK; status=200; seconds=1.67
-- github_readme: OK; status=200; seconds=1.64
-- github_readme: OK; status=200; seconds=2.17
-- github_readme: OK; status=200; seconds=1.94
-- github_readme: OK; status=200; seconds=1.89
+- github: OK; status=200; seconds=2.39
+- github: OK; status=200; seconds=2.42
+- github: OK; status=200; seconds=2.51
+- github: OK; status=200; seconds=2.38
+- github_readme: OK; status=200; seconds=2.4
+- github_readme: OK; status=200; seconds=2.61
+- github_readme: OK; status=200; seconds=2.26
+- github_readme: OK; status=200; seconds=1.92
+- github_readme: OK; status=200; seconds=2.12
+- github_readme: OK; status=200; seconds=3.36
+- github_readme: OK; status=200; seconds=2.52
 - github_readme: OK; status=200; seconds=1.58
-- github_readme: OK; status=200; seconds=2.33
-- github_readme: OK; status=200; seconds=2.19
-- github_readme: OK; status=200; seconds=2.35
-- github_readme: OK; status=200; seconds=1.66
-- github_readme: OK; status=200; seconds=1.97
-- github_readme: OK; status=200; seconds=2.16
-- github_readme: OK; status=200; seconds=1.33
-- github_readme: OK; status=200; seconds=1.39
-- github_readme: OK; status=200; seconds=1.41
-- github_readme: OK; status=200; seconds=1.96
-- pubmed_esearch: OK; status=200; seconds=1.57
-- pubmed_esummary: OK; status=200; seconds=1.77
-- crossref: FAILED; status=429; seconds=1.31
+- github_readme: OK; status=200; seconds=2.74
+- github_readme: OK; status=200; seconds=2.21
+- github_readme: OK; status=200; seconds=2.7
+- github_readme: OK; status=200; seconds=1.83
+- github_readme: OK; status=200; seconds=2.17
+- github_readme: OK; status=200; seconds=2.39
+- github_readme: OK; status=200; seconds=1.35
+- github_readme: OK; status=200; seconds=1.54
+- github_readme: FAILED; status=None; seconds=8.03
+- github_readme: OK; status=200; seconds=1.87
+- pubmed_esearch: OK; status=200; seconds=1.44
+- pubmed_esummary: OK; status=200; seconds=1.65
+- crossref: OK; status=200; seconds=2.62
 
 本次运行已完成：2026-06-14_ml_med_research_digest.md

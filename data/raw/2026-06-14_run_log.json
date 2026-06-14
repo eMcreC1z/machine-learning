@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.57,
+    "seconds": 3.05,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-06-04"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.96,
+    "seconds": 2.56,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-04"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.12,
+    "seconds": 2.26,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-06-04"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.45,
+    "seconds": 2.39,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-06-04"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.41,
+    "seconds": 2.42,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-04"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.26,
+    "seconds": 2.51,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-06-04"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.1,
+    "seconds": 2.38,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-06-04"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.89,
+    "seconds": 2.4,
     "repo": "Developer-Y/cs-video-courses"
   },
   {
@@ -77,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.21,
+    "seconds": 2.61,
     "repo": "josephmisiti/awesome-machine-learning"
   },
   {
@@ -86,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.67,
+    "seconds": 2.26,
     "repo": "K-Dense-AI/scientific-agent-skills"
   },
   {
@@ -95,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.64,
+    "seconds": 1.92,
     "repo": "lucidrains/vit-pytorch"
   },
   {
@@ -104,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.17,
+    "seconds": 2.12,
     "repo": "ai-boost/awesome-prompts"
   },
   {
@@ -113,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.94,
+    "seconds": 3.36,
     "repo": "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials"
   },
   {
@@ -122,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.89,
+    "seconds": 2.52,
     "repo": "ai-boost/awesome-ai-for-science"
   },
   {
@@ -140,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.33,
+    "seconds": 2.74,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -149,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.19,
+    "seconds": 2.21,
     "repo": "awesome-rust-com/awesome-rust"
   },
   {
@@ -158,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.35,
+    "seconds": 2.7,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -167,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.66,
+    "seconds": 1.83,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -176,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.97,
+    "seconds": 2.17,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -185,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.16,
+    "seconds": 2.39,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -194,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.33,
+    "seconds": 1.35,
     "repo": "luohongk/Embodied-AI-Daily"
   },
   {
@@ -203,16 +203,16 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.39,
+    "seconds": 1.54,
     "repo": "Jianqiuer/Awesome6DPoseEstimation"
   },
   {
     "source": "github_readme",
     "url": "https://api.github.com/repos/rendeirolab/LazySlide/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.41,
+    "ok": false,
+    "status": null,
+    "error": "URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))",
+    "seconds": 8.03,
     "repo": "rendeirolab/LazySlide"
   },
   {
@@ -221,7 +221,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.96,
+    "seconds": 1.87,
     "repo": "hongbo-miao/hongbomiao.com"
   },
   {
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.57
+    "seconds": 1.44
   },
   {
     "source": "pubmed_esummary",
@@ -238,14 +238,14 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.77
+    "seconds": 1.65
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-06-04%2Cuntil-pub-date%3A2026-06-14%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
-    "ok": false,
-    "status": 429,
-    "error": "HTTP 429: ",
-    "seconds": 1.31
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.62
   }
 ]
