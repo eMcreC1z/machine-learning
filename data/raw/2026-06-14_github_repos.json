@@ -1,0 +1,497 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 28136,
+    "forks": 2892,
+    "open_issues": 29,
+    "updated_at": "2026-06-14T00:31:36Z",
+    "pushed_at": "2026-06-13T14:30:30Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 39.59,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "josephmisiti/awesome-machine-learning",
+    "name": "awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "language": "Python",
+    "stars": 72773,
+    "forks": 15484,
+    "open_issues": 5,
+    "updated_at": "2026-06-13T20:21:46Z",
+    "pushed_at": "2026-06-13T16:49:01Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 36.33,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "imaging",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "ai-boost/awesome-prompts",
+    "name": "awesome-prompts",
+    "url": "https://github.com/ai-boost/awesome-prompts",
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+    "language": "",
+    "stars": 8201,
+    "forks": 768,
+    "open_issues": 28,
+    "updated_at": "2026-06-14T00:33:48Z",
+    "pushed_at": "2026-06-13T17:10:19Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "gpt4",
+      "gpts",
+      "gptstore",
+      "papers",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "application_area": "医学影像",
+    "score": 27.58,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "ai-boost/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai-boost/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1644,
+    "forks": 185,
+    "open_issues": 49,
+    "updated_at": "2026-06-13T22:48:37Z",
+    "pushed_at": "2026-06-13T22:48:33Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 25.87,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1207,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-06-12T02:53:27Z",
+    "pushed_at": "2026-06-12T02:53:23Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.61,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 468,
+    "forks": 52,
+    "open_issues": 5,
+    "updated_at": "2026-06-13T01:51:05Z",
+    "pushed_at": "2026-06-12T17:15:08Z",
+    "topics": [
+      "ai-virtual-cell",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.27,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 447,
+    "forks": 50,
+    "open_issues": 0,
+    "updated_at": "2026-06-11T20:29:52Z",
+    "pushed_at": "2026-06-09T11:52:26Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.48,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "rendeirolab/LazySlide",
+    "name": "LazySlide",
+    "url": "https://github.com/rendeirolab/LazySlide",
+    "description": "Accessible and interoperable whole slide image analysis",
+    "language": "Python",
+    "stars": 298,
+    "forks": 28,
+    "open_issues": 15,
+    "updated_at": "2026-06-13T20:08:29Z",
+    "pushed_at": "2026-06-13T21:59:50Z",
+    "topics": [
+      "deep-learning",
+      "digital-pathology"
+    ],
+    "application_area": "医学影像",
+    "score": 22.5,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "foundation model"
+      ],
+      "medical": [
+        "pathology",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 445,
+    "forks": 99,
+    "open_issues": 565,
+    "updated_at": "2026-06-12T03:14:22Z",
+    "pushed_at": "2026-06-11T19:19:30Z",
+    "topics": [],
+    "application_area": "临床文本与大模型",
+    "score": 21.25,
+    "evidence_terms": {
+      "ml": [
+        "llm",
+        "neural network"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "aramis-lab/clinicadl",
+    "name": "clinicadl",
+    "url": "https://github.com/aramis-lab/clinicadl",
+    "description": "Open-source Python library for reproducible deep learning in neuroimaging",
+    "language": "Python",
+    "stars": 181,
+    "forks": 60,
+    "open_issues": 26,
+    "updated_at": "2026-06-13T17:14:59Z",
+    "pushed_at": "2026-06-13T17:17:51Z",
+    "topics": [
+      "brain-imaging",
+      "deep-learning",
+      "medical-imaging",
+      "neuroimaging",
+      "python",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 18.52
+  },
+  {
+    "full_name": "gopaljilab/Clinical-Insight-Engine",
+    "name": "Clinical-Insight-Engine",
+    "url": "https://github.com/gopaljilab/Clinical-Insight-Engine",
+    "description": "Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines a Python-based interpretable machine learning model with a modern React frontend, presenting results differently for clinicians and patients.",
+    "language": "TypeScript",
+    "stars": 20,
+    "forks": 64,
+    "open_issues": 32,
+    "updated_at": "2026-06-13T18:15:37Z",
+    "pushed_at": "2026-06-13T17:22:13Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 14.81
+  },
+  {
+    "full_name": "NKI-AI/dlup",
+    "name": "dlup",
+    "url": "https://github.com/NKI-AI/dlup",
+    "description": "Dlup are the Deep Learning Utilities for Pathology developed at the Netherlands Cancer Institute",
+    "language": "Python",
+    "stars": 30,
+    "forks": 6,
+    "open_issues": 0,
+    "updated_at": "2026-06-13T13:24:41Z",
+    "pushed_at": "2026-06-13T13:24:37Z",
+    "topics": [],
+    "application_area": "病理与组学",
+    "score": 14.03
+  },
+  {
+    "full_name": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "name": "AlterLab-Academic-Skills",
+    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills",
+    "description": "210 evaluated academic Claude/agent skills across 16 research domains — bioinformatics, cheminformatics, data science, databases, clinical, Turkish academia & more. Every skill ships an executable eval (agentskills.io schema). Citation verifier + research→write→review→publish pipeline. Claude Code, Cursor, Codex, Gemini CLI & Copilot.",
+    "language": "Python",
+    "stars": 27,
+    "forks": 5,
+    "open_issues": 2,
+    "updated_at": "2026-06-12T13:49:14Z",
+    "pushed_at": "2026-06-12T13:48:47Z",
+    "topics": [
+      "academic-research",
+      "agent-skills",
+      "anthropic",
+      "bioinformatics",
+      "cheminformatics",
+      "citation",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "data-science",
+      "data-visualization",
+      "llm-agents",
+      "model-context-protocol",
+      "prompt-engineering",
+      "reproducible-research",
+      "research-tools",
+      "scientific-computing",
+      "scientific-writing",
+      "turkish-academia"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 13.61
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 7,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-06-13T22:27:06Z",
+    "pushed_at": "2026-06-13T22:27:02Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.26
+  },
+  {
+    "full_name": "GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "name": "Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "url": "https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "description": "A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a full-stack web application for interactive graph exploration.",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-12T14:55:35Z",
+    "pushed_at": "2026-06-12T14:55:29Z",
+    "topics": [
+      "fastapi",
+      "graph-database",
+      "medical-informatics",
+      "nlp",
+      "react",
+      "time-series"
+    ],
+    "application_area": "临床预测",
+    "score": 10.84
+  },
+  {
+    "full_name": "DesusLove/OncoVision",
+    "name": "OncoVision",
+    "url": "https://github.com/DesusLove/OncoVision",
+    "description": "End-to-end AI powered breast cancer diagnosis and classification platform featuring binary and multiclass prediction models. Built with PyTorch deep learning, a Java based backend, and a modern web frontend to support accurate medical image analysis, disease detection, and clinical decision support.",
+    "language": "Vue",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-13T21:27:55Z",
+    "pushed_at": "2026-06-13T21:27:52Z",
+    "topics": [
+      "ai",
+      "breast-cancer",
+      "breast-cancer-detection",
+      "cancer-research",
+      "medical-image-processing",
+      "medicare"
+    ],
+    "application_area": "医学影像",
+    "score": 6.8
+  },
+  {
+    "full_name": "neeru-meda/Patient-Readmission-Prediction",
+    "name": "Patient-Readmission-Prediction",
+    "url": "https://github.com/neeru-meda/Patient-Readmission-Prediction",
+    "description": "Machine learning project that predicts 30-day hospital readmissions using patient demographics, medical history, and healthcare utilization data to support proactive healthcare interventions.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-13T17:19:24Z",
+    "pushed_at": "2026-06-13T17:19:20Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  },
+  {
+    "full_name": "ernest-edem/behaviour",
+    "name": "behaviour",
+    "url": "https://github.com/ernest-edem/behaviour",
+    "description": "BehaviorLens AI is an intelligent healthcare platform that uses Artificial Intelligence (AI) and Explainable AI (XAI) to assess disease risks and behavioral health vulnerabilities using multidimensional lifestyle, psychological, physiological, and social indicators.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-13T17:14:48Z",
+    "pushed_at": "2026-06-13T17:14:44Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  },
+  {
+    "full_name": "Ahammadbi123/NEC_MARJOR_PROJECT3_HEALTH_CARE_HOSPITAL_MANAGEMENT_SYSTEM",
+    "name": "NEC_MARJOR_PROJECT3_HEALTH_CARE_HOSPITAL_MANAGEMENT_SYSTEM",
+    "url": "https://github.com/Ahammadbi123/NEC_MARJOR_PROJECT3_HEALTH_CARE_HOSPITAL_MANAGEMENT_SYSTEM",
+    "description": "AI-Powered Healthcare Prediction and Hospital Resource Management System using Streamlit and Machine Learning.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-13T16:16:53Z",
+    "pushed_at": "2026-06-13T16:16:49Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  }
+]
