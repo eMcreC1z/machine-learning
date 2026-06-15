@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.65,
+    "seconds": 2.37,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-06-05"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.44,
+    "seconds": 2.32,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-05"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.43,
+    "seconds": 2.17,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-06-05"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.44,
+    "seconds": 2.28,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-06-05"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.57,
+    "seconds": 2.46,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-05"
   },
   {
@@ -50,16 +50,16 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.43,
+    "seconds": 2.11,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-06-05"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-06-05&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.173.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 0.34,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.4,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-06-05"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.13,
+    "seconds": 2.06,
     "repo": "awesome-selfhosted/awesome-selfhosted"
   },
   {
@@ -77,17 +77,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.79,
+    "seconds": 1.55,
     "repo": "K-Dense-AI/scientific-agent-skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/Yuan1z0825/nature-skills/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.81,
-    "repo": "Yuan1z0825/nature-skills"
   },
   {
     "source": "github_readme",
@@ -95,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.06,
+    "seconds": 2.2,
     "repo": "ai-boost/awesome-prompts"
   },
   {
@@ -104,17 +95,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.56,
+    "seconds": 1.95,
     "repo": "alvinreal/awesome-opensource-ai"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.2,
-    "repo": "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials"
   },
   {
     "source": "github_readme",
@@ -122,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.94,
+    "seconds": 1.6,
     "repo": "TorchIO-project/torchio"
   },
   {
@@ -131,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.97,
+    "seconds": 2.05,
     "repo": "ai-boost/awesome-ai-for-science"
   },
   {
@@ -140,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.87,
+    "seconds": 1.54,
     "repo": "NVIDIA/skills"
   },
   {
@@ -149,8 +131,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.43,
+    "seconds": 2.24,
     "repo": "liliu-avril/Awesome-Segment-Anything"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/GPTomics/bioSkills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.64,
+    "repo": "GPTomics/bioSkills"
   },
   {
     "source": "github_readme",
@@ -158,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.29,
+    "seconds": 2.47,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -167,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.23,
+    "seconds": 2.22,
     "repo": "liutaocode/TTS-arxiv-daily"
   },
   {
@@ -176,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.09,
+    "seconds": 1.94,
     "repo": "trackawesomelist/trackawesomelist"
   },
   {
@@ -185,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.81,
+    "seconds": 1.75,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -194,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.02,
+    "seconds": 1.75,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -203,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.18,
+    "seconds": 2.34,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -212,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.79,
+    "seconds": 1.37,
     "repo": "luohongk/Embodied-AI-Daily"
   },
   {
@@ -221,8 +212,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.76,
+    "seconds": 1.46,
     "repo": "rendeirolab/LazySlide"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/hongbo-miao/hongbomiao.com/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.82,
+    "repo": "hongbo-miao/hongbomiao.com"
   },
   {
     "source": "pubmed_esearch",
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 5.19
+    "seconds": 1.45
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.98
+    "seconds": 1.75
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 59.53
+    "seconds": 6.2
   }
 ]

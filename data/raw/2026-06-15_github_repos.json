@@ -47,33 +47,6 @@
     }
   },
   {
-    "full_name": "Yuan1z0825/nature-skills",
-    "name": "nature-skills",
-    "url": "https://github.com/Yuan1z0825/nature-skills",
-    "description": "符合nature论文学术表达和科研绘图的Skill",
-    "language": "Python",
-    "stars": 19875,
-    "forks": 1186,
-    "open_issues": 3,
-    "updated_at": "2026-06-15T01:08:06Z",
-    "pushed_at": "2026-06-14T13:51:54Z",
-    "topics": [
-      "codex-skills",
-      "nature",
-      "nature-skills"
-    ],
-    "application_area": "医学影像",
-    "score": 28.6,
-    "evidence_terms": {
-      "ml": [
-        "llm"
-      ],
-      "medical": [
-        "imaging"
-      ]
-    }
-  },
-  {
     "full_name": "ai-boost/awesome-prompts",
     "name": "awesome-prompts",
     "url": "https://github.com/ai-boost/awesome-prompts",
@@ -148,10 +121,10 @@
     "url": "https://github.com/ai-boost/awesome-ai-for-science",
     "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
     "language": "",
-    "stars": 1646,
+    "stars": 1647,
     "forks": 185,
     "open_issues": 49,
-    "updated_at": "2026-06-14T23:00:13Z",
+    "updated_at": "2026-06-15T01:24:21Z",
     "pushed_at": "2026-06-14T23:00:07Z",
     "topics": [
       "ai-for-science",
@@ -329,6 +302,29 @@
     }
   },
   {
+    "full_name": "GPTomics/bioSkills",
+    "name": "bioSkills",
+    "url": "https://github.com/GPTomics/bioSkills",
+    "description": "a set of SKILLS.md for doing bioinformatics with agents like claude code",
+    "language": "Python",
+    "stars": 899,
+    "forks": 159,
+    "open_issues": 0,
+    "updated_at": "2026-06-15T01:16:56Z",
+    "pushed_at": "2026-06-15T01:16:57Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 21.92,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
     "full_name": "liutaocode/TTS-arxiv-daily",
     "name": "TTS-arxiv-daily",
     "url": "https://github.com/liutaocode/TTS-arxiv-daily",
@@ -386,21 +382,6 @@
     ],
     "application_area": "病理与组学",
     "score": 18.83
-  },
-  {
-    "full_name": "gopaljilab/Clinical-Insight-Engine",
-    "name": "Clinical-Insight-Engine",
-    "url": "https://github.com/gopaljilab/Clinical-Insight-Engine",
-    "description": "Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines a Python-based interpretable machine learning model with a modern React frontend, presenting results differently for clinicians and patients.",
-    "language": "TypeScript",
-    "stars": 21,
-    "forks": 67,
-    "open_issues": 29,
-    "updated_at": "2026-06-14T18:26:26Z",
-    "pushed_at": "2026-06-14T18:26:22Z",
-    "topics": [],
-    "application_area": "临床预测",
-    "score": 14.92
   },
   {
     "full_name": "NKI-AI/dlup",
@@ -500,8 +481,8 @@
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
-    "updated_at": "2026-06-15T00:33:57Z",
-    "pushed_at": "2026-06-15T00:33:54Z",
+    "updated_at": "2026-06-15T01:22:39Z",
+    "pushed_at": "2026-06-15T01:22:35Z",
     "topics": [],
     "application_area": "综合医学机器学习",
     "score": 6.0
