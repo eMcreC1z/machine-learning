@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.87,
+    "seconds": 3.1,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-06-07"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.55,
+    "seconds": 2.5,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-07"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.51,
+    "seconds": 2.18,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-06-07"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.47,
+    "seconds": 2.23,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-06-07"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.47,
+    "seconds": 2.16,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-07"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.3,
+    "seconds": 2.43,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-06-07"
   },
   {
@@ -59,8 +59,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.6,
+    "seconds": 2.23,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-06-07"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Developer-Y/cs-video-courses/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.07,
+    "repo": "Developer-Y/cs-video-courses"
   },
   {
     "source": "github_readme",
@@ -68,8 +77,35 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.83,
+    "seconds": 1.55,
     "repo": "K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Yuan1z0825/nature-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.78,
+    "repo": "Yuan1z0825/nature-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/yzhao062/pyod/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.73,
+    "repo": "yzhao062/pyod"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.98,
+    "repo": "ai-boost/awesome-prompts"
   },
   {
     "source": "github_readme",
@@ -77,17 +113,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.93,
+    "seconds": 1.93,
     "repo": "mathworks/MATLAB-Simulink-Challenge-Project-Hub"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/bobeff/programming-math-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.04,
-    "repo": "bobeff/programming-math-science"
   },
   {
     "source": "github_readme",
@@ -95,17 +122,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.93,
+    "seconds": 1.89,
     "repo": "ai-boost/awesome-ai-for-science"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/tmgthb/Autonomous-Agents/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.25,
-    "repo": "tmgthb/Autonomous-Agents"
   },
   {
     "source": "github_readme",
@@ -113,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.15,
+    "seconds": 2.51,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -122,17 +140,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.9,
+    "seconds": 1.55,
     "repo": "aipoch/medical-research-skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/andysingal/llm-course/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.36,
-    "repo": "andysingal/llm-course"
   },
   {
     "source": "github_readme",
@@ -140,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.14,
+    "seconds": 2.24,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -149,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.85,
+    "seconds": 1.73,
     "repo": "hazratali/awesome-ai-summerschool"
   },
   {
@@ -158,17 +167,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.51,
+    "seconds": 2.05,
     "repo": "liutaocode/TTS-arxiv-daily"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/trackawesomelist/trackawesomelist/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.04,
-    "repo": "trackawesomelist/trackawesomelist"
   },
   {
     "source": "github_readme",
@@ -176,17 +176,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.08,
+    "seconds": 2.15,
     "repo": "best-of-ai/best-of-ai"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/supervisely/supervisely/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.78,
-    "repo": "supervisely/supervisely"
   },
   {
     "source": "github_readme",
@@ -194,8 +185,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.85,
+    "seconds": 1.64,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/mk-runner/Awesome-Radiology-Report-Generation/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.79,
+    "repo": "mk-runner/Awesome-Radiology-Report-Generation"
   },
   {
     "source": "github_readme",
@@ -203,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.96,
+    "seconds": 1.82,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -212,7 +212,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.47,
+    "seconds": 2.36,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -221,7 +221,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.3,
+    "seconds": 2.22,
     "repo": "fregu856/papers"
   },
   {
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.93
+    "seconds": 1.51
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.39
+    "seconds": 1.82
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 49.36
+    "seconds": 3.66
   }
 ]

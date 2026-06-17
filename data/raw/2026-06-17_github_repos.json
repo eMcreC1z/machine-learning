@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 28406,
-    "forks": 2909,
+    "stars": 28420,
+    "forks": 2910,
     "open_issues": 31,
-    "updated_at": "2026-06-16T22:55:40Z",
+    "updated_at": "2026-06-17T04:08:44Z",
     "pushed_at": "2026-06-15T23:48:13Z",
     "topics": [
       "agent-skills",
@@ -52,10 +52,10 @@
     "url": "https://github.com/aipoch/medical-research-skills",
     "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
     "language": "Python",
-    "stars": 1153,
+    "stars": 1155,
     "forks": 78,
     "open_issues": 3,
-    "updated_at": "2026-06-16T17:14:45Z",
+    "updated_at": "2026-06-17T02:30:33Z",
     "pushed_at": "2026-06-15T05:55:48Z",
     "topics": [
       "academic-writing",
@@ -93,6 +93,71 @@
         "omics",
         "ehr",
         "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 447,
+    "forks": 43,
+    "open_issues": 0,
+    "updated_at": "2026-06-17T02:58:06Z",
+    "pushed_at": "2026-06-17T02:58:03Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 31.07,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "diagnosis",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "Yuan1z0825/nature-skills",
+    "name": "nature-skills",
+    "url": "https://github.com/Yuan1z0825/nature-skills",
+    "description": "符合nature论文学术表达和科研绘图的Skill",
+    "language": "Python",
+    "stars": 20587,
+    "forks": 1219,
+    "open_issues": 2,
+    "updated_at": "2026-06-17T04:17:11Z",
+    "pushed_at": "2026-06-17T00:14:37Z",
+    "topics": [
+      "codex-skills",
+      "nature",
+      "nature-skills"
+    ],
+    "application_area": "医学影像",
+    "score": 29.68,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "imaging"
       ]
     }
   },
@@ -183,30 +248,36 @@
     }
   },
   {
-    "full_name": "andysingal/llm-course",
-    "name": "llm-course",
-    "url": "https://github.com/andysingal/llm-course",
-    "description": "",
-    "language": "Jupyter Notebook",
-    "stars": 868,
-    "forks": 132,
-    "open_issues": 2,
-    "updated_at": "2026-06-16T17:44:29Z",
-    "pushed_at": "2026-06-16T17:44:24Z",
-    "topics": [],
-    "application_area": "临床文本与大模型",
-    "score": 27.54,
+    "full_name": "ai-boost/awesome-prompts",
+    "name": "awesome-prompts",
+    "url": "https://github.com/ai-boost/awesome-prompts",
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+    "language": "",
+    "stars": 8234,
+    "forks": 773,
+    "open_issues": 30,
+    "updated_at": "2026-06-17T03:45:22Z",
+    "pushed_at": "2026-06-17T01:43:18Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "gpt4",
+      "gpts",
+      "gptstore",
+      "papers",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "application_area": "医学影像",
+    "score": 27.6,
     "evidence_terms": {
       "ml": [
-        "machine learning",
-        "deep learning",
-        "artificial intelligence",
-        "foundation model",
-        "large language model",
         "llm"
       ],
       "medical": [
-        "medical"
+        "clinical",
+        "diagnosis"
       ]
     }
   },
@@ -305,7 +376,7 @@
     "description": "",
     "language": "",
     "stars": 474,
-    "forks": 53,
+    "forks": 54,
     "open_issues": 5,
     "updated_at": "2026-06-16T08:47:46Z",
     "pushed_at": "2026-06-12T17:15:08Z",
@@ -318,7 +389,7 @@
       "survey"
     ],
     "application_area": "病理与组学",
-    "score": 24.31,
+    "score": 24.32,
     "evidence_terms": {
       "ml": [
         "foundation model",
@@ -405,8 +476,8 @@
     "description": "A curated list of best ai tools",
     "language": "HTML",
     "stars": 625,
-    "forks": 91,
-    "open_issues": 26,
+    "forks": 92,
+    "open_issues": 27,
     "updated_at": "2026-06-16T20:09:30Z",
     "pushed_at": "2026-06-16T20:08:55Z",
     "topics": [
@@ -427,7 +498,7 @@
       "top-ai-tools"
     ],
     "application_area": "医学影像",
-    "score": 21.73,
+    "score": 21.74,
     "evidence_terms": {
       "ml": [
         "computer vision"
@@ -435,35 +506,6 @@
       "medical": [
         "medical",
         "imaging"
-      ]
-    }
-  },
-  {
-    "full_name": "supervisely/supervisely",
-    "name": "supervisely",
-    "url": "https://github.com/supervisely/supervisely",
-    "description": "Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task",
-    "language": "Python",
-    "stars": 529,
-    "forks": 78,
-    "open_issues": 77,
-    "updated_at": "2026-06-16T21:43:27Z",
-    "pushed_at": "2026-06-16T21:46:43Z",
-    "topics": [
-      "ai",
-      "deep-learning",
-      "neural-networks",
-      "python"
-    ],
-    "application_area": "医学影像",
-    "score": 21.54,
-    "evidence_terms": {
-      "ml": [
-        "deep learning",
-        "computer vision"
-      ],
-      "medical": [
-        "medical"
       ]
     }
   },
@@ -476,8 +518,8 @@
     "stars": 654,
     "forks": 41,
     "open_issues": 1,
-    "updated_at": "2026-06-16T16:24:33Z",
-    "pushed_at": "2026-06-16T16:24:28Z",
+    "updated_at": "2026-06-17T02:47:01Z",
+    "pushed_at": "2026-06-17T02:46:57Z",
     "topics": [],
     "application_area": "医学影像",
     "score": 20.5,
@@ -489,47 +531,6 @@
         "disease"
       ]
     }
-  },
-  {
-    "full_name": "DIAGNijmegen/rse-grand-challenge",
-    "name": "rse-grand-challenge",
-    "url": "https://github.com/DIAGNijmegen/rse-grand-challenge",
-    "description": "A platform for end-to-end development of machine learning solutions in biomedical imaging",
-    "language": "Python",
-    "stars": 191,
-    "forks": 58,
-    "open_issues": 49,
-    "updated_at": "2026-06-16T16:19:19Z",
-    "pushed_at": "2026-06-16T19:36:45Z",
-    "topics": [
-      "ai",
-      "challenges",
-      "computer-vision",
-      "django",
-      "django-rest-framework",
-      "docker",
-      "machine-learning",
-      "medical-imaging",
-      "python",
-      "reproducible-research"
-    ],
-    "application_area": "医学影像",
-    "score": 18.59
-  },
-  {
-    "full_name": "gopaljilab/Clinical-Insight-Engine",
-    "name": "Clinical-Insight-Engine",
-    "url": "https://github.com/gopaljilab/Clinical-Insight-Engine",
-    "description": "Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines a Python-based interpretable machine learning model with a modern React frontend, presenting results differently for clinicians and patients.",
-    "language": "TypeScript",
-    "stars": 22,
-    "forks": 71,
-    "open_issues": 86,
-    "updated_at": "2026-06-16T17:03:15Z",
-    "pushed_at": "2026-06-16T17:03:12Z",
-    "topics": [],
-    "application_area": "临床预测",
-    "score": 15.03
   },
   {
     "full_name": "GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
