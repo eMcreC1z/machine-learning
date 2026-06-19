@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 28686,
-    "forks": 2927,
+    "stars": 28687,
+    "forks": 2926,
     "open_issues": 33,
-    "updated_at": "2026-06-18T23:07:36Z",
+    "updated_at": "2026-06-19T00:30:15Z",
     "pushed_at": "2026-06-15T23:48:13Z",
     "topics": [
       "agent-skills",
@@ -43,6 +43,56 @@
         "radiology",
         "imaging",
         "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 1161,
+    "forks": 79,
+    "open_issues": 3,
+    "updated_at": "2026-06-18T20:44:03Z",
+    "pushed_at": "2026-06-15T05:55:48Z",
+    "topics": [
+      "academic-writing",
+      "agent-skills",
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "protocol-design",
+      "rna-seq-data",
+      "science",
+      "scrna-seq-data",
+      "single-cell",
+      "spatial-transcriptomics"
+    ],
+    "application_area": "临床预测",
+    "score": 32.52,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
       ]
     }
   },
@@ -190,7 +240,7 @@
     "language": "Python",
     "stars": 1233,
     "forks": 466,
-    "open_issues": 174,
+    "open_issues": 175,
     "updated_at": "2026-06-18T20:00:40Z",
     "pushed_at": "2026-06-18T19:27:09Z",
     "topics": [
@@ -236,8 +286,8 @@
     "stars": 1661,
     "forks": 187,
     "open_issues": 50,
-    "updated_at": "2026-06-18T23:10:14Z",
-    "pushed_at": "2026-06-18T11:26:40Z",
+    "updated_at": "2026-06-19T00:05:50Z",
+    "pushed_at": "2026-06-19T00:05:46Z",
     "topics": [
       "ai-for-science",
       "ai4s",
@@ -355,6 +405,46 @@
     }
   },
   {
+    "full_name": "Beliavsky/Fortran-code-on-GitHub",
+    "name": "Fortran-code-on-GitHub",
+    "url": "https://github.com/Beliavsky/Fortran-code-on-GitHub",
+    "description": "Directory of Fortran codes on GitHub, arranged by topic",
+    "language": "",
+    "stars": 382,
+    "forks": 72,
+    "open_issues": 42,
+    "updated_at": "2026-06-18T23:24:36Z",
+    "pushed_at": "2026-06-18T23:24:33Z",
+    "topics": [
+      "cfd",
+      "earth-science",
+      "electronic-structure",
+      "finite-elements",
+      "fortran",
+      "linear-algebra",
+      "list",
+      "machine-learning",
+      "modern-fortran",
+      "numerical-integration",
+      "numerical-methods",
+      "numerical-optimization",
+      "nwp",
+      "quantum-chemistry",
+      "scientific-computing",
+      "statistics"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 19.93,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "medicine"
+      ]
+    }
+  },
+  {
     "full_name": "DIAGNijmegen/rse-grand-challenge",
     "name": "rse-grand-challenge",
     "url": "https://github.com/DIAGNijmegen/rse-grand-challenge",
@@ -381,21 +471,6 @@
     "score": 18.59
   },
   {
-    "full_name": "CogStack/cogstack-nlp",
-    "name": "cogstack-nlp",
-    "url": "https://github.com/CogStack/cogstack-nlp",
-    "description": "CogStack NLP, including the Medical Concept Annotation Tool MedCAT",
-    "language": "HTML",
-    "stars": 67,
-    "forks": 13,
-    "open_issues": 4,
-    "updated_at": "2026-06-18T15:50:46Z",
-    "pushed_at": "2026-06-18T22:15:04Z",
-    "topics": [],
-    "application_area": "临床文本与大模型",
-    "score": 15.85
-  },
-  {
     "full_name": "GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
     "name": "Patient-EHR-Graph-Representation-for-Multi-task-Learning",
     "url": "https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
@@ -416,20 +491,5 @@
     ],
     "application_area": "临床预测",
     "score": 10.55
-  },
-  {
-    "full_name": "Teferihagos/clinical-note-classifier",
-    "name": "clinical-note-classifier",
-    "url": "https://github.com/Teferihagos/clinical-note-classifier",
-    "description": "Healthcare NLP project that predicts medical specialties from clinical notes using TF-IDF and Logistic Regression.",
-    "language": "Jupyter Notebook",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "updated_at": "2026-06-18T21:55:46Z",
-    "pushed_at": "2026-06-18T21:55:42Z",
-    "topics": [],
-    "application_area": "临床文本与大模型",
-    "score": 7.6
   }
 ]
