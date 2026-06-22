@@ -1,0 +1,623 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 29058,
+    "forks": 2964,
+    "open_issues": 34,
+    "updated_at": "2026-06-22T22:37:57Z",
+    "pushed_at": "2026-06-22T12:17:55Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 39.66,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 1177,
+    "forks": 80,
+    "open_issues": 3,
+    "updated_at": "2026-06-22T19:09:28Z",
+    "pushed_at": "2026-06-15T05:55:48Z",
+    "topics": [
+      "academic-writing",
+      "agent-skills",
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "protocol-design",
+      "rna-seq-data",
+      "science",
+      "scrna-seq-data",
+      "single-cell",
+      "spatial-transcriptomics"
+    ],
+    "application_area": "临床预测",
+    "score": 32.55,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "name": "OpenClaw-Medical-Skills",
+    "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+    "language": "Python",
+    "stars": 2740,
+    "forks": 381,
+    "open_issues": 11,
+    "updated_at": "2026-06-22T20:17:35Z",
+    "pushed_at": "2026-06-18T02:42:43Z",
+    "topics": [
+      "awesome",
+      "claude-code",
+      "clawhub",
+      "medical",
+      "nanoclaw",
+      "openclaw",
+      "openclaw-skills",
+      "skills"
+    ],
+    "application_area": "医学影像",
+    "score": 30.02,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8290,
+    "forks": 1531,
+    "open_issues": 508,
+    "updated_at": "2026-06-22T21:29:09Z",
+    "pushed_at": "2026-06-22T21:29:01Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.65,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "mlmed/torchxrayvision",
+    "name": "torchxrayvision",
+    "url": "https://github.com/mlmed/torchxrayvision",
+    "description": "TorchXRayVision: A library of chest X-ray datasets and models. Classifiers, segmentation, and autoencoders.",
+    "language": "Jupyter Notebook",
+    "stars": 1158,
+    "forks": 252,
+    "open_issues": 34,
+    "updated_at": "2026-06-22T18:24:55Z",
+    "pushed_at": "2026-06-22T18:24:52Z",
+    "topics": [
+      "chest-radiographs",
+      "chest-xray",
+      "chest-xray-images",
+      "cxr",
+      "cxr-images",
+      "dataset",
+      "deep-learning",
+      "foundation-models",
+      "image-classification",
+      "machine-learning",
+      "medical",
+      "medical-ai",
+      "medical-application",
+      "medical-image-analysis",
+      "medical-image-processing",
+      "medical-imaging",
+      "pytorch",
+      "torchxrayvision",
+      "transfer-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 28.26,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "andysingal/llm-course",
+    "name": "llm-course",
+    "url": "https://github.com/andysingal/llm-course",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": 869,
+    "forks": 132,
+    "open_issues": 2,
+    "updated_at": "2026-06-22T18:50:19Z",
+    "pushed_at": "2026-06-22T18:50:16Z",
+    "topics": [],
+    "application_area": "临床文本与大模型",
+    "score": 27.54,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 448,
+    "forks": 100,
+    "open_issues": 572,
+    "updated_at": "2026-06-22T19:54:02Z",
+    "pushed_at": "2026-06-22T19:53:58Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 26.42,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "foundation model",
+        "neural network"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "radiology",
+        "imaging",
+        "ehr"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1211,
+    "forks": 77,
+    "open_issues": 0,
+    "updated_at": "2026-06-22T01:45:50Z",
+    "pushed_at": "2026-06-20T07:56:40Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "AI agent skills published by NVIDIA",
+    "language": "Python",
+    "stars": 1701,
+    "forks": 190,
+    "open_issues": 12,
+    "updated_at": "2026-06-22T22:42:29Z",
+    "pushed_at": "2026-06-22T22:37:35Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.75,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "freeCodeCamp/awesome-quincy-larson-emails",
+    "name": "awesome-quincy-larson-emails",
+    "url": "https://github.com/freeCodeCamp/awesome-quincy-larson-emails",
+    "description": "This repository is an archive of emails that are sent by the awesome Quincy Larson every week.",
+    "language": "Python",
+    "stars": 1183,
+    "forks": 160,
+    "open_issues": 3,
+    "updated_at": "2026-06-22T21:20:21Z",
+    "pushed_at": "2026-06-22T21:20:19Z",
+    "topics": [],
+    "application_area": "临床文本与大模型",
+    "score": 24.4,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 477,
+    "forks": 54,
+    "open_issues": 5,
+    "updated_at": "2026-06-20T15:39:26Z",
+    "pushed_at": "2026-06-19T01:44:31Z",
+    "topics": [
+      "ai-virtual-cell",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.04,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 448,
+    "forks": 50,
+    "open_issues": 0,
+    "updated_at": "2026-06-22T14:11:11Z",
+    "pushed_at": "2026-06-22T14:10:42Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.77,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 631,
+    "forks": 95,
+    "open_issues": 3,
+    "updated_at": "2026-06-22T15:42:25Z",
+    "pushed_at": "2026-06-22T15:46:36Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 21.78,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "BioTender-max/awesome-bio-agent-skills",
+    "name": "awesome-bio-agent-skills",
+    "url": "https://github.com/BioTender-max/awesome-bio-agent-skills",
+    "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
+    "language": "Python",
+    "stars": 70,
+    "forks": 15,
+    "open_issues": 0,
+    "updated_at": "2026-06-22T09:10:48Z",
+    "pushed_at": "2026-06-22T09:10:43Z",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "biomedical",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "computational-biology",
+      "drug-discovery",
+      "genomics",
+      "llm",
+      "mcp",
+      "protein-design",
+      "proteomics",
+      "single-cell",
+      "skills",
+      "transcriptomics"
+    ],
+    "application_area": "病理与组学",
+    "score": 19.21
+  },
+  {
+    "full_name": "gopaljilab/Clinical-Insight-Engine",
+    "name": "Clinical-Insight-Engine",
+    "url": "https://github.com/gopaljilab/Clinical-Insight-Engine",
+    "description": "Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines a Python-based interpretable machine learning model with a modern React frontend, presenting results differently for clinicians and patients.",
+    "language": "HTML",
+    "stars": 22,
+    "forks": 84,
+    "open_issues": 349,
+    "updated_at": "2026-06-22T18:33:18Z",
+    "pushed_at": "2026-06-22T18:33:14Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 15.14
+  },
+  {
+    "full_name": "AtlasAnalyticsLab/MOOZY",
+    "name": "MOOZY",
+    "url": "https://github.com/AtlasAnalyticsLab/MOOZY",
+    "description": "[ECCV 2026] A Patient-First Foundation Model for Computational Pathology",
+    "language": "Python",
+    "stars": 20,
+    "forks": 0,
+    "open_issues": 3,
+    "updated_at": "2026-06-22T22:32:13Z",
+    "pushed_at": "2026-06-22T22:32:09Z",
+    "topics": [
+      "computational-pathology",
+      "digital-pathology",
+      "foundation-model",
+      "histopathology",
+      "medical-imaging",
+      "moozy",
+      "multiple-instance-learning",
+      "pathology-foundation-model",
+      "patient-encoder",
+      "patient-representation",
+      "self-supervised-learning",
+      "slide-encoder",
+      "slide-representation-learning",
+      "survival-prediction",
+      "whole-slide-image",
+      "wsi-foundation-model"
+    ],
+    "application_area": "医学影像",
+    "score": 14.49
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 7,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-06-22T22:25:35Z",
+    "pushed_at": "2026-06-22T22:25:30Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.26
+  },
+  {
+    "full_name": "GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "name": "Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "url": "https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "description": "A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a full-stack web application for interactive graph exploration.",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-22T16:37:56Z",
+    "pushed_at": "2026-06-22T16:37:52Z",
+    "topics": [
+      "fastapi",
+      "graph-database",
+      "medical-informatics",
+      "nlp",
+      "react",
+      "time-series"
+    ],
+    "application_area": "临床预测",
+    "score": 10.98
+  },
+  {
+    "full_name": "Anuragbera/Clinical-LLM-CDSS",
+    "name": "Clinical-LLM-CDSS",
+    "url": "https://github.com/Anuragbera/Clinical-LLM-CDSS",
+    "description": "AI-powered Clinical Decision Support System integrating OCR, NLP, Large Language Models, and machine learning for automated extraction, analysis, and prediction from electronic health records and laboratory reports.",
+    "language": "Python",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-22T17:59:00Z",
+    "pushed_at": "2026-06-22T17:58:34Z",
+    "topics": [],
+    "application_area": "临床文本与大模型",
+    "score": 8.8
+  },
+  {
+    "full_name": "StavanRKhobare/Explainable-Federated-Learning-Framework-for-Early-Epidemic-Forecasting",
+    "name": "Explainable-Federated-Learning-Framework-for-Early-Epidemic-Forecasting",
+    "url": "https://github.com/StavanRKhobare/Explainable-Federated-Learning-Framework-for-Early-Epidemic-Forecasting",
+    "description": "Explainable Federated Learning Framework for Early Epidemic Forecasting is a privacy-preserving artificial intelligence framework that enables multiple healthcare institutions to collaboratively predict dengue and malaria outbreaks without sharing sensitive patient data.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-22T19:20:35Z",
+    "pushed_at": "2026-06-22T19:20:30Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  }
+]
