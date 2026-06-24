@@ -1,5 +1,102 @@
 [
   {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 29153,
+    "forks": 2970,
+    "open_issues": 35,
+    "updated_at": "2026-06-24T00:27:51Z",
+    "pushed_at": "2026-06-23T23:48:47Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 39.67,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 1195,
+    "forks": 80,
+    "open_issues": 3,
+    "updated_at": "2026-06-23T21:52:55Z",
+    "pushed_at": "2026-06-23T10:32:42Z",
+    "topics": [
+      "academic-writing",
+      "agent-skills",
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "protocol-design",
+      "rna-seq-data",
+      "science",
+      "scrna-seq-data",
+      "single-cell",
+      "spatial-transcriptomics"
+    ],
+    "application_area": "临床预测",
+    "score": 32.57,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
+      ]
+    }
+  },
+  {
     "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
     "name": "OpenClaw-Medical-Skills",
     "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
@@ -37,50 +134,35 @@
     }
   },
   {
-    "full_name": "mlmed/torchxrayvision",
-    "name": "torchxrayvision",
-    "url": "https://github.com/mlmed/torchxrayvision",
-    "description": "TorchXRayVision: A library of chest X-ray datasets and models. Classifiers, segmentation, and autoencoders.",
-    "language": "Jupyter Notebook",
-    "stars": 1159,
-    "forks": 252,
-    "open_issues": 33,
-    "updated_at": "2026-06-23T06:42:34Z",
-    "pushed_at": "2026-06-23T06:44:37Z",
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8295,
+    "forks": 1531,
+    "open_issues": 505,
+    "updated_at": "2026-06-24T00:07:45Z",
+    "pushed_at": "2026-06-24T00:07:39Z",
     "topics": [
-      "chest-radiographs",
-      "chest-xray",
-      "chest-xray-images",
-      "cxr",
-      "cxr-images",
-      "dataset",
       "deep-learning",
-      "foundation-models",
-      "image-classification",
-      "machine-learning",
-      "medical",
-      "medical-ai",
-      "medical-application",
-      "medical-image-analysis",
+      "healthcare-imaging",
+      "medical-image-computing",
       "medical-image-processing",
-      "medical-imaging",
-      "pytorch",
-      "torchxrayvision",
-      "transfer-learning"
+      "monai",
+      "python3",
+      "pytorch"
     ],
     "application_area": "医学影像",
-    "score": 28.26,
+    "score": 29.65,
     "evidence_terms": {
       "ml": [
         "deep learning"
       ],
       "medical": [
         "medical",
-        "medicine",
         "clinical",
-        "patient",
-        "imaging",
-        "pathology"
+        "imaging"
       ]
     }
   },
@@ -147,59 +229,15 @@
     }
   },
   {
-    "full_name": "open-edge-platform/geti",
-    "name": "geti",
-    "url": "https://github.com/open-edge-platform/geti",
-    "description": "Build computer vision models in a fraction of the time and with less data.",
-    "language": "Python",
-    "stars": 1239,
-    "forks": 467,
-    "open_issues": 164,
-    "updated_at": "2026-06-23T17:55:10Z",
-    "pushed_at": "2026-06-23T16:42:20Z",
-    "topics": [
-      "action-recognition",
-      "automl",
-      "computer-vision",
-      "datumaro",
-      "deep-learning",
-      "geti",
-      "hyper-parameter-optimization",
-      "image-classification",
-      "image-segmentation",
-      "incremental-learning",
-      "machine-learning",
-      "neural-networks-compression",
-      "object-detection",
-      "openvino",
-      "pytorch",
-      "quantization",
-      "self-supervised-learning",
-      "semi-supervised-learning",
-      "transfer-learning"
-    ],
-    "application_area": "医学影像",
-    "score": 25.58,
-    "evidence_terms": {
-      "ml": [
-        "computer vision"
-      ],
-      "medical": [
-        "medical",
-        "imaging"
-      ]
-    }
-  },
-  {
     "full_name": "NVIDIA/skills",
     "name": "skills",
     "url": "https://github.com/NVIDIA/skills",
     "description": "AI agent skills published by NVIDIA",
     "language": "Python",
-    "stars": 1784,
+    "stars": 1785,
     "forks": 202,
     "open_issues": 13,
-    "updated_at": "2026-06-23T23:16:11Z",
+    "updated_at": "2026-06-23T23:41:26Z",
     "pushed_at": "2026-06-23T20:47:49Z",
     "topics": [],
     "application_area": "医学影像",
@@ -238,6 +276,40 @@
       "medical": [
         "medical",
         "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 479,
+    "forks": 54,
+    "open_issues": 5,
+    "updated_at": "2026-06-23T19:20:25Z",
+    "pushed_at": "2026-06-19T01:44:31Z",
+    "topics": [
+      "ai-virtual-cell",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.34,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
       ]
     }
   },
@@ -341,8 +413,8 @@
     "stars": 7,
     "forks": 4,
     "open_issues": 0,
-    "updated_at": "2026-06-23T21:32:22Z",
-    "pushed_at": "2026-06-23T21:32:17Z",
+    "updated_at": "2026-06-23T23:50:23Z",
+    "pushed_at": "2026-06-23T23:50:18Z",
     "topics": [
       "ai-in-healthcare-and-biology",
       "biomedical-ai",
@@ -361,6 +433,28 @@
     ],
     "application_area": "医学影像",
     "score": 12.26
+  },
+  {
+    "full_name": "GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "name": "Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "url": "https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "description": "A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a full-stack web application for interactive graph exploration.",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-23T04:11:22Z",
+    "pushed_at": "2026-06-23T04:11:18Z",
+    "topics": [
+      "fastapi",
+      "graph-database",
+      "medical-informatics",
+      "nlp",
+      "react",
+      "time-series"
+    ],
+    "application_area": "临床预测",
+    "score": 10.98
   },
   {
     "full_name": "Pirate-Hunter-Zoro/TRD-EHR",

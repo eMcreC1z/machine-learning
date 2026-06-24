@@ -5,16 +5,16 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 4.85,
+    "seconds": 2.42,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-06-14"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-06-14&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.02,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.11,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-14"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.35,
+    "seconds": 2.32,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-06-14"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.07,
+    "seconds": 2.3,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-06-14"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.26,
+    "seconds": 2.44,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-14"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.48,
+    "seconds": 2.29,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-06-14"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.26,
+    "seconds": 2.41,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-06-14"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.66,
+    "seconds": 1.76,
     "repo": "sindresorhus/awesome"
   },
   {
@@ -77,8 +77,26 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.17,
+    "seconds": 2.03,
     "repo": "awesome-selfhosted/awesome-selfhosted"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/K-Dense-AI/scientific-agent-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.7,
+    "repo": "K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Project-MONAI/MONAI/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.32,
+    "repo": "Project-MONAI/MONAI"
   },
   {
     "source": "github_readme",
@@ -86,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.07,
+    "seconds": 1.88,
     "repo": "ai-boost/awesome-prompts"
   },
   {
@@ -95,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.02,
+    "seconds": 2.08,
     "repo": "FreedomIntelligence/OpenClaw-Medical-Skills"
   },
   {
@@ -109,20 +127,11 @@
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/bobeff/programming-math-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.26,
-    "repo": "bobeff/programming-math-science"
-  },
-  {
-    "source": "github_readme",
     "url": "https://api.github.com/repos/NVIDIA/skills/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.62,
+    "seconds": 1.54,
     "repo": "NVIDIA/skills"
   },
   {
@@ -131,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.01,
+    "seconds": 1.72,
     "repo": "ai-boost/awesome-ai-for-science"
   },
   {
@@ -140,17 +149,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.22,
+    "seconds": 2.0,
     "repo": "valeman/awesome-conformal-prediction"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/open-edge-platform/geti/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.56,
-    "repo": "open-edge-platform/geti"
   },
   {
     "source": "github_readme",
@@ -158,17 +158,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.44,
+    "seconds": 2.32,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/mlmed/torchxrayvision/readme",
+    "url": "https://api.github.com/repos/aipoch/medical-research-skills/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.71,
-    "repo": "mlmed/torchxrayvision"
+    "seconds": 1.63,
+    "repo": "aipoch/medical-research-skills"
   },
   {
     "source": "github_readme",
@@ -176,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.05,
+    "seconds": 2.19,
     "repo": "andysingal/llm-course"
   },
   {
@@ -185,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.4,
+    "seconds": 2.18,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -194,17 +194,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.05,
+    "seconds": 2.25,
     "repo": "liutaocode/TTS-arxiv-daily"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/trackawesomelist/trackawesomelist/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.94,
-    "repo": "trackawesomelist/trackawesomelist"
   },
   {
     "source": "github_readme",
@@ -212,8 +203,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.02,
+    "seconds": 2.2,
     "repo": "best-of-ai/best-of-ai"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/OmicsML/awesome-foundation-model-single-cell-papers/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.65,
+    "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
     "source": "github_readme",
@@ -221,7 +221,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.12,
+    "seconds": 2.1,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.32
+    "seconds": 1.29
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.74
+    "seconds": 1.79
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.41
+    "seconds": 2.69
   }
 ]
