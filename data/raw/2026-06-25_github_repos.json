@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 29256,
-    "forks": 2980,
+    "stars": 29275,
+    "forks": 2985,
     "open_issues": 35,
-    "updated_at": "2026-06-25T01:45:33Z",
+    "updated_at": "2026-06-25T06:48:28Z",
     "pushed_at": "2026-06-23T23:48:47Z",
     "topics": [
       "agent-skills",
@@ -52,10 +52,10 @@
     "url": "https://github.com/aipoch/medical-research-skills",
     "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
     "language": "Python",
-    "stars": 1202,
+    "stars": 1203,
     "forks": 80,
     "open_issues": 3,
-    "updated_at": "2026-06-25T00:18:04Z",
+    "updated_at": "2026-06-25T06:42:14Z",
     "pushed_at": "2026-06-23T10:32:42Z",
     "topics": [
       "academic-writing",
@@ -80,7 +80,7 @@
       "spatial-transcriptomics"
     ],
     "application_area": "临床预测",
-    "score": 32.58,
+    "score": 32.59,
     "evidence_terms": {
       "ml": [
         "machine learning",
@@ -93,6 +93,75 @@
         "omics",
         "ehr",
         "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "tkarim45/Beginner-Data-Science-Projects",
+    "name": "Beginner-Data-Science-Projects",
+    "url": "https://github.com/tkarim45/Beginner-Data-Science-Projects",
+    "description": "This repository is a curated collection of hands-on data science projects tailored for beginners. Whether you're just starting your journey in data science or looking to strengthen your skills, these projects provide a practical and interactive way to apply your knowledge.",
+    "language": "Jupyter Notebook",
+    "stars": 2564,
+    "forks": 508,
+    "open_issues": 5,
+    "updated_at": "2026-06-25T06:46:35Z",
+    "pushed_at": "2026-06-25T06:46:30Z",
+    "topics": [
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "neural-network"
+    ],
+    "application_area": "医学影像",
+    "score": 30.7,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "disease",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8302,
+    "forks": 1538,
+    "open_issues": 507,
+    "updated_at": "2026-06-25T04:06:33Z",
+    "pushed_at": "2026-06-25T04:04:15Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.66,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
       ]
     }
   },
@@ -136,41 +205,6 @@
     }
   },
   {
-    "full_name": "TorchIO-project/torchio",
-    "name": "torchio",
-    "url": "https://github.com/TorchIO-project/torchio",
-    "description": "Medical imaging processing for AI applications.",
-    "language": "Python",
-    "stars": 2416,
-    "forks": 270,
-    "open_issues": 28,
-    "updated_at": "2026-06-24T21:55:46Z",
-    "pushed_at": "2026-06-24T21:55:43Z",
-    "topics": [
-      "augmentation",
-      "data-augmentation",
-      "deep-learning",
-      "machine-learning",
-      "medical-image-analysis",
-      "medical-image-computing",
-      "medical-image-processing",
-      "python",
-      "pytorch"
-    ],
-    "application_area": "医学影像",
-    "score": 26.58,
-    "evidence_terms": {
-      "ml": [
-        "deep learning",
-        "computer vision"
-      ],
-      "medical": [
-        "medical",
-        "imaging"
-      ]
-    }
-  },
-  {
     "full_name": "ai-boost/awesome-ai-for-science",
     "name": "awesome-ai-for-science",
     "url": "https://github.com/ai-boost/awesome-ai-for-science",
@@ -179,8 +213,8 @@
     "stars": 1670,
     "forks": 190,
     "open_issues": 54,
-    "updated_at": "2026-06-24T14:01:29Z",
-    "pushed_at": "2026-06-24T14:00:03Z",
+    "updated_at": "2026-06-25T02:05:57Z",
+    "pushed_at": "2026-06-25T02:05:53Z",
     "topics": [
       "ai-for-science",
       "ai4s",
@@ -244,14 +278,14 @@
     "url": "https://github.com/NVIDIA/skills",
     "description": "AI agent skills published by NVIDIA",
     "language": "Python",
-    "stars": 1820,
+    "stars": 1832,
     "forks": 205,
-    "open_issues": 11,
-    "updated_at": "2026-06-25T01:37:08Z",
-    "pushed_at": "2026-06-25T01:46:43Z",
+    "open_issues": 12,
+    "updated_at": "2026-06-25T06:53:39Z",
+    "pushed_at": "2026-06-25T05:25:47Z",
     "topics": [],
     "application_area": "医学影像",
-    "score": 24.91,
+    "score": 24.92,
     "evidence_terms": {
       "ml": [
         "llm"
@@ -298,7 +332,7 @@
     "stars": 481,
     "forks": 54,
     "open_issues": 5,
-    "updated_at": "2026-06-24T21:38:53Z",
+    "updated_at": "2026-06-25T06:17:08Z",
     "pushed_at": "2026-06-24T21:38:48Z",
     "topics": [
       "ai-virtual-cell",
@@ -357,6 +391,46 @@
     }
   },
   {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 636,
+    "forks": 96,
+    "open_issues": 4,
+    "updated_at": "2026-06-25T06:39:43Z",
+    "pushed_at": "2026-06-25T06:44:17Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 21.8,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
     "full_name": "BioTender-max/awesome-bio-agent-skills",
     "name": "awesome-bio-agent-skills",
     "url": "https://github.com/BioTender-max/awesome-bio-agent-skills",
@@ -391,6 +465,21 @@
     ],
     "application_area": "病理与组学",
     "score": 19.14
+  },
+  {
+    "full_name": "gopaljilab/Clinical-Insight-Engine",
+    "name": "Clinical-Insight-Engine",
+    "url": "https://github.com/gopaljilab/Clinical-Insight-Engine",
+    "description": "Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines a Python-based interpretable machine learning model with a modern React frontend, presenting results differently for clinicians and patients.",
+    "language": "HTML",
+    "stars": 23,
+    "forks": 86,
+    "open_issues": 338,
+    "updated_at": "2026-06-25T04:33:58Z",
+    "pushed_at": "2026-06-25T04:33:53Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 15.23
   },
   {
     "full_name": "AlterLab-IEU/AlterLab-Academic-Skills",
@@ -437,8 +526,8 @@
     "stars": 7,
     "forks": 4,
     "open_issues": 0,
-    "updated_at": "2026-06-25T01:14:54Z",
-    "pushed_at": "2026-06-25T01:14:51Z",
+    "updated_at": "2026-06-25T06:18:21Z",
+    "pushed_at": "2026-06-25T06:18:17Z",
     "topics": [
       "ai-in-healthcare-and-biology",
       "biomedical-ai",
@@ -478,21 +567,6 @@
       "time-series"
     ],
     "application_area": "临床预测",
-    "score": 10.84
-  },
-  {
-    "full_name": "Pirate-Hunter-Zoro/TRD-EHR",
-    "name": "TRD-EHR",
-    "url": "https://github.com/Pirate-Hunter-Zoro/TRD-EHR",
-    "description": "This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.",
-    "language": "Jupyter Notebook",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "updated_at": "2026-06-24T22:26:30Z",
-    "pushed_at": "2026-06-24T22:26:26Z",
-    "topics": [],
-    "application_area": "临床预测",
-    "score": 7.6
+    "score": 10.69
   }
 ]

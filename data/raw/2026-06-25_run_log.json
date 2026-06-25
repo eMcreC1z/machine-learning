@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.34,
+    "seconds": 2.46,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-06-15"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.89,
+    "seconds": 17.37,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-15"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.55,
+    "seconds": 2.44,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-06-15"
   },
   {
@@ -32,16 +32,16 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.08,
+    "seconds": 2.28,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-06-15"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-06-15&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.26,
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.01,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-15"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.01,
+    "seconds": 2.36,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-06-15"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.15,
+    "seconds": 2.47,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-06-15"
   },
   {
@@ -68,35 +68,26 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.55,
+    "seconds": 1.78,
     "repo": "K-Dense-AI/scientific-agent-skills"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
+    "url": "https://api.github.com/repos/Project-MONAI/MONAI/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.97,
-    "repo": "ai-boost/awesome-prompts"
+    "seconds": 1.45,
+    "repo": "Project-MONAI/MONAI"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/volcano-sh/volcano/readme",
-    "ok": false,
-    "status": null,
-    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.02,
-    "repo": "volcano-sh/volcano"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/TorchIO-project/torchio/readme",
+    "url": "https://api.github.com/repos/tkarim45/Beginner-Data-Science-Projects/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.83,
-    "repo": "TorchIO-project/torchio"
+    "seconds": 1.31,
+    "repo": "tkarim45/Beginner-Data-Science-Projects"
   },
   {
     "source": "github_readme",
@@ -104,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.72,
+    "seconds": 1.63,
     "repo": "NVIDIA/skills"
   },
   {
@@ -113,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.0,
+    "seconds": 2.07,
     "repo": "uhub/awesome-matlab"
   },
   {
@@ -122,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.9,
+    "seconds": 2.01,
     "repo": "ai-boost/awesome-ai-for-science"
   },
   {
@@ -131,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.91,
+    "seconds": 2.14,
     "repo": "valeman/awesome-conformal-prediction"
   },
   {
@@ -140,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.27,
+    "seconds": 2.35,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -149,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.49,
+    "seconds": 1.77,
     "repo": "aipoch/medical-research-skills"
   },
   {
@@ -158,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.32,
+    "seconds": 2.3,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -167,8 +158,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.98,
+    "seconds": 2.37,
     "repo": "liutaocode/TTS-arxiv-daily"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/best-of-ai/best-of-ai/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.07,
+    "repo": "best-of-ai/best-of-ai"
   },
   {
     "source": "github_readme",
@@ -176,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.72,
+    "seconds": 2.37,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -185,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.24,
+    "seconds": 2.1,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -194,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.7,
+    "seconds": 1.87,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -203,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.36,
+    "seconds": 2.12,
     "repo": "fregu856/papers"
   },
   {
@@ -212,17 +212,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.91,
+    "seconds": 2.3,
     "repo": "leipzig/awesome-reproducible-research"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/luohongk/Embodied-AI-Daily/readme",
+    "url": "https://api.github.com/repos/Trustworthy-AI-Group/Adversarial_Examples_Papers/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.4,
-    "repo": "luohongk/Embodied-AI-Daily"
+    "seconds": 2.13,
+    "repo": "Trustworthy-AI-Group/Adversarial_Examples_Papers"
   },
   {
     "source": "pubmed_esearch",
@@ -230,22 +230,22 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.38
+    "seconds": 1.28
   },
   {
     "source": "pubmed_esummary",
-    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42341370%2C42341366%2C42341346%2C42341328%2C42341297%2C42341289%2C42341288%2C42341243%2C42341241%2C42341235%2C42341109%2C42341084%2C42341059%2C42341015%2C42340990%2C42340921%2C42340907%2C42340859%2C42340858%2C42340760%2C42340710%2C42340682%2C42340677%2C42340671%2C42340655%2C42340636%2C42340574%2C42340562%2C42340561%2C42340471%2C42340469%2C42340466%2C42340456%2C42340453%2C42340437%2C42340425%2C42340329%2C42340328%2C42340317%2C42340261",
-    "ok": false,
-    "status": null,
-    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.0
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42343092%2C42343063%2C42343059%2C42343026%2C42343005%2C42342992%2C42342983%2C42342966%2C42342957%2C42342882%2C42342824%2C42342800%2C42342788%2C42342763%2C42342760%2C42342749%2C42342721%2C42342710%2C42342530%2C42342529%2C42342375%2C42342282%2C42342266%2C42342246%2C42342241%2C42342199%2C42341935%2C42341896%2C42341872%2C42341858%2C42341787%2C42341745%2C42341733%2C42341686%2C42341639%2C42341608%2C42341474%2C42341436%2C42341370%2C42341366",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.74
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-06-15%2Cuntil-pub-date%3A2026-06-25%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 6.92
+    "ok": false,
+    "status": null,
+    "error": "TimeoutError('The read operation timed out')",
+    "seconds": 16.06
   }
 ]
