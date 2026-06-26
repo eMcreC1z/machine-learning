@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 29334,
-    "forks": 2990,
+    "stars": 29336,
+    "forks": 2992,
     "open_issues": 35,
-    "updated_at": "2026-06-25T23:33:23Z",
+    "updated_at": "2026-06-26T00:41:42Z",
     "pushed_at": "2026-06-23T23:48:47Z",
     "topics": [
       "agent-skills",
@@ -102,10 +102,10 @@
     "url": "https://github.com/Project-MONAI/MONAI",
     "description": "AI Toolkit for Healthcare Imaging",
     "language": "Python",
-    "stars": 8307,
+    "stars": 8308,
     "forks": 1540,
     "open_issues": 507,
-    "updated_at": "2026-06-25T22:46:45Z",
+    "updated_at": "2026-06-26T00:31:33Z",
     "pushed_at": "2026-06-25T16:53:37Z",
     "topics": [
       "deep-learning",
@@ -176,40 +176,6 @@
         "medical",
         "diagnosis",
         "imaging"
-      ]
-    }
-  },
-  {
-    "full_name": "ai-boost/awesome-ai-for-science",
-    "name": "awesome-ai-for-science",
-    "url": "https://github.com/ai-boost/awesome-ai-for-science",
-    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
-    "language": "",
-    "stars": 1674,
-    "forks": 190,
-    "open_issues": 54,
-    "updated_at": "2026-06-25T20:10:35Z",
-    "pushed_at": "2026-06-25T14:18:09Z",
-    "topics": [
-      "ai-for-science",
-      "ai4s",
-      "ai4science",
-      "awesome",
-      "awesome-list",
-      "bioinformatics",
-      "scientific-ai"
-    ],
-    "application_area": "医学影像",
-    "score": 25.92,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "llm",
-        "nlp"
-      ],
-      "medical": [
-        "medicine",
-        "clinical"
       ]
     }
   },
@@ -317,6 +283,32 @@
     }
   },
   {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1212,
+    "forks": 77,
+    "open_issues": 0,
+    "updated_at": "2026-06-25T08:35:04Z",
+    "pushed_at": "2026-06-24T12:36:43Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
     "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
     "name": "awesome-foundation-model-single-cell-papers",
     "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
@@ -380,29 +372,6 @@
       "medical": [
         "clinical",
         "cancer"
-      ]
-    }
-  },
-  {
-    "full_name": "GPTomics/bioSkills",
-    "name": "bioSkills",
-    "url": "https://github.com/GPTomics/bioSkills",
-    "description": "a set of SKILLS.md for doing bioinformatics with agents like claude code",
-    "language": "Python",
-    "stars": 950,
-    "forks": 167,
-    "open_issues": 0,
-    "updated_at": "2026-06-25T17:38:43Z",
-    "pushed_at": "2026-06-25T17:38:52Z",
-    "topics": [],
-    "application_area": "医学影像",
-    "score": 22.05,
-    "evidence_terms": {
-      "ml": [
-        "deep learning"
-      ],
-      "medical": [
-        "clinical"
       ]
     }
   },
@@ -475,42 +444,6 @@
     "topics": [],
     "application_area": "临床预测",
     "score": 15.23
-  },
-  {
-    "full_name": "AlterLab-IEU/AlterLab-Academic-Skills",
-    "name": "AlterLab-Academic-Skills",
-    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills",
-    "description": "210 evaluated academic Claude/agent skills across 16 research domains — bioinformatics, cheminformatics, data science, databases, clinical, Turkish academia & more. Every skill ships an executable eval (agentskills.io schema). Citation verifier + research→write→review→publish pipeline. Claude Code, Cursor, Codex, Gemini CLI & Copilot.",
-    "language": "Python",
-    "stars": 34,
-    "forks": 6,
-    "open_issues": 2,
-    "updated_at": "2026-06-24T16:04:53Z",
-    "pushed_at": "2026-06-24T15:43:24Z",
-    "topics": [
-      "academic-research",
-      "agent-skills",
-      "anthropic",
-      "bioinformatics",
-      "cheminformatics",
-      "citation",
-      "claude",
-      "claude-code",
-      "claude-skills",
-      "clinical-research",
-      "data-science",
-      "data-visualization",
-      "llm-agents",
-      "model-context-protocol",
-      "prompt-engineering",
-      "reproducible-research",
-      "research-tools",
-      "scientific-computing",
-      "scientific-writing",
-      "turkish-academia"
-    ],
-    "application_area": "临床文本与大模型",
-    "score": 14.1
   },
   {
     "full_name": "SaharStudios/LungCancerClassification",

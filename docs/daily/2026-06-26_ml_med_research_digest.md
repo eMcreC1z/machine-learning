@@ -1,37 +1,39 @@
 # 医学机器学习自动整理日报 - 2026-06-26
 
-> 自动采集时间：2026-06-26 08:27:25。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-06-26 08:53:17。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：19 个
+- GitHub 项目候选：17 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：4 篇
-- 采集异常来源：1 个
+- 采集异常来源：3 个
 
 ## 采集限制
 
-- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
+- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
+- github_readme: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
 
 ## 优先关注 GitHub 项目
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 29334 | 2026-06-25T23:33:23Z | 医学影像 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scien... |
+| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 29336 | 2026-06-26T00:41:42Z | 医学影像 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scien... |
 | 2 | [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | 1231 | 2026-06-25T23:41:35Z | 临床预测 | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.；评分 32.64 |
-| 3 | [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | 8307 | 2026-06-25T22:46:45Z | 医学影像 | AI Toolkit for Healthcare Imaging；评分 29.66 |
+| 3 | [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | 8308 | 2026-06-26T00:31:33Z | 医学影像 | AI Toolkit for Healthcare Imaging；评分 29.66 |
 | 4 | [mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) | 2072 | 2026-06-25T20:32:36Z | 医学影像 | This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and... |
-| 5 | [ai-boost/awesome-ai-for-science](https://github.com/ai-boost/awesome-ai-for-science) | 1674 | 2026-06-25T20:10:35Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
-| 6 | [open-edge-platform/geti](https://github.com/open-edge-platform/geti) | 1247 | 2026-06-25T18:14:27Z | 医学影像 | Build computer vision models in a fraction of the time and with less data.；评分 25.59 |
-| 7 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 1860 | 2026-06-25T21:50:01Z | 医学影像 | AI agent skills published by NVIDIA；评分 24.95 |
-| 8 | [fregu856/papers](https://github.com/fregu856/papers) | 414 | 2026-06-24T12:25:35Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).；评分 24.95 |
+| 5 | [open-edge-platform/geti](https://github.com/open-edge-platform/geti) | 1247 | 2026-06-25T18:14:27Z | 医学影像 | Build computer vision models in a fraction of the time and with less data.；评分 25.59 |
+| 6 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 1860 | 2026-06-25T21:50:01Z | 医学影像 | AI agent skills published by NVIDIA；评分 24.95 |
+| 7 | [fregu856/papers](https://github.com/fregu856/papers) | 414 | 2026-06-24T12:25:35Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).；评分 24.95 |
+| 8 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1212 | 2026-06-25T08:35:04Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.77 |
 | 9 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 482 | 2026-06-25T14:19:16Z | 病理与组学 | 近期活跃项目；评分 24.35 |
 | 10 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 448 | 2026-06-25T15:19:26Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.77 |
-| 11 | [GPTomics/bioSkills](https://github.com/GPTomics/bioSkills) | 950 | 2026-06-25T17:38:43Z | 医学影像 | a set of SKILLS.md for doing bioinformatics with agents like claude code；评分 22.05 |
-| 12 | [best-of-ai/best-of-ai](https://github.com/best-of-ai/best-of-ai) | 639 | 2026-06-25T23:11:26Z | 医学影像 | A curated list of best ai tools；评分 21.8 |
-| 13 | [CogStack/cogstack-nlp](https://github.com/CogStack/cogstack-nlp) | 68 | 2026-06-25T15:38:59Z | 临床文本与大模型 | CogStack NLP, including the Medical Concept Annotation Tool MedCAT；评分 15.87 |
-| 14 | [gopaljilab/Clinical-Insight-Engine](https://github.com/gopaljilab/Clinical-Insight-Engine) | 23 | 2026-06-25T20:13:01Z | 临床预测 | Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines... |
-| 15 | [AlterLab-IEU/AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) | 34 | 2026-06-24T16:04:53Z | 临床文本与大模型 | 210 evaluated academic Claude/agent skills across 16 research domains — bioinformatics, cheminformatics, data science, databases, clinical, Turkish academia &... |
+| 11 | [best-of-ai/best-of-ai](https://github.com/best-of-ai/best-of-ai) | 639 | 2026-06-25T23:11:26Z | 医学影像 | A curated list of best ai tools；评分 21.8 |
+| 12 | [CogStack/cogstack-nlp](https://github.com/CogStack/cogstack-nlp) | 68 | 2026-06-25T15:38:59Z | 临床文本与大模型 | CogStack NLP, including the Medical Concept Annotation Tool MedCAT；评分 15.87 |
+| 13 | [gopaljilab/Clinical-Insight-Engine](https://github.com/gopaljilab/Clinical-Insight-Engine) | 23 | 2026-06-25T20:13:01Z | 临床预测 | Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines... |
+| 14 | [SaharStudios/LungCancerClassification](https://github.com/SaharStudios/LungCancerClassification) | 7 | 2026-06-25T22:17:22Z | 医学影像 | This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using St... |
+| 15 | [justin-marian/awesome-medical-rag](https://github.com/justin-marian/awesome-medical-rag) | 7 | 2026-06-25T16:27:36Z | 临床文本与大模型 | ⭐ Awesome Medical QA/RAG: A curated collection of 250+ papers, datasets, and benchmarks for Healthcare AI, Medical RAG, Knowledge Graphs, Clinical LLMs, and Mu... |
 
 ## 高水平论文候选
 
@@ -111,33 +113,33 @@
 
 ## 运行来源
 
+- github: OK; status=200; seconds=2.56
+- github: OK; status=200; seconds=2.28
+- github: OK; status=200; seconds=2.22
+- github: OK; status=200; seconds=2.4
 - github: OK; status=200; seconds=2.46
-- github: OK; status=200; seconds=2.15
-- github: FAILED; status=None; seconds=5.0
-- github: OK; status=200; seconds=2.2
-- github: OK; status=200; seconds=2.42
-- github: OK; status=200; seconds=2.07
-- github: OK; status=200; seconds=2.49
-- github_readme: OK; status=200; seconds=1.54
-- github_readme: OK; status=200; seconds=1.66
-- github_readme: OK; status=200; seconds=1.31
+- github: FAILED; status=403; seconds=1.31
+- github: FAILED; status=403; seconds=1.16
+- github_readme: OK; status=200; seconds=1.56
+- github_readme: OK; status=200; seconds=1.59
+- github_readme: OK; status=200; seconds=1.45
+- github_readme: OK; status=200; seconds=1.92
+- github_readme: OK; status=200; seconds=2.09
+- github_readme: OK; status=200; seconds=1.47
+- github_readme: OK; status=200; seconds=1.93
+- github_readme: OK; status=200; seconds=2.17
+- github_readme: OK; status=200; seconds=1.44
+- github_readme: OK; status=200; seconds=1.57
+- github_readme: OK; status=200; seconds=2.18
+- github_readme: FAILED; status=None; seconds=5.01
+- github_readme: OK; status=200; seconds=2.45
 - github_readme: OK; status=200; seconds=1.9
-- github_readme: OK; status=200; seconds=2.33
-- github_readme: OK; status=200; seconds=1.81
-- github_readme: OK; status=200; seconds=1.91
-- github_readme: OK; status=200; seconds=1.43
-- github_readme: OK; status=200; seconds=1.6
-- github_readme: OK; status=200; seconds=1.62
-- github_readme: OK; status=200; seconds=2.26
-- github_readme: OK; status=200; seconds=1.88
-- github_readme: OK; status=200; seconds=1.67
-- github_readme: OK; status=200; seconds=2.41
-- github_readme: OK; status=200; seconds=1.81
-- github_readme: OK; status=200; seconds=2.41
-- github_readme: OK; status=200; seconds=1.33
-- github_readme: OK; status=200; seconds=1.25
-- pubmed_esearch: OK; status=200; seconds=1.35
-- pubmed_esummary: OK; status=200; seconds=1.69
-- crossref: OK; status=200; seconds=6.26
+- github_readme: OK; status=200; seconds=1.73
+- github_readme: OK; status=200; seconds=2.09
+- github_readme: OK; status=200; seconds=1.72
+- github_readme: OK; status=200; seconds=2.22
+- pubmed_esearch: OK; status=200; seconds=1.29
+- pubmed_esummary: OK; status=200; seconds=1.72
+- crossref: OK; status=200; seconds=7.69
 
 本次运行已完成：2026-06-26_ml_med_research_digest.md
