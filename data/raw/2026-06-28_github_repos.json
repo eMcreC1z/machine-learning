@@ -1,0 +1,489 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 29467,
+    "forks": 3003,
+    "open_issues": 36,
+    "updated_at": "2026-06-27T23:06:13Z",
+    "pushed_at": "2026-06-23T23:48:47Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 39.69,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 1248,
+    "forks": 83,
+    "open_issues": 3,
+    "updated_at": "2026-06-27T22:44:55Z",
+    "pushed_at": "2026-06-23T10:32:42Z",
+    "topics": [
+      "academic-writing",
+      "agent-skills",
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "protocol-design",
+      "rna-seq-data",
+      "science",
+      "scrna-seq-data",
+      "single-cell",
+      "spatial-transcriptomics"
+    ],
+    "application_area": "临床预测",
+    "score": 32.67,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 453,
+    "forks": 43,
+    "open_issues": 0,
+    "updated_at": "2026-06-27T02:30:19Z",
+    "pushed_at": "2026-06-27T02:30:15Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 31.09,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "diagnosis",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 391,
+    "forks": 49,
+    "open_issues": 27,
+    "updated_at": "2026-06-24T19:15:15Z",
+    "pushed_at": "2026-06-24T19:15:11Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.09,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1677,
+    "forks": 192,
+    "open_issues": 54,
+    "updated_at": "2026-06-27T15:25:46Z",
+    "pushed_at": "2026-06-27T15:25:42Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 25.93,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1212,
+    "forks": 77,
+    "open_issues": 0,
+    "updated_at": "2026-06-27T11:55:11Z",
+    "pushed_at": "2026-06-27T11:55:07Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 484,
+    "forks": 54,
+    "open_issues": 5,
+    "updated_at": "2026-06-26T21:34:07Z",
+    "pushed_at": "2026-06-24T21:38:48Z",
+    "topics": [
+      "ai-virtual-cell",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.21,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 448,
+    "forks": 50,
+    "open_issues": 0,
+    "updated_at": "2026-06-27T12:22:09Z",
+    "pushed_at": "2026-06-27T12:22:05Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.77,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 414,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-06-27T14:44:14Z",
+    "pushed_at": "2026-06-27T14:44:11Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 22.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medicine",
+        "pathology",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "GPTomics/bioSkills",
+    "name": "bioSkills",
+    "url": "https://github.com/GPTomics/bioSkills",
+    "description": "a set of SKILLS.md for doing bioinformatics with agents like claude code",
+    "language": "Python",
+    "stars": 954,
+    "forks": 169,
+    "open_issues": 0,
+    "updated_at": "2026-06-27T18:11:46Z",
+    "pushed_at": "2026-06-27T18:11:47Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.07,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "pavanbadempet/AI-Healthcare-System",
+    "name": "AI-Healthcare-System",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System",
+    "description": "Privacy-first clinical intelligence & EHR platform. React 19 Vite portal, FastAPI backend, LangGraph RAG, local Ollama LLM, XGBoost diagnostics (Diabetes, Heart, Liver, Kidney, Lungs), HL7 FHIR R4, ABDM consent stack, PySpark Delta Lake, Terraform AWS EKS IaC, Prometheus telemetry.",
+    "language": "Python",
+    "stars": 31,
+    "forks": 9,
+    "open_issues": 1,
+    "updated_at": "2026-06-27T18:46:59Z",
+    "pushed_at": "2026-06-27T18:46:56Z",
+    "topics": [
+      "ai-healthcare",
+      "chatbot",
+      "disease-prediction",
+      "fastapi",
+      "gemini",
+      "generative-ai",
+      "healthcare",
+      "healthcare-ai",
+      "langgraph",
+      "machine-learning",
+      "medical-ai",
+      "medical-chatbot",
+      "mlops",
+      "pyspark",
+      "rag-pipeline",
+      "react",
+      "scikit-learn",
+      "vector-database",
+      "vite",
+      "xgboost"
+    ],
+    "application_area": "临床预测",
+    "score": 15.12
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 7,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-06-27T22:43:03Z",
+    "pushed_at": "2026-06-27T22:43:00Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.26
+  },
+  {
+    "full_name": "GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "name": "Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "url": "https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "description": "A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a full-stack web application for interactive graph exploration.",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-26T07:22:32Z",
+    "pushed_at": "2026-06-26T07:22:29Z",
+    "topics": [
+      "fastapi",
+      "graph-database",
+      "medical-informatics",
+      "nlp",
+      "react",
+      "time-series"
+    ],
+    "application_area": "临床预测",
+    "score": 10.84
+  },
+  {
+    "full_name": "NonyeAnams/computational-bio-portfolio",
+    "name": "computational-bio-portfolio",
+    "url": "https://github.com/NonyeAnams/computational-bio-portfolio",
+    "description": "Computational biology and data science portfolio showcasing end-to-end analyses of transcriptomic, single-cell, and public health datasets using Python, R, and machine learning to study disease mechanisms, survival outcomes, and biological systems.",
+    "language": "",
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 0,
+    "updated_at": "2026-06-26T12:08:29Z",
+    "pushed_at": "2026-06-26T12:08:26Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 9.11
+  },
+  {
+    "full_name": "ZohoorAlmalkiUQU/clinical-decision-agent-amr",
+    "name": "clinical-decision-agent-amr",
+    "url": "https://github.com/ZohoorAlmalkiUQU/clinical-decision-agent-amr",
+    "description": "GROUP-6-UQU-CS6117 (Zohoor Almalki, Nada Alfhmi, Wojood Almatrfi). This project is developed by Master's students in Artificial Intelligence at Umm Al-Qura University.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-27T23:09:08Z",
+    "pushed_at": "2026-06-27T23:09:04Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  },
+  {
+    "full_name": "Raj-savaran/AI-Medical-Diagnostic-System",
+    "name": "AI-Medical-Diagnostic-System",
+    "url": "https://github.com/Raj-savaran/AI-Medical-Diagnostic-System",
+    "description": "An intelligent healthcare application built using Python, Streamlit, Machine Learning, and Generative AI. The system provides disease prediction based on symptoms, X-ray image analysis, medical report analysis, AI-powered medical chatbot assistance, medicine guidance, BMI calculation, and patient health management.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-27T15:11:58Z",
+    "pushed_at": "2026-06-27T15:11:54Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  }
+]
