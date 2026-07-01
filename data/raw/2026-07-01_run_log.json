@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.4,
+    "seconds": 1.77,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-06-21"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.41,
+    "seconds": 1.53,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-21"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.48,
+    "seconds": 1.44,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-06-21"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.44,
+    "seconds": 2.7,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-06-21"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.4,
+    "seconds": 2.34,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-21"
   },
   {
@@ -50,16 +50,16 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.39,
+    "seconds": 2.32,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-06-21"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-06-21&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.202.18. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 0.3,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.43,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-06-21"
   },
   {
@@ -68,17 +68,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.89,
+    "seconds": 1.87,
     "repo": "sindresorhus/awesome"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/awesome-selfhosted/awesome-selfhosted/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.07,
-    "repo": "awesome-selfhosted/awesome-selfhosted"
   },
   {
     "source": "github_readme",
@@ -86,26 +77,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.78,
+    "seconds": 1.72,
     "repo": "K-Dense-AI/scientific-agent-skills"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/volcano-sh/volcano/readme",
+    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.75,
-    "repo": "volcano-sh/volcano"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/alvinreal/awesome-opensource-ai/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.06,
-    "repo": "alvinreal/awesome-opensource-ai"
+    "seconds": 2.34,
+    "repo": "ai-boost/awesome-prompts"
   },
   {
     "source": "github_readme",
@@ -113,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.84,
+    "seconds": 1.75,
     "repo": "NVIDIA/skills"
   },
   {
@@ -122,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.91,
+    "seconds": 2.1,
     "repo": "mathworks/MATLAB-Simulink-Challenge-Project-Hub"
   },
   {
@@ -131,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.1,
+    "seconds": 2.19,
     "repo": "uhub/awesome-matlab"
   },
   {
@@ -140,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.07,
+    "seconds": 1.97,
     "repo": "ai4s-research/awesome-ai-for-science"
   },
   {
@@ -149,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.06,
+    "seconds": 1.69,
     "repo": "aipoch/medical-research-skills"
   },
   {
@@ -158,8 +140,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.21,
+    "seconds": 2.61,
     "repo": "liliu-avril/Awesome-Segment-Anything"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/uhub/awesome-python/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.23,
+    "repo": "uhub/awesome-python"
   },
   {
     "source": "github_readme",
@@ -167,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.17,
+    "seconds": 2.46,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -176,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.88,
+    "seconds": 1.84,
     "repo": "hazratali/awesome-ai-summerschool"
   },
   {
@@ -185,17 +176,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.2,
+    "seconds": 2.37,
     "repo": "liutaocode/TTS-arxiv-daily"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/trackawesomelist/trackawesomelist/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.07,
-    "repo": "trackawesomelist/trackawesomelist"
   },
   {
     "source": "github_readme",
@@ -203,8 +185,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.83,
+    "seconds": 1.87,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/mk-runner/Awesome-Radiology-Report-Generation/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.26,
+    "repo": "mk-runner/Awesome-Radiology-Report-Generation"
   },
   {
     "source": "github_readme",
@@ -212,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.07,
+    "seconds": 2.11,
     "repo": "vdemichev/DiaNN"
   },
   {
@@ -221,8 +212,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.58,
+    "seconds": 2.87,
     "repo": "zezhishao/DailyArXiv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/imteekay/machine-learning-research/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.95,
+    "repo": "imteekay/machine-learning-research"
   },
   {
     "source": "pubmed_esearch",
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.99
+    "seconds": 1.68
   },
   {
     "source": "pubmed_esummary",
@@ -238,14 +238,14 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.51
+    "seconds": 2.24
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-06-21%2Cuntil-pub-date%3A2026-07-01%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 7.85
+    "ok": false,
+    "status": 429,
+    "error": "HTTP 429: ",
+    "seconds": 1.3
   }
 ]

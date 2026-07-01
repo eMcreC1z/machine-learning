@@ -21,21 +21,6 @@
     "score": 8.1
   },
   {
-    "title": "A Novel CT Habitat Radiomics Approach for HER2 Status Prediction in Gastric Cancer",
-    "journal": "Academic Radiology",
-    "date": "2026-07",
-    "authors": [],
-    "pmid": null,
-    "doi": "10.1016/j.acra.2026.02.039",
-    "url": "https://doi.org/10.1016/j.acra.2026.02.039",
-    "source": "Crossref",
-    "application_area": "医学影像",
-    "priority_journal": true,
-    "citation_count": 1,
-    "cas_q1_note": "高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 7.9
-  },
-  {
     "title": "Deep learning and machine learning in image-based hepatocellular carcinoma detection: a systematic review and meta-analysis.",
     "journal": "Abdominal radiology (New York)",
     "date": "2026 Jun 30",
@@ -75,21 +60,6 @@
     "priority_journal": true,
     "cas_q1_note": "高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核",
     "score": 7.4
-  },
-  {
-    "title": "Deep learning-based segmentation and quantification of pulmonary masses on apparent diffusion coefficient maps: a multicentre reproducibility study",
-    "journal": "European Journal of Radiology",
-    "date": "2026-07",
-    "authors": [],
-    "pmid": null,
-    "doi": "10.1016/j.ejrad.2026.112881",
-    "url": "https://doi.org/10.1016/j.ejrad.2026.112881",
-    "source": "Crossref",
-    "application_area": "医学影像",
-    "priority_journal": true,
-    "citation_count": 0,
-    "cas_q1_note": "高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 6.9
   },
   {
     "title": "Physiology-guided Self-supervised Learning for Simultaneous Dual-Tracer PET Separation.",
@@ -318,51 +288,6 @@
     "priority_journal": false,
     "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
     "score": 1.7
-  },
-  {
-    "title": "Empowering Traditional Chinese Medicine with artificial intelligence: Innovations in quality control, therapeutic applications, and industrialization",
-    "journal": "TrAC Trends in Analytical Chemistry",
-    "date": "2026-07",
-    "authors": [],
-    "pmid": null,
-    "doi": "10.1016/j.trac.2026.118856",
-    "url": "https://doi.org/10.1016/j.trac.2026.118856",
-    "source": "Crossref",
-    "application_area": "药物与转化",
-    "priority_journal": false,
-    "citation_count": 1,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.5
-  },
-  {
-    "title": "Artificial intelligence in gastroenterology clinical practice: Scoping review of large language model applications",
-    "journal": "International Journal of Medical Informatics",
-    "date": "2026-07",
-    "authors": [],
-    "pmid": null,
-    "doi": "10.1016/j.ijmedinf.2026.106413",
-    "url": "https://doi.org/10.1016/j.ijmedinf.2026.106413",
-    "source": "Crossref",
-    "application_area": "临床文本与大模型",
-    "priority_journal": false,
-    "citation_count": 0,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.2
-  },
-  {
-    "title": "Targeting tau-mitochondrial crosstalk in Alzheimer’s disease with an Integrative multi-omics and artificial intelligence driven tools for the development of disease-modifying therapeutics",
-    "journal": "Ageing Research Reviews",
-    "date": "2026-07",
-    "authors": [],
-    "pmid": null,
-    "doi": "10.1016/j.arr.2026.103186",
-    "url": "https://doi.org/10.1016/j.arr.2026.103186",
-    "source": "Crossref",
-    "application_area": "病理与组学",
-    "priority_journal": false,
-    "citation_count": 0,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.2
   },
   {
     "title": "APOBEC mutational signatures predict immune checkpoint inhibitor benefit in TMB-low metastatic NSCLC independent of PD-L1 status.",
@@ -781,6 +706,100 @@
     "pmid": "42377013",
     "doi": "10.1080/14779072.2026.2698021",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42377013/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Deep Learning Network-Tailored Microenvironment Matching of 4D Bioprinting Bioactive Scaffolds for Bone Regeneration.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "date": "2026 Jun 30",
+    "authors": [
+      "Liang X",
+      "Zhang Y",
+      "Hu W",
+      "Lv S",
+      "Jia F",
+      "Zhang Y"
+    ],
+    "pmid": "42376942",
+    "doi": "10.1002/advs.76351",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376942/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Latent Space Projections and Atlases, a Cautionary Tale in Deep Neuroimaging using Autoencoders.",
+    "journal": "International journal of neural systems",
+    "date": "2026 Jun 30",
+    "authors": [
+      "Gorriz JM",
+      "Segovia F",
+      "Jimenez-Mesa C",
+      "Arco JE",
+      "Martinez FJ",
+      "Ramirez J"
+    ],
+    "pmid": "42376832",
+    "doi": "10.1142/S012906572650053X",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376832/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Deep learning-based dose prediction for MR-guided prostate SIB: Supporting rapid feasibility assessment and adaptive editing margin selection.",
+    "journal": "Medical physics",
+    "date": "2026 Jul",
+    "authors": [
+      "Cheng HW",
+      "Tseng WC",
+      "Yan G",
+      "Li J",
+      "Liu C"
+    ],
+    "pmid": "42376806",
+    "doi": "10.1002/mp.70547",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376806/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "AI foundation models in plant biology.",
+    "journal": "The New phytologist",
+    "date": "2026 Jun 30",
+    "authors": [
+      "Yu H"
+    ],
+    "pmid": "42376795",
+    "doi": "10.1111/nph.71395",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376795/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Exploring medical Artificial Intelligence Readiness among Korean medical students: a cross-sectional study.",
+    "journal": "Medical education online",
+    "date": "2026 Dec 31",
+    "authors": [
+      "Si J"
+    ],
+    "pmid": "42376791",
+    "doi": "10.1080/10872981.2026.2696610",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376791/",
     "source": "PubMed",
     "application_area": "综合医学机器学习",
     "priority_journal": false,
