@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.71,
+    "seconds": 2.43,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-06-24"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.47,
+    "seconds": 2.34,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-24"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.43,
+    "seconds": 2.39,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-06-24"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.34,
+    "seconds": 2.57,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-06-24"
   },
   {
@@ -41,25 +41,25 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.38,
+    "seconds": 2.55,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-24"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-06-24&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.187.192. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 0.3,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.48,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-06-24"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-06-24&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.187.192. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 0.33,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.56,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-06-24"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.84,
+    "seconds": 1.78,
     "repo": "practical-tutorials/project-based-learning"
   },
   {
@@ -77,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.81,
+    "seconds": 2.0,
     "repo": "K-Dense-AI/scientific-agent-skills"
   },
   {
@@ -86,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.81,
+    "seconds": 1.88,
     "repo": "NVIDIA/skills"
   },
   {
@@ -95,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.03,
+    "seconds": 2.22,
     "repo": "ai4s-research/awesome-ai-for-science"
   },
   {
@@ -104,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.73,
+    "seconds": 1.64,
     "repo": "open-edge-platform/geti"
   },
   {
@@ -113,16 +113,16 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.2,
+    "seconds": 2.75,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
     "source": "github_readme",
     "url": "https://api.github.com/repos/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.03,
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.01,
     "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
   },
   {
@@ -131,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.83,
+    "seconds": 1.95,
     "repo": "GPTomics/bioSkills"
   },
   {
@@ -140,8 +140,26 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.24,
+    "seconds": 2.38,
     "repo": "superiorlu/AITreasureBox"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Ruixxxx/Awesome-Vision-Mamba-Models/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.98,
+    "repo": "Ruixxxx/Awesome-Vision-Mamba-Models"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/liutaocode/TTS-arxiv-daily/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.45,
+    "repo": "liutaocode/TTS-arxiv-daily"
   },
   {
     "source": "github_readme",
@@ -149,8 +167,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.04,
+    "seconds": 2.46,
     "repo": "trackawesomelist/trackawesomelist"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/TissueImageAnalytics/tiatoolbox/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.61,
+    "repo": "TissueImageAnalytics/tiatoolbox"
   },
   {
     "source": "github_readme",
@@ -158,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.83,
+    "seconds": 1.85,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -167,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.92,
+    "seconds": 2.08,
     "repo": "mk-runner/Awesome-Radiology-Report-Generation"
   },
   {
@@ -176,16 +203,16 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.01,
+    "seconds": 2.5,
     "repo": "imteekay/machine-learning-research"
   },
   {
     "source": "github_readme",
     "url": "https://api.github.com/repos/fregu856/papers/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.17,
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.01,
     "repo": "fregu856/papers"
   },
   {
@@ -194,35 +221,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.11,
+    "seconds": 2.08,
     "repo": "leipzig/awesome-reproducible-research"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/Jianqiuer/Awesome6DPoseEstimation/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.63,
-    "repo": "Jianqiuer/Awesome6DPoseEstimation"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/matrix-agent/awesome-agentic-world-modeling/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.22,
-    "repo": "matrix-agent/awesome-agentic-world-modeling"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/JSONbored/awesome-claude/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.13,
-    "repo": "JSONbored/awesome-claude"
   },
   {
     "source": "pubmed_esearch",
@@ -230,22 +230,22 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.88
+    "seconds": 1.93
   },
   {
     "source": "pubmed_esummary",
     "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42399990%2C42399936%2C42399913%2C42399867%2C42399832%2C42399770%2C42399741%2C42399663%2C42399552%2C42399459%2C42399449%2C42399390%2C42399363%2C42399342%2C42399284%2C42399229%2C42399073%2C42399004%2C42398923%2C42398843%2C42398786%2C42398662%2C42398583%2C42398581%2C42398552%2C42398398%2C42398343%2C42398341%2C42399880%2C42399808%2C42399746%2C42399673%2C42399595%2C42399514%2C42399497%2C42399485%2C42399406%2C42399403%2C42399351%2C42399348",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.71
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.01
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-06-24%2Cuntil-pub-date%3A2026-07-04%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 7.15
+    "ok": false,
+    "status": 429,
+    "error": "HTTP 429: ",
+    "seconds": 1.37
   }
 ]

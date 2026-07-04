@@ -6,7 +6,7 @@
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
     "stars": 30092,
-    "forks": 3041,
+    "forks": 3042,
     "open_issues": 36,
     "updated_at": "2026-07-04T06:51:39Z",
     "pushed_at": "2026-07-01T23:59:26Z",
@@ -43,42 +43,6 @@
         "radiology",
         "imaging",
         "pathology"
-      ]
-    }
-  },
-  {
-    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
-    "name": "Awesome-AI-Agents-for-Healthcare",
-    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
-    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
-    "language": "",
-    "stars": 1116,
-    "forks": 120,
-    "open_issues": 7,
-    "updated_at": "2026-07-03T16:31:05Z",
-    "pushed_at": "2026-07-01T20:42:14Z",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "healthcare-agents",
-      "medical-agents"
-    ],
-    "application_area": "医学影像",
-    "score": 35.52,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "artificial intelligence",
-        "large language model",
-        "llm"
-      ],
-      "medical": [
-        "medical",
-        "medicine",
-        "clinical",
-        "patient",
-        "diagnosis",
-        "radiology"
       ]
     }
   },
@@ -126,7 +90,7 @@
     "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
     "language": "",
     "stars": 1706,
-    "forks": 195,
+    "forks": 196,
     "open_issues": 55,
     "updated_at": "2026-07-04T04:45:12Z",
     "pushed_at": "2026-07-04T04:45:08Z",
@@ -191,6 +155,48 @@
         "imaging",
         "genomics",
         "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 537,
+    "forks": 106,
+    "open_issues": 15,
+    "updated_at": "2026-07-03T13:28:44Z",
+    "pushed_at": "2026-07-03T15:56:18Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.37,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
       ]
     }
   },
@@ -380,35 +386,131 @@
     }
   },
   {
-    "full_name": "fregu856/papers",
-    "name": "papers",
-    "url": "https://github.com/fregu856/papers",
-    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "full_name": "Ruixxxx/Awesome-Vision-Mamba-Models",
+    "name": "Awesome-Vision-Mamba-Models",
+    "url": "https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models",
+    "description": "[Official Repo] Visual Mamba: A Survey and New Outlooks",
     "language": "",
-    "stars": 414,
-    "forks": 55,
-    "open_issues": 0,
-    "updated_at": "2026-06-27T14:44:14Z",
-    "pushed_at": "2026-06-27T14:44:11Z",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "machine-learning",
-      "papers"
-    ],
+    "stars": 737,
+    "forks": 42,
+    "open_issues": 5,
+    "updated_at": "2026-07-03T17:41:04Z",
+    "pushed_at": "2026-07-03T17:41:01Z",
+    "topics": [],
     "application_area": "医学影像",
-    "score": 21.64,
+    "score": 20.72,
     "evidence_terms": {
       "ml": [
-        "machine learning",
-        "deep learning"
+        "computer vision"
       ],
       "medical": [
-        "medicine",
-        "pathology",
-        "survival"
+        "medical"
       ]
     }
+  },
+  {
+    "full_name": "BioTender-max/awesome-bio-agent-skills",
+    "name": "awesome-bio-agent-skills",
+    "url": "https://github.com/BioTender-max/awesome-bio-agent-skills",
+    "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
+    "language": "Python",
+    "stars": 84,
+    "forks": 16,
+    "open_issues": 0,
+    "updated_at": "2026-07-04T03:26:48Z",
+    "pushed_at": "2026-07-01T21:21:45Z",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "biomedical",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "computational-biology",
+      "drug-discovery",
+      "genomics",
+      "llm",
+      "mcp",
+      "protein-design",
+      "proteomics",
+      "single-cell",
+      "skills",
+      "transcriptomics"
+    ],
+    "application_area": "病理与组学",
+    "score": 19.56
+  },
+  {
+    "full_name": "ratschlab/DeepSpot",
+    "name": "DeepSpot",
+    "url": "https://github.com/ratschlab/DeepSpot",
+    "description": "DeepSpot: Deep learning model for predicting spatial transcriptomics from H&E histopathology images. Supports spot-level (Visium) and single-cell (Xenium) resolution.",
+    "language": "Jupyter Notebook",
+    "stars": 83,
+    "forks": 22,
+    "open_issues": 0,
+    "updated_at": "2026-07-03T15:15:44Z",
+    "pushed_at": "2026-07-03T15:15:40Z",
+    "topics": [
+      "bioinformatics",
+      "cancer-research",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "foundation-models",
+      "gene-expression",
+      "histopathology",
+      "machine-learning",
+      "pathology",
+      "pytorch",
+      "single-cell",
+      "spatial-biology",
+      "spatial-transcriptomics",
+      "visium",
+      "xenium"
+    ],
+    "application_area": "病理与组学",
+    "score": 18.94
+  },
+  {
+    "full_name": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "name": "AlterLab-Academic-Skills",
+    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills",
+    "description": "239 evaluated academic Claude/agent skills across 17 research domains (bioinformatics, data science, clinical, social-science methods, Turkish academia & more). Executable eval per skill, deterministic citation verifier, research→write→review→publish pipeline, and a skill-finder front door. Claude Code, Cursor, Codex, Gemini CLI & Copilot.",
+    "language": "Python",
+    "stars": 38,
+    "forks": 6,
+    "open_issues": 0,
+    "updated_at": "2026-07-03T21:28:12Z",
+    "pushed_at": "2026-07-03T07:06:25Z",
+    "topics": [
+      "academic-research",
+      "agent-skills",
+      "anthropic",
+      "bioinformatics",
+      "cheminformatics",
+      "citation",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "data-science",
+      "data-visualization",
+      "llm-agents",
+      "model-context-protocol",
+      "prompt-engineering",
+      "reproducible-research",
+      "research-tools",
+      "scientific-computing",
+      "scientific-writing",
+      "turkish-academia"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 14.43
   },
   {
     "full_name": "naomifridman/BreastDCEDL",
