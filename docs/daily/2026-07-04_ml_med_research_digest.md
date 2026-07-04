@@ -1,72 +1,93 @@
 # 医学机器学习自动整理日报 - 2026-07-04
 
-> 自动采集时间：2026-07-04 15:05:00。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-07-04 15:07:31。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：19 个
-- 论文候选：0 篇
-- 高影响/Q1候选论文：0 篇
-- 采集异常来源：4 个
+- GitHub 项目候选：18 个
+- 论文候选：40 篇
+- 高影响/Q1候选论文：11 篇
+- 采集异常来源：2 个
 
 ## 采集限制
 
-- github_readme: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
-- github_readme: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
-- pubmed_esummary: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
-- crossref: HTTP 429:
+- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
+- github_readme: TimeoutError('The read operation timed out')
 
 ## 优先关注 GitHub 项目
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 30092 | 2026-07-04T06:51:39Z | 医学影像 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scien... |
-| 2 | [mk-runner/Awesome-Radiology-Report-Generation](https://github.com/mk-runner/Awesome-Radiology-Report-Generation) | 456 | 2026-07-04T04:32:51Z | 医学影像 | paper list, dataset, and tools for radiology report generation；评分 31.1 |
-| 3 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1706 | 2026-07-04T04:45:12Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
-| 4 | [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) | 391 | 2026-06-29T21:25:07Z | 医学影像 | A curated list of reproducible research case studies, projects, tutorials, and media；评分 26.96 |
-| 5 | [TissueImageAnalytics/tiatoolbox](https://github.com/TissueImageAnalytics/tiatoolbox) | 537 | 2026-07-03T13:28:44Z | 医学影像 | Computational Pathology Toolbox developed by TIA Centre, University of Warwick.；评分 26.37 |
-| 6 | [open-edge-platform/geti](https://github.com/open-edge-platform/geti) | 1255 | 2026-07-04T03:28:00Z | 医学影像 | Build computer vision models in a fraction of the time and with less data.；评分 25.6 |
-| 7 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 2218 | 2026-07-04T06:23:21Z | 医学影像 | AI agent skills published by NVIDIA；评分 25.38 |
-| 8 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1213 | 2026-07-03T08:31:36Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.78 |
-| 9 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 486 | 2026-07-02T03:25:36Z | 病理与组学 | 近期活跃项目；评分 24.07 |
-| 10 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 448 | 2026-06-30T11:50:17Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.34 |
-| 11 | [GPTomics/bioSkills](https://github.com/GPTomics/bioSkills) | 981 | 2026-07-04T06:27:52Z | 医学影像 | a set of SKILLS.md for doing bioinformatics with agents like claude code；评分 22.13 |
-| 12 | [Ruixxxx/Awesome-Vision-Mamba-Models](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models) | 737 | 2026-07-03T17:41:04Z | 医学影像 | [Official Repo] Visual Mamba: A Survey and New Outlooks；评分 20.72 |
-| 13 | [BioTender-max/awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) | 84 | 2026-07-04T03:26:48Z | 病理与组学 | A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.；评分 19.56 |
+| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 30093 | 2026-07-04T07:05:29Z | 医学影像 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scien... |
+| 2 | [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) | 1116 | 2026-07-03T16:31:05Z | 医学影像 | Latest Advances on Agentic AI & AI Agents for Healthcare；评分 35.52 |
+| 3 | [mk-runner/Awesome-Radiology-Report-Generation](https://github.com/mk-runner/Awesome-Radiology-Report-Generation) | 456 | 2026-07-04T04:32:51Z | 医学影像 | paper list, dataset, and tools for radiology report generation；评分 31.1 |
+| 4 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1706 | 2026-07-04T04:45:12Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
+| 5 | [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) | 391 | 2026-06-29T21:25:07Z | 医学影像 | A curated list of reproducible research case studies, projects, tutorials, and media；评分 26.96 |
+| 6 | [TissueImageAnalytics/tiatoolbox](https://github.com/TissueImageAnalytics/tiatoolbox) | 537 | 2026-07-03T13:28:44Z | 医学影像 | Computational Pathology Toolbox developed by TIA Centre, University of Warwick.；评分 26.37 |
+| 7 | [open-edge-platform/geti](https://github.com/open-edge-platform/geti) | 1255 | 2026-07-04T03:28:00Z | 医学影像 | Build computer vision models in a fraction of the time and with less data.；评分 25.6 |
+| 8 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 2218 | 2026-07-04T06:23:21Z | 医学影像 | AI agent skills published by NVIDIA；评分 25.38 |
+| 9 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1213 | 2026-07-03T08:31:36Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.78 |
+| 10 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 486 | 2026-07-02T03:25:36Z | 病理与组学 | 近期活跃项目；评分 24.07 |
+| 11 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 448 | 2026-06-30T11:50:17Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.34 |
+| 12 | [fregu856/papers](https://github.com/fregu856/papers) | 414 | 2026-06-27T14:44:14Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).；评分 21.64 |
+| 13 | [Ruixxxx/Awesome-Vision-Mamba-Models](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models) | 737 | 2026-07-03T17:41:04Z | 医学影像 | [Official Repo] Visual Mamba: A Survey and New Outlooks；评分 20.72 |
 | 14 | [ratschlab/DeepSpot](https://github.com/ratschlab/DeepSpot) | 83 | 2026-07-03T15:15:44Z | 病理与组学 | DeepSpot: Deep learning model for predicting spatial transcriptomics from H&E histopathology images. Supports spot-level (Visium) and single-cell (Xenium) reso... |
-| 15 | [AlterLab-IEU/AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) | 38 | 2026-07-03T21:28:12Z | 临床文本与大模型 | 239 evaluated academic Claude/agent skills across 17 research domains (bioinformatics, data science, clinical, social-science methods, Turkish academia & more)... |
+| 15 | [naomifridman/BreastDCEDL](https://github.com/naomifridman/BreastDCEDL) | 27 | 2026-07-01T05:35:29Z | 医学影像 | BreastDCEDL is a deep learning–ready DCE-MRI dataset of 2,070 breast cancer patients, sourced from I-SPY1, I-SPY2 and the DUKE cohort.；评分 13.72 |
 
 ## 高水平论文候选
 
 | 排名 | 题名 | 期刊 | 日期 | DOI/PMID | 方向 | 复核说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| - | 未采集到论文候选 | - | - | - | - | 查看日志并扩大关键词 |
+| 1 | [Whole body CT attenuation and volume charts from routine clinical scans via LLM report filtering.](https://pubmed.ncbi.nlm.nih.gov/42399663/) | NPJ digital medicine | 2026 Jul 3 | DOI: 10.1038/s41746-026-02938-2; PMID: 42399663 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 2 | [Body composition's effect on the bone-vascular axis of osteoporosis discovered in AI-based CT analysis of COPD patients.](https://pubmed.ncbi.nlm.nih.gov/42399449/) | European radiology | 2026 Jul 3 | DOI: 10.1007/s00330-026-12677-3; PMID: 42399449 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 3 | [Co-assistant networks by pathology foundation model and convolutional neural network for gigapixel whole slide image analysis.](https://pubmed.ncbi.nlm.nih.gov/42398343/) | Medical image analysis | 2026 Jul 2 | DOI: 10.1016/j.media.2026.104202; PMID: 42398343 | 病理与组学 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 4 | [Deep learning for contrast-enhanced MRI in pediatric brain imaging](https://doi.org/10.1007/s00234-026-04073-x) | Neuroradiology | 2026-07-04 | DOI: 10.1007/s00234-026-04073-x | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 5 | [Diagnostic accuracy of artificial intelligence for spinopelvic parameters in standing total spine X-ray and limitations after fusion surger...](https://pubmed.ncbi.nlm.nih.gov/42399390/) | Skeletal radiology | 2026 Jul 4 | DOI: 10.1007/s00256-026-05289-x; PMID: 42399390 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 6 | [Vasculature segmentation in 3D hierarchical phase-contrast tomography images of human kidneys.](https://pubmed.ncbi.nlm.nih.gov/42399229/) | Nature communications | 2026 Jul 3 | DOI: 10.1038/s41467-026-74050-8; PMID: 42399229 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 7 | [Respiratory motion augmentation for personalized super-resolution (RMApSR) of 3D cine MR images in MRI-guided radiotherapy.](https://pubmed.ncbi.nlm.nih.gov/42398341/) | Medical image analysis | 2026 Jun 26 | DOI: 10.1016/j.media.2026.104198; PMID: 42398341 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 8 | [Targeting m6A-SCG2-TAMs axis overcomes 5-FU resistance in colorectal cancer via a multi-omics model.](https://pubmed.ncbi.nlm.nih.gov/42399406/) | NPJ digital medicine | 2026 Jul 3 | DOI: 10.1038/s41746-026-02920-y; PMID: 42399406 | 病理与组学 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 9 | [Automated diagnosis of keratitis from low-quality slit-lamp images using an improved generative adversarial network.](https://pubmed.ncbi.nlm.nih.gov/42399459/) | NPJ digital medicine | 2026 Jul 3 | DOI: 10.1038/s41746-026-02952-4; PMID: 42399459 | 综合医学机器学习 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 10 | [Generalizable AI predicts immunotherapy outcomes across cancers and treatments.](https://pubmed.ncbi.nlm.nih.gov/42399673/) | Nature medicine | 2026 Jul 3 | DOI: 10.1038/s41591-026-04502-7; PMID: 42399673 | 综合医学机器学习 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 11 | [RankVar: machine learning-based variant ranking and reinterpretation for rare genetic diseases](https://doi.org/10.1186/s13073-026-01701-2) | Genome Medicine | 2026-07-04 | DOI: 10.1186/s13073-026-01701-2 | 综合医学机器学习 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 12 | [Multi-scale and context-aware enhanced YOLOv8 for breast tumor detection in ultrasound images.](https://pubmed.ncbi.nlm.nih.gov/42399284/) | Scientific reports | 2026 Jul 3 | DOI: 10.1038/s41598-026-59928-3; PMID: 42399284 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 13 | [Segmentation of the parasagittal dura mater on multi-center 3D-FLAIR MRI.](https://pubmed.ncbi.nlm.nih.gov/42398843/) | NeuroImage | 2026 Jul 3 | DOI: 10.1016/j.neuroimage.2026.122099; PMID: 42398843 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 14 | [Multi-omics integration identifies macrophage senescence driven by the RUNX1-P53 axis as a key mechanism in diabetic foot ulcer.](https://pubmed.ncbi.nlm.nih.gov/42399485/) | Functional & integrative genomics | 2026 Jul 4 | DOI: 10.1007/s10142-026-01946-5; PMID: 42399485 | 病理与组学 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 15 | [Numerical Design and Machine Learning-Assisted Analysis of a Graphene–Au–Ag Hybrid Terahertz Metasurface for Isoquercitrin Detection](https://doi.org/10.1007/s11220-026-00823-6) | Sensing and Imaging | 2026-07-04 | DOI: 10.1007/s11220-026-00823-6 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 16 | [A comparative evaluation of large language models in diagnosis and treatment planning in restorative dentistry.](https://pubmed.ncbi.nlm.nih.gov/42399936/) | BMC oral health | 2026 Jul 4 | DOI: 10.1186/s12903-026-09154-0; PMID: 42399936 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 17 | [Refined AI-ASPECTS with modified atlas and lesion-load thresholds: advancing acute ischemic stroke imaging and prognostic prediction.](https://pubmed.ncbi.nlm.nih.gov/42399913/) | BMC medicine | 2026 Jul 3 | DOI: 10.1186/s12916-026-05013-5; PMID: 42399913 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 18 | [Development and validation of machine learning models for obstructive sleep apnea risk stratification in high-risk pregnant women.](https://pubmed.ncbi.nlm.nih.gov/42399832/) | BMC pregnancy and childbirth | 2026 Jul 3 | DOI: 10.1186/s12884-026-09558-4; PMID: 42399832 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 19 | [Improving pancreatic adenocarcinoma prognosis models through ligand receptor interactions and histopathological integration.](https://pubmed.ncbi.nlm.nih.gov/42399741/) | Journal of translational medicine | 2026 Jul 3 | DOI: 10.1186/s12967-026-08572-6; PMID: 42399741 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 20 | [Multi-omics and metabolic flux modeling reveal that macrophage CYP27A1-derived 26-hydroxycholesterol drives immunosuppression and cancer ma...](https://pubmed.ncbi.nlm.nih.gov/42399552/) | Discover oncology | 2026 Jul 3 | DOI: 10.1007/s12672-026-05474-3; PMID: 42399552 | 病理与组学 | 需按最新版中科院分区、JCR和期刊目录复核 |
 
 ## 医学研究应用整理
-
-### 临床文本与大模型
-
-- 可复用项目：[AlterLab-IEU/AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills)，适合先看 README、数据要求、许可证和最近提交。
-- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 临床预测
 
 - 可复用项目：[GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning](https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning)，适合先看 README、数据要求、许可证和最近提交。
+- 论文线索：Development and validation of machine learning models for obstructive sleep apnea risk stratification in high-risk pregnant women.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 医学影像
 
 - 可复用项目：[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)，适合先看 README、数据要求、许可证和最近提交。
+- 论文线索：Whole body CT attenuation and volume charts from routine clinical scans via LLM report filtering.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 病理与组学
 
 - 可复用项目：[OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers)，适合先看 README、数据要求、许可证和最近提交。
+- 论文线索：Co-assistant networks by pathology foundation model and convolutional neural network for gigapixel whole slide image analysis.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 综合医学机器学习
 
 - 可复用项目：[imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)，适合先看 README、数据要求、许可证和最近提交。
+- 论文线索：Automated diagnosis of keratitis from low-quality slit-lamp images using an improved generative adversarial network.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
+
+### 药物与转化
+
+- 论文线索：A comparative evaluation of large language models in diagnosis and treatment planning in restorative dentistry.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ## 质量控制清单
@@ -85,33 +106,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=2.43
-- github: OK; status=200; seconds=2.34
-- github: OK; status=200; seconds=2.39
-- github: OK; status=200; seconds=2.57
-- github: OK; status=200; seconds=2.55
-- github: OK; status=200; seconds=2.48
-- github: OK; status=200; seconds=2.56
-- github_readme: OK; status=200; seconds=1.78
+- github: OK; status=200; seconds=2.47
+- github: OK; status=200; seconds=3.38
+- github: OK; status=200; seconds=2.37
+- github: OK; status=200; seconds=2.46
+- github: OK; status=200; seconds=2.45
+- github: OK; status=200; seconds=3.05
+- github: FAILED; status=403; seconds=1.31
+- github_readme: OK; status=200; seconds=1.91
+- github_readme: OK; status=200; seconds=1.79
+- github_readme: OK; status=200; seconds=2.15
+- github_readme: OK; status=200; seconds=2.02
+- github_readme: OK; status=200; seconds=1.62
+- github_readme: OK; status=200; seconds=2.67
+- github_readme: OK; status=200; seconds=2.13
+- github_readme: FAILED; status=None; seconds=19.16
+- github_readme: OK; status=200; seconds=3.01
+- github_readme: OK; status=200; seconds=2.19
+- github_readme: OK; status=200; seconds=2.89
+- github_readme: OK; status=200; seconds=2.48
+- github_readme: OK; status=200; seconds=1.77
 - github_readme: OK; status=200; seconds=2.0
-- github_readme: OK; status=200; seconds=1.88
-- github_readme: OK; status=200; seconds=2.22
-- github_readme: OK; status=200; seconds=1.64
-- github_readme: OK; status=200; seconds=2.75
-- github_readme: FAILED; status=None; seconds=5.01
-- github_readme: OK; status=200; seconds=1.95
-- github_readme: OK; status=200; seconds=2.38
-- github_readme: OK; status=200; seconds=1.98
-- github_readme: OK; status=200; seconds=2.45
-- github_readme: OK; status=200; seconds=2.46
-- github_readme: OK; status=200; seconds=1.61
-- github_readme: OK; status=200; seconds=1.85
-- github_readme: OK; status=200; seconds=2.08
-- github_readme: OK; status=200; seconds=2.5
-- github_readme: FAILED; status=None; seconds=5.01
-- github_readme: OK; status=200; seconds=2.08
-- pubmed_esearch: OK; status=200; seconds=1.93
-- pubmed_esummary: FAILED; status=None; seconds=5.01
-- crossref: FAILED; status=429; seconds=1.37
+- github_readme: OK; status=200; seconds=2.28
+- github_readme: OK; status=200; seconds=1.9
+- github_readme: OK; status=200; seconds=2.97
+- github_readme: OK; status=200; seconds=2.17
+- pubmed_esearch: OK; status=200; seconds=1.69
+- pubmed_esummary: OK; status=200; seconds=2.39
+- crossref: OK; status=200; seconds=6.28
 
 本次运行已完成：2026-07-04_ml_med_research_digest.md
