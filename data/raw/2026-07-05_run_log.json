@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.59,
+    "seconds": 2.61,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-06-25"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.48,
+    "seconds": 2.6,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-25"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.32,
+    "seconds": 2.31,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-06-25"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.41,
+    "seconds": 2.7,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-06-25"
   },
   {
@@ -41,25 +41,25 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.34,
+    "seconds": 2.24,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-25"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-06-25&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.187.192. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 0.32,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.45,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-06-25"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-06-25&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.187.192. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 0.3,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.54,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-06-25"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.09,
+    "seconds": 2.48,
     "repo": "awesome-selfhosted/awesome-selfhosted"
   },
   {
@@ -77,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.82,
+    "seconds": 1.92,
     "repo": "K-Dense-AI/scientific-agent-skills"
   },
   {
@@ -86,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.2,
+    "seconds": 2.21,
     "repo": "ai-boost/awesome-prompts"
   },
   {
@@ -95,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.95,
+    "seconds": 1.86,
     "repo": "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials"
   },
   {
@@ -104,8 +104,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.82,
+    "seconds": 1.84,
     "repo": "NVIDIA/skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ai4s-research/awesome-ai-for-science/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.26,
+    "repo": "ai4s-research/awesome-ai-for-science"
   },
   {
     "source": "github_readme",
@@ -113,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.71,
+    "seconds": 1.96,
     "repo": "ANTsX/ANTs"
   },
   {
@@ -122,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.14,
+    "seconds": 2.42,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -131,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.01,
+    "seconds": 2.22,
     "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
   },
   {
@@ -140,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.83,
+    "seconds": 1.88,
     "repo": "GPTomics/bioSkills"
   },
   {
@@ -149,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.18,
+    "seconds": 2.56,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -158,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.91,
+    "seconds": 1.78,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -167,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.92,
+    "seconds": 1.96,
     "repo": "mk-runner/Awesome-Radiology-Report-Generation"
   },
   {
@@ -176,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.02,
+    "seconds": 2.06,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -185,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.21,
+    "seconds": 2.49,
     "repo": "fregu856/papers"
   },
   {
@@ -194,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.06,
+    "seconds": 2.37,
     "repo": "leipzig/awesome-reproducible-research"
   },
   {
@@ -203,26 +212,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.19,
+    "seconds": 2.79,
     "repo": "Beliavsky/Fortran-code-on-GitHub"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/DougTrajano/pydantic-ai-skills/readme",
+    "url": "https://api.github.com/repos/luohongk/Embodied-AI-Daily/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.7,
-    "repo": "DougTrajano/pydantic-ai-skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/Jianqiuer/Awesome6DPoseEstimation/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.63,
-    "repo": "Jianqiuer/Awesome6DPoseEstimation"
+    "seconds": 1.44,
+    "repo": "luohongk/Embodied-AI-Daily"
   },
   {
     "source": "pubmed_esearch",
@@ -230,15 +230,15 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.95
+    "seconds": 1.72
   },
   {
     "source": "pubmed_esummary",
-    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42400318%2C42400159%2C42400128%2C42400106%2C42400083%2C42400077%2C42400061%2C42399990%2C42399936%2C42399913%2C42399880%2C42399867%2C42399832%2C42399808%2C42399770%2C42399746%2C42399741%2C42399673%2C42399663%2C42399595%2C42399552%2C42399514%2C42399497%2C42399485%2C42399459%2C42399449%2C42399406%2C42399403%2C42399390%2C42399363%2C42399351%2C42399348%2C42399342%2C42399301%2C42399289%2C42399284%2C42399229%2C42399206%2C42399173%2C42399171",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42400987%2C42400986%2C42400960%2C42400864%2C42400781%2C42400771%2C42400715%2C42400697%2C42400691%2C42400645%2C42400616%2C42400613%2C42400610%2C42400318%2C42400159%2C42400128%2C42400106%2C42400083%2C42400077%2C42400061%2C42399990%2C42399936%2C42399913%2C42399880%2C42399867%2C42399832%2C42399808%2C42399770%2C42399746%2C42399741%2C42399673%2C42399663%2C42399595%2C42399552%2C42399514%2C42399497%2C42399485%2C42399459%2C42399449%2C42399406",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.57
+    "seconds": 2.34
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.62
+    "seconds": 3.56
   }
 ]

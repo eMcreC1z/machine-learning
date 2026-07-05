@@ -120,6 +120,42 @@
     }
   },
   {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1708,
+    "forks": 195,
+    "open_issues": 55,
+    "updated_at": "2026-07-04T16:53:55Z",
+    "pushed_at": "2026-07-04T16:53:51Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.57,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
     "full_name": "leipzig/awesome-reproducible-research",
     "name": "awesome-reproducible-research",
     "url": "https://github.com/leipzig/awesome-reproducible-research",
@@ -194,14 +230,14 @@
     "url": "https://github.com/NVIDIA/skills",
     "description": "AI agent skills published by NVIDIA",
     "language": "Python",
-    "stars": 2238,
+    "stars": 2239,
     "forks": 252,
     "open_issues": 16,
-    "updated_at": "2026-07-05T03:39:12Z",
+    "updated_at": "2026-07-05T04:05:45Z",
     "pushed_at": "2026-07-05T03:11:13Z",
     "topics": [],
     "application_area": "医学影像",
-    "score": 25.4,
+    "score": 25.41,
     "evidence_terms": {
       "ml": [
         "llm"
@@ -399,6 +435,78 @@
         "medicine"
       ]
     }
+  },
+  {
+    "full_name": "BioTender-max/awesome-bio-agent-skills",
+    "name": "awesome-bio-agent-skills",
+    "url": "https://github.com/BioTender-max/awesome-bio-agent-skills",
+    "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
+    "language": "Python",
+    "stars": 84,
+    "forks": 17,
+    "open_issues": 0,
+    "updated_at": "2026-07-04T03:26:48Z",
+    "pushed_at": "2026-07-01T21:21:45Z",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "biomedical",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "computational-biology",
+      "drug-discovery",
+      "genomics",
+      "llm",
+      "mcp",
+      "protein-design",
+      "proteomics",
+      "single-cell",
+      "skills",
+      "transcriptomics"
+    ],
+    "application_area": "病理与组学",
+    "score": 19.46
+  },
+  {
+    "full_name": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "name": "AlterLab-Academic-Skills",
+    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills",
+    "description": "239 evaluated academic Claude/agent skills across 17 research domains (bioinformatics, data science, clinical, social-science methods, Turkish academia & more). Executable eval per skill, deterministic citation verifier, research→write→review→publish pipeline, and a skill-finder front door. Claude Code, Cursor, Codex, Gemini CLI & Copilot.",
+    "language": "Python",
+    "stars": 38,
+    "forks": 6,
+    "open_issues": 0,
+    "updated_at": "2026-07-03T21:28:12Z",
+    "pushed_at": "2026-07-03T07:06:25Z",
+    "topics": [
+      "academic-research",
+      "agent-skills",
+      "anthropic",
+      "bioinformatics",
+      "cheminformatics",
+      "citation",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "data-science",
+      "data-visualization",
+      "llm-agents",
+      "model-context-protocol",
+      "prompt-engineering",
+      "reproducible-research",
+      "research-tools",
+      "scientific-computing",
+      "scientific-writing",
+      "turkish-academia"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 14.29
   },
   {
     "full_name": "naomifridman/BreastDCEDL",
