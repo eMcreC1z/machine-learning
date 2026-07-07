@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.51,
+    "seconds": 2.72,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-06-27"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.56,
+    "seconds": 2.49,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-27"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.28,
+    "seconds": 2.44,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-06-27"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.4,
+    "seconds": 2.4,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-06-27"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.34,
+    "seconds": 2.29,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-27"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.28,
+    "seconds": 2.55,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-06-27"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.4,
+    "seconds": 2.41,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-06-27"
   },
   {
@@ -68,35 +68,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.81,
+    "seconds": 1.99,
     "repo": "K-Dense-AI/scientific-agent-skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/PyO3/pyo3/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.32,
-    "repo": "PyO3/pyo3"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.04,
-    "repo": "ai-boost/awesome-prompts"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/Project-MONAI/MONAI/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.65,
-    "repo": "Project-MONAI/MONAI"
   },
   {
     "source": "github_readme",
@@ -104,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.84,
+    "seconds": 1.9,
     "repo": "mintisan/awesome-kan"
   },
   {
@@ -113,17 +86,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.85,
+    "seconds": 1.77,
     "repo": "NVIDIA/skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai4s-research/awesome-ai-for-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.03,
-    "repo": "ai4s-research/awesome-ai-for-science"
   },
   {
     "source": "github_readme",
@@ -131,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.28,
+    "seconds": 2.48,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -140,8 +104,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.05,
+    "seconds": 2.23,
     "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/awesome-rust-com/awesome-rust/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.14,
+    "repo": "awesome-rust-com/awesome-rust"
   },
   {
     "source": "github_readme",
@@ -149,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.39,
+    "seconds": 2.6,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -158,17 +131,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.78,
+    "seconds": 1.92,
     "repo": "zenml-io/awesome-open-data-annotation"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/liutaocode/TTS-arxiv-daily/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.15,
-    "repo": "liutaocode/TTS-arxiv-daily"
   },
   {
     "source": "github_readme",
@@ -176,17 +140,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.07,
+    "seconds": 2.44,
     "repo": "best-of-ai/best-of-ai"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/supervisely/supervisely/readme",
+    "url": "https://api.github.com/repos/trackawesomelist/trackawesomelist/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.77,
-    "repo": "supervisely/supervisely"
+    "seconds": 2.33,
+    "repo": "trackawesomelist/trackawesomelist"
   },
   {
     "source": "github_readme",
@@ -194,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.96,
+    "seconds": 1.96,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -203,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.81,
+    "seconds": 1.64,
     "repo": "histolab/histolab"
   },
   {
@@ -212,17 +176,53 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.95,
+    "seconds": 1.96,
     "repo": "imteekay/machine-learning-research"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/zezhishao/DailyArXiv/readme",
+    "url": "https://api.github.com/repos/fregu856/papers/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.13,
-    "repo": "zezhishao/DailyArXiv"
+    "seconds": 2.6,
+    "repo": "fregu856/papers"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/leipzig/awesome-reproducible-research/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.2,
+    "repo": "leipzig/awesome-reproducible-research"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Beliavsky/Fortran-code-on-GitHub/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.49,
+    "repo": "Beliavsky/Fortran-code-on-GitHub"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/luohongk/Embodied-AI-Daily/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.59,
+    "repo": "luohongk/Embodied-AI-Daily"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Jianqiuer/Awesome6DPoseEstimation/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.58,
+    "repo": "Jianqiuer/Awesome6DPoseEstimation"
   },
   {
     "source": "pubmed_esearch",
@@ -230,22 +230,22 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.09
+    "seconds": 1.7
   },
   {
     "source": "pubmed_esummary",
-    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42407198%2C42407190%2C42407166%2C42407157%2C42407142%2C42407139%2C42407060%2C42407032%2C42406913%2C42406894%2C42406815%2C42406747%2C42406739%2C42406669%2C42406630%2C42406537%2C42406523%2C42406505%2C42406323%2C42406147%2C42406104%2C42406080%2C42406056%2C42406054%2C42406037%2C42406029%2C42406005%2C42405980%2C42405708%2C42405660%2C42405637%2C42405619%2C42405553%2C42405532%2C42405518%2C42405448%2C42405422%2C42405412%2C42405392%2C42405254",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42410432%2C42410419%2C42410414%2C42410387%2C42410384%2C42410377%2C42410361%2C42410339%2C42410338%2C42410244%2C42410211%2C42410187%2C42410066%2C42410010%2C42410005%2C42409962%2C42409956%2C42409890%2C42409856%2C42409836%2C42409775%2C42409718%2C42409693%2C42409644%2C42409397%2C42409312%2C42409072%2C42409055%2C42407432%2C42407419%2C42407417%2C42407377%2C42407358%2C42407335%2C42407289%2C42407286%2C42410391%2C42410376%2C42410262%2C42410243",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.54
+    "seconds": 2.17
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-06-27%2Cuntil-pub-date%3A2026-07-07%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
-    "ok": false,
-    "status": 429,
-    "error": "HTTP 429: ",
-    "seconds": 0.65
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 8.87
   }
 ]
