@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.06,
+    "seconds": 2.57,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-06-28"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.52,
+    "seconds": 2.42,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-28"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.28,
+    "seconds": 2.24,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-06-28"
   },
   {
@@ -32,25 +32,25 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.4,
+    "seconds": 2.46,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-06-28"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-06-28&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.47,
+    "ok": false,
+    "status": null,
+    "error": "RemoteDisconnected('Remote end closed connection without response')",
+    "seconds": 13.39,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-06-28"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-06-28&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.53,
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.01,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-06-28"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.32,
+    "seconds": 2.38,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-06-28"
   },
   {
@@ -68,26 +68,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.8,
+    "seconds": 1.89,
     "repo": "K-Dense-AI/scientific-agent-skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/PyO3/pyo3/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.72,
-    "repo": "PyO3/pyo3"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.01,
-    "repo": "ai-boost/awesome-prompts"
   },
   {
     "source": "github_readme",
@@ -95,26 +77,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.83,
+    "seconds": 1.71,
     "repo": "NVIDIA/skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/bobeff/programming-math-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.99,
-    "repo": "bobeff/programming-math-science"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai4s-research/awesome-ai-for-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.02,
-    "repo": "ai4s-research/awesome-ai-for-science"
   },
   {
     "source": "github_readme",
@@ -122,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.22,
+    "seconds": 2.52,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -131,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.05,
+    "seconds": 2.31,
     "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
   },
   {
@@ -140,17 +104,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.23,
+    "seconds": 2.99,
     "repo": "superiorlu/AITreasureBox"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/liutaocode/TTS-arxiv-daily/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.21,
-    "repo": "liutaocode/TTS-arxiv-daily"
   },
   {
     "source": "github_readme",
@@ -158,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.1,
+    "seconds": 2.33,
     "repo": "best-of-ai/best-of-ai"
   },
   {
@@ -167,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.86,
+    "seconds": 1.84,
     "repo": "albumentations-team/AlbumentationsX"
   },
   {
@@ -176,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.86,
+    "seconds": 1.93,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -185,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.99,
+    "seconds": 1.92,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -194,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.22,
+    "seconds": 2.68,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -203,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.13,
+    "seconds": 2.22,
     "repo": "leipzig/awesome-reproducible-research"
   },
   {
@@ -212,17 +167,62 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.61,
+    "seconds": 1.44,
     "repo": "luohongk/Embodied-AI-Daily"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/ORNL/HeCBench/readme",
+    "url": "https://api.github.com/repos/kaapana/kaapana/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.96,
-    "repo": "ORNL/HeCBench"
+    "seconds": 1.71,
+    "repo": "kaapana/kaapana"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ImagingDataCommons/highdicom/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.55,
+    "repo": "ImagingDataCommons/highdicom"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/andrew/ultimate-awesome/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.48,
+    "repo": "andrew/ultimate-awesome"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Aperivue/medsci-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.13,
+    "repo": "Aperivue/medsci-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Xuchen-Li/llm-arxiv-daily/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.51,
+    "repo": "Xuchen-Li/llm-arxiv-daily"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/AI-in-Transportation-Lab/awesome-mechanistic-interpretability/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.02,
+    "repo": "AI-in-Transportation-Lab/awesome-mechanistic-interpretability"
   },
   {
     "source": "pubmed_esearch",
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.81
+    "seconds": 1.78
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.64
+    "seconds": 3.03
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": false,
     "status": 429,
     "error": "HTTP 429: ",
-    "seconds": 0.67
+    "seconds": 1.49
   }
 ]

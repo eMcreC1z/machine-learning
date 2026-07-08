@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 30411,
+    "stars": 30412,
     "forks": 3062,
     "open_issues": 39,
-    "updated_at": "2026-07-08T02:08:59Z",
+    "updated_at": "2026-07-08T02:50:53Z",
     "pushed_at": "2026-07-07T18:30:17Z",
     "topics": [
       "agent-skills",
@@ -79,42 +79,6 @@
         "patient",
         "diagnosis",
         "radiology"
-      ]
-    }
-  },
-  {
-    "full_name": "ai4s-research/awesome-ai-for-science",
-    "name": "awesome-ai-for-science",
-    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
-    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
-    "language": "",
-    "stars": 1739,
-    "forks": 201,
-    "open_issues": 56,
-    "updated_at": "2026-07-08T01:20:37Z",
-    "pushed_at": "2026-07-07T17:33:10Z",
-    "topics": [
-      "ai-for-science",
-      "ai4s",
-      "ai4science",
-      "awesome",
-      "awesome-list",
-      "bioinformatics",
-      "scientific-ai"
-    ],
-    "application_area": "医学影像",
-    "score": 27.62,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "llm",
-        "nlp"
-      ],
-      "medical": [
-        "medical",
-        "medicine",
-        "clinical",
-        "omics"
       ]
     }
   },
@@ -290,6 +254,41 @@
     }
   },
   {
+    "full_name": "ImagingDataCommons/highdicom",
+    "name": "highdicom",
+    "url": "https://github.com/ImagingDataCommons/highdicom",
+    "description": "High-level DICOM abstractions for the Python programming language",
+    "language": "Python",
+    "stars": 230,
+    "forks": 54,
+    "open_issues": 33,
+    "updated_at": "2026-07-06T18:12:43Z",
+    "pushed_at": "2026-07-07T13:27:13Z",
+    "topics": [
+      "dicom",
+      "numpy",
+      "pydicom",
+      "python3",
+      "typehints"
+    ],
+    "application_area": "医学影像",
+    "score": 23.92,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "radiomics",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology",
+        "cancer"
+      ]
+    }
+  },
+  {
     "full_name": "imteekay/machine-learning-research",
     "name": "machine-learning-research",
     "url": "https://github.com/imteekay/machine-learning-research",
@@ -318,6 +317,91 @@
       ],
       "medical": [
         "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 266,
+    "forks": 65,
+    "open_issues": 7,
+    "updated_at": "2026-06-30T02:55:49Z",
+    "pushed_at": "2026-07-08T01:09:05Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 23.44,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "Aperivue/medsci-skills",
+    "name": "medsci-skills",
+    "url": "https://github.com/Aperivue/medsci-skills",
+    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+    "language": "Python",
+    "stars": 187,
+    "forks": 47,
+    "open_issues": 7,
+    "updated_at": "2026-07-07T14:58:08Z",
+    "pushed_at": "2026-07-07T14:54:38Z",
+    "topics": [
+      "agent-skills",
+      "biostatistics",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "codex",
+      "cursor",
+      "diagnostic-accuracy",
+      "irb-protocol",
+      "literature-review",
+      "manuscript",
+      "medical-ai",
+      "medical-research",
+      "meta-analysis",
+      "physician-researcher",
+      "prisma",
+      "pubmed",
+      "radiology",
+      "reporting-guidelines",
+      "systematic-review"
+    ],
+    "application_area": "医学影像",
+    "score": 23.22,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
         "cancer"
       ]
     }
