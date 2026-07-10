@@ -83,122 +83,6 @@
     }
   },
   {
-    "full_name": "volcano-sh/volcano",
-    "name": "volcano",
-    "url": "https://github.com/volcano-sh/volcano",
-    "description": "A Cloud Native Batch System (Project under CNCF)",
-    "language": "Go",
-    "stars": 5752,
-    "forks": 1441,
-    "open_issues": 701,
-    "updated_at": "2026-07-10T01:35:26Z",
-    "pushed_at": "2026-07-10T01:37:22Z",
-    "topics": [
-      "ai",
-      "batch-systems",
-      "bigdata",
-      "gene",
-      "golang",
-      "hpc",
-      "kubernetes",
-      "machine-learning",
-      "serving",
-      "training"
-    ],
-    "application_area": "病理与组学",
-    "score": 30.38,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "deep learning",
-        "artificial intelligence",
-        "llm"
-      ],
-      "medical": [
-        "medical",
-        "genomics"
-      ]
-    }
-  },
-  {
-    "full_name": "ai4s-research/awesome-ai-for-science",
-    "name": "awesome-ai-for-science",
-    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
-    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
-    "language": "",
-    "stars": 1746,
-    "forks": 203,
-    "open_issues": 58,
-    "updated_at": "2026-07-10T03:11:53Z",
-    "pushed_at": "2026-07-09T17:59:10Z",
-    "topics": [
-      "ai-for-science",
-      "ai4s",
-      "ai4science",
-      "awesome",
-      "awesome-list",
-      "bioinformatics",
-      "scientific-ai"
-    ],
-    "application_area": "医学影像",
-    "score": 27.63,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "llm",
-        "nlp"
-      ],
-      "medical": [
-        "medical",
-        "medicine",
-        "clinical",
-        "omics"
-      ]
-    }
-  },
-  {
-    "full_name": "TissueImageAnalytics/tiatoolbox",
-    "name": "tiatoolbox",
-    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
-    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
-    "language": "Python",
-    "stars": 538,
-    "forks": 106,
-    "open_issues": 16,
-    "updated_at": "2026-07-09T10:34:12Z",
-    "pushed_at": "2026-07-09T13:47:17Z",
-    "topics": [
-      "cell-classification",
-      "cell-segmentation",
-      "computational-pathology",
-      "deep-learning",
-      "digital-pathology",
-      "histopathology",
-      "image-analysis",
-      "machine-learning",
-      "medical-image-analysis",
-      "python",
-      "stain-normalization",
-      "tissue-analysis",
-      "tissue-segmentation",
-      "whole-slide-imaging"
-    ],
-    "application_area": "医学影像",
-    "score": 26.37,
-    "evidence_terms": {
-      "ml": [
-        "deep learning"
-      ],
-      "medical": [
-        "medical",
-        "medicine",
-        "clinical",
-        "imaging",
-        "pathology"
-      ]
-    }
-  },
-  {
     "full_name": "NVIDIA/skills",
     "name": "skills",
     "url": "https://github.com/NVIDIA/skills",
@@ -439,6 +323,55 @@
       ],
       "medical": [
         "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "Aperivue/medsci-skills",
+    "name": "medsci-skills",
+    "url": "https://github.com/Aperivue/medsci-skills",
+    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+    "language": "Python",
+    "stars": 190,
+    "forks": 48,
+    "open_issues": 7,
+    "updated_at": "2026-07-10T00:57:19Z",
+    "pushed_at": "2026-07-10T00:57:15Z",
+    "topics": [
+      "agent-skills",
+      "biostatistics",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "codex",
+      "cursor",
+      "diagnostic-accuracy",
+      "irb-protocol",
+      "literature-review",
+      "manuscript",
+      "medical-ai",
+      "medical-research",
+      "meta-analysis",
+      "physician-researcher",
+      "prisma",
+      "pubmed",
+      "radiology",
+      "reporting-guidelines",
+      "systematic-review"
+    ],
+    "application_area": "医学影像",
+    "score": 23.26,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "cancer"
       ]
     }
   },

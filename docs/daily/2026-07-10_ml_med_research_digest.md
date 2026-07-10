@@ -1,16 +1,18 @@
 # 医学机器学习自动整理日报 - 2026-07-10
 
-> 自动采集时间：2026-07-10 11:24:45。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-07-10 11:24:50。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：19 个
+- GitHub 项目候选：17 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：2 篇
-- 采集异常来源：1 个
+- 采集异常来源：3 个
 
 ## 采集限制
 
+- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
+- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
 - github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
 
 ## 优先关注 GitHub 项目
@@ -19,19 +21,19 @@
 | --- | --- | ---: | --- | --- | --- |
 | 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 30589 | 2026-07-10T03:08:49Z | 医学影像 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scien... |
 | 2 | [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) | 1132 | 2026-07-09T15:07:20Z | 医学影像 | Latest Advances on Agentic AI & AI Agents for Healthcare；评分 35.56 |
-| 3 | [volcano-sh/volcano](https://github.com/volcano-sh/volcano) | 5752 | 2026-07-10T01:35:26Z | 病理与组学 | A Cloud Native Batch System (Project under CNCF)；评分 30.38 |
-| 4 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1746 | 2026-07-10T03:11:53Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
-| 5 | [TissueImageAnalytics/tiatoolbox](https://github.com/TissueImageAnalytics/tiatoolbox) | 538 | 2026-07-09T10:34:12Z | 医学影像 | Computational Pathology Toolbox developed by TIA Centre, University of Warwick.；评分 26.37 |
-| 6 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 2374 | 2026-07-10T01:11:39Z | 医学影像 | AI agent skills published by NVIDIA；评分 25.55 |
-| 7 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1215 | 2026-07-09T05:40:27Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.78 |
-| 8 | [databricks-industry-solutions/pixels](https://github.com/databricks-industry-solutions/pixels) | 421 | 2026-07-10T00:09:06Z | 医学影像 | Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning.；评分 24.68 |
-| 9 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 492 | 2026-07-09T15:20:57Z | 病理与组学 | 近期活跃项目；评分 24.39 |
-| 10 | [kaapana/kaapana](https://github.com/kaapana/kaapana) | 267 | 2026-07-08T10:14:19Z | 医学影像 | Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflow... |
-| 11 | [ImagingDataCommons/highdicom](https://github.com/ImagingDataCommons/highdicom) | 230 | 2026-07-06T18:12:43Z | 医学影像 | High-level DICOM abstractions for the Python programming language；评分 23.64 |
-| 12 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 449 | 2026-07-07T13:05:26Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.49 |
-| 13 | [freeCodeCamp/awesome-quincy-larson-emails](https://github.com/freeCodeCamp/awesome-quincy-larson-emails) | 1185 | 2026-07-09T21:22:44Z | 综合医学机器学习 | This repository is an archive of emails that are sent by the awesome Quincy Larson every week.；评分 23.41 |
-| 14 | [pavanbadempet/AI-Healthcare-System](https://github.com/pavanbadempet/AI-Healthcare-System) | 33 | 2026-07-09T19:38:46Z | 临床文本与大模型 | AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and FastAPI Clinical Architecture.；评分 14.49 |
-| 15 | [naomifridman/BreastDCEDL](https://github.com/naomifridman/BreastDCEDL) | 28 | 2026-07-09T19:41:33Z | 医学影像 | BreastDCEDL is a deep learning–ready DCE-MRI dataset of 2,070 breast cancer patients, sourced from I-SPY1, I-SPY2 and the DUKE cohort.；评分 14.21 |
+| 3 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 2374 | 2026-07-10T01:11:39Z | 医学影像 | AI agent skills published by NVIDIA；评分 25.55 |
+| 4 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1215 | 2026-07-09T05:40:27Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.78 |
+| 5 | [databricks-industry-solutions/pixels](https://github.com/databricks-industry-solutions/pixels) | 421 | 2026-07-10T00:09:06Z | 医学影像 | Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning.；评分 24.68 |
+| 6 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 492 | 2026-07-09T15:20:57Z | 病理与组学 | 近期活跃项目；评分 24.39 |
+| 7 | [kaapana/kaapana](https://github.com/kaapana/kaapana) | 267 | 2026-07-08T10:14:19Z | 医学影像 | Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflow... |
+| 8 | [ImagingDataCommons/highdicom](https://github.com/ImagingDataCommons/highdicom) | 230 | 2026-07-06T18:12:43Z | 医学影像 | High-level DICOM abstractions for the Python programming language；评分 23.64 |
+| 9 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 449 | 2026-07-07T13:05:26Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.49 |
+| 10 | [freeCodeCamp/awesome-quincy-larson-emails](https://github.com/freeCodeCamp/awesome-quincy-larson-emails) | 1185 | 2026-07-09T21:22:44Z | 综合医学机器学习 | This repository is an archive of emails that are sent by the awesome Quincy Larson every week.；评分 23.41 |
+| 11 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 190 | 2026-07-10T00:57:19Z | 医学影像 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Co... |
+| 12 | [pavanbadempet/AI-Healthcare-System](https://github.com/pavanbadempet/AI-Healthcare-System) | 33 | 2026-07-09T19:38:46Z | 临床文本与大模型 | AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and FastAPI Clinical Architecture.；评分 14.49 |
+| 13 | [naomifridman/BreastDCEDL](https://github.com/naomifridman/BreastDCEDL) | 28 | 2026-07-09T19:41:33Z | 医学影像 | BreastDCEDL is a deep learning–ready DCE-MRI dataset of 2,070 breast cancer patients, sourced from I-SPY1, I-SPY2 and the DUKE cohort.；评分 14.21 |
+| 14 | [SaharStudios/LungCancerClassification](https://github.com/SaharStudios/LungCancerClassification) | 7 | 2026-07-10T01:47:39Z | 医学影像 | This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using St... |
+| 15 | [GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Le...](https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning) | 6 | 2026-07-02T09:27:29Z | 临床预测 | A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a f... |
 
 ## 高水平论文候选
 
@@ -80,7 +82,7 @@
 
 ### 病理与组学
 
-- 可复用项目：[volcano-sh/volcano](https://github.com/volcano-sh/volcano)，适合先看 README、数据要求、许可证和最近提交。
+- 可复用项目：[OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Automated identification of keratinocyte cancers in pathology reports using large language models.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
@@ -111,33 +113,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=2.53
-- github: OK; status=200; seconds=2.31
-- github: OK; status=200; seconds=2.38
-- github: OK; status=200; seconds=2.17
-- github: OK; status=200; seconds=2.2
-- github: OK; status=200; seconds=2.06
-- github: FAILED; status=403; seconds=1.23
-- github_readme: OK; status=200; seconds=1.93
-- github_readme: OK; status=200; seconds=1.53
-- github_readme: OK; status=200; seconds=1.54
-- github_readme: OK; status=200; seconds=1.48
-- github_readme: OK; status=200; seconds=1.78
-- github_readme: OK; status=200; seconds=1.92
-- github_readme: OK; status=200; seconds=2.27
-- github_readme: OK; status=200; seconds=2.09
-- github_readme: OK; status=200; seconds=1.98
-- github_readme: OK; status=200; seconds=2.12
-- github_readme: OK; status=200; seconds=1.35
-- github_readme: OK; status=200; seconds=1.51
-- github_readme: OK; status=200; seconds=1.62
-- github_readme: OK; status=200; seconds=1.58
-- github_readme: OK; status=200; seconds=1.18
-- github_readme: OK; status=200; seconds=2.07
-- github_readme: OK; status=200; seconds=1.28
-- github_readme: OK; status=200; seconds=1.3
-- pubmed_esearch: OK; status=200; seconds=1.54
-- pubmed_esummary: OK; status=200; seconds=2.15
-- crossref: OK; status=200; seconds=2.03
+- github: OK; status=200; seconds=1.73
+- github: OK; status=200; seconds=1.78
+- github: OK; status=200; seconds=1.82
+- github: OK; status=200; seconds=1.58
+- github: FAILED; status=403; seconds=1.19
+- github: FAILED; status=403; seconds=1.3
+- github: FAILED; status=403; seconds=1.18
+- github_readme: OK; status=200; seconds=1.45
+- github_readme: OK; status=200; seconds=1.72
+- github_readme: OK; status=200; seconds=1.91
+- github_readme: OK; status=200; seconds=2.34
+- github_readme: OK; status=200; seconds=2.17
+- github_readme: OK; status=200; seconds=1.94
+- github_readme: OK; status=200; seconds=2.38
+- github_readme: OK; status=200; seconds=1.66
+- github_readme: OK; status=200; seconds=1.8
+- github_readme: OK; status=200; seconds=1.46
+- github_readme: OK; status=200; seconds=1.36
+- github_readme: OK; status=200; seconds=1.37
+- github_readme: OK; status=200; seconds=1.43
+- github_readme: OK; status=200; seconds=1.63
+- github_readme: OK; status=200; seconds=1.88
+- github_readme: OK; status=200; seconds=3.2
+- github_readme: OK; status=200; seconds=1.72
+- github_readme: OK; status=200; seconds=1.34
+- pubmed_esearch: OK; status=200; seconds=1.62
+- pubmed_esummary: OK; status=200; seconds=2.14
+- crossref: OK; status=200; seconds=2.49
 
 本次运行已完成：2026-07-10_ml_med_research_digest.md
