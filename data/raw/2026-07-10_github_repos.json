@@ -1,0 +1,590 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 30589,
+    "forks": 3080,
+    "open_issues": 39,
+    "updated_at": "2026-07-10T03:08:49Z",
+    "pushed_at": "2026-07-08T22:23:53Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 39.78,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1132,
+    "forks": 124,
+    "open_issues": 8,
+    "updated_at": "2026-07-09T15:07:20Z",
+    "pushed_at": "2026-07-01T20:42:14Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 35.56,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "volcano-sh/volcano",
+    "name": "volcano",
+    "url": "https://github.com/volcano-sh/volcano",
+    "description": "A Cloud Native Batch System (Project under CNCF)",
+    "language": "Go",
+    "stars": 5752,
+    "forks": 1441,
+    "open_issues": 701,
+    "updated_at": "2026-07-10T01:35:26Z",
+    "pushed_at": "2026-07-10T01:37:22Z",
+    "topics": [
+      "ai",
+      "batch-systems",
+      "bigdata",
+      "gene",
+      "golang",
+      "hpc",
+      "kubernetes",
+      "machine-learning",
+      "serving",
+      "training"
+    ],
+    "application_area": "病理与组学",
+    "score": 30.38,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1746,
+    "forks": 203,
+    "open_issues": 58,
+    "updated_at": "2026-07-10T03:11:53Z",
+    "pushed_at": "2026-07-09T17:59:10Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.63,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 538,
+    "forks": 106,
+    "open_issues": 16,
+    "updated_at": "2026-07-09T10:34:12Z",
+    "pushed_at": "2026-07-09T13:47:17Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.37,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "AI agent skills published by NVIDIA",
+    "language": "Python",
+    "stars": 2374,
+    "forks": 270,
+    "open_issues": 16,
+    "updated_at": "2026-07-10T01:11:39Z",
+    "pushed_at": "2026-07-09T23:57:20Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 25.55,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1215,
+    "forks": 77,
+    "open_issues": 0,
+    "updated_at": "2026-07-09T05:40:27Z",
+    "pushed_at": "2026-07-07T05:45:55Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.78,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "databricks-industry-solutions/pixels",
+    "name": "pixels",
+    "url": "https://github.com/databricks-industry-solutions/pixels",
+    "description": "Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning.",
+    "language": "JavaScript",
+    "stars": 421,
+    "forks": 131,
+    "open_issues": 68,
+    "updated_at": "2026-07-10T00:09:06Z",
+    "pushed_at": "2026-07-10T01:18:59Z",
+    "topics": [
+      "dicom",
+      "fair-data",
+      "hls",
+      "medical-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 24.68,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "patient",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 492,
+    "forks": 55,
+    "open_issues": 5,
+    "updated_at": "2026-07-09T15:20:57Z",
+    "pushed_at": "2026-07-02T03:25:32Z",
+    "topics": [
+      "ai-virtual-cell",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.39,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 267,
+    "forks": 65,
+    "open_issues": 7,
+    "updated_at": "2026-07-08T10:14:19Z",
+    "pushed_at": "2026-07-09T15:04:13Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 24.3,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "ImagingDataCommons/highdicom",
+    "name": "highdicom",
+    "url": "https://github.com/ImagingDataCommons/highdicom",
+    "description": "High-level DICOM abstractions for the Python programming language",
+    "language": "Python",
+    "stars": 230,
+    "forks": 54,
+    "open_issues": 32,
+    "updated_at": "2026-07-06T18:12:43Z",
+    "pushed_at": "2026-07-08T21:34:14Z",
+    "topics": [
+      "dicom",
+      "numpy",
+      "pydicom",
+      "python3",
+      "typehints"
+    ],
+    "application_area": "医学影像",
+    "score": 23.64,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "radiomics",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 449,
+    "forks": 50,
+    "open_issues": 0,
+    "updated_at": "2026-07-07T13:05:26Z",
+    "pushed_at": "2026-07-07T13:04:43Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "freeCodeCamp/awesome-quincy-larson-emails",
+    "name": "awesome-quincy-larson-emails",
+    "url": "https://github.com/freeCodeCamp/awesome-quincy-larson-emails",
+    "description": "This repository is an archive of emails that are sent by the awesome Quincy Larson every week.",
+    "language": "Python",
+    "stars": 1185,
+    "forks": 160,
+    "open_issues": 3,
+    "updated_at": "2026-07-09T21:22:44Z",
+    "pushed_at": "2026-07-09T21:22:42Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 23.41,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "pavanbadempet/AI-Healthcare-System",
+    "name": "AI-Healthcare-System",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System",
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and FastAPI Clinical Architecture.",
+    "language": "Python",
+    "stars": 33,
+    "forks": 10,
+    "open_issues": 25,
+    "updated_at": "2026-07-09T19:38:46Z",
+    "pushed_at": "2026-07-09T19:38:24Z",
+    "topics": [
+      "apache-airflow",
+      "artificial-intelligence",
+      "clinical-decision-support",
+      "data-engineering",
+      "data-pipeline",
+      "delta-lake",
+      "fastapi",
+      "healthcare",
+      "hipaa",
+      "lakehouse",
+      "langchain",
+      "machine-learning",
+      "medical-ai",
+      "mlops",
+      "ollama",
+      "pyspark",
+      "python",
+      "rag",
+      "shap",
+      "xgboost"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 14.49
+  },
+  {
+    "full_name": "naomifridman/BreastDCEDL",
+    "name": "BreastDCEDL",
+    "url": "https://github.com/naomifridman/BreastDCEDL",
+    "description": "BreastDCEDL is a deep learning–ready DCE-MRI dataset of 2,070 breast cancer patients, sourced from I-SPY1, I-SPY2 and the DUKE cohort.",
+    "language": "Jupyter Notebook",
+    "stars": 28,
+    "forks": 10,
+    "open_issues": 5,
+    "updated_at": "2026-07-09T19:41:33Z",
+    "pushed_at": "2026-07-01T05:35:25Z",
+    "topics": [
+      "ai",
+      "breast-cancer",
+      "dataset",
+      "dce-mri",
+      "deep-learning",
+      "dicom-files",
+      "her2",
+      "mri",
+      "mri-data",
+      "pcr",
+      "vit"
+    ],
+    "application_area": "医学影像",
+    "score": 14.21
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 7,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-07-10T01:47:39Z",
+    "pushed_at": "2026-07-10T01:47:36Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.26
+  },
+  {
+    "full_name": "GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "name": "Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "url": "https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
+    "description": "A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a full-stack web application for interactive graph exploration.",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-02T09:27:29Z",
+    "pushed_at": "2026-07-02T09:27:25Z",
+    "topics": [
+      "fastapi",
+      "graph-database",
+      "medical-informatics",
+      "nlp",
+      "react",
+      "time-series"
+    ],
+    "application_area": "临床预测",
+    "score": 9.98
+  },
+  {
+    "full_name": "rruth505/Predicting-Patient-Attrition-for-Retention",
+    "name": "Predicting-Patient-Attrition-for-Retention",
+    "url": "https://github.com/rruth505/Predicting-Patient-Attrition-for-Retention",
+    "description": "Healthcare analytics capstone leveraging machine learning to identify patients at risk of churn. Demonstrates predictive modeling, model evaluation, SHAP-based interpretability, and business-focused retention strategies to support proactive patient engagement and optimize healthcare resources.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-09T22:06:06Z",
+    "pushed_at": "2026-07-09T22:06:02Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 6.8
+  },
+  {
+    "full_name": "rruth505/Predicting-Heart-Disease-Risk",
+    "name": "Predicting-Heart-Disease-Risk",
+    "url": "https://github.com/rruth505/Predicting-Heart-Disease-Risk",
+    "description": "Healthcare analytics project leveraging machine learning to predict heart disease risk from patient data. Demonstrates data preprocessing, exploratory analysis, predictive modeling, model optimization, and interpretable insights to support evidence-based clinical decision-making.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-09T21:16:49Z",
+    "pushed_at": "2026-07-09T21:16:41Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 6.8
+  }
+]
