@@ -1,0 +1,480 @@
+[
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1135,
+    "forks": 124,
+    "open_issues": 6,
+    "updated_at": "2026-07-12T00:37:41Z",
+    "pushed_at": "2026-07-10T19:42:45Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 35.42,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "spmallick/learnopencv",
+    "name": "learnopencv",
+    "url": "https://github.com/spmallick/learnopencv",
+    "description": "Learn OpenCV : C++ and Python Examples",
+    "language": "Jupyter Notebook",
+    "stars": 23017,
+    "forks": 11683,
+    "open_issues": 263,
+    "updated_at": "2026-07-12T19:23:51Z",
+    "pushed_at": "2026-07-12T19:23:26Z",
+    "topics": [
+      "ai",
+      "computer-vision",
+      "computervision",
+      "deep-learning",
+      "deep-neural-networks",
+      "deeplearning",
+      "machine-learning",
+      "opencv",
+      "opencv-cpp",
+      "opencv-library",
+      "opencv-python",
+      "opencv-tutorial",
+      "opencv3"
+    ],
+    "application_area": "医学影像",
+    "score": 34.95,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "foundation model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 1409,
+    "forks": 139,
+    "open_issues": 3,
+    "updated_at": "2026-07-13T00:51:29Z",
+    "pushed_at": "2026-07-10T06:01:28Z",
+    "topics": [
+      "academic-writing",
+      "agent-skills",
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "protocol-design",
+      "rna-seq-data",
+      "science",
+      "scrna-seq-data",
+      "single-cell",
+      "spatial-transcriptomics"
+    ],
+    "application_area": "临床预测",
+    "score": 33.22,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 461,
+    "forks": 43,
+    "open_issues": 0,
+    "updated_at": "2026-07-13T00:35:11Z",
+    "pushed_at": "2026-07-13T00:35:08Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 31.12,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1758,
+    "forks": 207,
+    "open_issues": 59,
+    "updated_at": "2026-07-12T19:06:12Z",
+    "pushed_at": "2026-07-12T18:31:25Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.66,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "ai-boost/awesome-prompts",
+    "name": "awesome-prompts",
+    "url": "https://github.com/ai-boost/awesome-prompts",
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+    "language": "",
+    "stars": 8447,
+    "forks": 801,
+    "open_issues": 35,
+    "updated_at": "2026-07-13T00:09:26Z",
+    "pushed_at": "2026-07-13T00:09:19Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "gpt4",
+      "gpts",
+      "gptstore",
+      "papers",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "application_area": "医学影像",
+    "score": 26.86,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "ANTsX/ANTs",
+    "name": "ANTs",
+    "url": "https://github.com/ANTsX/ANTs",
+    "description": "Advanced Normalization Tools (ANTs)",
+    "language": "C++",
+    "stars": 1482,
+    "forks": 404,
+    "open_issues": 89,
+    "updated_at": "2026-07-13T01:03:32Z",
+    "pushed_at": "2026-07-12T23:52:05Z",
+    "topics": [
+      "image-registration",
+      "image-segmentation",
+      "medical-image-processing",
+      "neuroimaging"
+    ],
+    "application_area": "医学影像",
+    "score": 25.8,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1215,
+    "forks": 77,
+    "open_issues": 0,
+    "updated_at": "2026-07-09T05:40:27Z",
+    "pushed_at": "2026-07-07T05:45:55Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.35,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "mdozmorov/scRNA-seq_notes",
+    "name": "scRNA-seq_notes",
+    "url": "https://github.com/mdozmorov/scRNA-seq_notes",
+    "description": "A list of scRNA-seq analysis tools",
+    "language": "R",
+    "stars": 807,
+    "forks": 175,
+    "open_issues": 0,
+    "updated_at": "2026-07-12T18:00:46Z",
+    "pushed_at": "2026-07-12T18:00:08Z",
+    "topics": [
+      "scrna-seq",
+      "single-cell"
+    ],
+    "application_area": "医学影像",
+    "score": 24.2,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 450,
+    "forks": 50,
+    "open_issues": 0,
+    "updated_at": "2026-07-11T16:10:04Z",
+    "pushed_at": "2026-07-10T17:09:49Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.64,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "GPTomics/bioSkills",
+    "name": "bioSkills",
+    "url": "https://github.com/GPTomics/bioSkills",
+    "description": "a set of SKILLS.md for doing bioinformatics with agents like claude code",
+    "language": "Python",
+    "stars": 1010,
+    "forks": 178,
+    "open_issues": 0,
+    "updated_at": "2026-07-13T00:17:02Z",
+    "pushed_at": "2026-07-13T00:17:24Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.2,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 446,
+    "forks": 101,
+    "open_issues": 586,
+    "updated_at": "2026-07-12T17:34:49Z",
+    "pushed_at": "2026-07-12T17:34:28Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 20.41,
+    "evidence_terms": {
+      "ml": [
+        "neural network"
+      ],
+      "medical": [
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "pavanbadempet/AI-Healthcare-System",
+    "name": "AI-Healthcare-System",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System",
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and FastAPI Clinical Architecture.",
+    "language": "Python",
+    "stars": 34,
+    "forks": 10,
+    "open_issues": 24,
+    "updated_at": "2026-07-12T17:52:31Z",
+    "pushed_at": "2026-07-12T17:52:20Z",
+    "topics": [
+      "apache-airflow",
+      "artificial-intelligence",
+      "clinical-decision-support",
+      "data-engineering",
+      "data-pipeline",
+      "delta-lake",
+      "fastapi",
+      "healthcare",
+      "hipaa",
+      "lakehouse",
+      "langchain",
+      "machine-learning",
+      "medical-ai",
+      "mlops",
+      "ollama",
+      "pyspark",
+      "python",
+      "rag",
+      "shap",
+      "xgboost"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 14.54
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 7,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-07-12T22:28:31Z",
+    "pushed_at": "2026-07-12T22:28:27Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.26
+  },
+  {
+    "full_name": "Mohammad-Ismail-Nizami/Heart-Disease-Prediction",
+    "name": "Heart-Disease-Prediction",
+    "url": "https://github.com/Mohammad-Ismail-Nizami/Heart-Disease-Prediction",
+    "description": "Machine Learning project to predict heart disease using Python, Pandas, Scikit-learn, EDA, and model optimization techniques.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-12T17:04:49Z",
+    "pushed_at": "2026-07-12T17:04:45Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  }
+]
