@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 30837,
+    "stars": 30838,
     "forks": 3100,
     "open_issues": 37,
-    "updated_at": "2026-07-14T02:31:58Z",
+    "updated_at": "2026-07-14T02:38:28Z",
     "pushed_at": "2026-07-14T00:25:09Z",
     "topics": [
       "agent-skills",
@@ -88,10 +88,10 @@
     "url": "https://github.com/aipoch/medical-research-skills",
     "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
     "language": "Python",
-    "stars": 1421,
+    "stars": 1422,
     "forks": 140,
     "open_issues": 3,
-    "updated_at": "2026-07-14T01:11:41Z",
+    "updated_at": "2026-07-14T02:45:36Z",
     "pushed_at": "2026-07-10T06:01:28Z",
     "topics": [
       "academic-writing",
@@ -140,7 +140,7 @@
     "language": "Go",
     "stars": 5768,
     "forks": 1449,
-    "open_issues": 703,
+    "open_issues": 704,
     "updated_at": "2026-07-14T01:50:43Z",
     "pushed_at": "2026-07-14T02:00:38Z",
     "topics": [
@@ -292,6 +292,39 @@
         "imaging",
         "genomics",
         "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "ai-boost/awesome-prompts",
+    "name": "awesome-prompts",
+    "url": "https://github.com/ai-boost/awesome-prompts",
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+    "language": "",
+    "stars": 8460,
+    "forks": 800,
+    "open_issues": 33,
+    "updated_at": "2026-07-14T03:12:35Z",
+    "pushed_at": "2026-07-14T03:12:29Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "gpt4",
+      "gpts",
+      "gptstore",
+      "papers",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "application_area": "医学影像",
+    "score": 26.87,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
       ]
     }
   },

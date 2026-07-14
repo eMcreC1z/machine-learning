@@ -1,10 +1,10 @@
 # 医学机器学习自动整理日报 - 2026-07-14
 
-> 自动采集时间：2026-07-14 10:36:21。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-07-14 11:15:16。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：13 个
+- GitHub 项目候选：14 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：1 篇
 - 采集异常来源：0 个
@@ -13,56 +13,52 @@
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 30837 | 2026-07-14T02:31:58Z | 医学影像 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scien... |
+| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 30838 | 2026-07-14T02:38:28Z | 医学影像 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scien... |
 | 2 | [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) | 1135 | 2026-07-12T00:37:41Z | 医学影像 | Latest Advances on Agentic AI & AI Agents for Healthcare；评分 35.29 |
-| 3 | [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | 1421 | 2026-07-14T01:11:41Z | 临床预测 | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.；评分 33.24 |
+| 3 | [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | 1422 | 2026-07-14T02:45:36Z | 临床预测 | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.；评分 33.24 |
 | 4 | [volcano-sh/volcano](https://github.com/volcano-sh/volcano) | 5768 | 2026-07-14T01:50:43Z | 病理与组学 | A Cloud Native Batch System (Project under CNCF)；评分 30.39 |
 | 5 | [mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) | 2105 | 2026-07-13T22:58:43Z | 医学影像 | This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and... |
 | 6 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1766 | 2026-07-14T02:01:22Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
 | 7 | [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) | 391 | 2026-07-13T11:42:05Z | 医学影像 | A curated list of reproducible research case studies, projects, tutorials, and media；评分 27.55 |
-| 8 | [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio) | 2419 | 2026-07-13T23:23:10Z | 医学影像 | Medical imaging processing for AI applications.；评分 26.58 |
-| 9 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1214 | 2026-07-13T14:18:00Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.78 |
-| 10 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 450 | 2026-07-11T16:10:04Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.49 |
-| 11 | [SaharStudios/LungCancerClassification](https://github.com/SaharStudios/LungCancerClassification) | 7 | 2026-07-14T02:33:15Z | 医学影像 | This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using St... |
-| 12 | [Pirate-Hunter-Zoro/TRD-EHR](https://github.com/Pirate-Hunter-Zoro/TRD-EHR) | 0 | 2026-07-14T00:07:29Z | 临床预测 | This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.；评分 7.6 |
-| 13 | [aycaaozturk/AML-project](https://github.com/aycaaozturk/AML-project) | 0 | 2026-07-13T08:30:56Z | 临床预测 | Development of AI-based digital twins for Acute Myeloid Leukemia (AML) using clinical patient data, incorporating data preprocessing, survival analysis, and ma... |
+| 8 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 8460 | 2026-07-14T03:12:35Z | 医学影像 | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering pape... |
+| 9 | [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio) | 2419 | 2026-07-13T23:23:10Z | 医学影像 | Medical imaging processing for AI applications.；评分 26.58 |
+| 10 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1214 | 2026-07-13T14:18:00Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.78 |
+| 11 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 450 | 2026-07-11T16:10:04Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.49 |
+| 12 | [SaharStudios/LungCancerClassification](https://github.com/SaharStudios/LungCancerClassification) | 7 | 2026-07-14T02:33:15Z | 医学影像 | This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using St... |
+| 13 | [Pirate-Hunter-Zoro/TRD-EHR](https://github.com/Pirate-Hunter-Zoro/TRD-EHR) | 0 | 2026-07-14T00:07:29Z | 临床预测 | This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.；评分 7.6 |
+| 14 | [aycaaozturk/AML-project](https://github.com/aycaaozturk/AML-project) | 0 | 2026-07-13T08:30:56Z | 临床预测 | Development of AI-based digital twins for Acute Myeloid Leukemia (AML) using clinical patient data, incorporating data preprocessing, survival analysis, and ma... |
 
 ## 高水平论文候选
 
 | 排名 | 题名 | 期刊 | 日期 | DOI/PMID | 方向 | 复核说明 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Machine learning modeling to predict HCC locations in cirrhotic patients undergoing MRI - a proof-of-concept study.](https://pubmed.ncbi.nlm.nih.gov/42440113/) | Abdominal radiology (New York) | 2026 Jul 13 | DOI: 10.1007/s00261-026-05653-4; PMID: 42440113 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
-| 2 | [Digital infrastructures and data interoperability in radiology for prevention: from digital health to AI-enabled, quantitative imaging work...](https://pubmed.ncbi.nlm.nih.gov/42440228/) | La Radiologia medica | 2026 Jul 13 | DOI: 10.1007/s11547-026-02263-4; PMID: 42440228 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 3 | [How Digital Health Technologies have been Used to Support Regulatory Drug Approval.](https://pubmed.ncbi.nlm.nih.gov/42440213/) | Therapeutic innovation & regulatory science | 2026 Jul 13 | DOI: 10.1007/s43441-026-01020-z; PMID: 42440213 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 4 | [BrainYOLO-MCA: An Improved YOLOv11 with Multi-Scale Channel Attention for Brain Tumor Detection.](https://pubmed.ncbi.nlm.nih.gov/42439342/) | Current medical imaging | 2026 Jul 7 | DOI: 10.2174/0115734056507718260630052655; PMID: 42439342 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 5 | [Pharmacogenomics in oncology: mutation-targeted therapy and biomarker integration in non-small cell lung cancer.](https://pubmed.ncbi.nlm.nih.gov/42440255/) | Clinical & translational oncology : official publicati... | 2026 Jul 13 | DOI: 10.1007/s12094-026-04402-9; PMID: 42440255 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 6 | [Examining explainable artificial intelligence in TNM staging with PET-CT: a user-centred observation study.](https://pubmed.ncbi.nlm.nih.gov/42440231/) | La Radiologia medica | 2026 Jul 13 | DOI: 10.1007/s11547-026-02226-9; PMID: 42440231 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 7 | [JADE-Plus: A Multimodal Agentic Retrieval-Augmented Generation Large Language Framework for Diagnostic Support in Jawbone Lesions: Developm...](https://pubmed.ncbi.nlm.nih.gov/42440194/) | Journal of imaging informatics in medicine | 2026 Jul 13 | DOI: 10.1007/s10278-026-02086-9; PMID: 42440194 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 8 | [Label-Free Prediction of EGFR Mutation Status Using Fluorescence Lifetime Imaging and Deep Learning in Lung Adenocarcinoma.](https://pubmed.ncbi.nlm.nih.gov/42439806/) | Cancer research | 2026 Jul 13 | DOI: 10.1158/0008-5472.CAN-25-5589; PMID: 42439806 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 9 | [From Biomaterials to Biological State Engineering: Reframing Advanced Wound Dressings as Adaptive Therapeutic Interfaces in Translational M...](https://pubmed.ncbi.nlm.nih.gov/42439704/) | Cells | 2026 Jul 7 | DOI: 10.3390/cells15131230; PMID: 42439704 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 10 | [A machine learning study of the effect of thrombolysis on outcome at discharge in the UK stroke registry: how does benefit compare with cli...](https://pubmed.ncbi.nlm.nih.gov/42439415/) | European stroke journal | 2026 Jul 6 | DOI: 10.1093/esj/aakag078; PMID: 42439415 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 11 | [Vibrational Spectroscopy of Clinical Biofluids: Advances in FTIR and Raman-Based Biomarker Discovery for Disease Diagnosis and Monitoring.](https://pubmed.ncbi.nlm.nih.gov/42439220/) | Critical reviews in analytical chemistry | 2026 Jul 13 | DOI: 10.1080/10408347.2026.2702636; PMID: 42439220 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 12 | [An interpretable machine learning model for outpatient referral risk assessment in pediatric biliary atresia after Kasai portoenterostomy.](https://pubmed.ncbi.nlm.nih.gov/42439215/) | Journal of pediatric gastroenterology and nutrition | 2026 Jul 13 | DOI: 10.1002/jpn3.70505; PMID: 42439215 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 13 | [MeshGrow: Integrated framework for simulation-ready cardiac and vascular mesh construction from medical imaging.](https://pubmed.ncbi.nlm.nih.gov/42438785/) | JRSM cardiovascular disease | 2026 Jan-Dec | DOI: 10.1177/20480040261455944; PMID: 42438785 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 14 | [Machine learning-based detection techniques for post-traumatic stress syndrome recognition.](https://pubmed.ncbi.nlm.nih.gov/42438680/) | Cognitive neurodynamics | 2026 Dec | DOI: 10.1007/s11571-026-10495-3; PMID: 42438680 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 15 | [Clinical applications of MRI-based artificial intelligence in spinal metastases: A systematic review.](https://pubmed.ncbi.nlm.nih.gov/42438599/) | Journal of bone oncology | 2026 Aug | DOI: 10.1016/j.jbo.2026.100782; PMID: 42438599 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 16 | [Multi-omics integration deciphers arsenic-induced multi-organ toxicity and the novel ferroptosis axis.](https://pubmed.ncbi.nlm.nih.gov/42438480/) | Toxicology reports | 2026 Dec | DOI: 10.1016/j.toxrep.2026.102308; PMID: 42438480 | 病理与组学 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 17 | [Development and Validation of a Predictive Model Using Logistic Regression and Machine Learning for Carotid Artery Atherosclerosis Risk in...](https://pubmed.ncbi.nlm.nih.gov/42438477/) | International journal of women's health | 2026 | DOI: 10.2147/IJWH.S595246; PMID: 42438477 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 18 | [Artificial Intelligence Cannot Replace Peer Reviewers but May Help Editors Triage: A Comparative Analysis of a Large Language Model and Hum...](https://pubmed.ncbi.nlm.nih.gov/42438216/) | The American journal of sports medicine | 2026 Jul 12 | DOI: 10.1177/03635465261463006; PMID: 42438216 | 临床文本与大模型 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 19 | [AI Agents Are Coming: 5-Stage Taxonomy of Language-Based AI Systems for Psychiatry, Psychotherapy, and Counseling.](https://pubmed.ncbi.nlm.nih.gov/42440357/) | JMIR mental health | 2026 Jul 13 | DOI: 10.2196/91746; PMID: 42440357 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 20 | [A Controlled Comparison of Human and AI-Assisted Automated Revision of Delphi Statements on RNA-Based Medicines: Parallel, 2-Arm Study.](https://pubmed.ncbi.nlm.nih.gov/42440352/) | JMIR medical informatics | 2026 Jul 13 | DOI: 10.2196/90228; PMID: 42440352 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 2 | [Germinal vesicle oocytes' rescue: a worthless treatment or a patient-centred approach? Eight years of clinical experience in poor prognosis...](https://pubmed.ncbi.nlm.nih.gov/42442002/) | Human reproduction (Oxford, England) | 2026 Jul 13 | DOI: 10.1093/humrep/deag115; PMID: 42442002 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 3 | [ProphDR: An Interpretable Deep Learning Model for Predicting Cancer Drug Response via Multi-Omics and Cross-Attention Mechanisms.](https://pubmed.ncbi.nlm.nih.gov/42441428/) | Journal of chemical information and modeling | 2026 Jul 13 | DOI: 10.1021/acs.jcim.6c00167; PMID: 42441428 | 病理与组学 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 4 | [Task-shifting to nonexperts using artificial intelligence-guided point-of-care ultrasound: a cohort study of patient selection, image quali...](https://pubmed.ncbi.nlm.nih.gov/42441084/) | European heart journal. Imaging methods and practice | 2026 Aug | DOI: 10.1093/ehjimp/qyag101; PMID: 42441084 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 5 | [Digital infrastructures and data interoperability in radiology for prevention: from digital health to AI-enabled, quantitative imaging work...](https://pubmed.ncbi.nlm.nih.gov/42440228/) | La Radiologia medica | 2026 Jul 13 | DOI: 10.1007/s11547-026-02263-4; PMID: 42440228 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 6 | [How Digital Health Technologies have been Used to Support Regulatory Drug Approval.](https://pubmed.ncbi.nlm.nih.gov/42440213/) | Therapeutic innovation & regulatory science | 2026 Jul 13 | DOI: 10.1007/s43441-026-01020-z; PMID: 42440213 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 7 | [AI-Assisted Chest X-Ray Interpretation in Resource-Limited Settings: LuAna Stepped-Wedge Trial Protocol.](https://pubmed.ncbi.nlm.nih.gov/42441741/) | JMIR research protocols | 2026 Jul 13 | DOI: 10.2196/88626; PMID: 42441741 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 8 | [Toward a Better Paradigm for Head and Neck Cancer Treatment Applying AI (HNC-TACTIC): Protocol for an International Cohort Study of Electro...](https://pubmed.ncbi.nlm.nih.gov/42441711/) | JMIR research protocols | 2026 Jul 13 | DOI: 10.2196/83598; PMID: 42441711 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 9 | [A scoping review on emerging biomarkers in inflammatory bowel disease: Towards precision medicine in diagnosis and therapeutic management.](https://pubmed.ncbi.nlm.nih.gov/42441552/) | PloS one | 2026 | DOI: 10.1371/journal.pone.0353295; PMID: 42441552 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 10 | [Activated Cancer-Associated Fibroblasts Are Associated with Immunosuppression and Poor Prognosis in Clear Cell Renal Cell Carcinoma.](https://pubmed.ncbi.nlm.nih.gov/42441534/) | Pathobiology : journal of immunopathology, molecular a... | 2026 Jul 13 | DOI: 10.1159/000553452; PMID: 42441534 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 11 | [A machine learning model for early risk stratification of 28-day mortality after myocardial infarction.](https://pubmed.ncbi.nlm.nih.gov/42441296/) | European heart journal. Digital health | 2026 Jul | DOI: 10.1093/ehjdh/ztag079; PMID: 42441296 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 12 | [From Prediction to Action: Why Bleeding Risk in Cardiac Surgery Still Eludes Us in the Era of Artificial Intelligence.](https://pubmed.ncbi.nlm.nih.gov/42440381/) | Anesthesiology | 2026 Jul 13 | DOI: 10.1097/ALN.0000000000006167; PMID: 42440381 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 13 | [Pharmacogenomics in oncology: mutation-targeted therapy and biomarker integration in non-small cell lung cancer.](https://pubmed.ncbi.nlm.nih.gov/42440255/) | Clinical & translational oncology : official publicati... | 2026 Jul 13 | DOI: 10.1007/s12094-026-04402-9; PMID: 42440255 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 14 | [Examining explainable artificial intelligence in TNM staging with PET-CT: a user-centred observation study.](https://pubmed.ncbi.nlm.nih.gov/42440231/) | La Radiologia medica | 2026 Jul 13 | DOI: 10.1007/s11547-026-02226-9; PMID: 42440231 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 15 | [JADE-Plus: A Multimodal Agentic Retrieval-Augmented Generation Large Language Framework for Diagnostic Support in Jawbone Lesions: Developm...](https://pubmed.ncbi.nlm.nih.gov/42440194/) | Journal of imaging informatics in medicine | 2026 Jul 13 | DOI: 10.1007/s10278-026-02086-9; PMID: 42440194 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 16 | [Label-Free Prediction of EGFR Mutation Status Using Fluorescence Lifetime Imaging and Deep Learning in Lung Adenocarcinoma.](https://pubmed.ncbi.nlm.nih.gov/42439806/) | Cancer research | 2026 Jul 13 | DOI: 10.1158/0008-5472.CAN-25-5589; PMID: 42439806 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 17 | [Procedure-specific prediction of surgical difficulty in laparoscopic and robotic right hemicolectomy: Interpretable machine learning models.](https://pubmed.ncbi.nlm.nih.gov/42442073/) | European journal of surgical oncology : the journal of... | 2026 Jul 9 | DOI: 10.1016/j.ejso.2026.111997; PMID: 42442073 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 18 | [Derivation and external validation of machine learning prediction for severe acute kidney injury in patients with sepsis-induced coagulopat...](https://pubmed.ncbi.nlm.nih.gov/42442070/) | International journal of medical informatics | 2026 Jul 11 | DOI: 10.1016/j.ijmedinf.2026.106602; PMID: 42442070 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 19 | [Clinical, biomechanical, and digital factors associated with refinement after the first series of clear aligners: A systematic review.](https://pubmed.ncbi.nlm.nih.gov/42442043/) | International orthodontics | 2026 Jul 13 | DOI: 10.1016/j.ortho.2026.101211; PMID: 42442043 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 20 | [Predicting depression severity among people living with HIV in Oman using random forest.](https://pubmed.ncbi.nlm.nih.gov/42441949/) | AIDS care | 2026 Jul 13 | DOI: 10.1080/09540121.2026.2694763; PMID: 42441949 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
 
 ## 医学研究应用整理
-
-### 临床文本与大模型
-
-- 论文线索：Artificial Intelligence Cannot Replace Peer Reviewers but May Help Editors Triage: A Comparative Analysis of a Large Language Model and Human Reviewer Recommendations at the American Journal of Sports Medicine.。优先核验研究设计、样本来源、外部验证和代码可得性。
-- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 临床预测
 
 - 可复用项目：[aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills)，适合先看 README、数据要求、许可证和最近提交。
-- 论文线索：A machine learning study of the effect of thrombolysis on outcome at discharge in the UK stroke registry: how does benefit compare with clinical trials?。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 论文线索：Germinal vesicle oocytes' rescue: a worthless treatment or a patient-centred approach? Eight years of clinical experience in poor prognosis patients.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 医学影像
@@ -74,13 +70,13 @@
 ### 病理与组学
 
 - 可复用项目：[volcano-sh/volcano](https://github.com/volcano-sh/volcano)，适合先看 README、数据要求、许可证和最近提交。
-- 论文线索：Multi-omics integration deciphers arsenic-induced multi-organ toxicity and the novel ferroptosis axis.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 论文线索：ProphDR: An Interpretable Deep Learning Model for Predicting Cancer Drug Response via Multi-Omics and Cross-Attention Mechanisms.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 综合医学机器学习
 
 - 可复用项目：[imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)，适合先看 README、数据要求、许可证和最近提交。
-- 论文线索：AI Agents Are Coming: 5-Stage Taxonomy of Language-Based AI Systems for Psychiatry, Psychotherapy, and Counseling.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 论文线索：Procedure-specific prediction of surgical difficulty in laparoscopic and robotic right hemicolectomy: Interpretable machine learning models.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 药物与转化
@@ -104,33 +100,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=1.84
-- github: OK; status=200; seconds=1.44
-- github: OK; status=200; seconds=1.25
-- github: OK; status=200; seconds=1.28
-- github: OK; status=200; seconds=1.34
-- github: OK; status=200; seconds=1.39
-- github: OK; status=200; seconds=1.37
-- github_readme: OK; status=200; seconds=1.1
-- github_readme: OK; status=200; seconds=1.18
-- github_readme: OK; status=200; seconds=1.0
-- github_readme: OK; status=200; seconds=0.93
-- github_readme: OK; status=200; seconds=1.21
-- github_readme: OK; status=200; seconds=0.99
-- github_readme: OK; status=200; seconds=1.09
-- github_readme: OK; status=200; seconds=0.98
-- github_readme: OK; status=200; seconds=0.85
-- github_readme: OK; status=200; seconds=1.29
-- github_readme: OK; status=200; seconds=1.2
-- github_readme: OK; status=200; seconds=1.0
-- github_readme: OK; status=200; seconds=1.21
-- github_readme: OK; status=200; seconds=1.17
-- github_readme: OK; status=200; seconds=1.01
-- github_readme: OK; status=200; seconds=1.05
-- github_readme: OK; status=200; seconds=0.65
-- github_readme: OK; status=200; seconds=0.69
-- pubmed_esearch: OK; status=200; seconds=0.95
-- pubmed_esummary: OK; status=200; seconds=1.28
-- crossref: OK; status=200; seconds=1.87
+- github: OK; status=200; seconds=2.72
+- github: OK; status=200; seconds=2.37
+- github: OK; status=200; seconds=2.2
+- github: OK; status=200; seconds=3.05
+- github: OK; status=200; seconds=2.43
+- github: OK; status=200; seconds=3.25
+- github: OK; status=200; seconds=2.88
+- github_readme: OK; status=200; seconds=2.29
+- github_readme: OK; status=200; seconds=2.17
+- github_readme: OK; status=200; seconds=1.78
+- github_readme: OK; status=200; seconds=2.1
+- github_readme: OK; status=200; seconds=1.57
+- github_readme: OK; status=200; seconds=1.72
+- github_readme: OK; status=200; seconds=2.28
+- github_readme: OK; status=200; seconds=2.31
+- github_readme: OK; status=200; seconds=1.82
+- github_readme: OK; status=200; seconds=2.38
+- github_readme: OK; status=200; seconds=2.7
+- github_readme: OK; status=200; seconds=2.29
+- github_readme: OK; status=200; seconds=2.33
+- github_readme: OK; status=200; seconds=2.35
+- github_readme: OK; status=200; seconds=2.13
+- github_readme: OK; status=200; seconds=2.24
+- github_readme: OK; status=200; seconds=1.49
+- github_readme: OK; status=200; seconds=1.42
+- pubmed_esearch: OK; status=200; seconds=1.8
+- pubmed_esummary: OK; status=200; seconds=2.11
+- crossref: OK; status=200; seconds=2.17
 
 本次运行已完成：2026-07-14_ml_med_research_digest.md

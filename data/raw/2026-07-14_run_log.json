@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.84,
+    "seconds": 2.72,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-07-04"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.44,
+    "seconds": 2.37,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-04"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.25,
+    "seconds": 2.2,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-07-04"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.28,
+    "seconds": 3.05,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-07-04"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.34,
+    "seconds": 2.43,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-04"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.39,
+    "seconds": 3.25,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-07-04"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.37,
+    "seconds": 2.88,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-07-04"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.1,
+    "seconds": 2.29,
     "repo": "awesome-selfhosted/awesome-selfhosted"
   },
   {
@@ -77,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.18,
+    "seconds": 2.17,
     "repo": "rust-unofficial/awesome-rust"
   },
   {
@@ -86,8 +86,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.0,
+    "seconds": 1.78,
     "repo": "K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.1,
+    "repo": "ai-boost/awesome-prompts"
   },
   {
     "source": "github_readme",
@@ -95,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.93,
+    "seconds": 1.57,
     "repo": "volcano-sh/volcano"
   },
   {
@@ -104,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.21,
+    "seconds": 1.72,
     "repo": "TorchIO-project/torchio"
   },
   {
@@ -113,17 +122,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.99,
+    "seconds": 2.28,
     "repo": "mathworks/MATLAB-Simulink-Challenge-Project-Hub"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/bobeff/programming-math-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.09,
-    "repo": "bobeff/programming-math-science"
   },
   {
     "source": "github_readme",
@@ -131,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.98,
+    "seconds": 2.31,
     "repo": "ai4s-research/awesome-ai-for-science"
   },
   {
@@ -140,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.85,
+    "seconds": 1.82,
     "repo": "aipoch/medical-research-skills"
   },
   {
@@ -149,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.29,
+    "seconds": 2.38,
     "repo": "valeman/awesome-conformal-prediction"
   },
   {
@@ -158,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.2,
+    "seconds": 2.7,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -167,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.0,
+    "seconds": 2.29,
     "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
   },
   {
@@ -176,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.21,
+    "seconds": 2.33,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -185,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.17,
+    "seconds": 2.35,
     "repo": "liutaocode/TTS-arxiv-daily"
   },
   {
@@ -194,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.01,
+    "seconds": 2.13,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -203,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.05,
+    "seconds": 2.24,
     "repo": "leipzig/awesome-reproducible-research"
   },
   {
@@ -212,7 +212,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.65,
+    "seconds": 1.49,
     "repo": "luohongk/Embodied-AI-Daily"
   },
   {
@@ -221,7 +221,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.69,
+    "seconds": 1.42,
     "repo": "Jianqiuer/Awesome6DPoseEstimation"
   },
   {
@@ -230,15 +230,15 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.95
+    "seconds": 1.8
   },
   {
     "source": "pubmed_esummary",
-    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42440357%2C42440352%2C42440338%2C42440272%2C42440255%2C42440231%2C42440228%2C42440213%2C42440194%2C42440113%2C42440000%2C42439908%2C42439806%2C42439775%2C42439704%2C42439565%2C42439415%2C42439346%2C42439342%2C42439220%2C42439215%2C42439194%2C42439080%2C42439016%2C42438785%2C42438784%2C42438781%2C42438709%2C42438680%2C42438605%2C42438599%2C42438480%2C42438477%2C42438416%2C42438313%2C42438216%2C42438193%2C42438138%2C42437935%2C42437914",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42442073%2C42442070%2C42442043%2C42442002%2C42441949%2C42441881%2C42441757%2C42441741%2C42441729%2C42441711%2C42441703%2C42441663%2C42441552%2C42441534%2C42441483%2C42441435%2C42441428%2C42441392%2C42441296%2C42441084%2C42440855%2C42440775%2C42440659%2C42440579%2C42440559%2C42440381%2C42440357%2C42440352%2C42440338%2C42440272%2C42440255%2C42440231%2C42440228%2C42440213%2C42440194%2C42440113%2C42440000%2C42439908%2C42439806%2C42439775",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.28
+    "seconds": 2.11
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.87
+    "seconds": 2.17
   }
 ]
