@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.21,
+    "seconds": 1.54,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-07-12"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.33,
+    "seconds": 1.62,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-12"
   },
   {
@@ -23,53 +23,44 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.98,
+    "seconds": 1.71,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-07-12"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-07-12&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.28,
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 1.39,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-07-12"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-12&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.16,
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 1.27,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-12"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-07-12&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 3.22,
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 1.14,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-07-12"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-07-12&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.16,
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 1.16,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-07-12"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/awesome-selfhosted/awesome-selfhosted/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.9,
-    "repo": "awesome-selfhosted/awesome-selfhosted"
   },
   {
     "source": "github_readme",
@@ -77,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.87,
+    "seconds": 1.62,
     "repo": "K-Dense-AI/scientific-agent-skills"
   },
   {
@@ -86,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.27,
+    "seconds": 1.89,
     "repo": "alvinreal/awesome-opensource-ai"
   },
   {
@@ -95,17 +86,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.95,
+    "seconds": 1.75,
     "repo": "FreedomIntelligence/OpenClaw-Medical-Skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.84,
-    "repo": "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials"
   },
   {
     "source": "github_readme",
@@ -113,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.68,
+    "seconds": 1.73,
     "repo": "NVIDIA/skills"
   },
   {
@@ -122,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.14,
+    "seconds": 1.76,
     "repo": "uhub/awesome-matlab"
   },
   {
@@ -131,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.64,
+    "seconds": 1.41,
     "repo": "aipoch/medical-research-skills"
   },
   {
@@ -140,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.13,
+    "seconds": 2.05,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -149,35 +131,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.8,
+    "seconds": 1.54,
     "repo": "richard-peng-xia/awesome-multimodal-in-medical-imaging"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/superiorlu/AITreasureBox/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.07,
-    "repo": "superiorlu/AITreasureBox"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/liutaocode/TTS-arxiv-daily/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.06,
-    "repo": "liutaocode/TTS-arxiv-daily"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/TissueImageAnalytics/tiatoolbox/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.54,
-    "repo": "TissueImageAnalytics/tiatoolbox"
   },
   {
     "source": "github_readme",
@@ -185,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.59,
+    "seconds": 1.74,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -194,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.17,
+    "seconds": 1.63,
     "repo": "pykale/pykale"
   },
   {
@@ -203,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.58,
+    "seconds": 1.77,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -212,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.91,
+    "seconds": 1.98,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -221,8 +176,53 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.89,
+    "seconds": 2.2,
     "repo": "leipzig/awesome-reproducible-research"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/HUANGLIZI/LViT/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.34,
+    "repo": "HUANGLIZI/LViT"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/kaapana/kaapana/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.47,
+    "repo": "kaapana/kaapana"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ImagingDataCommons/highdicom/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.28,
+    "repo": "ImagingDataCommons/highdicom"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Aperivue/medsci-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.04,
+    "repo": "Aperivue/medsci-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/andrew/ultimate-awesome/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.41,
+    "repo": "andrew/ultimate-awesome"
   },
   {
     "source": "pubmed_esearch",
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.7
+    "seconds": 1.56
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.99
+    "seconds": 1.93
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.11
+    "seconds": 2.22
   }
 ]

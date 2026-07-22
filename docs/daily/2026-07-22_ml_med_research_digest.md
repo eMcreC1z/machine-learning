@@ -1,13 +1,20 @@
 # 医学机器学习自动整理日报 - 2026-07-22
 
-> 自动采集时间：2026-07-22 09:37:45。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-07-22 09:37:50。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：16 个
+- GitHub 项目候选：15 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：1 篇
-- 采集异常来源：0 个
+- 采集异常来源：4 个
+
+## 采集限制
+
+- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
+- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
+- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
+- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
 
 ## 优先关注 GitHub 项目
 
@@ -18,16 +25,16 @@
 | 3 | [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | 2873 | 2026-07-21T19:04:02Z | 医学影像 | The largest open-source medical AI skills library for OpenClaw🦞.；评分 30.14 |
 | 4 | [richard-peng-xia/awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging) | 971 | 2026-07-21T17:48:32Z | 医学影像 | A collection of resources on applications of multi-modal learning in medical imaging.；评分 29.43 |
 | 5 | [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) | 395 | 2026-07-21T15:41:23Z | 医学影像 | A curated list of reproducible research case studies, projects, tutorials, and media；评分 27.6 |
-| 6 | [TissueImageAnalytics/tiatoolbox](https://github.com/TissueImageAnalytics/tiatoolbox) | 540 | 2026-07-21T16:30:00Z | 医学影像 | Computational Pathology Toolbox developed by TIA Centre, University of Warwick.；评分 26.38 |
-| 7 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 2625 | 2026-07-22T01:23:23Z | 临床文本与大模型 | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows e... |
-| 8 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1213 | 2026-07-21T07:34:04Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.78 |
-| 9 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 505 | 2026-07-21T07:04:00Z | 病理与组学 | 近期活跃项目；评分 24.46 |
-| 10 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 451 | 2026-07-19T21:51:06Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.51 |
-| 11 | [pykale/pykale](https://github.com/pykale/pykale) | 487 | 2026-07-21T21:52:38Z | 医学影像 | Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research, part of the 🔥PyTorch ecosystem. ⭐ St... |
-| 12 | [LidiaGarrucho/MAMA-MIA](https://github.com/LidiaGarrucho/MAMA-MIA) | 110 | 2026-07-20T16:46:16Z | 医学影像 | The MAMA-MIA Dataset: A Multi-Center Breast Cancer DCE-MRI Public Dataset with Expert Segmentations；评分 18.96 |
-| 13 | [AtlasAnalyticsLab/MOOZY](https://github.com/AtlasAnalyticsLab/MOOZY) | 24 | 2026-07-22T00:11:46Z | 医学影像 | [ECCV 2026] A Patient-First Foundation Model for Computational Pathology；评分 15.51 |
-| 14 | [NKI-AI/dlup](https://github.com/NKI-AI/dlup) | 30 | 2026-07-21T14:37:33Z | 病理与组学 | Dlup are the Deep Learning Utilities for Pathology developed at the Netherlands Cancer Institute；评分 14.03 |
-| 15 | [Pirate-Hunter-Zoro/TRD-EHR](https://github.com/Pirate-Hunter-Zoro/TRD-EHR) | 0 | 2026-07-21T21:01:36Z | 临床预测 | This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.；评分 7.6 |
+| 6 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 2625 | 2026-07-22T01:23:23Z | 临床文本与大模型 | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows e... |
+| 7 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1213 | 2026-07-21T07:34:04Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.78 |
+| 8 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 505 | 2026-07-21T07:04:00Z | 病理与组学 | 近期活跃项目；评分 24.46 |
+| 9 | [ImagingDataCommons/highdicom](https://github.com/ImagingDataCommons/highdicom) | 234 | 2026-07-21T12:50:56Z | 医学影像 | High-level DICOM abstractions for the Python programming language；评分 24.09 |
+| 10 | [kaapana/kaapana](https://github.com/kaapana/kaapana) | 269 | 2026-07-17T12:45:35Z | 医学影像 | Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflow... |
+| 11 | [HUANGLIZI/LViT](https://github.com/HUANGLIZI/LViT) | 389 | 2026-07-22T01:23:59Z | 医学影像 | [IEEE Transactions on Medical Imaging/TMI 2023] This repo is the official implementation of "LViT: Language meets Vision Transformer in Medical Image Segmentat... |
+| 12 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 451 | 2026-07-19T21:51:06Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.51 |
+| 13 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 208 | 2026-07-22T01:09:17Z | 医学影像 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Co... |
+| 14 | [pykale/pykale](https://github.com/pykale/pykale) | 487 | 2026-07-21T21:52:38Z | 医学影像 | Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research, part of the 🔥PyTorch ecosystem. ⭐ St... |
+| 15 | [LidiaGarrucho/MAMA-MIA](https://github.com/LidiaGarrucho/MAMA-MIA) | 110 | 2026-07-20T16:46:16Z | 医学影像 | The MAMA-MIA Dataset: A Multi-Center Breast Cancer DCE-MRI Public Dataset with Expert Segmentations；评分 18.96 |
 
 ## 高水平论文候选
 
@@ -107,33 +114,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=2.21
-- github: OK; status=200; seconds=2.33
-- github: OK; status=200; seconds=1.98
-- github: OK; status=200; seconds=2.28
-- github: OK; status=200; seconds=2.16
-- github: OK; status=200; seconds=3.22
-- github: OK; status=200; seconds=2.16
-- github_readme: OK; status=200; seconds=1.9
-- github_readme: OK; status=200; seconds=1.87
-- github_readme: OK; status=200; seconds=2.27
-- github_readme: OK; status=200; seconds=2.95
-- github_readme: OK; status=200; seconds=1.84
-- github_readme: OK; status=200; seconds=1.68
-- github_readme: OK; status=200; seconds=2.14
-- github_readme: OK; status=200; seconds=1.64
-- github_readme: OK; status=200; seconds=3.13
-- github_readme: OK; status=200; seconds=1.8
-- github_readme: OK; status=200; seconds=2.07
-- github_readme: OK; status=200; seconds=2.06
-- github_readme: OK; status=200; seconds=2.54
-- github_readme: OK; status=200; seconds=1.59
-- github_readme: OK; status=200; seconds=1.17
-- github_readme: OK; status=200; seconds=1.58
-- github_readme: OK; status=200; seconds=1.91
+- github: OK; status=200; seconds=1.54
+- github: OK; status=200; seconds=1.62
+- github: OK; status=200; seconds=1.71
+- github: FAILED; status=403; seconds=1.39
+- github: FAILED; status=403; seconds=1.27
+- github: FAILED; status=403; seconds=1.14
+- github: FAILED; status=403; seconds=1.16
+- github_readme: OK; status=200; seconds=1.62
 - github_readme: OK; status=200; seconds=1.89
-- pubmed_esearch: OK; status=200; seconds=1.7
-- pubmed_esummary: OK; status=200; seconds=1.99
-- crossref: OK; status=200; seconds=2.11
+- github_readme: OK; status=200; seconds=1.75
+- github_readme: OK; status=200; seconds=1.73
+- github_readme: OK; status=200; seconds=1.76
+- github_readme: OK; status=200; seconds=1.41
+- github_readme: OK; status=200; seconds=2.05
+- github_readme: OK; status=200; seconds=1.54
+- github_readme: OK; status=200; seconds=1.74
+- github_readme: OK; status=200; seconds=1.63
+- github_readme: OK; status=200; seconds=1.77
+- github_readme: OK; status=200; seconds=1.98
+- github_readme: OK; status=200; seconds=2.2
+- github_readme: OK; status=200; seconds=1.34
+- github_readme: OK; status=200; seconds=1.47
+- github_readme: OK; status=200; seconds=1.28
+- github_readme: OK; status=200; seconds=2.04
+- github_readme: OK; status=200; seconds=1.41
+- pubmed_esearch: OK; status=200; seconds=1.56
+- pubmed_esummary: OK; status=200; seconds=1.93
+- crossref: OK; status=200; seconds=2.22
 
 本次运行已完成：2026-07-22_ml_med_research_digest.md
