@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 148 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 31400,
+    "stars": 31401,
     "forks": 3128,
     "open_issues": 38,
-    "updated_at": "2026-07-22T01:20:56Z",
+    "updated_at": "2026-07-22T01:33:09Z",
     "pushed_at": "2026-07-21T16:32:30Z",
     "topics": [
       "agent-skills",
@@ -213,6 +213,48 @@
     }
   },
   {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 540,
+    "forks": 106,
+    "open_issues": 15,
+    "updated_at": "2026-07-21T16:30:00Z",
+    "pushed_at": "2026-07-21T16:27:45Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.38,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
     "full_name": "NVIDIA/skills",
     "name": "skills",
     "url": "https://github.com/NVIDIA/skills",
@@ -311,109 +353,6 @@
     }
   },
   {
-    "full_name": "ImagingDataCommons/highdicom",
-    "name": "highdicom",
-    "url": "https://github.com/ImagingDataCommons/highdicom",
-    "description": "High-level DICOM abstractions for the Python programming language",
-    "language": "Python",
-    "stars": 234,
-    "forks": 54,
-    "open_issues": 31,
-    "updated_at": "2026-07-21T12:50:56Z",
-    "pushed_at": "2026-07-21T12:49:46Z",
-    "topics": [
-      "dicom",
-      "numpy",
-      "pydicom",
-      "python3",
-      "typehints"
-    ],
-    "application_area": "医学影像",
-    "score": 24.09,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "radiomics",
-        "computer vision"
-      ],
-      "medical": [
-        "clinical",
-        "radiology",
-        "imaging",
-        "pathology",
-        "cancer"
-      ]
-    }
-  },
-  {
-    "full_name": "kaapana/kaapana",
-    "name": "kaapana",
-    "url": "https://github.com/kaapana/kaapana",
-    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
-    "language": "Python",
-    "stars": 269,
-    "forks": 64,
-    "open_issues": 7,
-    "updated_at": "2026-07-17T12:45:35Z",
-    "pushed_at": "2026-07-21T12:40:49Z",
-    "topics": [
-      "ai",
-      "cloud-computing",
-      "imaging",
-      "kubernetes",
-      "medical-image-processing",
-      "medical-imaging",
-      "platform"
-    ],
-    "application_area": "医学影像",
-    "score": 23.87,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "deep learning",
-        "radiomics"
-      ],
-      "medical": [
-        "medical",
-        "clinical",
-        "imaging",
-        "cancer"
-      ]
-    }
-  },
-  {
-    "full_name": "HUANGLIZI/LViT",
-    "name": "LViT",
-    "url": "https://github.com/HUANGLIZI/LViT",
-    "description": "[IEEE Transactions on Medical Imaging/TMI 2023] This repo is the official implementation of \"LViT: Language meets Vision Transformer in Medical Image Segmentation\"",
-    "language": "Python",
-    "stars": 389,
-    "forks": 40,
-    "open_issues": 7,
-    "updated_at": "2026-07-22T01:23:59Z",
-    "pushed_at": "2026-07-22T01:23:54Z",
-    "topics": [
-      "medical-image-analysis",
-      "multimodal-learning",
-      "pytorch",
-      "segmentation",
-      "vision-language"
-    ],
-    "application_area": "医学影像",
-    "score": 23.58,
-    "evidence_terms": {
-      "ml": [
-        "deep learning"
-      ],
-      "medical": [
-        "medical",
-        "clinical",
-        "imaging",
-        "cancer"
-      ]
-    }
-  },
-  {
     "full_name": "imteekay/machine-learning-research",
     "name": "machine-learning-research",
     "url": "https://github.com/imteekay/machine-learning-research",
@@ -442,55 +381,6 @@
       ],
       "medical": [
         "clinical",
-        "cancer"
-      ]
-    }
-  },
-  {
-    "full_name": "Aperivue/medsci-skills",
-    "name": "medsci-skills",
-    "url": "https://github.com/Aperivue/medsci-skills",
-    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
-    "language": "Python",
-    "stars": 208,
-    "forks": 53,
-    "open_issues": 7,
-    "updated_at": "2026-07-22T01:09:17Z",
-    "pushed_at": "2026-07-22T01:09:27Z",
-    "topics": [
-      "agent-skills",
-      "biostatistics",
-      "claude-code",
-      "claude-skills",
-      "clinical-research",
-      "codex",
-      "cursor",
-      "diagnostic-accuracy",
-      "irb-protocol",
-      "literature-review",
-      "manuscript",
-      "medical-ai",
-      "medical-research",
-      "meta-analysis",
-      "physician-researcher",
-      "prisma",
-      "pubmed",
-      "radiology",
-      "reporting-guidelines",
-      "systematic-review"
-    ],
-    "application_area": "医学影像",
-    "score": 23.48,
-    "evidence_terms": {
-      "ml": [
-        "llm"
-      ],
-      "medical": [
-        "medical",
-        "medicine",
-        "clinical",
-        "radiology",
-        "imaging",
         "cancer"
       ]
     }
@@ -568,5 +458,82 @@
     ],
     "application_area": "医学影像",
     "score": 18.96
+  },
+  {
+    "full_name": "AtlasAnalyticsLab/MOOZY",
+    "name": "MOOZY",
+    "url": "https://github.com/AtlasAnalyticsLab/MOOZY",
+    "description": "[ECCV 2026] A Patient-First Foundation Model for Computational Pathology",
+    "language": "Python",
+    "stars": 24,
+    "forks": 2,
+    "open_issues": 4,
+    "updated_at": "2026-07-22T00:11:46Z",
+    "pushed_at": "2026-07-22T00:11:49Z",
+    "topics": [
+      "computational-pathology",
+      "digital-pathology",
+      "foundation-model",
+      "histopathology",
+      "medical-imaging",
+      "moozy",
+      "multiple-instance-learning",
+      "pathology-foundation-model",
+      "patient-encoder",
+      "patient-representation",
+      "self-supervised-learning",
+      "slide-encoder",
+      "slide-representation-learning",
+      "survival-prediction",
+      "whole-slide-image",
+      "wsi-foundation-model"
+    ],
+    "application_area": "医学影像",
+    "score": 15.51
+  },
+  {
+    "full_name": "NKI-AI/dlup",
+    "name": "dlup",
+    "url": "https://github.com/NKI-AI/dlup",
+    "description": "Dlup are the Deep Learning Utilities for Pathology developed at the Netherlands Cancer Institute",
+    "language": "Python",
+    "stars": 30,
+    "forks": 6,
+    "open_issues": 0,
+    "updated_at": "2026-07-21T14:37:33Z",
+    "pushed_at": "2026-07-21T14:55:33Z",
+    "topics": [],
+    "application_area": "病理与组学",
+    "score": 14.03
+  },
+  {
+    "full_name": "Pirate-Hunter-Zoro/TRD-EHR",
+    "name": "TRD-EHR",
+    "url": "https://github.com/Pirate-Hunter-Zoro/TRD-EHR",
+    "description": "This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-21T21:01:36Z",
+    "pushed_at": "2026-07-21T21:01:13Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
+  },
+  {
+    "full_name": "Rooted1/mimic-patient-similarity-search",
+    "name": "mimic-patient-similarity-search",
+    "url": "https://github.com/Rooted1/mimic-patient-similarity-search",
+    "description": "A machine learning system for retrieving clinically similar ICU patients using structured electronic health record data from the MIMIC-IV database.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-22T01:21:45Z",
+    "pushed_at": "2026-07-22T01:21:41Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 6.8
   }
 ]
