@@ -1,0 +1,572 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 148 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 31400,
+    "forks": 3128,
+    "open_issues": 38,
+    "updated_at": "2026-07-22T01:20:56Z",
+    "pushed_at": "2026-07-21T16:32:30Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 39.83,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 1499,
+    "forks": 143,
+    "open_issues": 3,
+    "updated_at": "2026-07-22T00:45:54Z",
+    "pushed_at": "2026-07-15T12:42:34Z",
+    "topics": [
+      "academic-writing",
+      "agent-skills",
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "protocol-design",
+      "rna-seq-data",
+      "science",
+      "scrna-seq-data",
+      "single-cell",
+      "spatial-transcriptomics"
+    ],
+    "application_area": "临床预测",
+    "score": 33.34,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "name": "OpenClaw-Medical-Skills",
+    "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+    "language": "Python",
+    "stars": 2873,
+    "forks": 401,
+    "open_issues": 13,
+    "updated_at": "2026-07-21T19:04:02Z",
+    "pushed_at": "2026-07-21T01:01:51Z",
+    "topics": [
+      "awesome",
+      "claude-code",
+      "clawhub",
+      "medical",
+      "nanoclaw",
+      "openclaw",
+      "openclaw-skills",
+      "skills"
+    ],
+    "application_area": "医学影像",
+    "score": 30.14,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "richard-peng-xia/awesome-multimodal-in-medical-imaging",
+    "name": "awesome-multimodal-in-medical-imaging",
+    "url": "https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging",
+    "description": "A collection of resources on applications of multi-modal learning in medical imaging.",
+    "language": "",
+    "stars": 971,
+    "forks": 82,
+    "open_issues": 1,
+    "updated_at": "2026-07-21T17:48:32Z",
+    "pushed_at": "2026-07-21T17:48:16Z",
+    "topics": [
+      "large-language-models",
+      "large-multimodal-models",
+      "medical-imaging",
+      "medical-report-generation",
+      "multimodal-deep-learning",
+      "multimodal-large-language-models",
+      "multimodal-learning",
+      "visual-question-answering"
+    ],
+    "application_area": "医学影像",
+    "score": 29.43,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "llm",
+        "neural network"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 395,
+    "forks": 54,
+    "open_issues": 27,
+    "updated_at": "2026-07-21T15:41:23Z",
+    "pushed_at": "2026-07-20T14:39:49Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.6,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 2625,
+    "forks": 296,
+    "open_issues": 13,
+    "updated_at": "2026-07-22T01:23:23Z",
+    "pushed_at": "2026-07-21T21:47:23Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 24.99,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1213,
+    "forks": 77,
+    "open_issues": 0,
+    "updated_at": "2026-07-21T07:34:04Z",
+    "pushed_at": "2026-07-21T07:33:36Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.78,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 505,
+    "forks": 57,
+    "open_issues": 5,
+    "updated_at": "2026-07-21T07:04:00Z",
+    "pushed_at": "2026-07-15T04:14:19Z",
+    "topics": [
+      "ai-virtual-cell",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.46,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "ImagingDataCommons/highdicom",
+    "name": "highdicom",
+    "url": "https://github.com/ImagingDataCommons/highdicom",
+    "description": "High-level DICOM abstractions for the Python programming language",
+    "language": "Python",
+    "stars": 234,
+    "forks": 54,
+    "open_issues": 31,
+    "updated_at": "2026-07-21T12:50:56Z",
+    "pushed_at": "2026-07-21T12:49:46Z",
+    "topics": [
+      "dicom",
+      "numpy",
+      "pydicom",
+      "python3",
+      "typehints"
+    ],
+    "application_area": "医学影像",
+    "score": 24.09,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "radiomics",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 269,
+    "forks": 64,
+    "open_issues": 7,
+    "updated_at": "2026-07-17T12:45:35Z",
+    "pushed_at": "2026-07-21T12:40:49Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 23.87,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "HUANGLIZI/LViT",
+    "name": "LViT",
+    "url": "https://github.com/HUANGLIZI/LViT",
+    "description": "[IEEE Transactions on Medical Imaging/TMI 2023] This repo is the official implementation of \"LViT: Language meets Vision Transformer in Medical Image Segmentation\"",
+    "language": "Python",
+    "stars": 389,
+    "forks": 40,
+    "open_issues": 7,
+    "updated_at": "2026-07-22T01:23:59Z",
+    "pushed_at": "2026-07-22T01:23:54Z",
+    "topics": [
+      "medical-image-analysis",
+      "multimodal-learning",
+      "pytorch",
+      "segmentation",
+      "vision-language"
+    ],
+    "application_area": "医学影像",
+    "score": 23.58,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 451,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-07-19T21:51:06Z",
+    "pushed_at": "2026-07-19T21:51:02Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.51,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "Aperivue/medsci-skills",
+    "name": "medsci-skills",
+    "url": "https://github.com/Aperivue/medsci-skills",
+    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+    "language": "Python",
+    "stars": 208,
+    "forks": 53,
+    "open_issues": 7,
+    "updated_at": "2026-07-22T01:09:17Z",
+    "pushed_at": "2026-07-22T01:09:27Z",
+    "topics": [
+      "agent-skills",
+      "biostatistics",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "codex",
+      "cursor",
+      "diagnostic-accuracy",
+      "irb-protocol",
+      "literature-review",
+      "manuscript",
+      "medical-ai",
+      "medical-research",
+      "meta-analysis",
+      "physician-researcher",
+      "prisma",
+      "pubmed",
+      "radiology",
+      "reporting-guidelines",
+      "systematic-review"
+    ],
+    "application_area": "医学影像",
+    "score": 23.48,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "pykale/pykale",
+    "name": "pykale",
+    "url": "https://github.com/pykale/pykale",
+    "description": "Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research, part of the 🔥PyTorch ecosystem. ⭐ Star to support our work!",
+    "language": "Python",
+    "stars": 487,
+    "forks": 74,
+    "open_issues": 43,
+    "updated_at": "2026-07-21T21:52:38Z",
+    "pushed_at": "2026-07-21T20:01:03Z",
+    "topics": [
+      "computer-vision",
+      "data-science",
+      "deep-learning",
+      "domain-adaptation",
+      "graph-analysis",
+      "knowledge-aware-learning",
+      "machine-learning",
+      "medical-image-analysis",
+      "meta-learning",
+      "multimodal",
+      "multimodal-learning",
+      "python",
+      "pytorch",
+      "transfer-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 22.17,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "LidiaGarrucho/MAMA-MIA",
+    "name": "MAMA-MIA",
+    "url": "https://github.com/LidiaGarrucho/MAMA-MIA",
+    "description": "The MAMA-MIA Dataset: A Multi-Center Breast Cancer DCE-MRI Public Dataset with Expert Segmentations",
+    "language": "Jupyter Notebook",
+    "stars": 110,
+    "forks": 13,
+    "open_issues": 5,
+    "updated_at": "2026-07-20T16:46:16Z",
+    "pushed_at": "2026-07-14T09:57:51Z",
+    "topics": [
+      "3d-segmentation",
+      "benchmark-dataset",
+      "breast-cancer",
+      "breast-cancer-dataset",
+      "cancer-imaging-research",
+      "dce-mri",
+      "deep-learning",
+      "foundation-models",
+      "medical-imaging",
+      "mri-images",
+      "mri-segmentation",
+      "nnunet-v2",
+      "pretrained-models",
+      "pretrained-weights",
+      "public-dataset",
+      "radiomics",
+      "tumor-classification",
+      "tumor-segmentation"
+    ],
+    "application_area": "医学影像",
+    "score": 18.96
+  }
+]
