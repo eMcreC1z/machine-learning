@@ -156,6 +156,34 @@
     }
   },
   {
+    "full_name": "andysingal/llm-course",
+    "name": "llm-course",
+    "url": "https://github.com/andysingal/llm-course",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": 882,
+    "forks": 133,
+    "open_issues": 2,
+    "updated_at": "2026-07-25T23:19:58Z",
+    "pushed_at": "2026-07-25T23:19:53Z",
+    "topics": [],
+    "application_area": "临床文本与大模型",
+    "score": 27.57,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
     "full_name": "leipzig/awesome-reproducible-research",
     "name": "awesome-reproducible-research",
     "url": "https://github.com/leipzig/awesome-reproducible-research",
