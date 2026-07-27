@@ -1,0 +1,251 @@
+[
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-17&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.49,
+    "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-07-17"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-17&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.23,
+    "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-17"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22radiomics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-07-17&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.37,
+    "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-07-17"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-07-17&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.23,
+    "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-07-17"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-17&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.2,
+    "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-17"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-07-17&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.18,
+    "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-07-17"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-07-17&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.33,
+    "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-07-17"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/akullpp/awesome-java/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.03,
+    "repo": "akullpp/awesome-java"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/K-Dense-AI/scientific-agent-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.87,
+    "repo": "K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/spmallick/learnopencv/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.98,
+    "repo": "spmallick/learnopencv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/PyO3/pyo3/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.75,
+    "repo": "PyO3/pyo3"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/FreedomIntelligence/OpenClaw-Medical-Skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.01,
+    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.97,
+    "repo": "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/uhub/awesome-matlab/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.04,
+    "repo": "uhub/awesome-matlab"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/jax-md/jax-md/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.78,
+    "repo": "jax-md/jax-md"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/liliu-avril/Awesome-Segment-Anything/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.24,
+    "repo": "liliu-avril/Awesome-Segment-Anything"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/uhub/awesome-python/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.04,
+    "repo": "uhub/awesome-python"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.05,
+    "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ANTsX/ANTsPy/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.67,
+    "repo": "ANTsX/ANTsPy"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/superiorlu/AITreasureBox/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.17,
+    "repo": "superiorlu/AITreasureBox"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/mk-runner/Awesome-Radiology-Report-Generation/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.17,
+    "repo": "mk-runner/Awesome-Radiology-Report-Generation"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/imteekay/machine-learning-research/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.06,
+    "repo": "imteekay/machine-learning-research"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zezhishao/DailyArXiv/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.24,
+    "repo": "zezhishao/DailyArXiv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/leipzig/awesome-reproducible-research/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.05,
+    "repo": "leipzig/awesome-reproducible-research"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/luohongk/Embodied-AI-Daily/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.65,
+    "repo": "luohongk/Embodied-AI-Daily"
+  },
+  {
+    "source": "pubmed_esearch",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28%28machine+learning%5BTitle%2FAbstract%5D%29+OR+%28deep+learning%5BTitle%2FAbstract%5D%29+OR+%28artificial+intelligence%5BTitle%2FAbstract%5D%29+OR+%28foundation+model%5BTitle%2FAbstract%5D%29+OR+%28large+language+model%5BTitle%2FAbstract%5D%29%29+AND+%28%28medicine%5BTitle%2FAbstract%5D%29+OR+%28clinical%5BTitle%2FAbstract%5D%29+OR+%28diagnosis%5BTitle%2FAbstract%5D%29+OR+%28prognosis%5BTitle%2FAbstract%5D%29+OR+%28medical+imaging%5BTitle%2FAbstract%5D%29+OR+%28radiology%5BTitle%2FAbstract%5D%29+OR+%28pathology%5BTitle%2FAbstract%5D%29+OR+%28genomics%5BTitle%2FAbstract%5D%29+OR+%28multi-omics%5BTitle%2FAbstract%5D%29+OR+%28electronic+health+records%5BTitle%2FAbstract%5D%29%29&retmode=json&retmax=40&sort=pub%2Bdate&datetype=pdat&mindate=2026%2F07%2F17&maxdate=2026%2F07%2F27",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.96
+  },
+  {
+    "source": "pubmed_esummary",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42503234%2C42503169%2C42503053%2C42502994%2C42502993%2C42502800%2C42502685%2C42502421%2C42502300%2C42502242%2C42502133%2C42502100%2C42502024%2C42501956%2C42501897%2C42501874%2C42501774%2C42501686%2C42501614%2C42501604%2C42501581%2C42501579%2C42501567%2C42501556%2C42501477%2C42501469%2C42501465%2C42501422%2C42501401%2C42501214%2C42501190%2C42501097%2C42501059%2C42500998%2C42500874%2C42500871%2C42500814%2C42500419%2C42500353%2C42500328",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.96
+  },
+  {
+    "source": "crossref",
+    "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-07-17%2Cuntil-pub-date%3A2026-07-27%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.51
+  }
+]
