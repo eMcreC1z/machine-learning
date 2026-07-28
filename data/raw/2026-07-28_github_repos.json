@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 156 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 31936,
+    "stars": 31937,
     "forks": 3173,
     "open_issues": 6,
-    "updated_at": "2026-07-28T02:15:04Z",
+    "updated_at": "2026-07-28T02:37:41Z",
     "pushed_at": "2026-07-28T00:10:06Z",
     "topics": [
       "agent-skills",
@@ -47,6 +47,117 @@
     }
   },
   {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1185,
+    "forks": 132,
+    "open_issues": 6,
+    "updated_at": "2026-07-27T12:39:36Z",
+    "pushed_at": "2026-07-22T21:02:15Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 35.68,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "volcano-sh/volcano",
+    "name": "volcano",
+    "url": "https://github.com/volcano-sh/volcano",
+    "description": "A Cloud Native Batch System (Project under CNCF)",
+    "language": "Go",
+    "stars": 5812,
+    "forks": 1465,
+    "open_issues": 733,
+    "updated_at": "2026-07-28T02:41:43Z",
+    "pushed_at": "2026-07-28T02:41:28Z",
+    "topics": [
+      "ai",
+      "batch-systems",
+      "bigdata",
+      "gene",
+      "golang",
+      "hpc",
+      "kubernetes",
+      "machine-learning",
+      "serving",
+      "training"
+    ],
+    "application_area": "病理与组学",
+    "score": 30.41,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "name": "OpenClaw-Medical-Skills",
+    "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+    "language": "Python",
+    "stars": 2889,
+    "forks": 405,
+    "open_issues": 14,
+    "updated_at": "2026-07-27T13:08:50Z",
+    "pushed_at": "2026-07-21T01:01:51Z",
+    "topics": [
+      "awesome",
+      "claude-code",
+      "clawhub",
+      "medical",
+      "nanoclaw",
+      "openclaw",
+      "openclaw-skills",
+      "skills"
+    ],
+    "application_area": "医学影像",
+    "score": 30.16,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology",
+        "genomics"
+      ]
+    }
+  },
+  {
     "full_name": "ai4s-research/awesome-ai-for-science",
     "name": "awesome-ai-for-science",
     "url": "https://github.com/ai4s-research/awesome-ai-for-science",
@@ -79,6 +190,45 @@
         "medicine",
         "clinical",
         "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 397,
+    "forks": 54,
+    "open_issues": 27,
+    "updated_at": "2026-07-26T20:52:51Z",
+    "pushed_at": "2026-07-20T14:39:49Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.47,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
       ]
     }
   },
@@ -120,6 +270,48 @@
     }
   },
   {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 542,
+    "forks": 108,
+    "open_issues": 19,
+    "updated_at": "2026-07-28T02:39:04Z",
+    "pushed_at": "2026-07-27T19:41:07Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.4,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
     "full_name": "liliu-avril/Awesome-Segment-Anything",
     "name": "Awesome-Segment-Anything",
     "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
@@ -146,242 +338,148 @@
     }
   },
   {
-    "full_name": "zhuozhiyongde/Stargazer",
-    "name": "Stargazer",
-    "url": "https://github.com/zhuozhiyongde/Stargazer",
-    "description": "我在梦河边浣洗星星。",
-    "language": "",
-    "stars": 42,
-    "forks": 3,
-    "open_issues": 0,
-    "updated_at": "2026-07-28T01:53:16Z",
-    "pushed_at": "2026-07-28T01:53:12Z",
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 446,
+    "forks": 103,
+    "open_issues": 597,
+    "updated_at": "2026-07-27T18:07:59Z",
+    "pushed_at": "2026-07-27T18:07:27Z",
     "topics": [],
-    "application_area": "医学影像",
-    "score": 19.24,
+    "application_area": "临床预测",
+    "score": 24.03,
     "evidence_terms": {
       "ml": [
         "machine learning",
         "deep learning",
-        "artificial intelligence",
-        "llm",
-        "neural network",
-        "nlp"
+        "llm"
       ],
       "medical": [
-        "medical"
-      ]
-    }
-  },
-  {
-    "full_name": "wangqiannudt/nerf-arxiv-daily",
-    "name": "nerf-arxiv-daily",
-    "url": "https://github.com/wangqiannudt/nerf-arxiv-daily",
-    "description": "daily update NeRF releated paper on arxiv",
-    "language": "Python",
-    "stars": 209,
-    "forks": 6,
-    "open_issues": 0,
-    "updated_at": "2026-07-28T02:00:58Z",
-    "pushed_at": "2026-07-28T02:00:51Z",
-    "topics": [
-      "cv",
-      "nerf"
-    ],
-    "application_area": "医学影像",
-    "score": 17.36,
-    "evidence_terms": {
-      "ml": [
-        "foundation model"
-      ],
-      "medical": [
-        "imaging"
-      ]
-    }
-  },
-  {
-    "full_name": "zeleny-ondrej/STNN-Weekly-Arxiv",
-    "name": "STNN-Weekly-Arxiv",
-    "url": "https://github.com/zeleny-ondrej/STNN-Weekly-Arxiv",
-    "description": "Scraping repository of the most relevant topics with regards to Spatio-Temporal Neural Networks available in the arXiv archive. The repository and workflow is based on https://github.com/SpikingChen/SNN-Daily-Arxiv.",
-    "language": "Python",
-    "stars": 20,
-    "forks": 3,
-    "open_issues": 0,
-    "updated_at": "2026-07-27T22:52:47Z",
-    "pushed_at": "2026-07-27T22:52:43Z",
-    "topics": [],
-    "application_area": "医学影像",
-    "score": 16.59,
-    "evidence_terms": {
-      "ml": [
-        "deep learning",
-        "llm",
-        "neural network"
-      ],
-      "medical": [
-        "radiology",
-        "imaging",
+        "clinical",
+        "diagnosis",
         "ehr"
       ]
     }
   },
   {
-    "full_name": "iszhanjiawei/flow_matching_arxiv_daily",
-    "name": "flow_matching_arxiv_daily",
-    "url": "https://github.com/iszhanjiawei/flow_matching_arxiv_daily",
-    "description": "",
-    "language": "Python",
-    "stars": 92,
-    "forks": 3,
-    "open_issues": 0,
-    "updated_at": "2026-07-28T01:46:13Z",
-    "pushed_at": "2026-07-28T01:45:56Z",
-    "topics": [],
-    "application_area": "医学影像",
-    "score": 15.58,
-    "evidence_terms": {
-      "ml": [
-        "foundation model"
-      ],
-      "medical": [
-        "medical"
-      ]
-    }
-  },
-  {
-    "full_name": "Xatta-Trone/awesome-kan",
-    "name": "awesome-kan",
-    "url": "https://github.com/Xatta-Trone/awesome-kan",
-    "description": "A curated collection of KAN (Kolmogorov-Arnold Network) resources—libraries, projects, tutorials, papers, and more—for researchers and developers in the field.",
-    "language": "JavaScript",
-    "stars": 15,
-    "forks": 2,
-    "open_issues": 0,
-    "updated_at": "2026-07-28T01:27:31Z",
-    "pushed_at": "2026-07-28T01:27:27Z",
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 453,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-07-27T13:10:09Z",
+    "pushed_at": "2026-07-27T13:09:51Z",
     "topics": [
-      "kolmogorov-arnold-networks"
-    ],
-    "application_area": "医学影像",
-    "score": 15.13,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "deep learning",
-        "neural network"
-      ],
-      "medical": [
-        "medical",
-        "survival"
-      ]
-    }
-  },
-  {
-    "full_name": "mlnjsh/ai-research-radar",
-    "name": "ai-research-radar",
-    "url": "https://github.com/mlnjsh/ai-research-radar",
-    "description": "📡 Self-updating AI research tracker — New papers from arXiv every 6 hours, auto-summarized, trending topics, citation tracking. Powered by GitHub Actions.",
-    "language": "Python",
-    "stars": 8,
-    "forks": 1,
-    "open_issues": 0,
-    "updated_at": "2026-07-28T01:41:47Z",
-    "pushed_at": "2026-07-28T01:41:44Z",
-    "topics": [
-      "ai",
-      "ai-research",
-      "arxiv",
-      "automation",
-      "github-actions",
+      "data-science",
+      "deep-learning",
       "machine-learning",
-      "paper-tracker",
       "python",
-      "research",
-      "research-papers",
-      "self-updating"
+      "science"
     ],
-    "application_area": "医学影像",
-    "score": 14.87,
+    "application_area": "综合医学机器学习",
+    "score": 23.8,
     "evidence_terms": {
       "ml": [
         "machine learning",
         "deep learning",
-        "llm",
+        "artificial intelligence",
         "computer vision"
       ],
       "medical": [
-        "medical",
-        "imaging"
+        "clinical",
+        "cancer"
       ]
     }
   },
   {
-    "full_name": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2027",
-    "name": "New-Grad-Software-Engineering-Jobs-2027",
-    "url": "https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027",
-    "description": "2027 entry-level software engineering jobs — SWE & full-time US roles from top tech companies & startups",
-    "language": "HTML",
-    "stars": 46,
-    "forks": 2,
-    "open_issues": 0,
-    "updated_at": "2026-07-28T02:20:43Z",
-    "pushed_at": "2026-07-28T02:20:38Z",
+    "full_name": "Beliavsky/Fortran-code-on-GitHub",
+    "name": "Fortran-code-on-GitHub",
+    "url": "https://github.com/Beliavsky/Fortran-code-on-GitHub",
+    "description": "Directory of Fortran codes on GitHub, arranged by topic",
+    "language": "",
+    "stars": 384,
+    "forks": 73,
+    "open_issues": 42,
+    "updated_at": "2026-07-27T22:24:23Z",
+    "pushed_at": "2026-07-27T22:24:18Z",
     "topics": [
-      "2027",
-      "applications",
-      "college",
-      "early-career",
-      "fulltime",
-      "hiring",
-      "intern",
-      "internship",
-      "interviews",
-      "job-search",
-      "jobboard",
-      "jobs",
-      "jobs-2027",
-      "junior",
-      "new-grad",
-      "new-grad-jobs",
-      "newgrad",
-      "software-engineer",
-      "swe",
-      "university"
+      "cfd",
+      "earth-science",
+      "electronic-structure",
+      "finite-elements",
+      "fortran",
+      "linear-algebra",
+      "list",
+      "machine-learning",
+      "modern-fortran",
+      "numerical-integration",
+      "numerical-methods",
+      "numerical-optimization",
+      "nwp",
+      "quantum-chemistry",
+      "scientific-computing",
+      "statistics"
     ],
-    "application_area": "临床文本与大模型",
-    "score": 14.2,
+    "application_area": "综合医学机器学习",
+    "score": 19.95,
     "evidence_terms": {
       "ml": [
-        "llm"
+        "machine learning"
       ],
       "medical": [
-        "medical"
+        "medicine"
       ]
     }
   },
   {
-    "full_name": "MRIxFields/MRIxFields2026",
-    "name": "MRIxFields2026",
-    "url": "https://github.com/MRIxFields/MRIxFields2026",
-    "description": "",
-    "language": "Jupyter Notebook",
-    "stars": 20,
-    "forks": 5,
+    "full_name": "gopaljilab/Clinical-Insight-Engine",
+    "name": "Clinical-Insight-Engine",
+    "url": "https://github.com/gopaljilab/Clinical-Insight-Engine",
+    "description": "Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines a Python-based interpretable machine learning model with a modern React frontend, presenting results differently for clinicians and patients.",
+    "language": "HTML",
+    "stars": 23,
+    "forks": 92,
+    "open_issues": 162,
+    "updated_at": "2026-07-27T19:51:13Z",
+    "pushed_at": "2026-07-27T19:58:37Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 15.27
+  },
+  {
+    "full_name": "hamzaelmassaoudy/me",
+    "name": "me",
+    "url": "https://github.com/hamzaelmassaoudy/me",
+    "description": "Computer Science researcher focused on medical imaging AI, multimodal learning, radiomics, and reproducible machine learning.",
+    "language": "",
+    "stars": 4,
+    "forks": 0,
     "open_issues": 0,
-    "updated_at": "2026-07-27T22:38:43Z",
-    "pushed_at": "2026-07-27T22:38:39Z",
+    "updated_at": "2026-07-24T07:24:39Z",
+    "pushed_at": "2026-07-24T07:14:27Z",
     "topics": [],
     "application_area": "医学影像",
-    "score": 14.06,
-    "evidence_terms": {
-      "ml": [
-        "deep learning"
-      ],
-      "medical": [
-        "clinical",
-        "imaging"
-      ]
-    }
+    "score": 9.97
+  },
+  {
+    "full_name": "Pirate-Hunter-Zoro/TRD-EHR",
+    "name": "TRD-EHR",
+    "url": "https://github.com/Pirate-Hunter-Zoro/TRD-EHR",
+    "description": "This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-28T00:54:51Z",
+    "pushed_at": "2026-07-28T00:54:47Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
   }
 ]
