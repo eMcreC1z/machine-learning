@@ -2,80 +2,250 @@
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
-    "seconds": 2.14,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.11,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
-    "seconds": 2.05,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 1.13,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22radiomics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
-    "seconds": 2.04,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 1.25,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
-    "seconds": 2.04,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 1.15,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
-    "seconds": 2.04,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 1.33,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
-    "seconds": 2.05,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 1.15,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
-    "seconds": 2.07,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 1.17,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-07-18"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/K-Dense-AI/scientific-agent-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.68,
+    "repo": "K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ai4s-research/awesome-ai-for-science/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.01,
+    "repo": "ai4s-research/awesome-ai-for-science"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/liliu-avril/Awesome-Segment-Anything/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.14,
+    "repo": "liliu-avril/Awesome-Segment-Anything"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Project-MONAI/MONAILabel/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.5,
+    "repo": "Project-MONAI/MONAILabel"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/cool-japan/scirs/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.87,
+    "repo": "cool-japan/scirs"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/wangqiannudt/nerf-arxiv-daily/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.99,
+    "repo": "wangqiannudt/nerf-arxiv-daily"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zapplyjobs/New-Grad-Jobs-2027/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.03,
+    "repo": "zapplyjobs/New-Grad-Jobs-2027"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/AI-in-Transportation-Lab/awesome-mechanistic-interpretability/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.73,
+    "repo": "AI-in-Transportation-Lab/awesome-mechanistic-interpretability"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/iszhanjiawei/flow_matching_arxiv_daily/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.08,
+    "repo": "iszhanjiawei/flow_matching_arxiv_daily"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.78,
+    "repo": "zapplyjobs/New-Grad-Software-Engineering-Jobs-2027"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/rainmana/awesome-rainmana/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.45,
+    "repo": "rainmana/awesome-rainmana"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zhuozhiyongde/Stargazer/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.16,
+    "repo": "zhuozhiyongde/Stargazer"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/polyidoit/Arxiv-Quantum/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.57,
+    "repo": "polyidoit/Arxiv-Quantum"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/jobright-ai/2026-Engineering-New-Grad/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.35,
+    "repo": "jobright-ai/2026-Engineering-New-Grad"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/MRIxFields/MRIxFields2026/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.45,
+    "repo": "MRIxFields/MRIxFields2026"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zeleny-ondrej/STNN-Weekly-Arxiv/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.22,
+    "repo": "zeleny-ondrej/STNN-Weekly-Arxiv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Xatta-Trone/awesome-kan/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.18,
+    "repo": "Xatta-Trone/awesome-kan"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/mlnjsh/ai-research-radar/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.37,
+    "repo": "mlnjsh/ai-research-radar"
   },
   {
     "source": "pubmed_esearch",
     "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28%28machine+learning%5BTitle%2FAbstract%5D%29+OR+%28deep+learning%5BTitle%2FAbstract%5D%29+OR+%28artificial+intelligence%5BTitle%2FAbstract%5D%29+OR+%28foundation+model%5BTitle%2FAbstract%5D%29+OR+%28large+language+model%5BTitle%2FAbstract%5D%29%29+AND+%28%28medicine%5BTitle%2FAbstract%5D%29+OR+%28clinical%5BTitle%2FAbstract%5D%29+OR+%28diagnosis%5BTitle%2FAbstract%5D%29+OR+%28prognosis%5BTitle%2FAbstract%5D%29+OR+%28medical+imaging%5BTitle%2FAbstract%5D%29+OR+%28radiology%5BTitle%2FAbstract%5D%29+OR+%28pathology%5BTitle%2FAbstract%5D%29+OR+%28genomics%5BTitle%2FAbstract%5D%29+OR+%28multi-omics%5BTitle%2FAbstract%5D%29+OR+%28electronic+health+records%5BTitle%2FAbstract%5D%29%29&retmode=json&retmax=40&sort=pub%2Bdate&datetype=pdat&mindate=2026%2F07%2F18&maxdate=2026%2F07%2F28",
-    "ok": false,
-    "status": null,
-    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
-    "seconds": 2.04
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.6
+  },
+  {
+    "source": "pubmed_esummary",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42508148%2C42508094%2C42507996%2C42507990%2C42507986%2C42507936%2C42507913%2C42507777%2C42507771%2C42507733%2C42507719%2C42507697%2C42507684%2C42507664%2C42507229%2C42507199%2C42507144%2C42507138%2C42507137%2C42507057%2C42507013%2C42507007%2C42506943%2C42506891%2C42506799%2C42506467%2C42506176%2C42506175%2C42505917%2C42505128%2C42505126%2C42505094%2C42505089%2C42505016%2C42504993%2C42504941%2C42504851%2C42504575%2C42504459%2C42504458",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.17
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-07-18%2Cuntil-pub-date%3A2026-07-28%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
-    "ok": false,
-    "status": null,
-    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
-    "seconds": 2.05
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.14
   }
 ]
