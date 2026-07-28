@@ -2,250 +2,80 @@
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.5,
+    "ok": false,
+    "status": null,
+    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
+    "seconds": 2.14,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.24,
+    "ok": false,
+    "status": null,
+    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
+    "seconds": 2.05,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22radiomics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.24,
+    "ok": false,
+    "status": null,
+    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
+    "seconds": 2.04,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.06,
+    "ok": false,
+    "status": null,
+    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
+    "seconds": 2.04,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.16,
+    "ok": false,
+    "status": null,
+    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
+    "seconds": 2.04,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.04,
+    "ok": false,
+    "status": null,
+    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
+    "seconds": 2.05,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-07-18"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-07-18&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.56,
-    "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-07-18"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/K-Dense-AI/scientific-agent-skills/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.69,
-    "repo": "K-Dense-AI/scientific-agent-skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/spmallick/learnopencv/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.97,
-    "repo": "spmallick/learnopencv"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/PyO3/pyo3/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.59,
-    "repo": "PyO3/pyo3"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/FreedomIntelligence/OpenClaw-Medical-Skills/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.01,
-    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.68,
-    "repo": "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/NVIDIA/skills/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.94,
-    "repo": "NVIDIA/skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai4s-research/awesome-ai-for-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.81,
-    "repo": "ai4s-research/awesome-ai-for-science"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/uhub/awesome-matlab/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.89,
-    "repo": "uhub/awesome-matlab"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/liliu-avril/Awesome-Segment-Anything/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.13,
-    "repo": "liliu-avril/Awesome-Segment-Anything"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
+    "ok": false,
+    "status": null,
+    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
     "seconds": 2.07,
-    "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/Project-MONAI/MONAILabel/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.61,
-    "repo": "Project-MONAI/MONAILabel"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/superiorlu/AITreasureBox/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.12,
-    "repo": "superiorlu/AITreasureBox"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/liutaocode/TTS-arxiv-daily/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.97,
-    "repo": "liutaocode/TTS-arxiv-daily"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/imteekay/machine-learning-research/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.7,
-    "repo": "imteekay/machine-learning-research"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/zezhishao/DailyArXiv/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.99,
-    "repo": "zezhishao/DailyArXiv"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/leipzig/awesome-reproducible-research/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.13,
-    "repo": "leipzig/awesome-reproducible-research"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/Beliavsky/Fortran-code-on-GitHub/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.49,
-    "repo": "Beliavsky/Fortran-code-on-GitHub"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/Trustworthy-AI-Group/Adversarial_Examples_Papers/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.32,
-    "repo": "Trustworthy-AI-Group/Adversarial_Examples_Papers"
+    "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-07-18"
   },
   {
     "source": "pubmed_esearch",
     "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28%28machine+learning%5BTitle%2FAbstract%5D%29+OR+%28deep+learning%5BTitle%2FAbstract%5D%29+OR+%28artificial+intelligence%5BTitle%2FAbstract%5D%29+OR+%28foundation+model%5BTitle%2FAbstract%5D%29+OR+%28large+language+model%5BTitle%2FAbstract%5D%29%29+AND+%28%28medicine%5BTitle%2FAbstract%5D%29+OR+%28clinical%5BTitle%2FAbstract%5D%29+OR+%28diagnosis%5BTitle%2FAbstract%5D%29+OR+%28prognosis%5BTitle%2FAbstract%5D%29+OR+%28medical+imaging%5BTitle%2FAbstract%5D%29+OR+%28radiology%5BTitle%2FAbstract%5D%29+OR+%28pathology%5BTitle%2FAbstract%5D%29+OR+%28genomics%5BTitle%2FAbstract%5D%29+OR+%28multi-omics%5BTitle%2FAbstract%5D%29+OR+%28electronic+health+records%5BTitle%2FAbstract%5D%29%29&retmode=json&retmax=40&sort=pub%2Bdate&datetype=pdat&mindate=2026%2F07%2F18&maxdate=2026%2F07%2F28",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.53
-  },
-  {
-    "source": "pubmed_esummary",
-    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42508148%2C42508094%2C42507996%2C42507990%2C42507986%2C42507936%2C42507913%2C42507777%2C42507771%2C42507733%2C42507719%2C42507697%2C42507684%2C42507664%2C42507229%2C42507199%2C42507144%2C42507138%2C42507137%2C42507057%2C42507013%2C42507007%2C42506943%2C42506891%2C42506799%2C42506467%2C42506176%2C42506175%2C42505917%2C42505128%2C42505126%2C42505094%2C42505089%2C42505016%2C42504993%2C42504941%2C42504851%2C42504575%2C42504459%2C42504458",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.91
+    "ok": false,
+    "status": null,
+    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
+    "seconds": 2.04
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-07-18%2Cuntil-pub-date%3A2026-07-28%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 3.5
+    "ok": false,
+    "status": null,
+    "error": "URLError(ConnectionRefusedError(10061, '由于目标计算机积极拒绝，无法连接。', None, 10061, None))",
+    "seconds": 2.05
   }
 ]
