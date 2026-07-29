@@ -1,0 +1,521 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 32057,
+    "forks": 3182,
+    "open_issues": 6,
+    "updated_at": "2026-07-29T07:47:43Z",
+    "pushed_at": "2026-07-29T00:34:57Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 41.48,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1188,
+    "forks": 133,
+    "open_issues": 6,
+    "updated_at": "2026-07-29T05:18:56Z",
+    "pushed_at": "2026-07-22T21:02:15Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 35.69,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "tkarim45/Beginner-Data-Science-Projects",
+    "name": "Beginner-Data-Science-Projects",
+    "url": "https://github.com/tkarim45/Beginner-Data-Science-Projects",
+    "description": "This repository is a curated collection of hands-on data science projects tailored for beginners. Whether you're just starting your journey in data science or looking to strengthen your skills, these projects provide a practical and interactive way to apply your knowledge.",
+    "language": "Jupyter Notebook",
+    "stars": 2949,
+    "forks": 561,
+    "open_issues": 2,
+    "updated_at": "2026-07-29T07:06:25Z",
+    "pushed_at": "2026-07-29T06:48:58Z",
+    "topics": [
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "neural-network"
+    ],
+    "application_area": "医学影像",
+    "score": 31.0,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "disease",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "name": "OpenClaw-Medical-Skills",
+    "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+    "language": "Python",
+    "stars": 2896,
+    "forks": 405,
+    "open_issues": 14,
+    "updated_at": "2026-07-29T01:51:42Z",
+    "pushed_at": "2026-07-21T01:01:51Z",
+    "topics": [
+      "awesome",
+      "claude-code",
+      "clawhub",
+      "medical",
+      "nanoclaw",
+      "openclaw",
+      "openclaw-skills",
+      "skills"
+    ],
+    "application_area": "医学影像",
+    "score": 30.16,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "Niketkumardheeryan/ML-CaPsule",
+    "name": "ML-CaPsule",
+    "url": "https://github.com/Niketkumardheeryan/ML-CaPsule",
+    "description": "ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.",
+    "language": "Jupyter Notebook",
+    "stars": 679,
+    "forks": 741,
+    "open_issues": 564,
+    "updated_at": "2026-07-29T06:30:19Z",
+    "pushed_at": "2026-07-29T06:28:17Z",
+    "topics": [
+      "analytics",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deep-neural-networks",
+      "deployment",
+      "flask",
+      "heroku-deployment",
+      "machine-learning",
+      "python",
+      "r",
+      "statistics",
+      "streamlit-webapp"
+    ],
+    "application_area": "医学影像",
+    "score": 29.44,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "disease",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1820,
+    "forks": 213,
+    "open_issues": 23,
+    "updated_at": "2026-07-29T02:37:25Z",
+    "pushed_at": "2026-07-28T20:33:39Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.74,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "andysingal/llm-course",
+    "name": "llm-course",
+    "url": "https://github.com/andysingal/llm-course",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": 883,
+    "forks": 133,
+    "open_issues": 2,
+    "updated_at": "2026-07-29T05:00:40Z",
+    "pushed_at": "2026-07-29T04:59:56Z",
+    "topics": [],
+    "application_area": "临床文本与大模型",
+    "score": 27.58,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "AspirinCode/papers-for-molecular-design-using-DL",
+    "name": "papers-for-molecular-design-using-DL",
+    "url": "https://github.com/AspirinCode/papers-for-molecular-design-using-DL",
+    "description": "List of Molecular and Material design using Generative AI and Deep Learning",
+    "language": "",
+    "stars": 946,
+    "forks": 119,
+    "open_issues": 0,
+    "updated_at": "2026-07-29T02:22:49Z",
+    "pushed_at": "2026-07-29T02:22:46Z",
+    "topics": [
+      "deep-generative-models",
+      "diffusion",
+      "drug-design",
+      "energy-based-model",
+      "gan",
+      "generative-ai",
+      "gnns",
+      "lstm",
+      "material-design",
+      "molecular-design",
+      "prompt-learning",
+      "reinforcement-learning",
+      "rnn",
+      "score-based-generative-models",
+      "transformer",
+      "vae"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 26.62,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "albumentations-team/AlbumentationsX",
+    "name": "AlbumentationsX",
+    "url": "https://github.com/albumentations-team/AlbumentationsX",
+    "description": "Next-generation Albumentations: dual-licensed for open-source and commercial use",
+    "language": "Python",
+    "stars": 517,
+    "forks": 33,
+    "open_issues": 58,
+    "updated_at": "2026-07-29T05:39:39Z",
+    "pushed_at": "2026-07-29T05:39:25Z",
+    "topics": [
+      "3d",
+      "augmentation",
+      "bounding-box",
+      "computer-vision",
+      "data-augmentation",
+      "deep-learning",
+      "deeplearning",
+      "image-augmentation",
+      "image-classification",
+      "image-processing",
+      "image-segmentations",
+      "instance-segmentation",
+      "keypoint-detection",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "python",
+      "pytorch",
+      "segmentation",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 25.15,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1214,
+    "forks": 77,
+    "open_issues": 0,
+    "updated_at": "2026-07-29T02:27:04Z",
+    "pushed_at": "2026-07-28T03:57:58Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.78,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 453,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-07-27T13:10:09Z",
+    "pushed_at": "2026-07-27T13:09:51Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.66,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 677,
+    "forks": 107,
+    "open_issues": 65,
+    "updated_at": "2026-07-29T05:14:29Z",
+    "pushed_at": "2026-07-29T01:29:34Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 21.98,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "DIAGNijmegen/rse-grand-challenge",
+    "name": "rse-grand-challenge",
+    "url": "https://github.com/DIAGNijmegen/rse-grand-challenge",
+    "description": "A platform for end-to-end development of machine learning solutions in biomedical imaging",
+    "language": "Python",
+    "stars": 192,
+    "forks": 58,
+    "open_issues": 42,
+    "updated_at": "2026-07-29T06:26:33Z",
+    "pushed_at": "2026-07-29T06:40:21Z",
+    "topics": [
+      "ai",
+      "challenges",
+      "computer-vision",
+      "django",
+      "django-rest-framework",
+      "docker",
+      "machine-learning",
+      "medical-imaging",
+      "python",
+      "reproducible-research"
+    ],
+    "application_area": "医学影像",
+    "score": 18.6
+  },
+  {
+    "full_name": "dstrick17/DacNet",
+    "name": "DacNet",
+    "url": "https://github.com/dstrick17/DacNet",
+    "description": "Reproducing and Improving CheXNet: Deep Learning for Chest X-ray Disease Classification",
+    "language": "Jupyter Notebook",
+    "stars": 18,
+    "forks": 11,
+    "open_issues": 0,
+    "updated_at": "2026-07-29T02:06:52Z",
+    "pushed_at": "2026-07-29T02:06:45Z",
+    "topics": [
+      "chestxray14",
+      "deep-learning",
+      "disease-classification",
+      "macro-f1",
+      "medical-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 13.53
+  },
+  {
+    "full_name": "hamzaelmassaoudy/me",
+    "name": "me",
+    "url": "https://github.com/hamzaelmassaoudy/me",
+    "description": "Computer Science researcher focused on medical imaging AI, multimodal learning, radiomics, and reproducible machine learning.",
+    "language": "",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-24T07:24:39Z",
+    "pushed_at": "2026-07-24T07:14:27Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 9.68
+  }
+]
