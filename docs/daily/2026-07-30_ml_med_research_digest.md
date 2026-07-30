@@ -1,6 +1,6 @@
 # 医学机器学习自动整理日报 - 2026-07-30
 
-> 自动采集时间：2026-07-30 09:06:55。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-07-30 09:13:58。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
@@ -19,11 +19,11 @@
 | 4 | [richard-peng-xia/awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging) | 973 | 2026-07-29T17:09:51Z | 医学影像 | A collection of resources on applications of multi-modal learning in medical imaging.；评分 29.44 |
 | 5 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1820 | 2026-07-29T16:40:20Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
 | 6 | [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) | 397 | 2026-07-26T20:52:51Z | 医学影像 | A curated list of reproducible research case studies, projects, tutorials, and media；评分 27.18 |
-| 7 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 2728 | 2026-07-29T22:03:42Z | 临床文本与大模型 | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows e... |
+| 7 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 2728 | 2026-07-30T01:08:42Z | 临床文本与大模型 | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows e... |
 | 8 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1214 | 2026-07-29T13:14:58Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.77 |
 | 9 | [mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes) | 810 | 2026-07-29T19:51:43Z | 医学影像 | A list of scRNA-seq analysis tools；评分 24.21 |
 | 10 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 453 | 2026-07-29T17:51:31Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.8 |
-| 11 | [faridrashidi/cnsplots](https://github.com/faridrashidi/cnsplots) | 481 | 2026-07-30T00:28:08Z | 临床预测 | 🎨 Toolkit for generating publication-quality plots for Cell, Nature and Science journals；评分 21.78 |
+| 11 | [faridrashidi/cnsplots](https://github.com/faridrashidi/cnsplots) | 482 | 2026-07-30T01:12:17Z | 临床预测 | 🎨 Toolkit for generating publication-quality plots for Cell, Nature and Science journals；评分 21.78 |
 | 12 | [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) | 446 | 2026-07-29T17:53:55Z | 医学影像 | Daily ArXiv Papers.；评分 21.43 |
 | 13 | [aramis-lab/clinicadl](https://github.com/aramis-lab/clinicadl) | 184 | 2026-07-29T16:05:06Z | 医学影像 | Open-source Python library for reproducible deep learning in neuroimaging；评分 18.57 |
 | 14 | [pavanbadempet/AI-Healthcare-System](https://github.com/pavanbadempet/AI-Healthcare-System) | 36 | 2026-07-29T19:47:45Z | 临床预测 | AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and FastAPI Clinical Architecture.；评分 15.59 |
@@ -101,33 +101,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=2.2
-- github: OK; status=200; seconds=2.16
-- github: OK; status=200; seconds=2.03
-- github: OK; status=200; seconds=2.19
-- github: OK; status=200; seconds=2.19
-- github: OK; status=200; seconds=2.17
-- github: OK; status=200; seconds=2.5
-- github_readme: OK; status=200; seconds=1.62
-- github_readme: OK; status=200; seconds=1.96
-- github_readme: OK; status=200; seconds=1.74
-- github_readme: OK; status=200; seconds=2.05
-- github_readme: OK; status=200; seconds=1.96
-- github_readme: OK; status=200; seconds=2.17
-- github_readme: OK; status=200; seconds=1.88
-- github_readme: OK; status=200; seconds=1.73
+- github: OK; status=200; seconds=2.4
+- github: OK; status=200; seconds=1.99
+- github: OK; status=200; seconds=1.96
+- github: OK; status=200; seconds=2.1
+- github: OK; status=200; seconds=2.14
+- github: OK; status=200; seconds=2.29
+- github: OK; status=200; seconds=2.09
+- github_readme: OK; status=200; seconds=1.48
 - github_readme: OK; status=200; seconds=2.43
-- github_readme: OK; status=200; seconds=2.2
-- github_readme: OK; status=200; seconds=2.1
-- github_readme: OK; status=200; seconds=1.39
-- github_readme: OK; status=200; seconds=1.82
-- github_readme: OK; status=200; seconds=1.73
-- github_readme: OK; status=200; seconds=2.06
-- github_readme: OK; status=200; seconds=1.92
-- github_readme: OK; status=200; seconds=1.33
+- github_readme: OK; status=200; seconds=1.76
+- github_readme: OK; status=200; seconds=1.81
+- github_readme: OK; status=200; seconds=1.84
+- github_readme: OK; status=200; seconds=2.51
+- github_readme: OK; status=200; seconds=1.98
+- github_readme: OK; status=200; seconds=1.77
+- github_readme: OK; status=200; seconds=2.19
+- github_readme: OK; status=200; seconds=1.99
+- github_readme: OK; status=200; seconds=1.44
+- github_readme: OK; status=200; seconds=1.95
+- github_readme: OK; status=200; seconds=1.85
+- github_readme: OK; status=200; seconds=2.23
+- github_readme: OK; status=200; seconds=4.74
+- github_readme: OK; status=200; seconds=1.3
+- github_readme: OK; status=200; seconds=1.24
 - github_readme: OK; status=200; seconds=1.28
-- pubmed_esearch: OK; status=200; seconds=1.61
-- pubmed_esummary: OK; status=200; seconds=1.95
-- crossref: OK; status=200; seconds=2.3
+- pubmed_esearch: OK; status=200; seconds=1.58
+- pubmed_esummary: OK; status=200; seconds=1.99
+- crossref: OK; status=200; seconds=1.95
 
 本次运行已完成：2026-07-30_ml_med_research_digest.md
