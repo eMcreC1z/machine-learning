@@ -6,7 +6,7 @@
     "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
     "language": "Python",
     "stars": 73812,
-    "forks": 15580,
+    "forks": 15579,
     "open_issues": 21,
     "updated_at": "2026-07-30T21:13:47Z",
     "pushed_at": "2026-07-30T15:00:37Z",
@@ -59,52 +59,6 @@
         "patient",
         "diagnosis",
         "radiology"
-      ]
-    }
-  },
-  {
-    "full_name": "lukasmasuch/best-of-ml-python",
-    "name": "best-of-ml-python",
-    "url": "https://github.com/lukasmasuch/best-of-ml-python",
-    "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
-    "language": "",
-    "stars": 23697,
-    "forks": 3140,
-    "open_issues": 50,
-    "updated_at": "2026-07-30T14:53:07Z",
-    "pushed_at": "2026-07-30T14:48:45Z",
-    "topics": [
-      "automl",
-      "chatgpt",
-      "data-analysis",
-      "data-science",
-      "data-visualization",
-      "data-visualizations",
-      "deep-learning",
-      "gpt",
-      "gpt-3",
-      "jax",
-      "keras",
-      "machine-learning",
-      "ml",
-      "nlp",
-      "python",
-      "pytorch",
-      "scikit-learn",
-      "tensorflow",
-      "transformer"
-    ],
-    "application_area": "临床文本与大模型",
-    "score": 33.34,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "deep learning",
-        "neural network",
-        "nlp"
-      ],
-      "medical": [
-        "medical"
       ]
     }
   },
@@ -215,58 +169,16 @@
     }
   },
   {
-    "full_name": "open-edge-platform/geti",
-    "name": "geti",
-    "url": "https://github.com/open-edge-platform/geti",
-    "description": "Build computer vision models in a fraction of the time and with less data.",
-    "language": "Python",
-    "stars": 1277,
-    "forks": 474,
-    "open_issues": 147,
-    "updated_at": "2026-07-30T15:06:56Z",
-    "pushed_at": "2026-07-30T15:03:41Z",
-    "topics": [
-      "automl",
-      "computer-vision",
-      "deep-learning",
-      "geti",
-      "image-classification",
-      "image-segmentation",
-      "incremental-learning",
-      "machine-learning",
-      "neural-networks-compression",
-      "object-detection",
-      "openvino",
-      "pytorch",
-      "quantization",
-      "self-supervised-learning",
-      "semi-supervised-learning",
-      "transfer-learning"
-    ],
-    "application_area": "医学影像",
-    "score": 26.64,
-    "evidence_terms": {
-      "ml": [
-        "deep learning",
-        "computer vision"
-      ],
-      "medical": [
-        "medical",
-        "imaging"
-      ]
-    }
-  },
-  {
     "full_name": "mims-harvard/ToolUniverse",
     "name": "ToolUniverse",
     "url": "https://github.com/mims-harvard/ToolUniverse",
     "description": "Democratizing AI scientists with ToolUniverse",
     "language": "Python",
-    "stars": 1601,
+    "stars": 1602,
     "forks": 243,
     "open_issues": 17,
-    "updated_at": "2026-07-30T23:33:03Z",
-    "pushed_at": "2026-07-31T00:22:33Z",
+    "updated_at": "2026-07-31T01:35:37Z",
+    "pushed_at": "2026-07-31T00:50:50Z",
     "topics": [
       "agents",
       "ai-agents",
@@ -306,10 +218,10 @@
     "url": "https://github.com/NVIDIA/skills",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "language": "Python",
-    "stars": 2740,
+    "stars": 2741,
     "forks": 319,
     "open_issues": 15,
-    "updated_at": "2026-07-30T20:46:14Z",
+    "updated_at": "2026-07-31T01:09:40Z",
     "pushed_at": "2026-07-30T21:32:35Z",
     "topics": [
       "agent-skills",
@@ -370,11 +282,11 @@
     "url": "https://github.com/best-of-ai/best-of-ai",
     "description": "A curated list of best ai tools",
     "language": "HTML",
-    "stars": 679,
+    "stars": 680,
     "forks": 107,
-    "open_issues": 68,
-    "updated_at": "2026-07-30T16:17:53Z",
-    "pushed_at": "2026-07-30T13:41:41Z",
+    "open_issues": 69,
+    "updated_at": "2026-07-31T01:20:53Z",
+    "pushed_at": "2026-07-31T01:27:07Z",
     "topics": [
       "ai",
       "ai-agent",
@@ -401,6 +313,35 @@
       "medical": [
         "medical",
         "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "supervisely/supervisely",
+    "name": "supervisely",
+    "url": "https://github.com/supervisely/supervisely",
+    "description": "Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task",
+    "language": "Python",
+    "stars": 536,
+    "forks": 77,
+    "open_issues": 74,
+    "updated_at": "2026-07-30T21:29:20Z",
+    "pushed_at": "2026-07-30T21:30:09Z",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "neural-networks",
+      "python"
+    ],
+    "application_area": "医学影像",
+    "score": 21.56,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical"
       ]
     }
   },
@@ -481,5 +422,20 @@
     ],
     "application_area": "临床预测",
     "score": 8.0
+  },
+  {
+    "full_name": "Pirate-Hunter-Zoro/TRD-EHR",
+    "name": "TRD-EHR",
+    "url": "https://github.com/Pirate-Hunter-Zoro/TRD-EHR",
+    "description": "This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-31T00:56:04Z",
+    "pushed_at": "2026-07-31T00:55:59Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
   }
 ]
