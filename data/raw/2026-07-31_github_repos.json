@@ -1,0 +1,485 @@
+[
+  {
+    "full_name": "josephmisiti/awesome-machine-learning",
+    "name": "awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "language": "Python",
+    "stars": 73812,
+    "forks": 15580,
+    "open_issues": 21,
+    "updated_at": "2026-07-30T21:13:47Z",
+    "pushed_at": "2026-07-30T15:00:37Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 36.36,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "imaging",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1189,
+    "forks": 133,
+    "open_issues": 6,
+    "updated_at": "2026-07-30T18:50:41Z",
+    "pushed_at": "2026-07-22T21:02:15Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 35.69,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "lukasmasuch/best-of-ml-python",
+    "name": "best-of-ml-python",
+    "url": "https://github.com/lukasmasuch/best-of-ml-python",
+    "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "language": "",
+    "stars": 23697,
+    "forks": 3140,
+    "open_issues": 50,
+    "updated_at": "2026-07-30T14:53:07Z",
+    "pushed_at": "2026-07-30T14:48:45Z",
+    "topics": [
+      "automl",
+      "chatgpt",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "data-visualizations",
+      "deep-learning",
+      "gpt",
+      "gpt-3",
+      "jax",
+      "keras",
+      "machine-learning",
+      "ml",
+      "nlp",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow",
+      "transformer"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 33.34,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "neural network",
+        "nlp"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "name": "OpenClaw-Medical-Skills",
+    "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+    "language": "Python",
+    "stars": 2899,
+    "forks": 406,
+    "open_issues": 14,
+    "updated_at": "2026-07-30T03:36:49Z",
+    "pushed_at": "2026-07-21T01:01:51Z",
+    "topics": [
+      "awesome",
+      "claude-code",
+      "clawhub",
+      "medical",
+      "nanoclaw",
+      "openclaw",
+      "openclaw-skills",
+      "skills"
+    ],
+    "application_area": "医学影像",
+    "score": 30.16,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8550,
+    "forks": 1591,
+    "open_issues": 517,
+    "updated_at": "2026-07-30T21:42:19Z",
+    "pushed_at": "2026-07-30T15:57:07Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.73,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1822,
+    "forks": 213,
+    "open_issues": 23,
+    "updated_at": "2026-07-30T22:45:07Z",
+    "pushed_at": "2026-07-30T12:45:49Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.74,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "open-edge-platform/geti",
+    "name": "geti",
+    "url": "https://github.com/open-edge-platform/geti",
+    "description": "Build computer vision models in a fraction of the time and with less data.",
+    "language": "Python",
+    "stars": 1277,
+    "forks": 474,
+    "open_issues": 147,
+    "updated_at": "2026-07-30T15:06:56Z",
+    "pushed_at": "2026-07-30T15:03:41Z",
+    "topics": [
+      "automl",
+      "computer-vision",
+      "deep-learning",
+      "geti",
+      "image-classification",
+      "image-segmentation",
+      "incremental-learning",
+      "machine-learning",
+      "neural-networks-compression",
+      "object-detection",
+      "openvino",
+      "pytorch",
+      "quantization",
+      "self-supervised-learning",
+      "semi-supervised-learning",
+      "transfer-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 26.64,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "mims-harvard/ToolUniverse",
+    "name": "ToolUniverse",
+    "url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
+    "language": "Python",
+    "stars": 1601,
+    "forks": 243,
+    "open_issues": 17,
+    "updated_at": "2026-07-30T23:33:03Z",
+    "pushed_at": "2026-07-31T00:22:33Z",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-communication",
+      "ai-for-science",
+      "ai-scientists",
+      "automated-science",
+      "autonomous-agents",
+      "co-pilot",
+      "co-scientist",
+      "llms",
+      "lrm",
+      "mcp-servers",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "scientific-skill",
+      "tool-use"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.6,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "large language model"
+      ],
+      "medical": [
+        "diagnosis",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 2740,
+    "forks": 319,
+    "open_issues": 15,
+    "updated_at": "2026-07-30T20:46:14Z",
+    "pushed_at": "2026-07-30T21:32:35Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.11,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1214,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-07-30T12:20:44Z",
+    "pushed_at": "2026-07-30T12:19:11Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 679,
+    "forks": 107,
+    "open_issues": 68,
+    "updated_at": "2026-07-30T16:17:53Z",
+    "pushed_at": "2026-07-30T13:41:41Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 21.98,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "pavanbadempet/AI-Healthcare-System",
+    "name": "AI-Healthcare-System",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System",
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and FastAPI Clinical Architecture.",
+    "language": "Python",
+    "stars": 36,
+    "forks": 13,
+    "open_issues": 17,
+    "updated_at": "2026-07-30T19:10:14Z",
+    "pushed_at": "2026-07-30T19:10:08Z",
+    "topics": [
+      "agent-framework",
+      "apache-airflow",
+      "clinical-decision-support",
+      "clinical-intelligence",
+      "delta-lake",
+      "ehr",
+      "fastapi",
+      "fhir",
+      "healthcare",
+      "hipaa",
+      "hipaa-compliant",
+      "hl7-fhir",
+      "hospital-management",
+      "langgraph",
+      "machine-learning",
+      "medical-ai",
+      "mlops",
+      "ollama",
+      "pyspark",
+      "react"
+    ],
+    "application_area": "临床预测",
+    "score": 15.59
+  },
+  {
+    "full_name": "hamzaelmassaoudy/me",
+    "name": "me",
+    "url": "https://github.com/hamzaelmassaoudy/me",
+    "description": "Computer Science researcher focused on medical imaging AI, multimodal learning, radiomics, and reproducible machine learning.",
+    "language": "",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-24T07:24:39Z",
+    "pushed_at": "2026-07-24T07:14:27Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 9.54
+  },
+  {
+    "full_name": "PradhyumnaD/hospital-readmission-risk-prediction",
+    "name": "hospital-readmission-risk-prediction",
+    "url": "https://github.com/PradhyumnaD/hospital-readmission-risk-prediction",
+    "description": "Machine learning project to predict 30-day hospital readmission risk for diabetic patients using XGBoost, CatBoost, LightGBM, threshold tuning, and Streamlit.",
+    "language": "Python",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-30T22:38:34Z",
+    "pushed_at": "2026-07-30T22:38:35Z",
+    "topics": [
+      "catboost",
+      "data-science-project",
+      "diabetes",
+      "healthcare",
+      "hospital-readmission",
+      "lightgbm",
+      "machine-learning",
+      "python",
+      "shap",
+      "streamlit",
+      "xgboost"
+    ],
+    "application_area": "临床预测",
+    "score": 8.0
+  }
+]
