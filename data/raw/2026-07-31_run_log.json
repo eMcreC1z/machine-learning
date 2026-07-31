@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.05,
+    "seconds": 2.14,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-07-21"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.21,
+    "seconds": 1.88,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-21"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.35,
+    "seconds": 2.61,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-07-21"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.29,
+    "seconds": 2.17,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-07-21"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.33,
+    "seconds": 8.46,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-21"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.31,
+    "seconds": 2.3,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-07-21"
   },
   {
@@ -59,17 +59,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.29,
+    "seconds": 5.39,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-07-21"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/readme",
+    "url": "https://api.github.com/repos/spmallick/learnopencv/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.11,
-    "repo": "josephmisiti/awesome-machine-learning"
+    "seconds": 2.35,
+    "repo": "spmallick/learnopencv"
   },
   {
     "source": "github_readme",
@@ -77,17 +77,26 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.72,
+    "seconds": 1.44,
     "repo": "PyO3/pyo3"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/Project-MONAI/MONAI/readme",
+    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
+    "ok": false,
+    "status": null,
+    "error": "URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))",
+    "seconds": 8.04,
+    "repo": "ai-boost/awesome-prompts"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/promptslab/Awesome-Prompt-Engineering/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.67,
-    "repo": "Project-MONAI/MONAI"
+    "seconds": 1.95,
+    "repo": "promptslab/Awesome-Prompt-Engineering"
   },
   {
     "source": "github_readme",
@@ -95,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.23,
+    "seconds": 1.95,
     "repo": "FreedomIntelligence/OpenClaw-Medical-Skills"
   },
   {
@@ -104,26 +113,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.93,
+    "seconds": 2.86,
     "repo": "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/NVIDIA/skills/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.89,
-    "repo": "NVIDIA/skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/bobeff/programming-math-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.49,
-    "repo": "bobeff/programming-math-science"
   },
   {
     "source": "github_readme",
@@ -131,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.03,
+    "seconds": 2.1,
     "repo": "ai4s-research/awesome-ai-for-science"
   },
   {
@@ -140,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.04,
+    "seconds": 2.32,
     "repo": "uhub/awesome-matlab"
   },
   {
@@ -149,8 +140,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.79,
+    "seconds": 1.57,
     "repo": "mims-harvard/ToolUniverse"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/open-edge-platform/geti/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.7,
+    "repo": "open-edge-platform/geti"
   },
   {
     "source": "github_readme",
@@ -158,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.29,
+    "seconds": 2.48,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -167,8 +167,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.14,
+    "seconds": 2.18,
     "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/andysingal/llm-course/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.98,
+    "repo": "andysingal/llm-course"
   },
   {
     "source": "github_readme",
@@ -176,17 +185,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.28,
+    "seconds": 2.29,
     "repo": "superiorlu/AITreasureBox"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/benchflow-ai/awesome-evals/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.96,
-    "repo": "benchflow-ai/awesome-evals"
   },
   {
     "source": "github_readme",
@@ -194,35 +194,35 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.01,
+    "seconds": 2.04,
     "repo": "best-of-ai/best-of-ai"
   },
   {
     "source": "github_readme",
     "url": "https://api.github.com/repos/liutaocode/TTS-arxiv-daily/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.27,
+    "ok": false,
+    "status": null,
+    "error": "TimeoutError('The read operation timed out')",
+    "seconds": 23.79,
     "repo": "liutaocode/TTS-arxiv-daily"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/trackawesomelist/trackawesomelist/readme",
+    "url": "https://api.github.com/repos/imteekay/machine-learning-research/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.04,
-    "repo": "trackawesomelist/trackawesomelist"
+    "seconds": 2.13,
+    "repo": "imteekay/machine-learning-research"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/supervisely/supervisely/readme",
+    "url": "https://api.github.com/repos/zezhishao/DailyArXiv/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.76,
-    "repo": "supervisely/supervisely"
+    "seconds": 2.13,
+    "repo": "zezhishao/DailyArXiv"
   },
   {
     "source": "pubmed_esearch",
@@ -230,15 +230,15 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.06
+    "seconds": 1.72
   },
   {
     "source": "pubmed_esummary",
-    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42531661%2C42531471%2C42531344%2C42531325%2C42531250%2C42531177%2C42531152%2C42531113%2C42531109%2C42531012%2C42530970%2C42530821%2C42530806%2C42530795%2C42530789%2C42530739%2C42530698%2C42530672%2C42530614%2C42530496%2C42530406%2C42530347%2C42530294%2C42530243%2C42530239%2C42530203%2C42530160%2C42530130%2C42530058%2C42529797%2C42529767%2C42529739%2C42529724%2C42529449%2C42529446%2C42529427%2C42528422%2C42528366%2C42528297%2C42528281",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42533269%2C42533108%2C42533023%2C42533016%2C42533015%2C42532679%2C42532630%2C42532625%2C42532593%2C42532541%2C42532524%2C42532481%2C42532480%2C42532445%2C42532330%2C42532319%2C42532199%2C42532108%2C42531948%2C42531926%2C42531886%2C42531864%2C42531803%2C42531731%2C42533201%2C42533186%2C42533005%2C42532700%2C42532432%2C42532333%2C42532160%2C42532158%2C42532102%2C42531800%2C42531661%2C42531471%2C42531344%2C42531325%2C42531250%2C42531177",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.67
+    "seconds": 2.1
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.12
+    "seconds": 7.68
   }
 ]
