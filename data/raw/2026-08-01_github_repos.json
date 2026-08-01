@@ -1,0 +1,528 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 32278,
+    "forks": 3201,
+    "open_issues": 5,
+    "updated_at": "2026-07-31T23:58:57Z",
+    "pushed_at": "2026-07-31T18:02:32Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 41.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1189,
+    "forks": 133,
+    "open_issues": 6,
+    "updated_at": "2026-07-30T18:50:41Z",
+    "pushed_at": "2026-07-22T21:02:15Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 35.55,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "Niketkumardheeryan/ML-CaPsule",
+    "name": "ML-CaPsule",
+    "url": "https://github.com/Niketkumardheeryan/ML-CaPsule",
+    "description": "ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.",
+    "language": "Jupyter Notebook",
+    "stars": 680,
+    "forks": 742,
+    "open_issues": 559,
+    "updated_at": "2026-07-31T19:22:26Z",
+    "pushed_at": "2026-07-31T16:48:13Z",
+    "topics": [
+      "analytics",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deep-neural-networks",
+      "deployment",
+      "flask",
+      "heroku-deployment",
+      "machine-learning",
+      "python",
+      "r",
+      "statistics",
+      "streamlit-webapp"
+    ],
+    "application_area": "医学影像",
+    "score": 29.44,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "disease",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1825,
+    "forks": 215,
+    "open_issues": 24,
+    "updated_at": "2026-07-31T16:38:48Z",
+    "pushed_at": "2026-07-31T08:53:15Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.75,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "mims-harvard/ToolUniverse",
+    "name": "ToolUniverse",
+    "url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
+    "language": "Python",
+    "stars": 1601,
+    "forks": 243,
+    "open_issues": 19,
+    "updated_at": "2026-07-31T16:33:00Z",
+    "pushed_at": "2026-08-01T00:20:37Z",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-communication",
+      "ai-for-science",
+      "ai-scientists",
+      "automated-science",
+      "autonomous-agents",
+      "co-pilot",
+      "co-scientist",
+      "llms",
+      "lrm",
+      "mcp-servers",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "scientific-skill",
+      "tool-use"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.6,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "large language model"
+      ],
+      "medical": [
+        "diagnosis",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "albumentations-team/AlbumentationsX",
+    "name": "AlbumentationsX",
+    "url": "https://github.com/albumentations-team/AlbumentationsX",
+    "description": "Next-generation Albumentations: dual-licensed for open-source and commercial use",
+    "language": "Python",
+    "stars": 521,
+    "forks": 32,
+    "open_issues": 58,
+    "updated_at": "2026-07-31T16:04:06Z",
+    "pushed_at": "2026-07-31T16:03:42Z",
+    "topics": [
+      "3d",
+      "augmentation",
+      "bounding-box",
+      "computer-vision",
+      "data-augmentation",
+      "deep-learning",
+      "deeplearning",
+      "image-augmentation",
+      "image-classification",
+      "image-processing",
+      "image-segmentations",
+      "instance-segmentation",
+      "keypoint-detection",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "python",
+      "pytorch",
+      "segmentation",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 25.15,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 2750,
+    "forks": 320,
+    "open_issues": 13,
+    "updated_at": "2026-08-01T00:47:15Z",
+    "pushed_at": "2026-08-01T00:38:29Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.12,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1214,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-07-31T15:39:52Z",
+    "pushed_at": "2026-07-31T15:35:27Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 453,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-07-31T23:43:13Z",
+    "pushed_at": "2026-07-31T23:43:10Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.8,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 683,
+    "forks": 107,
+    "open_issues": 71,
+    "updated_at": "2026-07-31T23:13:14Z",
+    "pushed_at": "2026-07-31T23:15:06Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 21.99,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "supervisely/supervisely",
+    "name": "supervisely",
+    "url": "https://github.com/supervisely/supervisely",
+    "description": "Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task",
+    "language": "Python",
+    "stars": 536,
+    "forks": 77,
+    "open_issues": 75,
+    "updated_at": "2026-07-31T16:55:51Z",
+    "pushed_at": "2026-07-31T16:56:41Z",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "neural-networks",
+      "python"
+    ],
+    "application_area": "医学影像",
+    "score": 21.56,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "pavanbadempet/AI-Healthcare-System",
+    "name": "AI-Healthcare-System",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System",
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and FastAPI Clinical Architecture.",
+    "language": "Python",
+    "stars": 36,
+    "forks": 13,
+    "open_issues": 17,
+    "updated_at": "2026-07-31T19:53:25Z",
+    "pushed_at": "2026-07-31T19:53:05Z",
+    "topics": [
+      "agent-framework",
+      "apache-airflow",
+      "clinical-decision-support",
+      "clinical-intelligence",
+      "delta-lake",
+      "ehr",
+      "fastapi",
+      "fhir",
+      "healthcare",
+      "hipaa",
+      "hipaa-compliant",
+      "hl7-fhir",
+      "hospital-management",
+      "langgraph",
+      "machine-learning",
+      "medical-ai",
+      "mlops",
+      "ollama",
+      "pyspark",
+      "react"
+    ],
+    "application_area": "临床预测",
+    "score": 15.59
+  },
+  {
+    "full_name": "hamzaelmassaoudy/me",
+    "name": "me",
+    "url": "https://github.com/hamzaelmassaoudy/me",
+    "description": "Computer Science researcher focused on medical imaging AI, multimodal learning, radiomics, and reproducible machine learning.",
+    "language": "",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-24T07:24:39Z",
+    "pushed_at": "2026-07-24T07:14:27Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 9.4
+  },
+  {
+    "full_name": "Pirate-Hunter-Zoro/TRD-EHR",
+    "name": "TRD-EHR",
+    "url": "https://github.com/Pirate-Hunter-Zoro/TRD-EHR",
+    "description": "This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-31T21:37:49Z",
+    "pushed_at": "2026-07-31T21:37:45Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
+  },
+  {
+    "full_name": "Adejare-ml/heart-disease-prediction",
+    "name": "heart-disease-prediction",
+    "url": "https://github.com/Adejare-ml/heart-disease-prediction",
+    "description": "Heart disease risk prediction system using machine learning classification models",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-31T21:15:17Z",
+    "pushed_at": "2026-07-31T21:14:59Z",
+    "topics": [
+      "healthcare",
+      "heart-disease",
+      "logistic-regression",
+      "machine-learning",
+      "prediction",
+      "scikit-learn"
+    ],
+    "application_area": "临床预测",
+    "score": 6.8
+  },
+  {
+    "full_name": "achal15784/clinical_analyitics_dashboard",
+    "name": "clinical_analyitics_dashboard",
+    "url": "https://github.com/achal15784/clinical_analyitics_dashboard",
+    "description": "AI-Powered Clinical Analytics Dashboard is a web-based clinical decision support platform that combines Machine Learning and Retrieval-Augmented Generation (RAG) to help healthcare professionals analyze patient data, predict disease risks, retrieve evidence from medical guidelines, and generate AI-assisted clinical insights through an interactive a",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-07-31T18:37:22Z",
+    "pushed_at": "2026-07-31T18:35:25Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  }
+]
