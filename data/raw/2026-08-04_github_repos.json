@@ -1,0 +1,506 @@
+[
+  {
+    "full_name": "hussius/deeplearning-biology",
+    "name": "deeplearning-biology",
+    "url": "https://github.com/hussius/deeplearning-biology",
+    "description": "A list of deep learning implementations in biology",
+    "language": "",
+    "stars": 2153,
+    "forks": 489,
+    "open_issues": 0,
+    "updated_at": "2026-08-03T19:36:51Z",
+    "pushed_at": "2026-08-03T16:05:10Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 33.57,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "patient",
+        "imaging",
+        "genomics",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1831,
+    "forks": 217,
+    "open_issues": 25,
+    "updated_at": "2026-08-03T17:15:43Z",
+    "pushed_at": "2026-08-03T17:14:55Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.76,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 2779,
+    "forks": 322,
+    "open_issues": 17,
+    "updated_at": "2026-08-03T23:31:19Z",
+    "pushed_at": "2026-08-04T00:38:51Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.14,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1214,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-08-03T15:27:23Z",
+    "pushed_at": "2026-08-03T15:24:26Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 272,
+    "forks": 64,
+    "open_issues": 7,
+    "updated_at": "2026-08-02T15:00:20Z",
+    "pushed_at": "2026-08-03T14:14:00Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 24.32,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "ImagingDataCommons/highdicom",
+    "name": "highdicom",
+    "url": "https://github.com/ImagingDataCommons/highdicom",
+    "description": "High-level DICOM abstractions for the Python programming language",
+    "language": "Python",
+    "stars": 235,
+    "forks": 55,
+    "open_issues": 32,
+    "updated_at": "2026-08-02T16:03:43Z",
+    "pushed_at": "2026-08-03T20:24:55Z",
+    "topics": [
+      "dicom",
+      "numpy",
+      "pydicom",
+      "python3",
+      "typehints"
+    ],
+    "application_area": "医学影像",
+    "score": 23.97,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "radiomics",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 453,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-07-31T23:43:13Z",
+    "pushed_at": "2026-07-31T23:43:10Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.37,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "EmulationAI/awesome-large-audio-models",
+    "name": "awesome-large-audio-models",
+    "url": "https://github.com/EmulationAI/awesome-large-audio-models",
+    "description": "Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.",
+    "language": "",
+    "stars": 735,
+    "forks": 51,
+    "open_issues": 0,
+    "updated_at": "2026-08-03T21:24:06Z",
+    "pushed_at": "2026-08-03T21:23:59Z",
+    "topics": [
+      "audio-ai",
+      "audio-processing",
+      "automatic-speech-recognition",
+      "foundational-models",
+      "large-audio-models",
+      "large-language-model-speech",
+      "large-language-models",
+      "music-ai",
+      "music-information-retrieval",
+      "music-processing",
+      "speech-ai",
+      "speech-llms",
+      "speech-to-text"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 22.84,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "artificial intelligence",
+        "large language model"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 445,
+    "forks": 101,
+    "open_issues": 602,
+    "updated_at": "2026-08-03T18:18:31Z",
+    "pushed_at": "2026-08-03T18:18:07Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.81,
+    "evidence_terms": {
+      "ml": [
+        "neural network"
+      ],
+      "medical": [
+        "medical",
+        "diagnosis",
+        "imaging",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 689,
+    "forks": 108,
+    "open_issues": 77,
+    "updated_at": "2026-08-03T22:27:20Z",
+    "pushed_at": "2026-08-03T17:08:13Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 22.01,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "supervisely/supervisely",
+    "name": "supervisely",
+    "url": "https://github.com/supervisely/supervisely",
+    "description": "Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task",
+    "language": "Python",
+    "stars": 537,
+    "forks": 77,
+    "open_issues": 74,
+    "updated_at": "2026-08-03T15:37:34Z",
+    "pushed_at": "2026-08-03T15:35:25Z",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "neural-networks",
+      "python"
+    ],
+    "application_area": "医学影像",
+    "score": 21.56,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "aramis-lab/clinicadl",
+    "name": "clinicadl",
+    "url": "https://github.com/aramis-lab/clinicadl",
+    "description": "Open-source Python library for reproducible deep learning in neuroimaging",
+    "language": "Python",
+    "stars": 184,
+    "forks": 63,
+    "open_issues": 43,
+    "updated_at": "2026-08-03T17:23:43Z",
+    "pushed_at": "2026-08-03T17:22:59Z",
+    "topics": [
+      "brain-imaging",
+      "deep-learning",
+      "medical-imaging",
+      "neuroimaging",
+      "python",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 18.58
+  },
+  {
+    "full_name": "pavanbadempet/AI-Healthcare-System",
+    "name": "AI-Healthcare-System",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System",
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and FastAPI Clinical Architecture.",
+    "language": "Python",
+    "stars": 36,
+    "forks": 14,
+    "open_issues": 21,
+    "updated_at": "2026-08-03T20:05:06Z",
+    "pushed_at": "2026-08-03T20:03:24Z",
+    "topics": [
+      "agent-framework",
+      "apache-airflow",
+      "clinical-decision-support",
+      "clinical-intelligence",
+      "delta-lake",
+      "ehr",
+      "fastapi",
+      "fhir",
+      "healthcare",
+      "hipaa",
+      "hipaa-compliant",
+      "hl7-fhir",
+      "hospital-management",
+      "langgraph",
+      "machine-learning",
+      "medical-ai",
+      "mlops",
+      "ollama",
+      "pyspark",
+      "react"
+    ],
+    "application_area": "临床预测",
+    "score": 15.64
+  },
+  {
+    "full_name": "Ammar1Ahmad/medcloudai",
+    "name": "medcloudai",
+    "url": "https://github.com/Ammar1Ahmad/medcloudai",
+    "description": "A cloud-based healthcare monitoring system using machine learning that collects real-time patient data from sensors, stores it securely on the cloud, and analyzes it to detect anomalies and predict health risks. The system enables remote monitoring, early diagnosis, and timely alerts for improved patient care and decision-making.",
+    "language": "TypeScript",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-03T22:41:03Z",
+    "pushed_at": "2026-08-03T22:40:56Z",
+    "topics": [
+      "website"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 7.91
+  },
+  {
+    "full_name": "Pirate-Hunter-Zoro/TRD-EHR",
+    "name": "TRD-EHR",
+    "url": "https://github.com/Pirate-Hunter-Zoro/TRD-EHR",
+    "description": "This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-04T00:00:51Z",
+    "pushed_at": "2026-08-04T00:00:30Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
+  },
+  {
+    "full_name": "Yaoyao28/clinical-outcome-prediction",
+    "name": "clinical-outcome-prediction",
+    "url": "https://github.com/Yaoyao28/clinical-outcome-prediction",
+    "description": "End-to-end machine learning pipeline for predicting clinical outcomes using MIMIC-IV.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-04T00:24:40Z",
+    "pushed_at": "2026-08-04T00:24:36Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 6.8
+  },
+  {
+    "full_name": "Mehwish55/Cancer_Biomarker_Discovery_Platform",
+    "name": "Cancer_Biomarker_Discovery_Platform",
+    "url": "https://github.com/Mehwish55/Cancer_Biomarker_Discovery_Platform",
+    "description": "AI-powered cancer biomarker discovery using RNA-seq, machine learning, and bioinformatics.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-03T08:42:24Z",
+    "pushed_at": "2026-08-03T08:39:55Z",
+    "topics": [],
+    "application_area": "药物与转化",
+    "score": 6.8
+  },
+  {
+    "full_name": "achal15784/clinical_analyitics_dashboard",
+    "name": "clinical_analyitics_dashboard",
+    "url": "https://github.com/achal15784/clinical_analyitics_dashboard",
+    "description": "AI-Powered Clinical Analytics Dashboard is a web-based clinical decision support platform that combines Machine Learning and Retrieval-Augmented Generation (RAG) to help healthcare professionals analyze patient data, predict disease risks, retrieve evidence from medical guidelines, and generate AI-assisted clinical insights through an interactive a",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-03T18:35:33Z",
+    "pushed_at": "2026-08-03T18:35:26Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  }
+]
