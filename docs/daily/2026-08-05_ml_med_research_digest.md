@@ -1,39 +1,89 @@
 # 医学机器学习自动整理日报 - 2026-08-05
 
-> 自动采集时间：2026-08-05 08:09:38。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-08-05 09:05:30。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：0 个
-- 论文候选：0 篇
-- 高影响/Q1候选论文：0 篇
-- 采集异常来源：9 个
+- GitHub 项目候选：6 个
+- 论文候选：40 篇
+- 高影响/Q1候选论文：9 篇
+- 采集异常来源：2 个
 
 ## 采集限制
 
-- github: URLError(gaierror(11001, 'getaddrinfo failed'))
-- github: URLError(gaierror(11001, 'getaddrinfo failed'))
-- github: URLError(gaierror(11001, 'getaddrinfo failed'))
-- github: URLError(gaierror(11001, 'getaddrinfo failed'))
-- github: URLError(gaierror(11001, 'getaddrinfo failed'))
-- github: URLError(gaierror(11001, 'getaddrinfo failed'))
-- github: URLError(gaierror(11001, 'getaddrinfo failed'))
-- pubmed_esearch: URLError(gaierror(11001, 'getaddrinfo failed'))
-- crossref: URLError(gaierror(11001, 'getaddrinfo failed'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
 
 ## 优先关注 GitHub 项目
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| - | 未采集到项目 | - | - | - | 查看日志并扩大关键词或配置 GITHUB_TOKEN |
+| 1 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1832 | 2026-08-04T18:43:37Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
+| 2 | [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse) | 1606 | 2026-08-04T19:21:08Z | 病理与组学 | Democratizing AI scientists with ToolUniverse；评分 26.61 |
+| 3 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1215 | 2026-08-04T09:49:34Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.77 |
+| 4 | [kaapana/kaapana](https://github.com/kaapana/kaapana) | 273 | 2026-08-04T18:03:37Z | 医学影像 | Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflow... |
+| 5 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 453 | 2026-08-04T11:56:17Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.8 |
+| 6 | [Prince20221653/Smart-Patient-Queue-Prediction-System](https://github.com/Prince20221653/Smart-Patient-Queue-Prediction-System) | 0 | 2026-08-04T17:56:39Z | 综合医学机器学习 | AI-based Smart Patient Queue Prediction System using Spring Boot, Flask, Machine Learning, and MySQL.；评分 6.0 |
 
 ## 高水平论文候选
 
 | 排名 | 题名 | 期刊 | 日期 | DOI/PMID | 方向 | 复核说明 |
 | --- | --- | --- | --- | --- | --- | --- |
-| - | 未采集到论文候选 | - | - | - | - | 查看日志并扩大关键词 |
+| 1 | [Deep learning-based prostate cancer diagnosis on MRI with hip prostheses: artifact and sequence effects.](https://pubmed.ncbi.nlm.nih.gov/42550188/) | Abdominal radiology (New York) | 2026 Aug 4 | DOI: 10.1007/s00261-026-05712-w; PMID: 42550188 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 2 | [Deep learning image reconstruction improves visualization of arterial phase hyperenhancement and washout appearance on dual-energy CT for h...](https://pubmed.ncbi.nlm.nih.gov/42550187/) | Abdominal radiology (New York) | 2026 Aug 4 | DOI: 10.1007/s00261-026-05707-7; PMID: 42550187 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 3 | [DBT-DINO: Toward Foundation Model-Based Analysis of Digital Breast Tomosynthesis.](https://pubmed.ncbi.nlm.nih.gov/42550018/) | Radiology | 2026 Aug | DOI: 10.1148/radiol.254034; PMID: 42550018 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 4 | [Immuno-oncology: Decoding Tumor-immune Ecosystems with Multi-omics and Artificial Intelligence for Precision Therapeutics.](https://pubmed.ncbi.nlm.nih.gov/42549858/) | Genomics, proteomics & bioinformatics | 2026 Aug 4 | DOI: 10.1093/gpbjnl/qzag078; PMID: 42549858 | 病理与组学 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 5 | [Accuracy of Artificial Intelligence based chatbots in reporting jaw lesions from multimodal radiographic images: A cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/42550178/) | Dento maxillo facial radiology | 2026 Aug 4 | DOI: 10.1093/dmfr/twag057; PMID: 42550178 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 6 | [How I Do It: Understanding and Leveraging Generative AI for Chest Radiology Reporting.](https://pubmed.ncbi.nlm.nih.gov/42550023/) | Radiology | 2026 Aug | DOI: 10.1148/radiol.253456; PMID: 42550023 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 7 | [Consumer Perspectives on Trust in and Benefits of Artificial Intelligence in Health Care.](https://pubmed.ncbi.nlm.nih.gov/42550507/) | JAMA network open | 2026 Aug 3 | DOI: 10.1001/jamanetworkopen.2026.26916; PMID: 42550507 | 综合医学机器学习 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 8 | [Digital Monitoring and Chronic Pain Trajectories in Patients Receiving Tertiary Pain Care.](https://pubmed.ncbi.nlm.nih.gov/42550506/) | JAMA network open | 2026 Aug 3 | DOI: 10.1001/jamanetworkopen.2026.27217; PMID: 42550506 | 综合医学机器学习 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 9 | [DeepGeSeq: Deep learning library for Genomic Sequence modeling and analysis.](https://pubmed.ncbi.nlm.nih.gov/42549891/) | Bioinformatics (Oxford, England) | 2026 Aug 4 | DOI: 10.1093/bioinformatics/btag584; PMID: 42549891 | 综合医学机器学习 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
+| 10 | [Prognostic risk modeling based on integrated multi-omics analysis identifies CRY2 as a key regulator in tumor immunity and patient survival...](https://pubmed.ncbi.nlm.nih.gov/42550740/) | Annals of medicine | 2026 Dec | DOI: 10.1080/07853890.2026.2712007; PMID: 42550740 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 11 | [Nurse-Led Large Language Model Chatbot for Predicting and Preventing Complications After Coronary Artery Bypass Grafting: Protocol for a Ra...](https://pubmed.ncbi.nlm.nih.gov/42550966/) | JMIR research protocols | 2026 Aug 4 | DOI: 10.2196/103717; PMID: 42550966 | 临床文本与大模型 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 12 | [Large Language Model-Based Clinical Decision Support for Antibiotic Selection and Dose Recommendation in Hospitalized Patients With Pneumon...](https://pubmed.ncbi.nlm.nih.gov/42550965/) | JMIR medical informatics | 2026 Aug 4 | DOI: 10.2196/98207; PMID: 42550965 | 临床文本与大模型 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 13 | [MRI-based shear stress profiles in subclinical carotid atherosclerosis - A feasibility study.](https://pubmed.ncbi.nlm.nih.gov/42550850/) | PLOS digital health | 2026 Aug | DOI: 10.1371/journal.pdig.0001618; PMID: 42550850 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 14 | [Response to letter regarding…letter to the editor-Evaluation of the clinical applicability of artificial intelligence in determining system...](https://pubmed.ncbi.nlm.nih.gov/42550822/) | The Journal of dermatological treatment | 2026 Dec | DOI: 10.1080/09546634.2026.2712052; PMID: 42550822 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 15 | [MMMuLNet: Multimodal Mutual Deep learning Framework for the Pediatric Congenital Heart Disease Detection.](https://pubmed.ncbi.nlm.nih.gov/42550748/) | IEEE journal of biomedical and health informatics | 2026 Aug 4 | DOI: 10.1109/JBHI.2026.3720447; PMID: 42550748 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 16 | [Explainable Machine Learning for Perioperative Risk Stratification of Radiographic Adjacent Segment Degeneration After Short-Segment Lumbar...](https://pubmed.ncbi.nlm.nih.gov/42550691/) | Spine | 2026 Aug 3 | DOI: 10.1097/BRS.0000000000005802; PMID: 42550691 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 17 | [Seven Pillars for a Community-Led AI-POCUS Future - A WINFOCUS Manifesto.](https://pubmed.ncbi.nlm.nih.gov/42550671/) | The ultrasound journal | 2026 Aug 4 | DOI: 10.5826/tuj.2026.18454; PMID: 42550671 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 18 | [Multimodal MRI prediction of cognitive functioning across the lifespan: separating between-person differences from within-person changes.](https://pubmed.ncbi.nlm.nih.gov/42550370/) | GeroScience | 2026 Aug 4 | DOI: 10.1007/s11357-026-02441-2; PMID: 42550370 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 19 | [Systematic Review on Artificial Intelligence in Rheumatology Practice: From Implementation Concerns to Imaging and Clinical Application.](https://pubmed.ncbi.nlm.nih.gov/42549989/) | International journal of rheumatic diseases | 2026 Aug | DOI: 10.1111/1756-185x.70816; PMID: 42549989 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 20 | [Digital Pathology in Dermatology - Current Status, Applications and Perspectives.](https://pubmed.ncbi.nlm.nih.gov/42549539/) | Journal der Deutschen Dermatologischen Gesellschaft =... | 2026 Aug | DOI: 10.1111/ddg.70482x; PMID: 42549539 | 病理与组学 | 需按最新版中科院分区、JCR和期刊目录复核 |
 
 ## 医学研究应用整理
+
+### 临床文本与大模型
+
+- 论文线索：Nurse-Led Large Language Model Chatbot for Predicting and Preventing Complications After Coronary Artery Bypass Grafting: Protocol for a Randomized Controlled Trial.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
+
+### 临床预测
+
+- 论文线索：Prognostic risk modeling based on integrated multi-omics analysis identifies CRY2 as a key regulator in tumor immunity and patient survival in colorectal cancer.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
+
+### 医学影像
+
+- 可复用项目：[ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)，适合先看 README、数据要求、许可证和最近提交。
+- 论文线索：Deep learning-based prostate cancer diagnosis on MRI with hip prostheses: artifact and sequence effects.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
+
+### 病理与组学
+
+- 可复用项目：[mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse)，适合先看 README、数据要求、许可证和最近提交。
+- 论文线索：Immuno-oncology: Decoding Tumor-immune Ecosystems with Multi-omics and Artificial Intelligence for Precision Therapeutics.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
+
+### 综合医学机器学习
+
+- 可复用项目：[imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)，适合先看 README、数据要求、许可证和最近提交。
+- 论文线索：Consumer Perspectives on Trust in and Benefits of Artificial Intelligence in Health Care.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
+
+### 药物与转化
+
+- 论文线索：Response to letter regarding…letter to the editor-Evaluation of the clinical applicability of artificial intelligence in determining systemic therapy indications and treatment selection in psoriasis.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ## 质量控制清单
 
@@ -51,14 +101,33 @@
 
 ## 运行来源
 
-- github: FAILED; status=None; seconds=0.04
-- github: FAILED; status=None; seconds=0.0
-- github: FAILED; status=None; seconds=0.0
-- github: FAILED; status=None; seconds=0.0
-- github: FAILED; status=None; seconds=0.0
-- github: FAILED; status=None; seconds=0.0
-- github: FAILED; status=None; seconds=0.0
-- pubmed_esearch: FAILED; status=None; seconds=0.0
-- crossref: FAILED; status=None; seconds=0.0
+- github: FAILED; status=None; seconds=5.03
+- github: OK; status=200; seconds=13.76
+- github: OK; status=200; seconds=1.54
+- github: OK; status=200; seconds=1.54
+- github: OK; status=200; seconds=1.58
+- github: OK; status=200; seconds=1.57
+- github: FAILED; status=403; seconds=1.16
+- github_readme: OK; status=200; seconds=1.95
+- github_readme: OK; status=200; seconds=1.98
+- github_readme: OK; status=200; seconds=1.46
+- github_readme: OK; status=200; seconds=1.98
+- github_readme: OK; status=200; seconds=1.92
+- github_readme: OK; status=200; seconds=1.54
+- github_readme: OK; status=200; seconds=2.23
+- github_readme: OK; status=200; seconds=2.05
+- github_readme: OK; status=200; seconds=2.13
+- github_readme: OK; status=200; seconds=2.03
+- github_readme: OK; status=200; seconds=1.88
+- github_readme: OK; status=200; seconds=1.67
+- github_readme: OK; status=200; seconds=2.04
+- github_readme: OK; status=200; seconds=1.44
+- github_readme: OK; status=200; seconds=1.96
+- github_readme: OK; status=200; seconds=1.52
+- github_readme: OK; status=200; seconds=1.83
+- github_readme: OK; status=200; seconds=1.55
+- pubmed_esearch: OK; status=200; seconds=1.7
+- pubmed_esummary: OK; status=200; seconds=1.91
+- crossref: OK; status=200; seconds=2.02
 
 本次运行已完成：2026-08-05_ml_med_research_digest.md
