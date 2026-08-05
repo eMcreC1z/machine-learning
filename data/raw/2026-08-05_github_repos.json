@@ -1,85 +1,5 @@
 [
   {
-    "full_name": "ai4s-research/awesome-ai-for-science",
-    "name": "awesome-ai-for-science",
-    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
-    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
-    "language": "",
-    "stars": 1832,
-    "forks": 218,
-    "open_issues": 26,
-    "updated_at": "2026-08-04T18:43:37Z",
-    "pushed_at": "2026-08-04T13:17:17Z",
-    "topics": [
-      "ai-for-science",
-      "ai4s",
-      "ai4science",
-      "awesome",
-      "awesome-list",
-      "bioinformatics",
-      "scientific-ai"
-    ],
-    "application_area": "医学影像",
-    "score": 27.76,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "llm",
-        "nlp"
-      ],
-      "medical": [
-        "medical",
-        "medicine",
-        "clinical",
-        "omics"
-      ]
-    }
-  },
-  {
-    "full_name": "mims-harvard/ToolUniverse",
-    "name": "ToolUniverse",
-    "url": "https://github.com/mims-harvard/ToolUniverse",
-    "description": "Democratizing AI scientists with ToolUniverse",
-    "language": "Python",
-    "stars": 1606,
-    "forks": 244,
-    "open_issues": 14,
-    "updated_at": "2026-08-04T19:21:08Z",
-    "pushed_at": "2026-08-04T14:57:11Z",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "ai-communication",
-      "ai-for-science",
-      "ai-scientists",
-      "automated-science",
-      "autonomous-agents",
-      "co-pilot",
-      "co-scientist",
-      "llms",
-      "lrm",
-      "mcp-servers",
-      "reasoning-agent",
-      "reasoning-language-models",
-      "scientific-skill",
-      "tool-use"
-    ],
-    "application_area": "病理与组学",
-    "score": 26.61,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "large language model"
-      ],
-      "medical": [
-        "diagnosis",
-        "omics",
-        "disease",
-        "cancer"
-      ]
-    }
-  },
-  {
     "full_name": "liliu-avril/Awesome-Segment-Anything",
     "name": "Awesome-Segment-Anything",
     "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
@@ -142,6 +62,41 @@
     }
   },
   {
+    "full_name": "ImagingDataCommons/highdicom",
+    "name": "highdicom",
+    "url": "https://github.com/ImagingDataCommons/highdicom",
+    "description": "High-level DICOM abstractions for the Python programming language",
+    "language": "Python",
+    "stars": 235,
+    "forks": 55,
+    "open_issues": 32,
+    "updated_at": "2026-08-02T16:03:43Z",
+    "pushed_at": "2026-08-05T00:42:23Z",
+    "topics": [
+      "dicom",
+      "numpy",
+      "pydicom",
+      "python3",
+      "typehints"
+    ],
+    "application_area": "医学影像",
+    "score": 23.83,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "radiomics",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology",
+        "cancer"
+      ]
+    }
+  },
+  {
     "full_name": "imteekay/machine-learning-research",
     "name": "machine-learning-research",
     "url": "https://github.com/imteekay/machine-learning-research",
@@ -175,18 +130,101 @@
     }
   },
   {
-    "full_name": "Prince20221653/Smart-Patient-Queue-Prediction-System",
-    "name": "Smart-Patient-Queue-Prediction-System",
-    "url": "https://github.com/Prince20221653/Smart-Patient-Queue-Prediction-System",
-    "description": "AI-based Smart Patient Queue Prediction System using Spring Boot, Flask, Machine Learning, and MySQL.",
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "updated_at": "2026-08-04T17:56:39Z",
-    "pushed_at": "2026-08-04T17:55:59Z",
+    "full_name": "Linfeng-Tang/Image-Fusion",
+    "name": "Image-Fusion",
+    "url": "https://github.com/Linfeng-Tang/Image-Fusion",
+    "description": "Deep Learning-based Image Fusion: A Survey",
+    "language": "MATLAB",
+    "stars": 1212,
+    "forks": 154,
+    "open_issues": 13,
+    "updated_at": "2026-08-05T02:22:28Z",
+    "pushed_at": "2026-08-05T02:21:06Z",
     "topics": [],
-    "application_area": "综合医学机器学习",
-    "score": 6.0
+    "application_area": "医学影像",
+    "score": 23.42,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "Aperivue/medsci-skills",
+    "name": "medsci-skills",
+    "url": "https://github.com/Aperivue/medsci-skills",
+    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+    "language": "Python",
+    "stars": 236,
+    "forks": 59,
+    "open_issues": 6,
+    "updated_at": "2026-08-05T01:19:24Z",
+    "pushed_at": "2026-08-03T21:58:19Z",
+    "topics": [
+      "agent-skills",
+      "biostatistics",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "codex",
+      "cursor",
+      "diagnostic-accuracy",
+      "irb-protocol",
+      "literature-review",
+      "manuscript",
+      "medical-ai",
+      "medical-research",
+      "meta-analysis",
+      "physician-researcher",
+      "prisma",
+      "pubmed",
+      "radiology",
+      "reporting-guidelines",
+      "systematic-review"
+    ],
+    "application_area": "医学影像",
+    "score": 22.97,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "wangqiannudt/nerf-arxiv-daily",
+    "name": "nerf-arxiv-daily",
+    "url": "https://github.com/wangqiannudt/nerf-arxiv-daily",
+    "description": "daily update NeRF releated paper on arxiv",
+    "language": "Python",
+    "stars": 210,
+    "forks": 6,
+    "open_issues": 0,
+    "updated_at": "2026-08-05T01:57:59Z",
+    "pushed_at": "2026-08-05T01:57:55Z",
+    "topics": [
+      "cv",
+      "nerf"
+    ],
+    "application_area": "医学影像",
+    "score": 17.36,
+    "evidence_terms": {
+      "ml": [
+        "foundation model"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
   }
 ]

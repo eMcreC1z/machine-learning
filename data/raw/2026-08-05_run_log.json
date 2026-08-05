@@ -2,19 +2,19 @@
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-26&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))",
-    "seconds": 15.05,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.46,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-07-26"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-07-26&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": null,
-    "error": "URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))",
-    "seconds": 15.05,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.02,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-26"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 6.28,
+    "seconds": 1.24,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-07-26"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.07,
+    "seconds": 1.3,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-07-26"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.35,
+    "seconds": 1.33,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-07-26"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.27,
+    "seconds": 1.29,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-07-26"
   },
   {
@@ -59,26 +59,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.12,
+    "seconds": 1.32,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-07-26"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/awesome-selfhosted/awesome-selfhosted/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.84,
-    "repo": "awesome-selfhosted/awesome-selfhosted"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/rust-unofficial/awesome-rust/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.99,
-    "repo": "rust-unofficial/awesome-rust"
   },
   {
     "source": "github_readme",
@@ -86,35 +68,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.32,
+    "seconds": 0.71,
     "repo": "PyO3/pyo3"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.78,
-    "repo": "ai-boost/awesome-prompts"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai4s-research/awesome-ai-for-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.8,
-    "repo": "ai4s-research/awesome-ai-for-science"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/mims-harvard/ToolUniverse/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.4,
-    "repo": "mims-harvard/ToolUniverse"
   },
   {
     "source": "github_readme",
@@ -122,8 +77,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.31,
+    "seconds": 1.15,
     "repo": "liliu-avril/Awesome-Segment-Anything"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Linfeng-Tang/Image-Fusion/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.87,
+    "repo": "Linfeng-Tang/Image-Fusion"
   },
   {
     "source": "github_readme",
@@ -131,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.99,
+    "seconds": 1.06,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -140,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.22,
+    "seconds": 1.21,
     "repo": "liutaocode/TTS-arxiv-daily"
   },
   {
@@ -149,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.95,
+    "seconds": 0.98,
     "repo": "trackawesomelist/trackawesomelist"
   },
   {
@@ -158,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.33,
+    "seconds": 0.91,
     "repo": "UKGovernmentBEIS/inspect_evals"
   },
   {
@@ -167,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.76,
+    "seconds": 1.1,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -176,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.11,
+    "seconds": 1.17,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -185,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.18,
+    "seconds": 0.65,
     "repo": "Trustworthy-AI-Group/Adversarial_Examples_Papers"
   },
   {
@@ -194,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.72,
+    "seconds": 1.08,
     "repo": "xiejhhhhhh/Draftpaper_loop"
   },
   {
@@ -203,8 +167,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.44,
+    "seconds": 0.66,
     "repo": "Jianqiuer/Awesome6DPoseEstimation"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ORNL/HeCBench/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.88,
+    "repo": "ORNL/HeCBench"
   },
   {
     "source": "github_readme",
@@ -212,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.79,
+    "seconds": 1.01,
     "repo": "hongbo-miao/hongbomiao.com"
   },
   {
@@ -221,8 +194,35 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.36,
+    "seconds": 0.78,
     "repo": "kaapana/kaapana"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Aperivue/medsci-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.89,
+    "repo": "Aperivue/medsci-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ImagingDataCommons/highdicom/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.68,
+    "repo": "ImagingDataCommons/highdicom"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/wangqiannudt/nerf-arxiv-daily/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.13,
+    "repo": "wangqiannudt/nerf-arxiv-daily"
   },
   {
     "source": "pubmed_esearch",
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.63
+    "seconds": 1.02
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.91
+    "seconds": 1.19
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.51
+    "seconds": 6.4
   }
 ]

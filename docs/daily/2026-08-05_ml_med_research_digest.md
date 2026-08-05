@@ -1,29 +1,25 @@
 # 医学机器学习自动整理日报 - 2026-08-05
 
-> 自动采集时间：2026-08-05 09:05:32。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-08-05 11:44:43。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：6 个
+- GitHub 项目候选：7 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：9 篇
-- 采集异常来源：2 个
-
-## 采集限制
-
-- github: URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))
-- github: URLError(TimeoutError('_ssl.c:983: The handshake operation timed out'))
+- 采集异常来源：0 个
 
 ## 优先关注 GitHub 项目
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1832 | 2026-08-04T18:43:37Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
-| 2 | [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse) | 1606 | 2026-08-04T19:21:08Z | 病理与组学 | Democratizing AI scientists with ToolUniverse；评分 26.61 |
-| 3 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1215 | 2026-08-04T09:49:34Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.77 |
-| 4 | [kaapana/kaapana](https://github.com/kaapana/kaapana) | 273 | 2026-08-04T18:03:37Z | 医学影像 | Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflow... |
-| 5 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 453 | 2026-08-04T11:56:17Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.8 |
-| 6 | [Prince20221653/Smart-Patient-Queue-Prediction-System](https://github.com/Prince20221653/Smart-Patient-Queue-Prediction-System) | 0 | 2026-08-04T17:56:39Z | 综合医学机器学习 | AI-based Smart Patient Queue Prediction System using Spring Boot, Flask, Machine Learning, and MySQL.；评分 6.0 |
+| 1 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1215 | 2026-08-04T09:49:34Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.77 |
+| 2 | [kaapana/kaapana](https://github.com/kaapana/kaapana) | 273 | 2026-08-04T18:03:37Z | 医学影像 | Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflow... |
+| 3 | [ImagingDataCommons/highdicom](https://github.com/ImagingDataCommons/highdicom) | 235 | 2026-08-02T16:03:43Z | 医学影像 | High-level DICOM abstractions for the Python programming language；评分 23.83 |
+| 4 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 453 | 2026-08-04T11:56:17Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.8 |
+| 5 | [Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion) | 1212 | 2026-08-05T02:22:28Z | 医学影像 | Deep Learning-based Image Fusion: A Survey；评分 23.42 |
+| 6 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 236 | 2026-08-05T01:19:24Z | 医学影像 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Co... |
+| 7 | [wangqiannudt/nerf-arxiv-daily](https://github.com/wangqiannudt/nerf-arxiv-daily) | 210 | 2026-08-05T01:57:59Z | 医学影像 | daily update NeRF releated paper on arxiv；评分 17.36 |
 
 ## 高水平论文候选
 
@@ -64,13 +60,12 @@
 
 ### 医学影像
 
-- 可复用项目：[ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)，适合先看 README、数据要求、许可证和最近提交。
+- 可复用项目：[liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Deep learning-based prostate cancer diagnosis on MRI with hip prostheses: artifact and sequence effects.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 病理与组学
 
-- 可复用项目：[mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Immuno-oncology: Decoding Tumor-immune Ecosystems with Multi-omics and Artificial Intelligence for Precision Therapeutics.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
@@ -101,33 +96,33 @@
 
 ## 运行来源
 
-- github: FAILED; status=None; seconds=15.05
-- github: FAILED; status=None; seconds=15.05
-- github: OK; status=200; seconds=6.28
-- github: OK; status=200; seconds=2.07
-- github: OK; status=200; seconds=2.35
-- github: OK; status=200; seconds=2.27
-- github: OK; status=200; seconds=2.12
-- github_readme: OK; status=200; seconds=1.84
-- github_readme: OK; status=200; seconds=1.99
-- github_readme: OK; status=200; seconds=1.32
-- github_readme: OK; status=200; seconds=1.78
-- github_readme: OK; status=200; seconds=1.8
-- github_readme: OK; status=200; seconds=1.4
-- github_readme: OK; status=200; seconds=2.31
-- github_readme: OK; status=200; seconds=1.99
-- github_readme: OK; status=200; seconds=2.22
-- github_readme: OK; status=200; seconds=1.95
-- github_readme: OK; status=200; seconds=2.33
-- github_readme: OK; status=200; seconds=1.76
-- github_readme: OK; status=200; seconds=2.11
-- github_readme: OK; status=200; seconds=1.18
-- github_readme: OK; status=200; seconds=1.72
-- github_readme: OK; status=200; seconds=1.44
-- github_readme: OK; status=200; seconds=1.79
-- github_readme: OK; status=200; seconds=1.36
-- pubmed_esearch: OK; status=200; seconds=1.63
-- pubmed_esummary: OK; status=200; seconds=1.91
-- crossref: OK; status=200; seconds=3.51
+- github: OK; status=200; seconds=1.46
+- github: OK; status=200; seconds=1.02
+- github: OK; status=200; seconds=1.24
+- github: OK; status=200; seconds=1.3
+- github: OK; status=200; seconds=1.33
+- github: OK; status=200; seconds=1.29
+- github: OK; status=200; seconds=1.32
+- github_readme: OK; status=200; seconds=0.71
+- github_readme: OK; status=200; seconds=1.15
+- github_readme: OK; status=200; seconds=0.87
+- github_readme: OK; status=200; seconds=1.06
+- github_readme: OK; status=200; seconds=1.21
+- github_readme: OK; status=200; seconds=0.98
+- github_readme: OK; status=200; seconds=0.91
+- github_readme: OK; status=200; seconds=1.1
+- github_readme: OK; status=200; seconds=1.17
+- github_readme: OK; status=200; seconds=0.65
+- github_readme: OK; status=200; seconds=1.08
+- github_readme: OK; status=200; seconds=0.66
+- github_readme: OK; status=200; seconds=0.88
+- github_readme: OK; status=200; seconds=1.01
+- github_readme: OK; status=200; seconds=0.78
+- github_readme: OK; status=200; seconds=0.89
+- github_readme: OK; status=200; seconds=0.68
+- github_readme: OK; status=200; seconds=1.13
+- pubmed_esearch: OK; status=200; seconds=1.02
+- pubmed_esummary: OK; status=200; seconds=1.19
+- crossref: OK; status=200; seconds=6.4
 
 本次运行已完成：2026-08-05_ml_med_research_digest.md
