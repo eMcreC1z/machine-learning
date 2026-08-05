@@ -1,5 +1,99 @@
 [
   {
+    "full_name": "Niketkumardheeryan/ML-CaPsule",
+    "name": "ML-CaPsule",
+    "url": "https://github.com/Niketkumardheeryan/ML-CaPsule",
+    "description": "ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.",
+    "language": "Jupyter Notebook",
+    "stars": 682,
+    "forks": 743,
+    "open_issues": 541,
+    "updated_at": "2026-08-05T06:40:22Z",
+    "pushed_at": "2026-08-05T06:39:51Z",
+    "topics": [
+      "analytics",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deep-neural-networks",
+      "deployment",
+      "flask",
+      "heroku-deployment",
+      "machine-learning",
+      "python",
+      "r",
+      "statistics",
+      "streamlit-webapp"
+    ],
+    "application_area": "医学影像",
+    "score": 29.45,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "disease",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "albumentations-team/AlbumentationsX",
+    "name": "AlbumentationsX",
+    "url": "https://github.com/albumentations-team/AlbumentationsX",
+    "description": "Next-generation Albumentations: dual-licensed for open-source and commercial use",
+    "language": "Python",
+    "stars": 524,
+    "forks": 32,
+    "open_issues": 57,
+    "updated_at": "2026-08-05T05:17:52Z",
+    "pushed_at": "2026-08-05T05:17:16Z",
+    "topics": [
+      "3d",
+      "augmentation",
+      "bounding-box",
+      "computer-vision",
+      "data-augmentation",
+      "deep-learning",
+      "deeplearning",
+      "image-augmentation",
+      "image-classification",
+      "image-processing",
+      "image-segmentations",
+      "instance-segmentation",
+      "keypoint-detection",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "python",
+      "pytorch",
+      "segmentation",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 25.16,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
     "full_name": "liliu-avril/Awesome-Segment-Anything",
     "name": "Awesome-Segment-Anything",
     "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
@@ -35,7 +129,7 @@
     "forks": 65,
     "open_issues": 7,
     "updated_at": "2026-08-04T18:03:37Z",
-    "pushed_at": "2026-08-04T14:14:41Z",
+    "pushed_at": "2026-08-05T06:31:03Z",
     "topics": [
       "ai",
       "cloud-computing",
@@ -67,10 +161,10 @@
     "url": "https://github.com/ImagingDataCommons/highdicom",
     "description": "High-level DICOM abstractions for the Python programming language",
     "language": "Python",
-    "stars": 235,
+    "stars": 236,
     "forks": 55,
     "open_issues": 32,
-    "updated_at": "2026-08-02T16:03:43Z",
+    "updated_at": "2026-08-05T04:27:08Z",
     "pushed_at": "2026-08-05T00:42:23Z",
     "topics": [
       "dicom",
@@ -80,7 +174,7 @@
       "typehints"
     ],
     "application_area": "医学影像",
-    "score": 23.83,
+    "score": 24.12,
     "evidence_terms": {
       "ml": [
         "machine learning",
@@ -135,10 +229,10 @@
     "url": "https://github.com/Linfeng-Tang/Image-Fusion",
     "description": "Deep Learning-based Image Fusion: A Survey",
     "language": "MATLAB",
-    "stars": 1212,
+    "stars": 1213,
     "forks": 154,
     "open_issues": 13,
-    "updated_at": "2026-08-05T02:22:28Z",
+    "updated_at": "2026-08-05T06:03:48Z",
     "pushed_at": "2026-08-05T02:21:06Z",
     "topics": [],
     "application_area": "医学影像",
@@ -202,29 +296,42 @@
     }
   },
   {
-    "full_name": "wangqiannudt/nerf-arxiv-daily",
-    "name": "nerf-arxiv-daily",
-    "url": "https://github.com/wangqiannudt/nerf-arxiv-daily",
-    "description": "daily update NeRF releated paper on arxiv",
-    "language": "Python",
-    "stars": 210,
-    "forks": 6,
-    "open_issues": 0,
-    "updated_at": "2026-08-05T01:57:59Z",
-    "pushed_at": "2026-08-05T01:57:55Z",
-    "topics": [
-      "cv",
-      "nerf"
-    ],
+    "full_name": "XiudingCai/Awesome-Mamba-Collection",
+    "name": "Awesome-Mamba-Collection",
+    "url": "https://github.com/XiudingCai/Awesome-Mamba-Collection",
+    "description": "A curated collection of papers, tutorials, videos, and other valuable resources related to Mamba.",
+    "language": "",
+    "stars": 757,
+    "forks": 66,
+    "open_issues": 1,
+    "updated_at": "2026-08-05T05:17:31Z",
+    "pushed_at": "2026-08-05T05:16:33Z",
+    "topics": [],
     "application_area": "医学影像",
-    "score": 17.36,
+    "score": 21.86,
     "evidence_terms": {
       "ml": [
-        "foundation model"
+        "llm"
       ],
       "medical": [
+        "medical",
         "imaging"
       ]
     }
+  },
+  {
+    "full_name": "Mehwish55/Cancer_Biomarker_Discovery_Platform",
+    "name": "Cancer_Biomarker_Discovery_Platform",
+    "url": "https://github.com/Mehwish55/Cancer_Biomarker_Discovery_Platform",
+    "description": "AI-powered cancer biomarker discovery using RNA-seq, machine learning, and bioinformatics.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-05T06:45:09Z",
+    "pushed_at": "2026-08-05T06:44:30Z",
+    "topics": [],
+    "application_area": "药物与转化",
+    "score": 6.8
   }
 ]
