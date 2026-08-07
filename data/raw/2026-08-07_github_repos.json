@@ -1,1 +1,475 @@
-[]
+[
+  {
+    "full_name": "josephmisiti/awesome-machine-learning",
+    "name": "awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "language": "Python",
+    "stars": 73919,
+    "forks": 15600,
+    "open_issues": 22,
+    "updated_at": "2026-08-06T21:43:17Z",
+    "pushed_at": "2026-08-06T18:03:02Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 36.36,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "imaging",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "Niketkumardheeryan/ML-CaPsule",
+    "name": "ML-CaPsule",
+    "url": "https://github.com/Niketkumardheeryan/ML-CaPsule",
+    "description": "ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.",
+    "language": "Jupyter Notebook",
+    "stars": 682,
+    "forks": 744,
+    "open_issues": 545,
+    "updated_at": "2026-08-06T17:44:50Z",
+    "pushed_at": "2026-08-06T17:44:39Z",
+    "topics": [
+      "analytics",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deep-neural-networks",
+      "deployment",
+      "flask",
+      "heroku-deployment",
+      "machine-learning",
+      "python",
+      "r",
+      "statistics",
+      "streamlit-webapp"
+    ],
+    "application_area": "医学影像",
+    "score": 29.45,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "disease",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1839,
+    "forks": 218,
+    "open_issues": 26,
+    "updated_at": "2026-08-06T18:21:01Z",
+    "pushed_at": "2026-08-06T05:42:44Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.77,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "open-edge-platform/geti",
+    "name": "geti",
+    "url": "https://github.com/open-edge-platform/geti",
+    "description": "Build computer vision models in a fraction of the time and with less data.",
+    "language": "Python",
+    "stars": 1281,
+    "forks": 475,
+    "open_issues": 150,
+    "updated_at": "2026-08-06T16:57:22Z",
+    "pushed_at": "2026-08-06T18:01:25Z",
+    "topics": [
+      "automl",
+      "computer-vision",
+      "deep-learning",
+      "geti",
+      "image-classification",
+      "image-segmentation",
+      "incremental-learning",
+      "machine-learning",
+      "neural-networks-compression",
+      "object-detection",
+      "openvino",
+      "pytorch",
+      "quantization",
+      "self-supervised-learning",
+      "semi-supervised-learning",
+      "transfer-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 26.65,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "mims-harvard/ToolUniverse",
+    "name": "ToolUniverse",
+    "url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
+    "language": "Python",
+    "stars": 1612,
+    "forks": 244,
+    "open_issues": 19,
+    "updated_at": "2026-08-07T01:22:09Z",
+    "pushed_at": "2026-08-06T21:05:25Z",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-communication",
+      "ai-for-science",
+      "ai-scientists",
+      "automated-science",
+      "autonomous-agents",
+      "co-pilot",
+      "co-scientist",
+      "llms",
+      "lrm",
+      "mcp-servers",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "scientific-skill",
+      "tool-use"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.61,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "large language model"
+      ],
+      "medical": [
+        "diagnosis",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 544,
+    "forks": 109,
+    "open_issues": 18,
+    "updated_at": "2026-08-06T09:21:49Z",
+    "pushed_at": "2026-08-06T15:31:55Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.41,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 2813,
+    "forks": 330,
+    "open_issues": 15,
+    "updated_at": "2026-08-07T00:15:28Z",
+    "pushed_at": "2026-08-07T00:48:59Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.18,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1215,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-08-04T09:49:34Z",
+    "pushed_at": "2026-08-04T04:46:11Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.48,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "matlab/matlab-agentic-toolkit",
+    "name": "matlab-agentic-toolkit",
+    "url": "https://github.com/matlab/matlab-agentic-toolkit",
+    "description": "The MATLAB Agentic Toolkit brings trusted MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.",
+    "language": "MATLAB",
+    "stars": 878,
+    "forks": 109,
+    "open_issues": 6,
+    "updated_at": "2026-08-06T14:55:09Z",
+    "pushed_at": "2026-08-06T14:56:35Z",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex-plugin",
+      "engineering-agents",
+      "github-copilot",
+      "matlab",
+      "matlab-mcp-server"
+    ],
+    "application_area": "医学影像",
+    "score": 24.44,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning",
+    "name": "Awesome-Hyperbolic-Representation-and-Deep-Learning",
+    "url": "https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning",
+    "description": "Paper list about hyperbolic embedding, hyperbolic models,hyperbolic applications",
+    "language": "",
+    "stars": 607,
+    "forks": 40,
+    "open_issues": 0,
+    "updated_at": "2026-08-06T14:12:20Z",
+    "pushed_at": "2026-08-06T14:09:25Z",
+    "topics": [
+      "graph-embedding",
+      "graph-neural-networks",
+      "hyperbolic-geometry",
+      "knowledge-graph",
+      "network-embedding",
+      "recommender-system",
+      "representation-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 23.75,
+    "evidence_terms": {
+      "ml": [
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "diagnosis",
+        "disease",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "faridrashidi/cnsplots",
+    "name": "cnsplots",
+    "url": "https://github.com/faridrashidi/cnsplots",
+    "description": "🎨 Toolkit for generating publication-quality plots for Cell, Nature and Science journals",
+    "language": "Python",
+    "stars": 602,
+    "forks": 65,
+    "open_issues": 0,
+    "updated_at": "2026-08-07T00:21:20Z",
+    "pushed_at": "2026-08-07T00:27:17Z",
+    "topics": [
+      "data-science",
+      "data-visualization",
+      "plotting",
+      "publication-quality",
+      "python",
+      "scientific-publications"
+    ],
+    "application_area": "临床预测",
+    "score": 22.25,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "genomics",
+        "omics",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 692,
+    "forks": 109,
+    "open_issues": 84,
+    "updated_at": "2026-08-06T14:33:37Z",
+    "pushed_at": "2026-08-06T14:30:47Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 22.03,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "Pirate-Hunter-Zoro/TRD-EHR",
+    "name": "TRD-EHR",
+    "url": "https://github.com/Pirate-Hunter-Zoro/TRD-EHR",
+    "description": "This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.",
+    "language": "Jupyter Notebook",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-07T00:51:11Z",
+    "pushed_at": "2026-08-07T00:51:06Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 8.8
+  },
+  {
+    "full_name": "Mehwish55/Cancer_Biomarker_Discovery_Platform",
+    "name": "Cancer_Biomarker_Discovery_Platform",
+    "url": "https://github.com/Mehwish55/Cancer_Biomarker_Discovery_Platform",
+    "description": "AI-powered cancer biomarker discovery using RNA-seq, machine learning, and bioinformatics.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-05T06:45:09Z",
+    "pushed_at": "2026-08-05T06:44:30Z",
+    "topics": [],
+    "application_area": "药物与转化",
+    "score": 6.66
+  }
+]

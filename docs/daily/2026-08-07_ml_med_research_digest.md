@@ -1,29 +1,36 @@
 # 医学机器学习自动整理日报 - 2026-08-07
 
-> 自动采集时间：2026-08-07 09:27:54。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-08-07 09:29:07。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：0 个
+- GitHub 项目候选：14 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：2 篇
-- 采集异常来源：7 个
+- 采集异常来源：1 个
 
 ## 采集限制
 
-- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
-- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
-- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
-- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
-- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
-- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
-- github: HTTP 403: {"message":"API rate limit exceeded for 185.45.92.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more de...
+- github_readme: TimeoutError('The read operation timed out')
 
 ## 优先关注 GitHub 项目
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| - | 未采集到项目 | - | - | - | 查看日志并扩大关键词或配置 GITHUB_TOKEN |
+| 1 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 73919 | 2026-08-06T21:43:17Z | 医学影像 | A curated list of awesome Machine Learning frameworks, libraries and software.；评分 36.36 |
+| 2 | [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule) | 682 | 2026-08-06T17:44:50Z | 医学影像 | ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using ou... |
+| 3 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1839 | 2026-08-06T18:21:01Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
+| 4 | [open-edge-platform/geti](https://github.com/open-edge-platform/geti) | 1281 | 2026-08-06T16:57:22Z | 医学影像 | Build computer vision models in a fraction of the time and with less data.；评分 26.65 |
+| 5 | [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse) | 1612 | 2026-08-07T01:22:09Z | 病理与组学 | Democratizing AI scientists with ToolUniverse；评分 26.61 |
+| 6 | [TissueImageAnalytics/tiatoolbox](https://github.com/TissueImageAnalytics/tiatoolbox) | 544 | 2026-08-06T09:21:49Z | 医学影像 | Computational Pathology Toolbox developed by TIA Centre, University of Warwick.；评分 26.41 |
+| 7 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 2813 | 2026-08-07T00:15:28Z | 临床文本与大模型 | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows e... |
+| 8 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1215 | 2026-08-04T09:49:34Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.48 |
+| 9 | [matlab/matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit) | 878 | 2026-08-06T14:55:09Z | 医学影像 | The MATLAB Agentic Toolkit brings trusted MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.；评分 24.44 |
+| 10 | [marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Lea...](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning) | 607 | 2026-08-06T14:12:20Z | 医学影像 | Paper list about hyperbolic embedding, hyperbolic models,hyperbolic applications；评分 23.75 |
+| 11 | [faridrashidi/cnsplots](https://github.com/faridrashidi/cnsplots) | 602 | 2026-08-07T00:21:20Z | 临床预测 | 🎨 Toolkit for generating publication-quality plots for Cell, Nature and Science journals；评分 22.25 |
+| 12 | [best-of-ai/best-of-ai](https://github.com/best-of-ai/best-of-ai) | 692 | 2026-08-06T14:33:37Z | 医学影像 | A curated list of best ai tools；评分 22.03 |
+| 13 | [Pirate-Hunter-Zoro/TRD-EHR](https://github.com/Pirate-Hunter-Zoro/TRD-EHR) | 1 | 2026-08-07T00:51:11Z | 临床预测 | This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.；评分 8.8 |
+| 14 | [Mehwish55/Cancer_Biomarker_Discovery_Platform](https://github.com/Mehwish55/Cancer_Biomarker_Discovery_Platform) | 0 | 2026-08-05T06:45:09Z | 药物与转化 | AI-powered cancer biomarker discovery using RNA-seq, machine learning, and bioinformatics.；评分 6.66 |
 
 ## 高水平论文候选
 
@@ -54,27 +61,36 @@
 
 ### 临床文本与大模型
 
+- 可复用项目：[NVIDIA/skills](https://github.com/NVIDIA/skills)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Enhancing antimicrobial stewardship using a retrieval-augmented generation large language model for infectious disease management.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 临床预测
 
+- 可复用项目：[faridrashidi/cnsplots](https://github.com/faridrashidi/cnsplots)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Prediction tools to prioritise hospitalised adult patients at risk of drug related problems: An umbrella review.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 医学影像
 
+- 可复用项目：[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：A review of radiotherapy linear accelerator quality control techniques.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 病理与组学
 
+- 可复用项目：[mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Identifying GADD45A as a potential R-loop regulator in sepsis via machine-learning and multi-omics analysis.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 综合医学机器学习
 
 - 论文线索：Standardization of Retinal Vasculitis Terminology With Consensus Definitions From a Delphi Panel.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
+
+### 药物与转化
+
+- 可复用项目：[Mehwish55/Cancer_Biomarker_Discovery_Platform](https://github.com/Mehwish55/Cancer_Biomarker_Discovery_Platform)，适合先看 README、数据要求、许可证和最近提交。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ## 质量控制清单
@@ -93,15 +109,33 @@
 
 ## 运行来源
 
-- github: FAILED; status=403; seconds=1.28
-- github: FAILED; status=403; seconds=1.25
-- github: FAILED; status=403; seconds=1.35
-- github: FAILED; status=403; seconds=1.28
-- github: FAILED; status=403; seconds=1.27
-- github: FAILED; status=403; seconds=1.27
-- github: FAILED; status=403; seconds=1.24
-- pubmed_esearch: OK; status=200; seconds=1.75
-- pubmed_esummary: OK; status=200; seconds=2.09
-- crossref: OK; status=200; seconds=2.43
+- github: OK; status=200; seconds=2.26
+- github: OK; status=200; seconds=2.17
+- github: OK; status=200; seconds=2.28
+- github: OK; status=200; seconds=2.19
+- github: OK; status=200; seconds=2.39
+- github: OK; status=200; seconds=2.47
+- github: OK; status=200; seconds=2.3
+- github_readme: OK; status=200; seconds=2.14
+- github_readme: FAILED; status=None; seconds=45.82
+- github_readme: OK; status=200; seconds=2.02
+- github_readme: OK; status=200; seconds=2.05
+- github_readme: OK; status=200; seconds=1.69
+- github_readme: OK; status=200; seconds=1.96
+- github_readme: OK; status=200; seconds=1.49
+- github_readme: OK; status=200; seconds=2.04
+- github_readme: OK; status=200; seconds=1.63
+- github_readme: OK; status=200; seconds=2.33
+- github_readme: OK; status=200; seconds=1.54
+- github_readme: OK; status=200; seconds=2.6
+- github_readme: OK; status=200; seconds=2.09
+- github_readme: OK; status=200; seconds=2.05
+- github_readme: OK; status=200; seconds=2.55
+- github_readme: OK; status=200; seconds=1.75
+- github_readme: OK; status=200; seconds=1.54
+- github_readme: OK; status=200; seconds=1.58
+- pubmed_esearch: OK; status=200; seconds=1.58
+- pubmed_esummary: OK; status=200; seconds=2.06
+- crossref: OK; status=200; seconds=2.67
 
 本次运行已完成：2026-08-07_ml_med_research_digest.md
