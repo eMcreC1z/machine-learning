@@ -1,0 +1,516 @@
+[
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 472,
+    "forks": 45,
+    "open_issues": 0,
+    "updated_at": "2026-08-10T01:03:23Z",
+    "pushed_at": "2026-08-10T01:03:20Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 31.19,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "Niketkumardheeryan/ML-CaPsule",
+    "name": "ML-CaPsule",
+    "url": "https://github.com/Niketkumardheeryan/ML-CaPsule",
+    "description": "ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.",
+    "language": "Jupyter Notebook",
+    "stars": 683,
+    "forks": 749,
+    "open_issues": 552,
+    "updated_at": "2026-08-10T06:30:54Z",
+    "pushed_at": "2026-08-10T06:30:42Z",
+    "topics": [
+      "analytics",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deep-neural-networks",
+      "deployment",
+      "flask",
+      "heroku-deployment",
+      "machine-learning",
+      "python",
+      "r",
+      "statistics",
+      "streamlit-webapp"
+    ],
+    "application_area": "医学影像",
+    "score": 29.45,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "disease",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1852,
+    "forks": 218,
+    "open_issues": 26,
+    "updated_at": "2026-08-10T01:55:10Z",
+    "pushed_at": "2026-08-09T14:11:21Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.78,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "Boom5426/Awesome-Virtual-Cell",
+    "name": "Awesome-Virtual-Cell",
+    "url": "https://github.com/Boom5426/Awesome-Virtual-Cell",
+    "description": "Awesome-AI-Virtual-Cell: papers, datasets, benchmarks, talks, and community resources for AIVC",
+    "language": "Jupyter Notebook",
+    "stars": 274,
+    "forks": 21,
+    "open_issues": 2,
+    "updated_at": "2026-08-10T05:21:27Z",
+    "pushed_at": "2026-08-10T03:34:44Z",
+    "topics": [
+      "awesome",
+      "virtual-cell"
+    ],
+    "application_area": "病理与组学",
+    "score": 27.37,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "diagnosis",
+        "genomics",
+        "omics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "mims-harvard/ToolUniverse",
+    "name": "ToolUniverse",
+    "url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
+    "language": "Python",
+    "stars": 1619,
+    "forks": 244,
+    "open_issues": 15,
+    "updated_at": "2026-08-10T05:19:22Z",
+    "pushed_at": "2026-08-10T05:19:17Z",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-communication",
+      "ai-for-science",
+      "ai-scientists",
+      "automated-science",
+      "autonomous-agents",
+      "co-pilot",
+      "co-scientist",
+      "llms",
+      "lrm",
+      "mcp-servers",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "scientific-skill",
+      "tool-use"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.62,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "large language model"
+      ],
+      "medical": [
+        "diagnosis",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 446,
+    "forks": 101,
+    "open_issues": 605,
+    "updated_at": "2026-08-09T17:05:44Z",
+    "pushed_at": "2026-08-09T17:05:35Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 26.41,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "electronic health record",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "albumentations-team/AlbumentationsX",
+    "name": "AlbumentationsX",
+    "url": "https://github.com/albumentations-team/AlbumentationsX",
+    "description": "Next-generation Albumentations: dual-licensed for open-source and commercial use",
+    "language": "Python",
+    "stars": 527,
+    "forks": 34,
+    "open_issues": 61,
+    "updated_at": "2026-08-10T07:04:45Z",
+    "pushed_at": "2026-08-10T07:04:01Z",
+    "topics": [
+      "3d",
+      "augmentation",
+      "bounding-box",
+      "computer-vision",
+      "data-augmentation",
+      "deep-learning",
+      "deeplearning",
+      "image-augmentation",
+      "image-classification",
+      "image-processing",
+      "image-segmentations",
+      "instance-segmentation",
+      "keypoint-detection",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "python",
+      "pytorch",
+      "segmentation",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 25.21,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1215,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-08-08T23:54:36Z",
+    "pushed_at": "2026-08-08T11:31:46Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.63,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 274,
+    "forks": 65,
+    "open_issues": 7,
+    "updated_at": "2026-08-05T19:10:44Z",
+    "pushed_at": "2026-08-07T13:30:26Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 23.92,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 453,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-08-08T13:06:38Z",
+    "pushed_at": "2026-08-08T13:06:30Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.66,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 695,
+    "forks": 109,
+    "open_issues": 90,
+    "updated_at": "2026-08-10T04:28:31Z",
+    "pushed_at": "2026-08-10T04:23:02Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 22.03,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "ratschlab/DeepSpot",
+    "name": "DeepSpot",
+    "url": "https://github.com/ratschlab/DeepSpot",
+    "description": "DeepSpot: Deep learning model for predicting spatial transcriptomics from H&E histopathology images. Supports spot-level (Visium) and single-cell (Xenium) resolution.",
+    "language": "Jupyter Notebook",
+    "stars": 91,
+    "forks": 20,
+    "open_issues": 0,
+    "updated_at": "2026-08-10T06:28:10Z",
+    "pushed_at": "2026-08-10T06:27:58Z",
+    "topics": [
+      "bioinformatics",
+      "cancer-research",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "foundation-models",
+      "gene-expression",
+      "histopathology",
+      "machine-learning",
+      "pathology",
+      "pytorch",
+      "single-cell",
+      "spatial-biology",
+      "spatial-transcriptomics",
+      "visium",
+      "xenium"
+    ],
+    "application_area": "病理与组学",
+    "score": 19.04
+  },
+  {
+    "full_name": "NKI-AI/dlup",
+    "name": "dlup",
+    "url": "https://github.com/NKI-AI/dlup",
+    "description": "Dlup are the Deep Learning Utilities for Pathology developed at the Netherlands Cancer Institute",
+    "language": "Python",
+    "stars": 30,
+    "forks": 6,
+    "open_issues": 0,
+    "updated_at": "2026-08-09T15:46:01Z",
+    "pushed_at": "2026-08-09T16:16:16Z",
+    "topics": [],
+    "application_area": "病理与组学",
+    "score": 14.03
+  },
+  {
+    "full_name": "SharmisthaDebgoswami/TNBC-Prognostic-Biomarkers",
+    "name": "TNBC-Prognostic-Biomarkers",
+    "url": "https://github.com/SharmisthaDebgoswami/TNBC-Prognostic-Biomarkers",
+    "description": "A computational framework integrating transcriptomic analysis, differential gene expression, protein–protein interaction networks, hub gene identification, survival analysis, machine learning, and Explainable AI for prognostic biomarker discovery in Triple-Negative Breast Cancer.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-09T16:54:33Z",
+    "pushed_at": "2026-08-07T19:40:53Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
+  },
+  {
+    "full_name": "Mehwish55/Cancer_Biomarker_Discovery_Platform",
+    "name": "Cancer_Biomarker_Discovery_Platform",
+    "url": "https://github.com/Mehwish55/Cancer_Biomarker_Discovery_Platform",
+    "description": "AI-powered cancer biomarker discovery platform integrating RNA-seq analysis, DESeq2, functional genomics, and machine learning for precision oncology research.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-07T14:47:43Z",
+    "pushed_at": "2026-08-07T14:45:13Z",
+    "topics": [
+      "bioinformatics",
+      "biomarker-discovery",
+      "cancer-genomics",
+      "computational-biology",
+      "machine-learning",
+      "precision-medicine",
+      "python",
+      "r",
+      "rna-seq",
+      "tcga"
+    ],
+    "application_area": "病理与组学",
+    "score": 7.31
+  },
+  {
+    "full_name": "Pratisha1234/Nexoraa-Health-AI",
+    "name": "Nexoraa-Health-AI",
+    "url": "https://github.com/Pratisha1234/Nexoraa-Health-AI",
+    "description": "AI-powered Clinical Decision Support System for disease prediction using Machine Learning, FastAPI, Streamlit, Explainable AI, and Healthcare Analytics.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-10T05:18:20Z",
+    "pushed_at": "2026-08-10T05:18:16Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  }
+]
