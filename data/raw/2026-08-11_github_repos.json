@@ -1,0 +1,436 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 33154,
+    "forks": 3256,
+    "open_issues": 5,
+    "updated_at": "2026-08-11T01:23:21Z",
+    "pushed_at": "2026-08-10T23:46:11Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 41.55,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 472,
+    "forks": 45,
+    "open_issues": 0,
+    "updated_at": "2026-08-11T01:26:30Z",
+    "pushed_at": "2026-08-11T01:26:24Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 31.19,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8584,
+    "forks": 1601,
+    "open_issues": 537,
+    "updated_at": "2026-08-10T20:37:27Z",
+    "pushed_at": "2026-08-10T20:26:39Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.74,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "mims-harvard/ToolUniverse",
+    "name": "ToolUniverse",
+    "url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
+    "language": "Python",
+    "stars": 1619,
+    "forks": 244,
+    "open_issues": 15,
+    "updated_at": "2026-08-10T20:15:48Z",
+    "pushed_at": "2026-08-11T01:29:22Z",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-communication",
+      "ai-for-science",
+      "ai-scientists",
+      "automated-science",
+      "autonomous-agents",
+      "co-pilot",
+      "co-scientist",
+      "llms",
+      "lrm",
+      "mcp-servers",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "scientific-skill",
+      "tool-use"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.62,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "large language model"
+      ],
+      "medical": [
+        "diagnosis",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 545,
+    "forks": 110,
+    "open_issues": 18,
+    "updated_at": "2026-08-10T20:13:23Z",
+    "pushed_at": "2026-08-10T16:36:54Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.42,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1215,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-08-10T08:22:24Z",
+    "pushed_at": "2026-08-10T08:21:22Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 274,
+    "forks": 65,
+    "open_issues": 7,
+    "updated_at": "2026-08-10T13:32:33Z",
+    "pushed_at": "2026-08-10T15:41:08Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 24.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 453,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-08-10T12:59:56Z",
+    "pushed_at": "2026-08-10T12:57:21Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.8,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 446,
+    "forks": 101,
+    "open_issues": 606,
+    "updated_at": "2026-08-10T17:31:18Z",
+    "pushed_at": "2026-08-10T17:27:50Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.41,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "faridrashidi/cnsplots",
+    "name": "cnsplots",
+    "url": "https://github.com/faridrashidi/cnsplots",
+    "description": "🎨 Toolkit for generating publication-quality plots for Cell, Nature and Science journals",
+    "language": "Python",
+    "stars": 614,
+    "forks": 67,
+    "open_issues": 0,
+    "updated_at": "2026-08-10T16:18:02Z",
+    "pushed_at": "2026-08-10T13:24:51Z",
+    "topics": [
+      "data-science",
+      "data-visualization",
+      "plotting",
+      "publication-quality",
+      "python",
+      "scientific-publications"
+    ],
+    "application_area": "临床预测",
+    "score": 22.3,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "genomics",
+        "omics",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "radarFudan/Awesome-state-space-models",
+    "name": "Awesome-state-space-models",
+    "url": "https://github.com/radarFudan/Awesome-state-space-models",
+    "description": "Collection of papers on state-space models",
+    "language": "",
+    "stars": 621,
+    "forks": 21,
+    "open_issues": 0,
+    "updated_at": "2026-08-10T17:40:34Z",
+    "pushed_at": "2026-08-10T17:39:53Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 19.99,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "Pirate-Hunter-Zoro/TRD-EHR",
+    "name": "TRD-EHR",
+    "url": "https://github.com/Pirate-Hunter-Zoro/TRD-EHR",
+    "description": "This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.",
+    "language": "Jupyter Notebook",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-10T20:47:01Z",
+    "pushed_at": "2026-08-10T20:46:34Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 9.51
+  },
+  {
+    "full_name": "Mehwish55/Cancer_Biomarker_Discovery_Platform",
+    "name": "Cancer_Biomarker_Discovery_Platform",
+    "url": "https://github.com/Mehwish55/Cancer_Biomarker_Discovery_Platform",
+    "description": "AI-powered cancer biomarker discovery platform integrating RNA-seq analysis, DESeq2, functional genomics, and machine learning for precision oncology research.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-10T15:13:37Z",
+    "pushed_at": "2026-08-10T15:08:03Z",
+    "topics": [
+      "bioinformatics",
+      "biomarker-discovery",
+      "cancer-genomics",
+      "computational-biology",
+      "machine-learning",
+      "precision-medicine",
+      "python",
+      "r",
+      "rna-seq",
+      "tcga"
+    ],
+    "application_area": "病理与组学",
+    "score": 7.6
+  },
+  {
+    "full_name": "aycaaozturk/AML-project",
+    "name": "AML-project",
+    "url": "https://github.com/aycaaozturk/AML-project",
+    "description": "Development of AI-based digital twins for Acute Myeloid Leukemia (AML) using clinical patient data, incorporating data preprocessing, survival analysis, and machine learning to enable personalized prognosis and precision medicine.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-10T08:59:45Z",
+    "pushed_at": "2026-08-10T08:58:52Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
+  }
+]
