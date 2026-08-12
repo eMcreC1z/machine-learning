@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.46,
+    "seconds": 2.46,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-08-02"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.31,
+    "seconds": 3.38,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-08-02"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.3,
+    "seconds": 2.39,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-08-02"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.24,
+    "seconds": 2.18,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-08-02"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.3,
+    "seconds": 2.38,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-08-02"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.34,
+    "seconds": 2.25,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-08-02"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.28,
+    "seconds": 2.43,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-08-02"
   },
   {
@@ -68,17 +68,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.75,
+    "seconds": 1.96,
     "repo": "K-Dense-AI/scientific-agent-skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.01,
-    "repo": "ai-boost/awesome-prompts"
   },
   {
     "source": "github_readme",
@@ -86,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.93,
+    "seconds": 2.14,
     "repo": "r0f1/datascience"
   },
   {
@@ -95,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.81,
+    "seconds": 1.71,
     "repo": "QData/TextAttack"
   },
   {
@@ -104,8 +95,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.03,
+    "seconds": 2.41,
     "repo": "ai4s-research/awesome-ai-for-science"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/open-edge-platform/geti/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.72,
+    "repo": "open-edge-platform/geti"
   },
   {
     "source": "github_readme",
@@ -113,17 +113,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.08,
+    "seconds": 2.59,
     "repo": "liliu-avril/Awesome-Segment-Anything"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/GPTomics/bioSkills/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.81,
-    "repo": "GPTomics/bioSkills"
   },
   {
     "source": "github_readme",
@@ -131,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.13,
+    "seconds": 2.61,
     "repo": "lixus7/Time-Series-Works-Conferences"
   },
   {
@@ -140,8 +131,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.16,
+    "seconds": 2.71,
     "repo": "superiorlu/AITreasureBox"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/best-of-ai/best-of-ai/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.97,
+    "repo": "best-of-ai/best-of-ai"
   },
   {
     "source": "github_readme",
@@ -149,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.01,
+    "seconds": 2.32,
     "repo": "trackawesomelist/trackawesomelist"
   },
   {
@@ -158,8 +158,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.9,
+    "seconds": 8.21,
     "repo": "UKGovernmentBEIS/inspect_evals"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/openbiox/awosome-bioinformatics/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.98,
+    "repo": "openbiox/awosome-bioinformatics"
   },
   {
     "source": "github_readme",
@@ -167,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.91,
+    "seconds": 1.87,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -176,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.08,
+    "seconds": 2.31,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -185,17 +194,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.02,
+    "seconds": 2.26,
     "repo": "xiejhhhhhh/Draftpaper_loop"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/Jianqiuer/Awesome6DPoseEstimation/readme",
+    "url": "https://api.github.com/repos/hongbo-miao/hongbomiao.com/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.61,
-    "repo": "Jianqiuer/Awesome6DPoseEstimation"
+    "seconds": 2.33,
+    "repo": "hongbo-miao/hongbomiao.com"
   },
   {
     "source": "github_readme",
@@ -203,7 +212,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.73,
+    "seconds": 1.58,
     "repo": "kaapana/kaapana"
   },
   {
@@ -212,17 +221,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.89,
+    "seconds": 2.02,
     "repo": "Aperivue/medsci-skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ImagingDataCommons/highdicom/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.58,
-    "repo": "ImagingDataCommons/highdicom"
   },
   {
     "source": "pubmed_esearch",
@@ -230,15 +230,15 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.96
+    "seconds": 1.98
   },
   {
     "source": "pubmed_esummary",
-    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42579819%2C42579793%2C42579765%2C42579710%2C42579673%2C42579647%2C42579533%2C42579390%2C42579258%2C42579243%2C42579081%2C42579049%2C42578939%2C42578845%2C42578725%2C42578661%2C42578588%2C42578583%2C42578573%2C42578425%2C42578314%2C42578243%2C42578188%2C42577948%2C42577893%2C42577878%2C42577804%2C42577758%2C42577749%2C42577662%2C42577478%2C42577284%2C42577011%2C42576812%2C42576786%2C42576782%2C42576778%2C42576772%2C42576745%2C42576710",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42581000%2C42580955%2C42580934%2C42580838%2C42580818%2C42580813%2C42580755%2C42580688%2C42580665%2C42580625%2C42580598%2C42580549%2C42580524%2C42580478%2C42580373%2C42580240%2C42580203%2C42580173%2C42580160%2C42580155%2C42580055%2C42580019%2C42579978%2C42579905%2C42579883%2C42579819%2C42579793%2C42579765%2C42579710%2C42579673%2C42579647%2C42579533%2C42579390%2C42579258%2C42579243%2C42579081%2C42579049%2C42578939%2C42578845%2C42578725",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.52
+    "seconds": 2.06
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 30.62
+    "seconds": 3.07
   }
 ]
