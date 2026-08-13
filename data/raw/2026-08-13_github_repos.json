@@ -1,5 +1,52 @@
 [
   {
+    "full_name": "Niketkumardheeryan/ML-CaPsule",
+    "name": "ML-CaPsule",
+    "url": "https://github.com/Niketkumardheeryan/ML-CaPsule",
+    "description": "ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.",
+    "language": "Jupyter Notebook",
+    "stars": 684,
+    "forks": 749,
+    "open_issues": 536,
+    "updated_at": "2026-08-13T05:02:37Z",
+    "pushed_at": "2026-08-13T05:02:32Z",
+    "topics": [
+      "analytics",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deep-neural-networks",
+      "deployment",
+      "flask",
+      "heroku-deployment",
+      "machine-learning",
+      "python",
+      "r",
+      "statistics",
+      "streamlit-webapp"
+    ],
+    "application_area": "医学影像",
+    "score": 29.46,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "disease",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
     "full_name": "r0f1/datascience",
     "name": "datascience",
     "url": "https://github.com/r0f1/datascience",
@@ -47,10 +94,10 @@
     "url": "https://github.com/ai4s-research/awesome-ai-for-science",
     "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
     "language": "",
-    "stars": 1865,
+    "stars": 1866,
     "forks": 219,
     "open_issues": 27,
-    "updated_at": "2026-08-13T00:00:38Z",
+    "updated_at": "2026-08-13T04:05:37Z",
     "pushed_at": "2026-08-12T22:44:01Z",
     "topics": [
       "ai-for-science",
@@ -78,102 +125,16 @@
     }
   },
   {
-    "full_name": "open-edge-platform/geti",
-    "name": "geti",
-    "url": "https://github.com/open-edge-platform/geti",
-    "description": "Build computer vision models in a fraction of the time and with less data.",
-    "language": "Python",
-    "stars": 1285,
-    "forks": 473,
-    "open_issues": 148,
-    "updated_at": "2026-08-13T02:18:58Z",
-    "pushed_at": "2026-08-12T18:34:02Z",
-    "topics": [
-      "automl",
-      "computer-vision",
-      "deep-learning",
-      "geti",
-      "image-classification",
-      "image-segmentation",
-      "incremental-learning",
-      "machine-learning",
-      "neural-networks-compression",
-      "object-detection",
-      "openvino",
-      "pytorch",
-      "quantization",
-      "self-supervised-learning",
-      "semi-supervised-learning",
-      "transfer-learning"
-    ],
-    "application_area": "医学影像",
-    "score": 26.65,
-    "evidence_terms": {
-      "ml": [
-        "deep learning",
-        "computer vision"
-      ],
-      "medical": [
-        "medical",
-        "imaging"
-      ]
-    }
-  },
-  {
-    "full_name": "mims-harvard/ToolUniverse",
-    "name": "ToolUniverse",
-    "url": "https://github.com/mims-harvard/ToolUniverse",
-    "description": "Democratizing AI scientists with ToolUniverse",
-    "language": "Python",
-    "stars": 1624,
-    "forks": 246,
-    "open_issues": 23,
-    "updated_at": "2026-08-12T22:34:21Z",
-    "pushed_at": "2026-08-12T23:42:54Z",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "ai-communication",
-      "ai-for-science",
-      "ai-scientists",
-      "automated-science",
-      "autonomous-agents",
-      "co-pilot",
-      "co-scientist",
-      "llms",
-      "lrm",
-      "mcp-servers",
-      "reasoning-agent",
-      "reasoning-language-models",
-      "scientific-skill",
-      "tool-use"
-    ],
-    "application_area": "病理与组学",
-    "score": 26.63,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "large language model"
-      ],
-      "medical": [
-        "diagnosis",
-        "omics",
-        "disease",
-        "cancer"
-      ]
-    }
-  },
-  {
     "full_name": "NVIDIA/skills",
     "name": "skills",
     "url": "https://github.com/NVIDIA/skills",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "language": "Python",
-    "stars": 2877,
+    "stars": 2880,
     "forks": 335,
-    "open_issues": 15,
-    "updated_at": "2026-08-13T02:01:20Z",
-    "pushed_at": "2026-08-13T00:50:09Z",
+    "open_issues": 16,
+    "updated_at": "2026-08-13T06:40:28Z",
+    "pushed_at": "2026-08-13T02:57:44Z",
     "topics": [
       "agent-skills",
       "agentic-ai",
@@ -214,7 +175,7 @@
     "pushed_at": "2026-08-10T08:21:22Z",
     "topics": [],
     "application_area": "医学影像",
-    "score": 24.63,
+    "score": 24.49,
     "evidence_terms": {
       "ml": [
         "artificial intelligence",
@@ -224,6 +185,42 @@
       "medical": [
         "medical",
         "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 274,
+    "forks": 65,
+    "open_issues": 7,
+    "updated_at": "2026-08-10T13:32:33Z",
+    "pushed_at": "2026-08-12T16:12:04Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 24.2,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
       ]
     }
   },
@@ -334,58 +331,120 @@
     }
   },
   {
-    "full_name": "ratschlab/DeepSpot",
-    "name": "DeepSpot",
-    "url": "https://github.com/ratschlab/DeepSpot",
-    "description": "DeepSpot: Deep learning model for predicting spatial transcriptomics from H&E histopathology images. Supports spot-level (Visium) and single-cell (Xenium) resolution.",
-    "language": "Jupyter Notebook",
-    "stars": 92,
-    "forks": 20,
-    "open_issues": 0,
-    "updated_at": "2026-08-12T09:52:27Z",
-    "pushed_at": "2026-08-12T09:29:42Z",
+    "full_name": "Aperivue/medsci-skills",
+    "name": "medsci-skills",
+    "url": "https://github.com/Aperivue/medsci-skills",
+    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+    "language": "Python",
+    "stars": 248,
+    "forks": 61,
+    "open_issues": 7,
+    "updated_at": "2026-08-13T00:23:31Z",
+    "pushed_at": "2026-08-12T10:22:22Z",
     "topics": [
-      "bioinformatics",
-      "cancer-research",
-      "computational-pathology",
-      "deep-learning",
-      "digital-pathology",
-      "foundation-models",
-      "gene-expression",
-      "histopathology",
-      "machine-learning",
-      "pathology",
-      "pytorch",
-      "single-cell",
-      "spatial-biology",
-      "spatial-transcriptomics",
-      "visium",
-      "xenium"
+      "agent-skills",
+      "biostatistics",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "codex",
+      "cursor",
+      "diagnostic-accuracy",
+      "irb-protocol",
+      "literature-review",
+      "manuscript",
+      "medical-ai",
+      "medical-research",
+      "meta-analysis",
+      "physician-researcher",
+      "prisma",
+      "pubmed",
+      "radiology",
+      "reporting-guidelines",
+      "systematic-review"
     ],
-    "application_area": "病理与组学",
-    "score": 19.06
+    "application_area": "医学影像",
+    "score": 23.07,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging"
+      ]
+    }
   },
   {
-    "full_name": "GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
-    "name": "Patient-EHR-Graph-Representation-for-Multi-task-Learning",
-    "url": "https://github.com/GinHikat/Patient-EHR-Graph-Representation-for-Multi-task-Learning",
-    "description": "A research project that constructs a structured Knowledge Graph from patient Electronic Health Records (EHR) and medical ontologies, and exposes it through a full-stack web application for interactive graph exploration.",
+    "full_name": "faridrashidi/cnsplots",
+    "name": "cnsplots",
+    "url": "https://github.com/faridrashidi/cnsplots",
+    "description": "🎨 Toolkit for generating publication-quality plots for Cell, Nature and Science journals",
     "language": "Python",
-    "stars": 6,
-    "forks": 0,
+    "stars": 623,
+    "forks": 67,
     "open_issues": 0,
-    "updated_at": "2026-08-13T02:21:07Z",
-    "pushed_at": "2026-08-13T02:21:04Z",
+    "updated_at": "2026-08-13T04:41:18Z",
+    "pushed_at": "2026-08-13T04:48:02Z",
     "topics": [
-      "fastapi",
-      "graph-database",
-      "medical-informatics",
-      "nlp",
-      "react",
-      "time-series"
+      "data-science",
+      "data-visualization",
+      "plotting",
+      "publication-quality",
+      "python",
+      "scientific-publications"
     ],
     "application_area": "临床预测",
-    "score": 10.98
+    "score": 22.33,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "genomics",
+        "omics",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "pavanbadempet/AI-Healthcare-System",
+    "name": "AI-Healthcare-System",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System",
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and FastAPI Clinical Architecture.",
+    "language": "Python",
+    "stars": 40,
+    "forks": 14,
+    "open_issues": 24,
+    "updated_at": "2026-08-13T06:35:02Z",
+    "pushed_at": "2026-08-13T06:34:58Z",
+    "topics": [
+      "agent-framework",
+      "apache-airflow",
+      "clinical-decision-support",
+      "clinical-intelligence",
+      "delta-lake",
+      "ehr",
+      "fastapi",
+      "fhir",
+      "healthcare",
+      "hipaa",
+      "hipaa-compliant",
+      "hl7-fhir",
+      "hospital-management",
+      "langgraph",
+      "machine-learning",
+      "medical-ai",
+      "mlops",
+      "ollama",
+      "pyspark",
+      "react"
+    ],
+    "application_area": "临床预测",
+    "score": 15.82
   },
   {
     "full_name": "Mehwish55/Cancer_Biomarker_Discovery_Platform",
@@ -412,20 +471,5 @@
     ],
     "application_area": "病理与组学",
     "score": 7.31
-  },
-  {
-    "full_name": "abdulrahmanjamal72/MedicalSystem",
-    "name": "MedicalSystem",
-    "url": "https://github.com/abdulrahmanjamal72/MedicalSystem",
-    "description": "An AI-powered healthcare system that predicts potential diseases based on medical data/symptoms and routes patients to the appropriate medical specialist. Developed as a final project for the NTI Machine Learning Training.",
-    "language": "Jupyter Notebook",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "updated_at": "2026-08-13T01:45:43Z",
-    "pushed_at": "2026-08-13T01:45:40Z",
-    "topics": [],
-    "application_area": "综合医学机器学习",
-    "score": 6.0
   }
 ]

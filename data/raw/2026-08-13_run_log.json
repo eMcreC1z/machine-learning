@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.53,
+    "seconds": 12.56,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-08-03"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.25,
+    "seconds": 1.26,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-08-03"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.28,
+    "seconds": 12.51,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-08-03"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.27,
+    "seconds": 1.29,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-08-03"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.26,
+    "seconds": 12.39,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-08-03"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.4,
+    "seconds": 1.34,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-08-03"
   },
   {
@@ -64,38 +64,11 @@
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/rust-unofficial/awesome-rust/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.12,
-    "repo": "rust-unofficial/awesome-rust"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/PyO3/pyo3/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.71,
-    "repo": "PyO3/pyo3"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.04,
-    "repo": "ai-boost/awesome-prompts"
-  },
-  {
-    "source": "github_readme",
     "url": "https://api.github.com/repos/r0f1/datascience/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.91,
+    "seconds": 12.07,
     "repo": "r0f1/datascience"
   },
   {
@@ -104,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.0,
+    "seconds": 1.05,
     "repo": "alvinreal/awesome-opensource-ai"
   },
   {
@@ -113,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.79,
+    "seconds": 0.87,
     "repo": "QData/TextAttack"
   },
   {
@@ -122,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.79,
+    "seconds": 0.8,
     "repo": "NVIDIA/skills"
   },
   {
@@ -136,39 +109,12 @@
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/mims-harvard/ToolUniverse/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.71,
-    "repo": "mims-harvard/ToolUniverse"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/open-edge-platform/geti/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.78,
-    "repo": "open-edge-platform/geti"
-  },
-  {
-    "source": "github_readme",
     "url": "https://api.github.com/repos/liliu-avril/Awesome-Segment-Anything/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.13,
+    "seconds": 1.34,
     "repo": "liliu-avril/Awesome-Segment-Anything"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/abubakarsiddik31/claude-skills-collection/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.84,
-    "repo": "abubakarsiddik31/claude-skills-collection"
   },
   {
     "source": "github_readme",
@@ -185,17 +131,26 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.03,
+    "seconds": 1.02,
     "repo": "EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/liutaocode/TTS-arxiv-daily/readme",
+    "url": "https://api.github.com/repos/Niketkumardheeryan/ML-CaPsule/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.19,
-    "repo": "liutaocode/TTS-arxiv-daily"
+    "seconds": 6.83,
+    "repo": "Niketkumardheeryan/ML-CaPsule"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/trackawesomelist/trackawesomelist/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.01,
+    "repo": "trackawesomelist/trackawesomelist"
   },
   {
     "source": "github_readme",
@@ -203,8 +158,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.94,
+    "seconds": 0.92,
     "repo": "UKGovernmentBEIS/inspect_evals"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/faridrashidi/cnsplots/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.79,
+    "repo": "faridrashidi/cnsplots"
   },
   {
     "source": "github_readme",
@@ -212,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.97,
+    "seconds": 1.07,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -221,8 +185,44 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.2,
+    "seconds": 1.22,
     "repo": "zezhishao/DailyArXiv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/xiejhhhhhh/Draftpaper_loop/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.31,
+    "repo": "xiejhhhhhh/Draftpaper_loop"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/hongbo-miao/hongbomiao.com/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 4.97,
+    "repo": "hongbo-miao/hongbomiao.com"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/kaapana/kaapana/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.73,
+    "repo": "kaapana/kaapana"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Aperivue/medsci-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.95,
+    "repo": "Aperivue/medsci-skills"
   },
   {
     "source": "pubmed_esearch",
@@ -230,15 +230,15 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.0
+    "seconds": 1.31
   },
   {
     "source": "pubmed_esummary",
-    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42585623%2C42585607%2C42585572%2C42585534%2C42585456%2C42585279%2C42585202%2C42585173%2C42585069%2C42585053%2C42585046%2C42584829%2C42584731%2C42584723%2C42584675%2C42584531%2C42584423%2C42584410%2C42584409%2C42584251%2C42584103%2C42584099%2C42584018%2C42583797%2C42583735%2C42583273%2C42583084%2C42583045%2C42582841%2C42582818%2C42582799%2C42582721%2C42582658%2C42582542%2C42582121%2C42581815%2C42581805%2C42581721%2C42581485%2C42581438",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42586902%2C42586897%2C42586895%2C42586857%2C42586572%2C42586518%2C42586503%2C42586461%2C42586438%2C42586415%2C42586400%2C42586397%2C42586373%2C42586352%2C42586338%2C42586231%2C42586166%2C42586156%2C42586149%2C42586055%2C42585992%2C42585990%2C42585970%2C42585888%2C42585834%2C42585777%2C42585730%2C42585623%2C42585607%2C42585572%2C42585534%2C42585456%2C42585279%2C42585202%2C42585173%2C42585069%2C42585053%2C42585046%2C42584829%2C42584731",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.73
+    "seconds": 2.74
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 14.81
+    "seconds": 13.7
   }
 ]
