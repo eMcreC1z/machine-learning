@@ -1,0 +1,62 @@
+[
+  {
+    "full_name": "pearson-laboratory/slideflow-tutorials",
+    "name": "slideflow-tutorials",
+    "url": "https://github.com/pearson-laboratory/slideflow-tutorials",
+    "description": "Jupyter Notebook walkthroughs and tutorials for deep learning digital pathology library Slideflow",
+    "language": "Jupyter Notebook",
+    "stars": 9,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-20T21:50:19Z",
+    "pushed_at": "2026-08-20T21:50:11Z",
+    "topics": [],
+    "application_area": "病理与组学",
+    "score": 10.8
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 16,
+    "updated_at": "2026-08-21T02:11:32Z",
+    "pushed_at": "2026-08-21T02:11:26Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.18
+  },
+  {
+    "full_name": "SharmisthaDebgoswami/Machine-Learning-Based-Classification-and-Biomarker-Discovery-in-Triple-Negative-Breast-Cancer-TNBC",
+    "name": "Machine-Learning-Based-Classification-and-Biomarker-Discovery-in-Triple-Negative-Breast-Cancer-TNBC",
+    "url": "https://github.com/SharmisthaDebgoswami/Machine-Learning-Based-Classification-and-Biomarker-Discovery-in-Triple-Negative-Breast-Cancer-TNBC",
+    "description": "A computational framework integrating transcriptomic analysis, differential gene expression, protein–protein interaction networks, hub gene identification, survival analysis, machine learning, and Explainable AI for prognostic biomarker discovery in Triple-Negative Breast Cancer.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-20T20:33:49Z",
+    "pushed_at": "2026-08-20T20:30:34Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
+  },
+  {
+    "full_name": "jeremykid/jeremykid",
+    "name": "jeremykid",
+    "url": "https://github.com/jeremykid/jeremykid",
+    "description": "Clinical AI and applied machine learning research",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-19T22:41:42Z",
+    "pushed_at": "2026-08-19T22:41:30Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 5.86
+  }
+]
