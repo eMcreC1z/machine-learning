@@ -1,0 +1,411 @@
+[
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1219,
+    "forks": 146,
+    "open_issues": 7,
+    "updated_at": "2026-08-21T10:28:38Z",
+    "pushed_at": "2026-08-19T17:31:10Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 34.0,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "seandavi/awesome-single-cell",
+    "name": "awesome-single-cell",
+    "url": "https://github.com/seandavi/awesome-single-cell",
+    "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
+    "language": "",
+    "stars": 3836,
+    "forks": 1088,
+    "open_issues": 11,
+    "updated_at": "2026-08-21T19:10:35Z",
+    "pushed_at": "2026-08-21T19:10:24Z",
+    "topics": [
+      "analysis-pipeline",
+      "atac-seq",
+      "awesome-list",
+      "bioinformatics",
+      "cell-clusters",
+      "cell-differentiation",
+      "cell-populations",
+      "clustering",
+      "data-integration",
+      "data-visualization",
+      "dimensionality-reduction",
+      "gene-expression",
+      "gene-expression-profiles",
+      "python",
+      "rna-seq-data",
+      "rna-seq-experiments",
+      "scrna-seq-data",
+      "single-cell",
+      "spatial-transcriptomics"
+    ],
+    "application_area": "医学影像",
+    "score": 28.09,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 401,
+    "forks": 55,
+    "open_issues": 28,
+    "updated_at": "2026-08-20T20:58:50Z",
+    "pushed_at": "2026-08-14T17:01:33Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.5,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 545,
+    "forks": 111,
+    "open_issues": 16,
+    "updated_at": "2026-08-21T19:30:36Z",
+    "pushed_at": "2026-08-21T14:18:47Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.42,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3054,
+    "forks": 355,
+    "open_issues": 14,
+    "updated_at": "2026-08-21T22:34:11Z",
+    "pushed_at": "2026-08-21T22:07:27Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.37,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "albumentations-team/AlbumentationsX",
+    "name": "AlbumentationsX",
+    "url": "https://github.com/albumentations-team/AlbumentationsX",
+    "description": "Next-generation Albumentations: dual-licensed for open-source and commercial use",
+    "language": "Python",
+    "stars": 535,
+    "forks": 40,
+    "open_issues": 63,
+    "updated_at": "2026-08-21T23:55:32Z",
+    "pushed_at": "2026-08-21T17:58:30Z",
+    "topics": [
+      "3d",
+      "augmentation",
+      "bounding-box",
+      "computer-vision",
+      "data-augmentation",
+      "deep-learning",
+      "deeplearning",
+      "image-augmentation",
+      "image-classification",
+      "image-processing",
+      "image-segmentations",
+      "instance-segmentation",
+      "keypoint-detection",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "python",
+      "pytorch",
+      "segmentation",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 25.34,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1214,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-08-21T17:19:02Z",
+    "pushed_at": "2026-08-21T07:51:01Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 455,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-08-21T17:48:42Z",
+    "pushed_at": "2026-08-21T17:48:05Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.81,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 416,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-08-20T14:17:23Z",
+    "pushed_at": "2026-08-20T14:11:02Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 22.36,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "pathology",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 15,
+    "updated_at": "2026-08-21T21:10:36Z",
+    "pushed_at": "2026-08-21T21:06:20Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.18
+  },
+  {
+    "full_name": "Pirate-Hunter-Zoro/TRD-EHR",
+    "name": "TRD-EHR",
+    "url": "https://github.com/Pirate-Hunter-Zoro/TRD-EHR",
+    "description": "This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.",
+    "language": "Jupyter Notebook",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-22T01:01:11Z",
+    "pushed_at": "2026-08-22T01:00:45Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 9.51
+  },
+  {
+    "full_name": "SharmisthaDebgoswami/Machine-Learning-Based-Classification-and-Biomarker-Discovery-in-Triple-Negative-Breast-Cancer-TNBC",
+    "name": "Machine-Learning-Based-Classification-and-Biomarker-Discovery-in-Triple-Negative-Breast-Cancer-TNBC",
+    "url": "https://github.com/SharmisthaDebgoswami/Machine-Learning-Based-Classification-and-Biomarker-Discovery-in-Triple-Negative-Breast-Cancer-TNBC",
+    "description": "A computational framework integrating transcriptomic analysis, differential gene expression, protein–protein interaction networks, hub gene identification, survival analysis, machine learning, and Explainable AI for prognostic biomarker discovery in Triple-Negative Breast Cancer.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-20T20:33:49Z",
+    "pushed_at": "2026-08-20T20:30:34Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.46
+  },
+  {
+    "full_name": "Sargam20/TrailMatch",
+    "name": "TrailMatch",
+    "url": "https://github.com/Sargam20/TrailMatch",
+    "description": "TrialMatch securely matches anonymized patient records with clinical trials using NLP and Machine Learning. It evaluates eligibility, ranks suitable trials, and provides explainable AI insights to accelerate clinical research recruitment while ensuring complete patient privacy.",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-21T20:34:34Z",
+    "pushed_at": "2026-08-21T20:34:08Z",
+    "topics": [],
+    "application_area": "临床文本与大模型",
+    "score": 6.8
+  },
+  {
+    "full_name": "Kunalbhaspale/Bioinformatics-Machine-learning-project",
+    "name": "Bioinformatics-Machine-learning-project",
+    "url": "https://github.com/Kunalbhaspale/Bioinformatics-Machine-learning-project",
+    "description": "A Bioinformatics and Machine Learning Approach for Differential Gene Expression Analysis, Biomarker Identification and Cancer Stage Classification in Breast Cancer",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-21T11:52:39Z",
+    "pushed_at": "2026-08-21T11:50:40Z",
+    "topics": [],
+    "application_area": "药物与转化",
+    "score": 6.8
+  }
+]
