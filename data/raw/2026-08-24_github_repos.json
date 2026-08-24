@@ -1,0 +1,307 @@
+[
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1220,
+    "forks": 146,
+    "open_issues": 7,
+    "updated_at": "2026-08-22T23:53:38Z",
+    "pushed_at": "2026-08-19T17:31:10Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 33.85,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8629,
+    "forks": 1605,
+    "open_issues": 528,
+    "updated_at": "2026-08-24T00:54:36Z",
+    "pushed_at": "2026-08-23T23:59:16Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.75,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "mlmed/torchxrayvision",
+    "name": "torchxrayvision",
+    "url": "https://github.com/mlmed/torchxrayvision",
+    "description": "TorchXRayVision: A library of chest X-ray datasets and models. Classifiers, segmentation, and autoencoders.",
+    "language": "Jupyter Notebook",
+    "stars": 1184,
+    "forks": 256,
+    "open_issues": 33,
+    "updated_at": "2026-08-23T17:54:31Z",
+    "pushed_at": "2026-08-23T17:53:52Z",
+    "topics": [
+      "chest-radiographs",
+      "chest-xray",
+      "chest-xray-images",
+      "cxr",
+      "cxr-images",
+      "dataset",
+      "deep-learning",
+      "foundation-models",
+      "image-classification",
+      "machine-learning",
+      "medical",
+      "medical-ai",
+      "medical-application",
+      "medical-image-analysis",
+      "medical-image-processing",
+      "medical-imaging",
+      "pytorch",
+      "torchxrayvision",
+      "transfer-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 28.31,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1897,
+    "forks": 223,
+    "open_issues": 29,
+    "updated_at": "2026-08-23T20:20:19Z",
+    "pushed_at": "2026-08-23T20:17:56Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.84,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1215,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-08-23T07:04:25Z",
+    "pushed_at": "2026-08-23T07:04:21Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 550,
+    "forks": 60,
+    "open_issues": 2,
+    "updated_at": "2026-08-23T07:33:00Z",
+    "pushed_at": "2026-08-22T03:04:51Z",
+    "topics": [
+      "ai-virtual-cell",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.64,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 455,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-08-21T17:48:42Z",
+    "pushed_at": "2026-08-21T17:48:05Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.52,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 9,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-08-23T20:38:13Z",
+    "pushed_at": "2026-08-23T20:38:08Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.65
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 20,
+    "updated_at": "2026-08-23T20:41:45Z",
+    "pushed_at": "2026-08-23T20:41:45Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.18
+  },
+  {
+    "full_name": "aycaaozturk/AML-project",
+    "name": "AML-project",
+    "url": "https://github.com/aycaaozturk/AML-project",
+    "description": "Development of AI-based digital twins for Acute Myeloid Leukemia (AML) using clinical patient data, incorporating data preprocessing, survival analysis, and machine learning to enable personalized prognosis and precision medicine.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "updated_at": "2026-08-23T11:02:09Z",
+    "pushed_at": "2026-08-23T11:01:39Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 8.05
+  }
+]
