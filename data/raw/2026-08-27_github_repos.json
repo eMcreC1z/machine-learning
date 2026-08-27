@@ -1,31 +1,5 @@
 [
   {
-    "full_name": "josephmisiti/awesome-machine-learning",
-    "name": "awesome-machine-learning",
-    "url": "https://github.com/josephmisiti/awesome-machine-learning",
-    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
-    "language": "Python",
-    "stars": 74172,
-    "forks": 15630,
-    "open_issues": 28,
-    "updated_at": "2026-08-26T21:22:36Z",
-    "pushed_at": "2026-08-26T21:09:24Z",
-    "topics": [],
-    "application_area": "医学影像",
-    "score": 35.57,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "deep learning",
-        "neural network",
-        "computer vision"
-      ],
-      "medical": [
-        "survival"
-      ]
-    }
-  },
-  {
     "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
     "name": "Awesome-AI-Agents-for-Healthcare",
     "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
@@ -57,42 +31,6 @@
         "patient",
         "diagnosis",
         "radiology"
-      ]
-    }
-  },
-  {
-    "full_name": "ai4s-research/awesome-ai-for-science",
-    "name": "awesome-ai-for-science",
-    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
-    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
-    "language": "",
-    "stars": 1912,
-    "forks": 227,
-    "open_issues": 30,
-    "updated_at": "2026-08-26T18:57:55Z",
-    "pushed_at": "2026-08-26T08:50:24Z",
-    "topics": [
-      "ai-for-science",
-      "ai4s",
-      "ai4science",
-      "awesome",
-      "awesome-list",
-      "bioinformatics",
-      "scientific-ai"
-    ],
-    "application_area": "医学影像",
-    "score": 27.86,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "llm",
-        "nlp"
-      ],
-      "medical": [
-        "medical",
-        "medicine",
-        "clinical",
-        "omics"
       ]
     }
   },
@@ -178,92 +116,6 @@
     }
   },
   {
-    "full_name": "AspirinCode/papers-for-molecular-design-using-DL",
-    "name": "papers-for-molecular-design-using-DL",
-    "url": "https://github.com/AspirinCode/papers-for-molecular-design-using-DL",
-    "description": "List of Molecular and Material design using Generative AI and Deep Learning",
-    "language": "",
-    "stars": 950,
-    "forks": 119,
-    "open_issues": 0,
-    "updated_at": "2026-08-26T14:07:52Z",
-    "pushed_at": "2026-08-26T14:01:29Z",
-    "topics": [
-      "deep-generative-models",
-      "diffusion",
-      "drug-design",
-      "energy-based-model",
-      "gan",
-      "generative-ai",
-      "gnns",
-      "lstm",
-      "material-design",
-      "molecular-design",
-      "prompt-learning",
-      "reinforcement-learning",
-      "rnn",
-      "score-based-generative-models",
-      "transformer",
-      "vae"
-    ],
-    "application_area": "临床文本与大模型",
-    "score": 26.63,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "deep learning",
-        "artificial intelligence",
-        "large language model",
-        "llm"
-      ],
-      "medical": [
-        "omics"
-      ]
-    }
-  },
-  {
-    "full_name": "TissueImageAnalytics/tiatoolbox",
-    "name": "tiatoolbox",
-    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
-    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
-    "language": "Python",
-    "stars": 545,
-    "forks": 111,
-    "open_issues": 16,
-    "updated_at": "2026-08-26T12:03:21Z",
-    "pushed_at": "2026-08-26T13:28:35Z",
-    "topics": [
-      "cell-classification",
-      "cell-segmentation",
-      "computational-pathology",
-      "deep-learning",
-      "digital-pathology",
-      "histopathology",
-      "image-analysis",
-      "machine-learning",
-      "medical-image-analysis",
-      "python",
-      "stain-normalization",
-      "tissue-analysis",
-      "tissue-segmentation",
-      "whole-slide-imaging"
-    ],
-    "application_area": "医学影像",
-    "score": 26.42,
-    "evidence_terms": {
-      "ml": [
-        "deep learning"
-      ],
-      "medical": [
-        "medical",
-        "medicine",
-        "clinical",
-        "imaging",
-        "pathology"
-      ]
-    }
-  },
-  {
     "full_name": "liliu-avril/Awesome-Segment-Anything",
     "name": "Awesome-Segment-Anything",
     "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
@@ -324,6 +176,42 @@
     }
   },
   {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 274,
+    "forks": 66,
+    "open_issues": 7,
+    "updated_at": "2026-08-26T18:31:07Z",
+    "pushed_at": "2026-08-26T18:48:54Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 24.5,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
     "full_name": "imteekay/machine-learning-research",
     "name": "machine-learning-research",
     "url": "https://github.com/imteekay/machine-learning-research",
@@ -353,6 +241,98 @@
       "medical": [
         "clinical",
         "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "Aperivue/medsci-skills",
+    "name": "medsci-skills",
+    "url": "https://github.com/Aperivue/medsci-skills",
+    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+    "language": "Python",
+    "stars": 269,
+    "forks": 65,
+    "open_issues": 6,
+    "updated_at": "2026-08-26T08:12:33Z",
+    "pushed_at": "2026-08-26T08:09:33Z",
+    "topics": [
+      "agent-skills",
+      "biostatistics",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "codex",
+      "cursor",
+      "diagnostic-accuracy",
+      "irb-protocol",
+      "literature-review",
+      "manuscript",
+      "medical-ai",
+      "medical-research",
+      "meta-analysis",
+      "physician-researcher",
+      "prisma",
+      "pubmed",
+      "radiology",
+      "reporting-guidelines",
+      "systematic-review"
+    ],
+    "application_area": "医学影像",
+    "score": 23.25,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "BiaPyX/BiaPy",
+    "name": "BiaPy",
+    "url": "https://github.com/BiaPyX/BiaPy",
+    "description": "Open source Python library for building bioimage analysis pipelines",
+    "language": "Jupyter Notebook",
+    "stars": 212,
+    "forks": 43,
+    "open_issues": 1,
+    "updated_at": "2026-08-26T14:48:36Z",
+    "pushed_at": "2026-08-26T14:31:05Z",
+    "topics": [
+      "biomedical-image-processing",
+      "classification",
+      "computer-vision",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "denoising",
+      "image-processing",
+      "image-segmentation",
+      "instance-segmentation",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "python",
+      "pytorch",
+      "segmentation",
+      "self-supervised-learning",
+      "semantic-segmentation",
+      "super-resolution"
+    ],
+    "application_area": "医学影像",
+    "score": 22.78,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "neural network"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
       ]
     }
   },
@@ -388,25 +368,31 @@
     }
   },
   {
-    "full_name": "liutaocode/TTS-arxiv-daily",
-    "name": "TTS-arxiv-daily",
-    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
-    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
-    "language": "Python",
-    "stars": 666,
-    "forks": 41,
-    "open_issues": 1,
-    "updated_at": "2026-08-26T12:40:21Z",
-    "pushed_at": "2026-08-26T12:30:51Z",
+    "full_name": "AI-in-Transportation-Lab/awesome-jepa",
+    "name": "awesome-jepa",
+    "url": "https://github.com/AI-in-Transportation-Lab/awesome-jepa",
+    "description": "A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Joint Embedding Predictive Architecture (JEPA).",
+    "language": "JavaScript",
+    "stars": 130,
+    "forks": 13,
+    "open_issues": 0,
+    "updated_at": "2026-08-26T06:33:11Z",
+    "pushed_at": "2026-08-26T01:35:57Z",
     "topics": [],
     "application_area": "医学影像",
-    "score": 20.53,
+    "score": 22.19,
     "evidence_terms": {
       "ml": [
+        "deep learning",
+        "foundation model",
         "llm"
       ],
       "medical": [
-        "medical"
+        "clinical",
+        "patient",
+        "radiology",
+        "imaging",
+        "ehr"
       ]
     }
   },
@@ -484,35 +470,5 @@
     "topics": [],
     "application_area": "医学影像",
     "score": 10.18
-  },
-  {
-    "full_name": "Pirate-Hunter-Zoro/TRD-EHR",
-    "name": "TRD-EHR",
-    "url": "https://github.com/Pirate-Hunter-Zoro/TRD-EHR",
-    "description": "This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.",
-    "language": "Jupyter Notebook",
-    "stars": 2,
-    "forks": 0,
-    "open_issues": 0,
-    "updated_at": "2026-08-26T22:13:23Z",
-    "pushed_at": "2026-08-26T22:09:50Z",
-    "topics": [],
-    "application_area": "临床预测",
-    "score": 9.51
-  },
-  {
-    "full_name": "Puneesh12/fedclin-nlp",
-    "name": "fedclin-nlp",
-    "url": "https://github.com/Puneesh12/fedclin-nlp",
-    "description": "Privacy-preserving Federated Clinical NLP platform for multi-hospital EHR summarization, NER, and clinical triage using FedAvg.",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "updated_at": "2026-08-26T22:59:45Z",
-    "pushed_at": "2026-08-26T22:17:03Z",
-    "topics": [],
-    "application_area": "临床预测",
-    "score": 7.6
   }
 ]

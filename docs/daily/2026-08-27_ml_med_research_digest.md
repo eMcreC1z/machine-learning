@@ -1,37 +1,40 @@
 # 医学机器学习自动整理日报 - 2026-08-27
 
-> 自动采集时间：2026-08-27 09:18:41。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-08-27 09:34:09。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：18 个
+- GitHub 项目候选：15 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：4 篇
-- 采集异常来源：1 个
+- 采集异常来源：4 个
 
 ## 采集限制
 
-- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: HTTP 403: {"message":"API rate limit exceeded for 125.37.178.202. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more d...
+- github: HTTP 403: {"message":"API rate limit exceeded for 125.37.178.202. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more d...
+- github: HTTP 403: {"message":"API rate limit exceeded for 125.37.178.202. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more d...
+- github: HTTP 403: {"message":"API rate limit exceeded for 125.37.178.202. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more d...
 
 ## 优先关注 GitHub 项目
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 74172 | 2026-08-26T21:22:36Z | 医学影像 | A curated list of awesome Machine Learning frameworks, libraries and software.；评分 35.57 |
-| 2 | [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) | 1231 | 2026-08-26T16:45:34Z | 医学影像 | Latest Advances on Agentic AI & AI Agents for Healthcare；评分 34.03 |
-| 3 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1912 | 2026-08-26T18:57:55Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
-| 4 | [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) | 402 | 2026-08-26T14:04:15Z | 医学影像 | A curated list of reproducible research case studies, projects, tutorials, and media；评分 27.66 |
-| 5 | [open-edge-platform/geti](https://github.com/open-edge-platform/geti) | 1318 | 2026-08-26T22:57:57Z | 医学影像 | Build, train, optimize, and run computer vision models locally, from raw images to live inference. Open source, with CPU, Intel XPU, and NVIDIA CUDA support.；评... |
-| 6 | [AspirinCode/papers-for-molecular-design-using-DL](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) | 950 | 2026-08-26T14:07:52Z | 临床文本与大模型 | List of Molecular and Material design using Generative AI and Deep Learning；评分 26.63 |
-| 7 | [TissueImageAnalytics/tiatoolbox](https://github.com/TissueImageAnalytics/tiatoolbox) | 545 | 2026-08-26T12:03:21Z | 医学影像 | Computational Pathology Toolbox developed by TIA Centre, University of Warwick.；评分 26.42 |
-| 8 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1216 | 2026-08-26T07:19:35Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.77 |
-| 9 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 554 | 2026-08-25T16:59:57Z | 病理与组学 | 近期活跃项目；评分 24.52 |
-| 10 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 455 | 2026-08-25T11:54:36Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.67 |
-| 11 | [fregu856/papers](https://github.com/fregu856/papers) | 416 | 2026-08-24T11:46:34Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).；评分 22.22 |
-| 12 | [liutaocode/TTS-arxiv-daily](https://github.com/liutaocode/TTS-arxiv-daily) | 666 | 2026-08-26T12:40:21Z | 医学影像 | Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)；评分 20.53 |
-| 13 | [dafne-imaging/dafne](https://github.com/dafne-imaging/dafne) | 22 | 2026-08-26T14:58:43Z | 医学影像 | Dafne (Deep Anatomical Federated Network) is a collaborative platform to annotate MRI images and train machine learning models without your data ever leaving y... |
-| 14 | [SaharStudios/LungCancerClassification](https://github.com/SaharStudios/LungCancerClassification) | 9 | 2026-08-26T23:50:42Z | 医学影像 | This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using St... |
-| 15 | [ANTsX/ANTsTorch](https://github.com/ANTsX/ANTsTorch) | 6 | 2026-08-27T00:58:19Z | 综合医学机器学习 | Pre-trained models and utilities for deep learning on medical images in PyTorch；评分 10.43 |
+| 1 | [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) | 1231 | 2026-08-26T16:45:34Z | 医学影像 | Latest Advances on Agentic AI & AI Agents for Healthcare；评分 34.03 |
+| 2 | [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) | 402 | 2026-08-26T14:04:15Z | 医学影像 | A curated list of reproducible research case studies, projects, tutorials, and media；评分 27.66 |
+| 3 | [open-edge-platform/geti](https://github.com/open-edge-platform/geti) | 1318 | 2026-08-26T22:57:57Z | 医学影像 | Build, train, optimize, and run computer vision models locally, from raw images to live inference. Open source, with CPU, Intel XPU, and NVIDIA CUDA support.；评... |
+| 4 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1216 | 2026-08-26T07:19:35Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.77 |
+| 5 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 554 | 2026-08-25T16:59:57Z | 病理与组学 | 近期活跃项目；评分 24.52 |
+| 6 | [kaapana/kaapana](https://github.com/kaapana/kaapana) | 274 | 2026-08-26T18:31:07Z | 医学影像 | Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflow... |
+| 7 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 455 | 2026-08-25T11:54:36Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.67 |
+| 8 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 269 | 2026-08-26T08:12:33Z | 医学影像 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Co... |
+| 9 | [BiaPyX/BiaPy](https://github.com/BiaPyX/BiaPy) | 212 | 2026-08-26T14:48:36Z | 医学影像 | Open source Python library for building bioimage analysis pipelines；评分 22.78 |
+| 10 | [fregu856/papers](https://github.com/fregu856/papers) | 416 | 2026-08-24T11:46:34Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).；评分 22.22 |
+| 11 | [AI-in-Transportation-Lab/awesome-jepa](https://github.com/AI-in-Transportation-Lab/awesome-jepa) | 130 | 2026-08-26T06:33:11Z | 医学影像 | A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Joint Embedding Predictive Architectu... |
+| 12 | [dafne-imaging/dafne](https://github.com/dafne-imaging/dafne) | 22 | 2026-08-26T14:58:43Z | 医学影像 | Dafne (Deep Anatomical Federated Network) is a collaborative platform to annotate MRI images and train machine learning models without your data ever leaving y... |
+| 13 | [SaharStudios/LungCancerClassification](https://github.com/SaharStudios/LungCancerClassification) | 9 | 2026-08-26T23:50:42Z | 医学影像 | This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using St... |
+| 14 | [ANTsX/ANTsTorch](https://github.com/ANTsX/ANTsTorch) | 6 | 2026-08-27T00:58:19Z | 综合医学机器学习 | Pre-trained models and utilities for deep learning on medical images in PyTorch；评分 10.43 |
+| 15 | [ruixv/NLOS_Overview](https://github.com/ruixv/NLOS_Overview) | 6 | 2026-08-26T14:35:06Z | 医学影像 | Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes；评分 10.18 |
 
 ## 高水平论文候选
 
@@ -60,20 +63,14 @@
 
 ## 医学研究应用整理
 
-### 临床文本与大模型
-
-- 可复用项目：[AspirinCode/papers-for-molecular-design-using-DL](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)，适合先看 README、数据要求、许可证和最近提交。
-- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
-
 ### 临床预测
 
-- 可复用项目：[Pirate-Hunter-Zoro/TRD-EHR](https://github.com/Pirate-Hunter-Zoro/TRD-EHR)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Integrating Environmental Exposure Profiles with Temporal Transcriptomics: An Explainable Machine Learning Model for Cardiovascular Disease Risk Prediction and Biological Validation.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 医学影像
 
-- 可复用项目：[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)，适合先看 README、数据要求、许可证和最近提交。
+- 可复用项目：[AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Recent advances in MR neuroimaging: toward quantitative and AI-driven brain and spinal cord imaging.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
@@ -109,33 +106,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=12.41
-- github: OK; status=200; seconds=1.36
-- github: FAILED; status=None; seconds=30.6
-- github: OK; status=200; seconds=1.34
-- github: OK; status=200; seconds=1.22
-- github: OK; status=200; seconds=1.3
-- github: OK; status=200; seconds=1.2
-- github_readme: OK; status=200; seconds=1.01
-- github_readme: OK; status=200; seconds=0.99
-- github_readme: OK; status=200; seconds=0.57
+- github: OK; status=200; seconds=1.33
+- github: OK; status=200; seconds=1.28
+- github: OK; status=200; seconds=1.25
+- github: FAILED; status=403; seconds=0.32
+- github: FAILED; status=403; seconds=0.32
+- github: FAILED; status=403; seconds=0.31
+- github: FAILED; status=403; seconds=0.32
+- github_readme: OK; status=200; seconds=0.68
+- github_readme: OK; status=200; seconds=1.06
+- github_readme: OK; status=200; seconds=1.02
 - github_readme: OK; status=200; seconds=1.05
-- github_readme: OK; status=200; seconds=0.7
-- github_readme: OK; status=200; seconds=0.98
+- github_readme: OK; status=200; seconds=0.78
+- github_readme: OK; status=200; seconds=0.92
+- github_readme: OK; status=200; seconds=1.12
+- github_readme: OK; status=200; seconds=0.61
+- github_readme: OK; status=200; seconds=1.09
 - github_readme: OK; status=200; seconds=1.0
-- github_readme: OK; status=200; seconds=1.09
+- github_readme: OK; status=200; seconds=1.29
+- github_readme: OK; status=200; seconds=1.73
+- github_readme: OK; status=200; seconds=0.87
+- github_readme: OK; status=200; seconds=0.77
+- github_readme: OK; status=200; seconds=0.9
 - github_readme: OK; status=200; seconds=1.07
-- github_readme: OK; status=200; seconds=1.14
-- github_readme: OK; status=200; seconds=0.84
-- github_readme: OK; status=200; seconds=0.65
-- github_readme: OK; status=200; seconds=0.99
-- github_readme: OK; status=200; seconds=1.17
-- github_readme: OK; status=200; seconds=0.57
-- github_readme: OK; status=200; seconds=1.09
-- github_readme: OK; status=200; seconds=1.15
-- github_readme: OK; status=200; seconds=0.71
-- pubmed_esearch: OK; status=200; seconds=1.16
-- pubmed_esummary: OK; status=200; seconds=1.53
-- crossref: OK; status=200; seconds=18.76
+- github_readme: OK; status=200; seconds=0.73
+- github_readme: OK; status=200; seconds=0.89
+- pubmed_esearch: OK; status=200; seconds=0.97
+- pubmed_esummary: OK; status=200; seconds=1.59
+- crossref: OK; status=200; seconds=23.4
 
 本次运行已完成：2026-08-27_ml_med_research_digest.md
