@@ -1,0 +1,389 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 40688,
+    "forks": 3768,
+    "open_issues": 25,
+    "updated_at": "2026-08-31T23:28:18Z",
+    "pushed_at": "2026-08-31T17:14:03Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 42.0,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "volcano-sh/volcano",
+    "name": "volcano",
+    "url": "https://github.com/volcano-sh/volcano",
+    "description": "A Cloud Native Batch System (Project under CNCF)",
+    "language": "Go",
+    "stars": 5912,
+    "forks": 1517,
+    "open_issues": 801,
+    "updated_at": "2026-08-31T22:14:48Z",
+    "pushed_at": "2026-08-31T18:06:12Z",
+    "topics": [
+      "ai",
+      "batch-systems",
+      "bigdata",
+      "gene",
+      "golang",
+      "hpc",
+      "kubernetes",
+      "machine-learning",
+      "serving",
+      "training"
+    ],
+    "application_area": "病理与组学",
+    "score": 30.46,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4659,
+    "forks": 714,
+    "open_issues": 0,
+    "updated_at": "2026-08-30T23:37:20Z",
+    "pushed_at": "2026-08-30T19:00:48Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.36,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 403,
+    "forks": 56,
+    "open_issues": 27,
+    "updated_at": "2026-08-27T11:35:15Z",
+    "pushed_at": "2026-08-26T13:51:18Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.09,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3162,
+    "forks": 368,
+    "open_issues": 19,
+    "updated_at": "2026-08-31T22:33:38Z",
+    "pushed_at": "2026-08-31T23:10:36Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.45,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 416,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-08-28T09:09:19Z",
+    "pushed_at": "2026-08-28T09:07:44Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 24.87,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "pathology",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1217,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-08-29T11:57:03Z",
+    "pushed_at": "2026-08-28T12:03:06Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.48,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 455,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-08-31T21:26:20Z",
+    "pushed_at": "2026-08-31T21:14:20Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.81,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 667,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-08-31T17:52:15Z",
+    "pushed_at": "2026-08-31T16:14:37Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 21.53,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "nadeemlab/DeepLIIF",
+    "name": "DeepLIIF",
+    "url": "https://github.com/nadeemlab/DeepLIIF",
+    "description": "Deep Learning Inferred Multiplex ImmunoFluorescence for IHC Image Quantification (https://deepliif.org) [Nature Machine Intelligence'22, CVPR'22, MICCAI'23, Histopathology'23, MICCAI'24, MICCAI'26]",
+    "language": "Python",
+    "stars": 260,
+    "forks": 92,
+    "open_issues": 0,
+    "updated_at": "2026-08-31T16:26:21Z",
+    "pushed_at": "2026-08-31T16:12:06Z",
+    "topics": [
+      "ai-ready",
+      "cell-biology",
+      "cell-segmentation",
+      "cloud-native-applications",
+      "datasets",
+      "deep-learning",
+      "digital-pathology",
+      "image-segmentation",
+      "immunohistochemical-images",
+      "immunohistochemistry",
+      "multiplex",
+      "multitask-learning",
+      "pathology",
+      "pathology-gan",
+      "pathology-image",
+      "pytorch",
+      "segmentation",
+      "stitching",
+      "super-resolution",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 21.02
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 21,
+    "updated_at": "2026-08-31T20:06:37Z",
+    "pushed_at": "2026-08-31T20:06:36Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.18
+  },
+  {
+    "full_name": "xarjunpatil/SIH26139-Hybrid-Quantum-Machine-Learning-Platform-for-Early-Disease-Detection",
+    "name": "SIH26139-Hybrid-Quantum-Machine-Learning-Platform-for-Early-Disease-Detection",
+    "url": "https://github.com/xarjunpatil/SIH26139-Hybrid-Quantum-Machine-Learning-Platform-for-Early-Disease-Detection",
+    "description": "Hybrid Quantum Machine Learning Platform for Early Disease Detection",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-31T18:20:00Z",
+    "pushed_at": "2026-08-31T18:17:53Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 6.8
+  }
+]
