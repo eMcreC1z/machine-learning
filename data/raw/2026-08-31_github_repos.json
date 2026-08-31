@@ -1,38 +1,39 @@
 [
   {
-    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
-    "name": "Awesome-Radiology-Report-Generation",
-    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
-    "description": "paper list, dataset, and tools for radiology report generation",
-    "language": "",
-    "stars": 478,
-    "forks": 47,
-    "open_issues": 1,
-    "updated_at": "2026-08-30T03:31:46Z",
-    "pushed_at": "2026-08-30T03:31:32Z",
+    "full_name": "volcano-sh/volcano",
+    "name": "volcano",
+    "url": "https://github.com/volcano-sh/volcano",
+    "description": "A Cloud Native Batch System (Project under CNCF)",
+    "language": "Go",
+    "stars": 5909,
+    "forks": 1513,
+    "open_issues": 802,
+    "updated_at": "2026-08-31T05:46:00Z",
+    "pushed_at": "2026-08-31T02:40:11Z",
     "topics": [
-      "medical-dataset",
-      "medical-vision-language-model",
-      "metrics",
-      "radiology-report-generation"
+      "ai",
+      "batch-systems",
+      "bigdata",
+      "gene",
+      "golang",
+      "hpc",
+      "kubernetes",
+      "machine-learning",
+      "serving",
+      "training"
     ],
-    "application_area": "医学影像",
-    "score": 31.24,
+    "application_area": "病理与组学",
+    "score": 30.46,
     "evidence_terms": {
       "ml": [
+        "machine learning",
+        "deep learning",
         "artificial intelligence",
-        "foundation model",
-        "large language model",
-        "llm",
-        "computer vision"
+        "llm"
       ],
       "medical": [
         "medical",
-        "medicine",
-        "clinical",
-        "radiology",
-        "imaging",
-        "pathology"
+        "genomics"
       ]
     }
   },
@@ -75,6 +76,45 @@
         "medicine",
         "cancer",
         "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 403,
+    "forks": 56,
+    "open_issues": 27,
+    "updated_at": "2026-08-27T11:35:15Z",
+    "pushed_at": "2026-08-26T13:51:18Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.23,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
       ]
     }
   },
@@ -173,6 +213,90 @@
     }
   },
   {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 274,
+    "forks": 67,
+    "open_issues": 7,
+    "updated_at": "2026-08-26T18:31:07Z",
+    "pushed_at": "2026-08-28T19:14:08Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 23.93,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "Aperivue/medsci-skills",
+    "name": "medsci-skills",
+    "url": "https://github.com/Aperivue/medsci-skills",
+    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+    "language": "Python",
+    "stars": 278,
+    "forks": 66,
+    "open_issues": 8,
+    "updated_at": "2026-08-31T01:18:33Z",
+    "pushed_at": "2026-08-29T06:56:22Z",
+    "topics": [
+      "agent-skills",
+      "biostatistics",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "codex",
+      "cursor",
+      "diagnostic-accuracy",
+      "irb-protocol",
+      "literature-review",
+      "manuscript",
+      "medical-ai",
+      "medical-research",
+      "meta-analysis",
+      "physician-researcher",
+      "prisma",
+      "pubmed",
+      "radiology",
+      "reporting-guidelines",
+      "systematic-review"
+    ],
+    "application_area": "医学影像",
+    "score": 23.32,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging"
+      ]
+    }
+  },
+  {
     "full_name": "imteekay/machine-learning-research",
     "name": "machine-learning-research",
     "url": "https://github.com/imteekay/machine-learning-research",
@@ -232,43 +356,19 @@
     }
   },
   {
-    "full_name": "liutaocode/TTS-arxiv-daily",
-    "name": "TTS-arxiv-daily",
-    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
-    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
-    "language": "Python",
-    "stars": 666,
-    "forks": 41,
+    "full_name": "junyuchen245/MIR",
+    "name": "MIR",
+    "url": "https://github.com/junyuchen245/MIR",
+    "description": "A deep learning-based medical image registration package based on PyTorch.",
+    "language": "Jupyter Notebook",
+    "stars": 25,
+    "forks": 1,
     "open_issues": 1,
-    "updated_at": "2026-08-30T02:34:25Z",
-    "pushed_at": "2026-08-30T02:34:21Z",
-    "topics": [],
-    "application_area": "医学影像",
-    "score": 21.53,
-    "evidence_terms": {
-      "ml": [
-        "artificial intelligence",
-        "llm"
-      ],
-      "medical": [
-        "medical"
-      ]
-    }
-  },
-  {
-    "full_name": "ANTsX/ANTsTorch",
-    "name": "ANTsTorch",
-    "url": "https://github.com/ANTsX/ANTsTorch",
-    "description": "Pre-trained models and utilities for deep learning on medical images in PyTorch",
-    "language": "Python",
-    "stars": 7,
-    "forks": 4,
-    "open_issues": 2,
-    "updated_at": "2026-08-30T14:13:24Z",
-    "pushed_at": "2026-08-30T14:13:10Z",
+    "updated_at": "2026-08-31T05:48:58Z",
+    "pushed_at": "2026-08-31T05:48:50Z",
     "topics": [],
     "application_area": "综合医学机器学习",
-    "score": 10.66
+    "score": 12.11
   },
   {
     "full_name": "ruixv/NLOS_Overview",
@@ -279,11 +379,26 @@
     "stars": 6,
     "forks": 0,
     "open_issues": 21,
-    "updated_at": "2026-08-30T20:05:26Z",
-    "pushed_at": "2026-08-30T20:04:47Z",
+    "updated_at": "2026-08-31T02:07:12Z",
+    "pushed_at": "2026-08-31T02:06:35Z",
     "topics": [],
     "application_area": "医学影像",
     "score": 10.18
+  },
+  {
+    "full_name": "JXLiu-AI/Awesome-Medical-LLM-in-Top-Journals",
+    "name": "Awesome-Medical-LLM-in-Top-Journals",
+    "url": "https://github.com/JXLiu-AI/Awesome-Medical-LLM-in-Top-Journals",
+    "description": "A weekly-updated list of medical LLM & foundation model papers published in Nature / Science / Cell / Lancet / NEJM / JAMA and their flagship sub-journals.",
+    "language": "Python",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-08-31T03:34:40Z",
+    "pushed_at": "2026-08-31T03:34:32Z",
+    "topics": [],
+    "application_area": "临床文本与大模型",
+    "score": 8.8
   },
   {
     "full_name": "NonyeAnams/computational-bio-portfolio",

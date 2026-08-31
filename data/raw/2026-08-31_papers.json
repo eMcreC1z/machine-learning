@@ -157,6 +157,42 @@
     "score": 2.4
   },
   {
+    "title": "ADC-based radiomics for risk stratification in prostate cancer: a clinical decision support study",
+    "journal": "Frontiers in Oncology",
+    "date": "2026-08-31",
+    "authors": [],
+    "pmid": null,
+    "doi": "10.3389/fonc.2026.1885686",
+    "url": "https://doi.org/10.3389/fonc.2026.1885686",
+    "source": "Crossref",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "citation_count": 0,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.9
+  },
+  {
+    "title": "Risk Assessment in MASLD and MetALD: Current Approaches and Future Directions.",
+    "journal": "Clinical and molecular hepatology",
+    "date": "2026 Aug 28",
+    "authors": [
+      "Lin H",
+      "Wang H",
+      "Yang K",
+      "Li M",
+      "Wang Y",
+      "Yip TC"
+    ],
+    "pmid": "42669412",
+    "doi": "10.3350/cmh.2026.0398",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669412/",
+    "source": "PubMed",
+    "application_area": "临床预测",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.7
+  },
+  {
     "title": "An Interpretable MRI-Based Machine Learning Model for Preoperative Identification of the Vascular Dissemination Phenotype in Hepatocellular Carcinoma: A Dual-Center Study.",
     "journal": "Journal of hepatocellular carcinoma",
     "date": "2026",
@@ -304,83 +340,123 @@
     "score": 1.7
   },
   {
-    "title": "Machine learning-integrated explainable artificial intelligence for survival prediction in urothelial carcinoma with enfortumab vedotin: an exploratory real-world analysis.",
-    "journal": "Expert opinion on biological therapy",
-    "date": "2026 Aug 29",
+    "title": "[Cognitive reshaping and systemic reconstruction of liver surgery empowered by digital intelligence].",
+    "journal": "Zhonghua wai ke za zhi [Chinese journal of surgery]",
+    "date": "2026 Aug 31",
     "authors": [
-      "Sridharan K",
-      "Fiala O",
-      "Sivaramakrishnan G",
-      "Matrana MR",
-      "Büttner T",
-      "Kucharz J"
+      "Wu XW",
+      "Zeng SL",
+      "Fang CH"
     ],
-    "pmid": "42667292",
-    "doi": "10.1080/14712598.2026.2727098",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42667292/",
+    "pmid": "42669440",
+    "doi": "10.3760/cma.j.cn112139-20260427-00170",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669440/",
     "source": "PubMed",
-    "application_area": "临床预测",
+    "application_area": "综合医学机器学习",
     "priority_journal": false,
     "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.7
+    "score": 1.0
   },
   {
-    "title": "Evaluation of Large Language Model-Generated Recommendations in Glaucoma Surgical Decision-Making.",
-    "journal": "Seminars in ophthalmology",
-    "date": "2026 Aug 29",
+    "title": "[Advances and prospects of hemostatic strategies in hepatic surgery].",
+    "journal": "Zhonghua wai ke za zhi [Chinese journal of surgery]",
+    "date": "2026 Aug 31",
     "authors": [
-      "Toprak M",
-      "Yılmaz Tuğan B",
-      "Yüksel N"
+      "Xie TA",
+      "Peng SY",
+      "Hou XT",
+      "Cai XJ"
     ],
-    "pmid": "42667272",
-    "doi": "10.1080/08820538.2026.2725223",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42667272/",
+    "pmid": "42669439",
+    "doi": "10.3760/cma.j.cn112139-20260604-00248",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669439/",
     "source": "PubMed",
-    "application_area": "临床文本与大模型",
+    "application_area": "综合医学机器学习",
     "priority_journal": false,
     "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.7
+    "score": 1.0
   },
   {
-    "title": "Stromal Vascular Fraction Gel for Osteoarthritis: Mechanisms and Therapeutic Benefits.",
-    "journal": "Stem cells international",
-    "date": "2026",
+    "title": "Clinical and Metabolomic Panel for Noninvasive Screening of Biopsy-Confirmed MASH in Children and Adolescents.",
+    "journal": "JHEP reports : innovation in hepatology",
+    "date": "2026 Aug 30",
     "authors": [
-      "Zhang R",
-      "Yang Y",
-      "Gao W",
-      "Lei X",
-      "Yin X",
-      "Zhang W"
+      "Huneault HE",
+      "Sudhakar SG",
+      "Gent AE",
+      "Jarrell ZR",
+      "Smith MR",
+      "Sanchez-Torres C"
     ],
-    "pmid": "42666486",
-    "doi": "10.1155/sci/8316087",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42666486/",
+    "pmid": "42669329",
+    "doi": "10.1016/j.jhepr.2026.102016",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669329/",
     "source": "PubMed",
-    "application_area": "药物与转化",
+    "application_area": "综合医学机器学习",
     "priority_journal": false,
     "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.7
+    "score": 1.0
   },
   {
-    "title": "Individualized Risk Stratification for Early Recurrence of Hepatocellular Carcinoma: A Clinical Tool Derived from a Large-Scale (n=3084) Cohort Study.",
-    "journal": "Journal of hepatocellular carcinoma",
-    "date": "2026",
+    "title": "Artificial intelligence in Latin American hepatology: current evidence, implementation barriers, and strategic priorities.",
+    "journal": "Annals of hepatology",
+    "date": "2026 Aug 30",
     "authors": [
-      "Zhu X",
-      "Zhao Y",
-      "Li M",
-      "Zhang S"
+      "Ridruejo E",
+      "Teufel A",
+      "Alvares-da-Silva M",
+      "Turnes J"
     ],
-    "pmid": "42666212",
-    "doi": "10.2147/JHC.S623497",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42666212/",
+    "pmid": "42669326",
+    "doi": "10.1016/j.aohep.2026.102432",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669326/",
     "source": "PubMed",
-    "application_area": "临床预测",
+    "application_area": "综合医学机器学习",
     "priority_journal": false,
     "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.7
+    "score": 1.0
+  },
+  {
+    "title": "Prognostic Models and Predictors of Recurrence in Resectable Colorectal Liver Metastases: A Systematic Review and Meta-analysis.",
+    "journal": "Critical reviews in oncology/hematology",
+    "date": "2026 Aug 30",
+    "authors": [
+      "Manganaro L",
+      "Russo T",
+      "Novello L",
+      "Marzi S",
+      "Laganaro F",
+      "Ragni F"
+    ],
+    "pmid": "42669322",
+    "doi": "10.1016/j.critrevonc.2026.105572",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669322/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Ligustilide and tectoridin from Danggui Buxue Decoction synergistically attenuate atherosclerosis by targeting the CD36/TRPM2 axis and TNF-α/NF-κB pathway.",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "date": "2026 Aug 27",
+    "authors": [
+      "Li X",
+      "Zheng S",
+      "Song Y",
+      "Chen X",
+      "Zhang Y",
+      "Li M"
+    ],
+    "pmid": "42669225",
+    "doi": "10.1016/j.phymed.2026.158757",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669225/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
   },
   {
     "title": "What Kind of Claims Are Transparency, Explainability, and Interpretability? A Definitional Taxonomy for Health AI.",
@@ -705,85 +781,6 @@
     "pmid": "42667591",
     "doi": "10.1007/s11845-026-04584-9",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42667591/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "Technology and Obesity: A Year in Review.",
-    "journal": "Advances in therapy",
-    "date": "2026 Aug 29",
-    "authors": [
-      "Patra S",
-      "Bhandarkar A",
-      "Kapoor N",
-      "Kalra S"
-    ],
-    "pmid": "42667572",
-    "doi": "10.1007/s12325-026-03775-1",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42667572/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "From traditional retting to precision bioprocessing: microbial ecology, enzymatic selectivity, and systems biology of jute retting.",
-    "journal": "Antonie van Leeuwenhoek",
-    "date": "2026 Aug 29",
-    "authors": [
-      "De P",
-      "Chakraborti S",
-      "Bhabai B",
-      "Nath S",
-      "Ghosh PK",
-      "Khatun N"
-    ],
-    "pmid": "42667435",
-    "doi": "10.1007/s10482-026-02419-2",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42667435/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "Advancing hirschsprung disease diagnosis: a systematic review of the development and application of artificial intelligence in histopathological analysis.",
-    "journal": "Pediatric surgery international",
-    "date": "2026 Aug 29",
-    "authors": [
-      "Wan JH",
-      "Hasikin K",
-      "Mun KS",
-      "Tan YW"
-    ],
-    "pmid": "42667407",
-    "doi": "10.1007/s00383-026-06576-3",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42667407/",
-    "source": "PubMed",
-    "application_area": "综合医学机器学习",
-    "priority_journal": false,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.0
-  },
-  {
-    "title": "Critical result thresholds and notification practices in clinical laboratories.",
-    "journal": "Critical reviews in clinical laboratory sciences",
-    "date": "2026 Aug 29",
-    "authors": [
-      "Truijens K",
-      "Kalaria T",
-      "De Guire V",
-      "von Meyer A",
-      "Vermeersch P"
-    ],
-    "pmid": "42667162",
-    "doi": "10.1080/10408363.2026.2718329",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42667162/",
     "source": "PubMed",
     "application_area": "综合医学机器学习",
     "priority_journal": false,
