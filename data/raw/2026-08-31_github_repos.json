@@ -79,40 +79,36 @@
     }
   },
   {
-    "full_name": "NVIDIA/skills",
-    "name": "skills",
-    "url": "https://github.com/NVIDIA/skills",
-    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
-    "language": "Python",
-    "stars": 3148,
-    "forks": 366,
-    "open_issues": 19,
-    "updated_at": "2026-08-30T23:00:44Z",
-    "pushed_at": "2026-08-30T11:10:09Z",
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 416,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-08-28T09:09:19Z",
+    "pushed_at": "2026-08-28T09:07:44Z",
     "topics": [
-      "agent-skills",
-      "agentic-ai",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "coding-agents",
-      "cuda",
-      "developer-tools",
-      "llm",
-      "omniverse",
-      "physical-ai",
-      "rag",
-      "robotics",
-      "simulation"
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
     ],
-    "application_area": "临床文本与大模型",
-    "score": 25.44,
+    "application_area": "医学影像",
+    "score": 25.02,
     "evidence_terms": {
       "ml": [
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
         "llm"
       ],
       "medical": [
-        "clinical"
+        "medicine",
+        "clinical",
+        "pathology",
+        "survival"
       ]
     }
   },

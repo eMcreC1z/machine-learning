@@ -1,6 +1,6 @@
 # 医学机器学习自动整理日报 - 2026-08-31
 
-> 自动采集时间：2026-08-31 08:20:41。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-08-31 09:11:21。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
@@ -15,7 +15,7 @@
 | --- | --- | ---: | --- | --- | --- |
 | 1 | [mk-runner/Awesome-Radiology-Report-Generation](https://github.com/mk-runner/Awesome-Radiology-Report-Generation) | 478 | 2026-08-30T03:31:46Z | 医学影像 | paper list, dataset, and tools for radiology report generation；评分 31.24 |
 | 2 | [r0f1/datascience](https://github.com/r0f1/datascience) | 4659 | 2026-08-30T23:37:20Z | 临床预测 | Curated list of Python resources for data science.；评分 29.36 |
-| 3 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 3148 | 2026-08-30T23:00:44Z | 临床文本与大模型 | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows e... |
+| 3 | [fregu856/papers](https://github.com/fregu856/papers) | 416 | 2026-08-28T09:09:19Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).；评分 25.02 |
 | 4 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 560 | 2026-08-30T14:07:49Z | 病理与组学 | 近期活跃项目；评分 24.69 |
 | 5 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1217 | 2026-08-29T11:57:03Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.63 |
 | 6 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 455 | 2026-08-25T11:54:36Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.1 |
@@ -54,7 +54,6 @@
 
 ### 临床文本与大模型
 
-- 可复用项目：[NVIDIA/skills](https://github.com/NVIDIA/skills)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Evaluation of Large Language Model-Generated Recommendations in Glaucoma Surgical Decision-Making.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
@@ -103,33 +102,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=1.5
-- github: OK; status=200; seconds=1.35
-- github: OK; status=200; seconds=1.38
-- github: OK; status=200; seconds=1.45
-- github: OK; status=200; seconds=1.47
-- github: OK; status=200; seconds=1.41
-- github: OK; status=200; seconds=1.52
-- github_readme: OK; status=200; seconds=1.54
+- github: OK; status=200; seconds=1.77
+- github: OK; status=200; seconds=6.46
+- github: OK; status=200; seconds=1.51
+- github: OK; status=200; seconds=1.63
+- github: OK; status=200; seconds=2.24
+- github: OK; status=200; seconds=1.94
+- github: OK; status=200; seconds=1.6
 - github_readme: OK; status=200; seconds=1.65
-- github_readme: OK; status=200; seconds=1.7
-- github_readme: OK; status=200; seconds=1.33
-- github_readme: OK; status=200; seconds=1.07
-- github_readme: OK; status=200; seconds=1.35
-- github_readme: OK; status=200; seconds=1.42
+- github_readme: OK; status=200; seconds=1.61
+- github_readme: OK; status=200; seconds=1.61
 - github_readme: OK; status=200; seconds=1.29
-- github_readme: OK; status=200; seconds=1.58
-- github_readme: OK; status=200; seconds=1.67
-- github_readme: OK; status=200; seconds=1.81
-- github_readme: OK; status=200; seconds=1.62
-- github_readme: OK; status=200; seconds=1.56
+- github_readme: OK; status=200; seconds=1.16
+- github_readme: OK; status=200; seconds=1.35
+- github_readme: OK; status=200; seconds=1.43
+- github_readme: OK; status=200; seconds=1.49
+- github_readme: OK; status=200; seconds=1.66
+- github_readme: OK; status=200; seconds=1.7
+- github_readme: OK; status=200; seconds=1.61
+- github_readme: OK; status=200; seconds=1.57
+- github_readme: OK; status=200; seconds=1.29
+- github_readme: OK; status=200; seconds=1.42
 - github_readme: OK; status=200; seconds=1.4
-- github_readme: OK; status=200; seconds=1.46
-- github_readme: OK; status=200; seconds=1.45
-- github_readme: OK; status=200; seconds=1.6
-- github_readme: OK; status=200; seconds=0.97
-- pubmed_esearch: OK; status=200; seconds=0.98
-- pubmed_esummary: OK; status=200; seconds=1.55
-- crossref: OK; status=200; seconds=1.41
+- github_readme: OK; status=200; seconds=1.65
+- github_readme: OK; status=200; seconds=0.89
+- github_readme: OK; status=200; seconds=1.81
+- pubmed_esearch: OK; status=200; seconds=1.04
+- pubmed_esummary: OK; status=200; seconds=1.71
+- crossref: OK; status=200; seconds=1.82
 
 本次运行已完成：2026-08-31_ml_med_research_digest.md
