@@ -5,10 +5,10 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 40688,
-    "forks": 3768,
+    "stars": 40751,
+    "forks": 3775,
     "open_issues": 25,
-    "updated_at": "2026-08-31T23:28:18Z",
+    "updated_at": "2026-09-01T01:26:29Z",
     "pushed_at": "2026-08-31T17:14:03Z",
     "topics": [
       "agent-skills",
@@ -30,7 +30,7 @@
       "scientific-visualization"
     ],
     "application_area": "医学影像",
-    "score": 42.0,
+    "score": 42.01,
     "evidence_terms": {
       "ml": [
         "machine learning",
@@ -112,7 +112,7 @@
       "statistics"
     ],
     "application_area": "临床预测",
-    "score": 29.36,
+    "score": 29.21,
     "evidence_terms": {
       "ml": [
         "machine learning",
@@ -127,40 +127,75 @@
     }
   },
   {
-    "full_name": "leipzig/awesome-reproducible-research",
-    "name": "awesome-reproducible-research",
-    "url": "https://github.com/leipzig/awesome-reproducible-research",
-    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "full_name": "mims-harvard/ToolUniverse",
+    "name": "ToolUniverse",
+    "url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
     "language": "Python",
-    "stars": 403,
-    "forks": 56,
-    "open_issues": 27,
-    "updated_at": "2026-08-27T11:35:15Z",
-    "pushed_at": "2026-08-26T13:51:18Z",
+    "stars": 1664,
+    "forks": 253,
+    "open_issues": 21,
+    "updated_at": "2026-09-01T00:18:01Z",
+    "pushed_at": "2026-09-01T00:17:45Z",
     "topics": [
-      "awesome",
-      "awesome-list",
-      "reproducibility",
-      "reproducible-analysis",
-      "reproducible-research",
-      "reproducible-science",
-      "reproducible-workflows"
+      "agents",
+      "ai-agents",
+      "ai-communication",
+      "ai-for-science",
+      "ai-scientists",
+      "automated-science",
+      "autonomous-agents",
+      "co-pilot",
+      "co-scientist",
+      "llms",
+      "lrm",
+      "mcp-servers",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "scientific-skill",
+      "tool-use"
     ],
-    "application_area": "医学影像",
-    "score": 27.09,
+    "application_area": "病理与组学",
+    "score": 26.69,
     "evidence_terms": {
       "ml": [
         "machine learning",
-        "deep learning",
-        "artificial intelligence",
-        "nlp"
+        "large language model"
       ],
       "medical": [
-        "medicine",
-        "clinical",
-        "radiology",
+        "diagnosis",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "ANTsX/ANTs",
+    "name": "ANTs",
+    "url": "https://github.com/ANTsX/ANTs",
+    "description": "Advanced Normalization Tools (ANTs)",
+    "language": "C++",
+    "stars": 1497,
+    "forks": 407,
+    "open_issues": 91,
+    "updated_at": "2026-09-01T01:01:43Z",
+    "pushed_at": "2026-09-01T01:01:16Z",
+    "topics": [
+      "image-registration",
+      "image-segmentation",
+      "medical-image-processing",
+      "neuroimaging"
+    ],
+    "application_area": "医学影像",
+    "score": 25.82,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
         "imaging",
-        "genomics",
         "disease"
       ]
     }
@@ -171,11 +206,11 @@
     "url": "https://github.com/NVIDIA/skills",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "language": "Python",
-    "stars": 3162,
+    "stars": 3163,
     "forks": 368,
-    "open_issues": 19,
-    "updated_at": "2026-08-31T22:33:38Z",
-    "pushed_at": "2026-08-31T23:10:36Z",
+    "open_issues": 18,
+    "updated_at": "2026-09-01T01:16:32Z",
+    "pushed_at": "2026-09-01T00:42:43Z",
     "topics": [
       "agent-skills",
       "agentic-ai",
@@ -234,6 +269,41 @@
         "clinical",
         "pathology",
         "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 561,
+    "forks": 62,
+    "open_issues": 0,
+    "updated_at": "2026-09-01T00:01:16Z",
+    "pushed_at": "2026-08-30T14:06:58Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.7,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
       ]
     }
   },
@@ -370,20 +440,5 @@
     "topics": [],
     "application_area": "医学影像",
     "score": 10.18
-  },
-  {
-    "full_name": "xarjunpatil/SIH26139-Hybrid-Quantum-Machine-Learning-Platform-for-Early-Disease-Detection",
-    "name": "SIH26139-Hybrid-Quantum-Machine-Learning-Platform-for-Early-Disease-Detection",
-    "url": "https://github.com/xarjunpatil/SIH26139-Hybrid-Quantum-Machine-Learning-Platform-for-Early-Disease-Detection",
-    "description": "Hybrid Quantum Machine Learning Platform for Early Disease Detection",
-    "language": "HTML",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "updated_at": "2026-08-31T18:20:00Z",
-    "pushed_at": "2026-08-31T18:17:53Z",
-    "topics": [],
-    "application_area": "医学影像",
-    "score": 6.8
   }
 ]
