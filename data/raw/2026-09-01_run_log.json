@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.34,
+    "seconds": 1.4,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-08-22"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.3,
+    "seconds": 1.33,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-08-22"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.28,
+    "seconds": 1.3,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-08-22"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.24,
+    "seconds": 1.3,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-08-22"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.26,
+    "seconds": 1.5,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-08-22"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.27,
+    "seconds": 1.28,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-08-22"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.23,
+    "seconds": 1.54,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-08-22"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.92,
+    "seconds": 0.94,
     "repo": "K-Dense-AI/scientific-agent-skills"
   },
   {
@@ -77,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.71,
+    "seconds": 0.75,
     "repo": "PyO3/pyo3"
   },
   {
@@ -86,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.73,
+    "seconds": 0.71,
     "repo": "volcano-sh/volcano"
   },
   {
@@ -95,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.99,
+    "seconds": 0.96,
     "repo": "r0f1/datascience"
   },
   {
@@ -104,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.86,
+    "seconds": 0.88,
     "repo": "NVIDIA/skills"
   },
   {
@@ -131,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.07,
+    "seconds": 1.0,
     "repo": "valeman/awesome-conformal-prediction"
   },
   {
@@ -140,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.06,
+    "seconds": 1.01,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -149,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.14,
+    "seconds": 1.08,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -158,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.99,
+    "seconds": 1.0,
     "repo": "trackawesomelist/trackawesomelist"
   },
   {
@@ -167,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.23,
+    "seconds": 1.09,
     "repo": "liutaocode/TTS-arxiv-daily"
   },
   {
@@ -176,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.92,
+    "seconds": 0.94,
     "repo": "UKGovernmentBEIS/inspect_evals"
   },
   {
@@ -185,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.8,
+    "seconds": 0.78,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -203,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.2,
+    "seconds": 1.14,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -212,7 +212,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.63,
+    "seconds": 0.6,
     "repo": "luohongk/Embodied-AI-Daily"
   },
   {
@@ -221,7 +221,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.15,
+    "seconds": 1.12,
     "repo": "fregu856/papers"
   },
   {
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.14
+    "seconds": 0.7
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.16
+    "seconds": 1.13
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.73
+    "seconds": 36.32
   }
 ]

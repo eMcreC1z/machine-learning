@@ -1,10 +1,10 @@
 # 医学机器学习自动整理日报 - 2026-09-01
 
-> 自动采集时间：2026-09-01 09:28:36。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-09-01 09:46:04。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：13 个
+- GitHub 项目候选：11 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：2 篇
 - 采集异常来源：0 个
@@ -13,19 +13,17 @@
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 40751 | 2026-09-01T01:26:29Z | 医学影像 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus... |
+| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 40764 | 2026-09-01T01:44:08Z | 医学影像 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus... |
 | 2 | [volcano-sh/volcano](https://github.com/volcano-sh/volcano) | 5912 | 2026-08-31T22:14:48Z | 病理与组学 | A Cloud Native Batch System (Project under CNCF)；评分 30.46 |
 | 3 | [r0f1/datascience](https://github.com/r0f1/datascience) | 4659 | 2026-08-30T23:37:20Z | 临床预测 | Curated list of Python resources for data science.；评分 29.21 |
 | 4 | [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse) | 1664 | 2026-09-01T00:18:01Z | 病理与组学 | Democratizing AI scientists with ToolUniverse；评分 26.69 |
 | 5 | [ANTsX/ANTs](https://github.com/ANTsX/ANTs) | 1497 | 2026-09-01T01:01:43Z | 医学影像 | Advanced Normalization Tools (ANTs)；评分 25.82 |
 | 6 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 3163 | 2026-09-01T01:16:32Z | 临床文本与大模型 | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows e... |
 | 7 | [fregu856/papers](https://github.com/fregu856/papers) | 416 | 2026-08-28T09:09:19Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).；评分 24.87 |
-| 8 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 561 | 2026-09-01T00:01:16Z | 病理与组学 | 近期活跃项目；评分 24.7 |
-| 9 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1217 | 2026-08-29T11:57:03Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.48 |
+| 8 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1217 | 2026-09-01T01:36:52Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.76 |
+| 9 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 561 | 2026-09-01T00:01:16Z | 病理与组学 | 近期活跃项目；评分 24.7 |
 | 10 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 455 | 2026-08-31T21:26:20Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.81 |
 | 11 | [liutaocode/TTS-arxiv-daily](https://github.com/liutaocode/TTS-arxiv-daily) | 667 | 2026-08-31T17:52:15Z | 医学影像 | Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)；评分 21.53 |
-| 12 | [nadeemlab/DeepLIIF](https://github.com/nadeemlab/DeepLIIF) | 260 | 2026-08-31T16:26:21Z | 医学影像 | Deep Learning Inferred Multiplex ImmunoFluorescence for IHC Image Quantification (https://deepliif.org) [Nature Machine Intelligence'22, CVPR'22, MICCAI'23, Hi... |
-| 13 | [ruixv/NLOS_Overview](https://github.com/ruixv/NLOS_Overview) | 6 | 2026-08-31T20:06:37Z | 医学影像 | Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes；评分 10.18 |
 
 ## 高水平论文候选
 
@@ -104,33 +102,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=1.34
+- github: OK; status=200; seconds=1.4
+- github: OK; status=200; seconds=1.33
 - github: OK; status=200; seconds=1.3
+- github: OK; status=200; seconds=1.3
+- github: OK; status=200; seconds=1.5
 - github: OK; status=200; seconds=1.28
-- github: OK; status=200; seconds=1.24
-- github: OK; status=200; seconds=1.26
-- github: OK; status=200; seconds=1.27
-- github: OK; status=200; seconds=1.23
-- github_readme: OK; status=200; seconds=0.92
+- github: OK; status=200; seconds=1.54
+- github_readme: OK; status=200; seconds=0.94
+- github_readme: OK; status=200; seconds=0.75
 - github_readme: OK; status=200; seconds=0.71
-- github_readme: OK; status=200; seconds=0.73
-- github_readme: OK; status=200; seconds=0.99
-- github_readme: OK; status=200; seconds=0.86
+- github_readme: OK; status=200; seconds=0.96
+- github_readme: OK; status=200; seconds=0.88
 - github_readme: OK; status=200; seconds=0.74
 - github_readme: OK; status=200; seconds=0.69
-- github_readme: OK; status=200; seconds=1.07
-- github_readme: OK; status=200; seconds=1.06
-- github_readme: OK; status=200; seconds=1.14
-- github_readme: OK; status=200; seconds=0.99
-- github_readme: OK; status=200; seconds=1.23
-- github_readme: OK; status=200; seconds=0.92
-- github_readme: OK; status=200; seconds=0.8
+- github_readme: OK; status=200; seconds=1.0
+- github_readme: OK; status=200; seconds=1.01
+- github_readme: OK; status=200; seconds=1.08
+- github_readme: OK; status=200; seconds=1.0
+- github_readme: OK; status=200; seconds=1.09
+- github_readme: OK; status=200; seconds=0.94
+- github_readme: OK; status=200; seconds=0.78
 - github_readme: OK; status=200; seconds=0.93
-- github_readme: OK; status=200; seconds=1.2
-- github_readme: OK; status=200; seconds=0.63
-- github_readme: OK; status=200; seconds=1.15
-- pubmed_esearch: OK; status=200; seconds=1.14
-- pubmed_esummary: OK; status=200; seconds=1.16
-- crossref: OK; status=200; seconds=2.73
+- github_readme: OK; status=200; seconds=1.14
+- github_readme: OK; status=200; seconds=0.6
+- github_readme: OK; status=200; seconds=1.12
+- pubmed_esearch: OK; status=200; seconds=0.7
+- pubmed_esummary: OK; status=200; seconds=1.13
+- crossref: OK; status=200; seconds=36.32
 
 本次运行已完成：2026-09-01_ml_med_research_digest.md
