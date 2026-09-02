@@ -1,0 +1,499 @@
+[
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4661,
+    "forks": 714,
+    "open_issues": 0,
+    "updated_at": "2026-09-01T19:16:06Z",
+    "pushed_at": "2026-08-30T19:00:48Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.36,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 403,
+    "forks": 56,
+    "open_issues": 27,
+    "updated_at": "2026-08-27T11:35:15Z",
+    "pushed_at": "2026-08-26T13:51:18Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 26.95,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "mims-harvard/ToolUniverse",
+    "name": "ToolUniverse",
+    "url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
+    "language": "Python",
+    "stars": 1668,
+    "forks": 254,
+    "open_issues": 19,
+    "updated_at": "2026-09-02T00:20:08Z",
+    "pushed_at": "2026-09-02T01:09:13Z",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-communication",
+      "ai-for-science",
+      "ai-scientists",
+      "automated-science",
+      "autonomous-agents",
+      "co-pilot",
+      "co-scientist",
+      "llms",
+      "lrm",
+      "mcp-servers",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "scientific-skill",
+      "tool-use"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.7,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "large language model"
+      ],
+      "medical": [
+        "diagnosis",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1217,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-01T10:04:19Z",
+    "pushed_at": "2026-09-01T09:54:12Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.76,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 416,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-08-28T09:09:19Z",
+    "pushed_at": "2026-08-28T09:07:44Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 24.73,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "pathology",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 561,
+    "forks": 62,
+    "open_issues": 0,
+    "updated_at": "2026-09-01T00:01:16Z",
+    "pushed_at": "2026-08-30T14:06:58Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.56,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "hazratali/awesome-ai-summerschool",
+    "name": "awesome-ai-summerschool",
+    "url": "https://github.com/hazratali/awesome-ai-summerschool",
+    "description": "An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare",
+    "language": "",
+    "stars": 717,
+    "forks": 59,
+    "open_issues": 0,
+    "updated_at": "2026-09-01T15:01:59Z",
+    "pushed_at": "2026-09-01T14:19:22Z",
+    "topics": [
+      "artificial-intelligence",
+      "courses",
+      "deep-learning",
+      "machine-learning",
+      "summer-school"
+    ],
+    "application_area": "医学影像",
+    "score": 24.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 449,
+    "forks": 100,
+    "open_issues": 621,
+    "updated_at": "2026-09-01T19:41:33Z",
+    "pushed_at": "2026-09-01T19:30:13Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.42,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "foundation model",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 455,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-08-31T21:26:20Z",
+    "pushed_at": "2026-08-31T21:14:20Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.67,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 667,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-09-01T16:32:21Z",
+    "pushed_at": "2026-09-01T15:46:35Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.33,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "pykale/pykale",
+    "name": "pykale",
+    "url": "https://github.com/pykale/pykale",
+    "description": "Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research, part of the 🔥PyTorch ecosystem. ⭐ Star to support our work!",
+    "language": "Python",
+    "stars": 487,
+    "forks": 73,
+    "open_issues": 32,
+    "updated_at": "2026-09-01T20:23:09Z",
+    "pushed_at": "2026-09-01T20:07:09Z",
+    "topics": [
+      "computer-vision",
+      "data-science",
+      "deep-learning",
+      "domain-adaptation",
+      "graph-analysis",
+      "knowledge-aware-learning",
+      "machine-learning",
+      "medical-image-analysis",
+      "meta-learning",
+      "multimodal",
+      "multimodal-learning",
+      "python",
+      "pytorch",
+      "transfer-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 22.16,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "supervisely/supervisely",
+    "name": "supervisely",
+    "url": "https://github.com/supervisely/supervisely",
+    "description": "Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task",
+    "language": "Python",
+    "stars": 542,
+    "forks": 77,
+    "open_issues": 75,
+    "updated_at": "2026-09-01T23:34:13Z",
+    "pushed_at": "2026-09-01T23:37:53Z",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "neural-networks",
+      "python"
+    ],
+    "application_area": "医学影像",
+    "score": 21.58,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "CogStack/cogstack-nlp",
+    "name": "cogstack-nlp",
+    "url": "https://github.com/CogStack/cogstack-nlp",
+    "description": "CogStack NLP, including the Medical Concept Annotation Tool MedCAT",
+    "language": "HTML",
+    "stars": 76,
+    "forks": 14,
+    "open_issues": 3,
+    "updated_at": "2026-09-01T20:50:33Z",
+    "pushed_at": "2026-09-01T20:50:30Z",
+    "topics": [],
+    "application_area": "临床文本与大模型",
+    "score": 16.11
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 9,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-09-01T21:54:48Z",
+    "pushed_at": "2026-09-01T21:54:43Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.65
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 21,
+    "updated_at": "2026-09-01T20:12:28Z",
+    "pushed_at": "2026-09-01T20:10:54Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.18
+  },
+  {
+    "full_name": "Pirate-Hunter-Zoro/TRD-EHR",
+    "name": "TRD-EHR",
+    "url": "https://github.com/Pirate-Hunter-Zoro/TRD-EHR",
+    "description": "This project investigates the use of machine learning and embedding neighborhood techniques to predict treatment resistant depression in patients.",
+    "language": "Jupyter Notebook",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-01T22:48:51Z",
+    "pushed_at": "2026-09-01T22:48:47Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 9.51
+  },
+  {
+    "full_name": "SAIRAM-COMMITS/HealthSense_AI",
+    "name": "HealthSense_AI",
+    "url": "https://github.com/SAIRAM-COMMITS/HealthSense_AI",
+    "description": "An end-to-end Healthcare AI platform for hospital readmission prediction using Machine Learning, FastAPI, Docker, MLflow, Prometheus, and Grafana.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-01T21:50:50Z",
+    "pushed_at": "2026-09-01T21:49:22Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  }
+]
