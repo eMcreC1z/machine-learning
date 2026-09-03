@@ -1,0 +1,338 @@
+[
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 42096,
+    "forks": 3869,
+    "open_issues": 31,
+    "updated_at": "2026-09-03T00:35:05Z",
+    "pushed_at": "2026-09-02T16:25:37Z",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 42.08,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "josephmisiti/awesome-machine-learning",
+    "name": "awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "language": "Python",
+    "stars": 74242,
+    "forks": 15637,
+    "open_issues": 29,
+    "updated_at": "2026-09-02T23:31:28Z",
+    "pushed_at": "2026-09-02T19:29:21Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 35.57,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "uhub/awesome-python",
+    "name": "awesome-python",
+    "url": "https://github.com/uhub/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries and software.",
+    "language": "",
+    "stars": 1189,
+    "forks": 189,
+    "open_issues": 20,
+    "updated_at": "2026-09-02T22:58:30Z",
+    "pushed_at": "2026-09-02T15:47:08Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "curated-list",
+      "list",
+      "python",
+      "python3",
+      "resources"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 27.52,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "medicine"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3181,
+    "forks": 373,
+    "open_issues": 12,
+    "updated_at": "2026-09-02T23:22:04Z",
+    "pushed_at": "2026-09-02T23:21:58Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.47,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1217,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-02T08:45:30Z",
+    "pushed_at": "2026-09-02T08:24:23Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.76,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 561,
+    "forks": 62,
+    "open_issues": 0,
+    "updated_at": "2026-09-01T00:01:16Z",
+    "pushed_at": "2026-08-30T14:06:58Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.41,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 455,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-09-02T10:42:27Z",
+    "pushed_at": "2026-09-02T10:42:23Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.81,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 667,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-09-02T15:46:03Z",
+    "pushed_at": "2026-09-02T15:38:41Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.33,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "jenetics/jenetics",
+    "name": "jenetics",
+    "url": "https://github.com/jenetics/jenetics",
+    "description": "Jenetics - Genetic Algorithm, Genetic Programming, Grammatical Evolution, Evolutionary Algorithm, and Multi-objective Optimization",
+    "language": "Java",
+    "stars": 908,
+    "forks": 161,
+    "open_issues": 30,
+    "updated_at": "2026-09-02T22:53:59Z",
+    "pushed_at": "2026-09-02T19:56:37Z",
+    "topics": [
+      "artificial-intelligence",
+      "evolutionary-algorithms",
+      "evolutionary-strategy",
+      "genetic-algorithm",
+      "genetic-programming",
+      "grammatical-evolution",
+      "java",
+      "java25",
+      "machine-learning",
+      "metaheuristics",
+      "multiobjective-optimization",
+      "optimization",
+      "parallel-algorithm"
+    ],
+    "application_area": "临床预测",
+    "score": 21.95,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence"
+      ],
+      "medical": [
+        "prognosis"
+      ]
+    }
+  },
+  {
+    "full_name": "radiuma-com/PySERA",
+    "name": "PySERA",
+    "url": "https://github.com/radiuma-com/PySERA",
+    "description": "PySERA – Open-Source Standardized Python Library for Automated, Scalable, and Reproducible Handcrafted and Deep Radiomics",
+    "language": "Python",
+    "stars": 31,
+    "forks": 5,
+    "open_issues": 0,
+    "updated_at": "2026-09-02T20:48:13Z",
+    "pushed_at": "2026-09-02T20:47:18Z",
+    "topics": [
+      "3d-slicer",
+      "api",
+      "batch-processing",
+      "cancer-imaging-research",
+      "computational-imaging",
+      "cpu-efficient-parallel-processing",
+      "deep-learning-radiomics",
+      "gui",
+      "handcrafted-radiomics",
+      "ibsi",
+      "integratable-radiomics-feature-extraction-library",
+      "medical-imaging",
+      "medical-imaging-quantitative-analysis",
+      "oop-architecture",
+      "pysera",
+      "python",
+      "ram-optimization"
+    ],
+    "application_area": "医学影像",
+    "score": 14.79
+  }
+]
