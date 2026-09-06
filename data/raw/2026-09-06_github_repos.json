@@ -1,0 +1,532 @@
+[
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 480,
+    "forks": 48,
+    "open_issues": 1,
+    "updated_at": "2026-09-06T01:45:34Z",
+    "pushed_at": "2026-09-06T01:45:30Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 30.46,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "radiology",
+        "imaging",
+        "pathology",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4661,
+    "forks": 713,
+    "open_issues": 0,
+    "updated_at": "2026-09-06T03:15:09Z",
+    "pushed_at": "2026-08-30T19:00:48Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.35,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1942,
+    "forks": 231,
+    "open_issues": 32,
+    "updated_at": "2026-09-05T19:20:56Z",
+    "pushed_at": "2026-09-05T06:54:47Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.9,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "open-edge-platform/geti",
+    "name": "geti",
+    "url": "https://github.com/open-edge-platform/geti",
+    "description": "Build, train, optimize, and run computer vision models locally, from raw images to live inference. Open source, optimized for Intel XPU (CPU-only and CUDA also supported).",
+    "language": "Python",
+    "stars": 1324,
+    "forks": 477,
+    "open_issues": 158,
+    "updated_at": "2026-09-06T03:32:43Z",
+    "pushed_at": "2026-09-06T03:32:40Z",
+    "topics": [
+      "automl",
+      "computer-vision",
+      "deep-learning",
+      "geti",
+      "image-classification",
+      "image-segmentation",
+      "incremental-learning",
+      "machine-learning",
+      "neural-networks-compression",
+      "object-detection",
+      "openvino",
+      "pytorch",
+      "quantization",
+      "self-supervised-learning",
+      "semi-supervised-learning",
+      "transfer-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 26.71,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 417,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-09-04T15:37:23Z",
+    "pushed_at": "2026-09-04T15:31:07Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 25.16,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "pathology",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1217,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-05T13:40:20Z",
+    "pushed_at": "2026-09-05T13:40:16Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.76,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 562,
+    "forks": 62,
+    "open_issues": 0,
+    "updated_at": "2026-09-03T19:35:39Z",
+    "pushed_at": "2026-08-30T14:06:58Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.42,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 455,
+    "forks": 51,
+    "open_issues": 1,
+    "updated_at": "2026-09-06T01:24:30Z",
+    "pushed_at": "2026-09-06T01:24:27Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.81,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "Aperivue/medsci-skills",
+    "name": "medsci-skills",
+    "url": "https://github.com/Aperivue/medsci-skills",
+    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+    "language": "Python",
+    "stars": 283,
+    "forks": 69,
+    "open_issues": 6,
+    "updated_at": "2026-09-06T01:49:03Z",
+    "pushed_at": "2026-09-06T01:48:58Z",
+    "topics": [
+      "agent-skills",
+      "biostatistics",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "codex",
+      "cursor",
+      "diagnostic-accuracy",
+      "irb-protocol",
+      "literature-review",
+      "manuscript",
+      "medical-ai",
+      "medical-research",
+      "meta-analysis",
+      "physician-researcher",
+      "prisma",
+      "pubmed",
+      "radiology",
+      "reporting-guidelines",
+      "systematic-review"
+    ],
+    "application_area": "医学影像",
+    "score": 23.38,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "Event-AHU/Mamba_State_Space_Model_Paper_List",
+    "name": "Mamba_State_Space_Model_Paper_List",
+    "url": "https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List",
+    "description": "[Mamba-Survey-2024] Paper list for State-Space-Model/Mamba and it's Applications",
+    "language": "",
+    "stars": 754,
+    "forks": 40,
+    "open_issues": 3,
+    "updated_at": "2026-09-06T00:05:54Z",
+    "pushed_at": "2026-09-06T00:05:50Z",
+    "topics": [
+      "linear-attention-model",
+      "mamba",
+      "point-mamba",
+      "ssm",
+      "transformer",
+      "video-mamba",
+      "vision-mamba"
+    ],
+    "application_area": "医学影像",
+    "score": 23.33,
+    "evidence_terms": {
+      "ml": [
+        "large language model",
+        "neural network"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "faridrashidi/cnsplots",
+    "name": "cnsplots",
+    "url": "https://github.com/faridrashidi/cnsplots",
+    "description": "🎨 Toolkit for generating publication-quality plots for Cell, Nature and Science journals",
+    "language": "Python",
+    "stars": 663,
+    "forks": 73,
+    "open_issues": 70,
+    "updated_at": "2026-09-06T01:48:29Z",
+    "pushed_at": "2026-09-06T01:55:19Z",
+    "topics": [
+      "data-science",
+      "data-visualization",
+      "plotting",
+      "publication-quality",
+      "python",
+      "scientific-publications"
+    ],
+    "application_area": "临床预测",
+    "score": 22.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "genomics",
+        "omics",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 668,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-09-05T19:44:53Z",
+    "pushed_at": "2026-09-05T14:15:46Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.34,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 704,
+    "forks": 121,
+    "open_issues": 109,
+    "updated_at": "2026-09-05T19:30:00Z",
+    "pushed_at": "2026-09-05T14:31:15Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 22.12,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "name": "AlterLab-Academic-Skills",
+    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills",
+    "description": "239 evaluated academic Claude/agent skills across 17 research domains (bioinformatics, data science, clinical, social-science methods, Turkish academia & more). Executable eval per skill, deterministic citation verifier, research→write→review→publish pipeline, and a skill-finder front door. Claude Code, Cursor, Codex, Gemini CLI & Copilot.",
+    "language": "Python",
+    "stars": 64,
+    "forks": 13,
+    "open_issues": 1,
+    "updated_at": "2026-09-05T03:05:00Z",
+    "pushed_at": "2026-09-04T13:48:46Z",
+    "topics": [
+      "academic-research",
+      "agent-skills",
+      "anthropic",
+      "bioinformatics",
+      "cheminformatics",
+      "citation",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "data-science",
+      "data-visualization",
+      "llm-agents",
+      "model-context-protocol",
+      "prompt-engineering",
+      "reproducible-research",
+      "research-tools",
+      "scientific-computing",
+      "scientific-writing",
+      "turkish-academia"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 15.63
+  },
+  {
+    "full_name": "ANTsX/ANTsTorch",
+    "name": "ANTsTorch",
+    "url": "https://github.com/ANTsX/ANTsTorch",
+    "description": "Pre-trained models and utilities for deep learning on medical images in PyTorch",
+    "language": "Python",
+    "stars": 7,
+    "forks": 5,
+    "open_issues": 2,
+    "updated_at": "2026-09-06T03:37:44Z",
+    "pushed_at": "2026-09-06T03:37:45Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 10.78
+  },
+  {
+    "full_name": "Shub95-dot/Sensorless-Video-Based-Biomechanical-Proxy-Biomarker-Framework-for-Early-Athlete-Injury-Risk-Det",
+    "name": "Sensorless-Video-Based-Biomechanical-Proxy-Biomarker-Framework-for-Early-Athlete-Injury-Risk-Det",
+    "url": "https://github.com/Shub95-dot/Sensorless-Video-Based-Biomechanical-Proxy-Biomarker-Framework-for-Early-Athlete-Injury-Risk-Det",
+    "description": "AI framework for sensorless 3D biomechanics and multimodal athlete workload analysis. Uses standard RGB video and deep learning to track joint stress, optimize training volume, and predict injury risks without wearable hardware.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-05T10:51:16Z",
+    "pushed_at": "2026-09-05T10:51:13Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
+  }
+]
