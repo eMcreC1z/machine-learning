@@ -1,0 +1,396 @@
+[
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4661,
+    "forks": 714,
+    "open_issues": 0,
+    "updated_at": "2026-09-07T18:59:31Z",
+    "pushed_at": "2026-09-07T18:59:25Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.36,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3231,
+    "forks": 377,
+    "open_issues": 14,
+    "updated_at": "2026-09-07T19:59:35Z",
+    "pushed_at": "2026-09-08T00:33:55Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.5,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 417,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-09-06T15:14:45Z",
+    "pushed_at": "2026-09-06T15:14:41Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 25.16,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "pathology",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1217,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-07T07:43:07Z",
+    "pushed_at": "2026-09-07T07:42:43Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.76,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 274,
+    "forks": 67,
+    "open_issues": 7,
+    "updated_at": "2026-09-07T22:28:35Z",
+    "pushed_at": "2026-09-07T22:28:30Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 24.51,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "ImagingDataCommons/highdicom",
+    "name": "highdicom",
+    "url": "https://github.com/ImagingDataCommons/highdicom",
+    "description": "High-level DICOM abstractions for the Python programming language",
+    "language": "Python",
+    "stars": 241,
+    "forks": 55,
+    "open_issues": 37,
+    "updated_at": "2026-09-08T00:52:30Z",
+    "pushed_at": "2026-09-07T22:11:56Z",
+    "topics": [
+      "dicom",
+      "numpy",
+      "pydicom",
+      "python3",
+      "typehints"
+    ],
+    "application_area": "医学影像",
+    "score": 24.16,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "radiomics",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "radiology",
+        "imaging",
+        "pathology",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 457,
+    "forks": 52,
+    "open_issues": 1,
+    "updated_at": "2026-09-07T21:51:51Z",
+    "pushed_at": "2026-09-07T21:51:48Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.83,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "Aperivue/medsci-skills",
+    "name": "medsci-skills",
+    "url": "https://github.com/Aperivue/medsci-skills",
+    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+    "language": "Python",
+    "stars": 288,
+    "forks": 69,
+    "open_issues": 6,
+    "updated_at": "2026-09-07T14:50:43Z",
+    "pushed_at": "2026-09-07T08:19:18Z",
+    "topics": [
+      "agent-skills",
+      "biostatistics",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "codex",
+      "cursor",
+      "diagnostic-accuracy",
+      "irb-protocol",
+      "literature-review",
+      "manuscript",
+      "medical-ai",
+      "medical-research",
+      "meta-analysis",
+      "physician-researcher",
+      "prisma",
+      "pubmed",
+      "radiology",
+      "reporting-guidelines",
+      "systematic-review"
+    ],
+    "application_area": "医学影像",
+    "score": 23.41,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "faridrashidi/cnsplots",
+    "name": "cnsplots",
+    "url": "https://github.com/faridrashidi/cnsplots",
+    "description": "🎨 Toolkit for generating publication-quality plots for Cell, Nature and Science journals",
+    "language": "Python",
+    "stars": 663,
+    "forks": 73,
+    "open_issues": 10,
+    "updated_at": "2026-09-07T23:28:33Z",
+    "pushed_at": "2026-09-08T00:24:26Z",
+    "topics": [
+      "data-science",
+      "data-visualization",
+      "plotting",
+      "publication-quality",
+      "python",
+      "scientific-publications"
+    ],
+    "application_area": "临床预测",
+    "score": 22.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "genomics",
+        "omics",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 668,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-09-07T14:23:45Z",
+    "pushed_at": "2026-09-07T14:23:00Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.34,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 9,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-09-07T22:42:11Z",
+    "pushed_at": "2026-09-07T22:42:04Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 12.65
+  },
+  {
+    "full_name": "Yaoyao28/clinical-outcome-prediction",
+    "name": "clinical-outcome-prediction",
+    "url": "https://github.com/Yaoyao28/clinical-outcome-prediction",
+    "description": "End-to-end machine learning pipeline for predicting clinical outcomes using MIMIC-IV.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-07T23:17:05Z",
+    "pushed_at": "2026-09-07T23:16:57Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 6.8
+  }
+]
