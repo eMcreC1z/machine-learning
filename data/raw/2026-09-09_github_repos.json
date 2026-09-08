@@ -1,0 +1,360 @@
+[
+  {
+    "full_name": "josephmisiti/awesome-machine-learning",
+    "name": "awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "language": "Python",
+    "stars": 74281,
+    "forks": 15642,
+    "open_issues": 34,
+    "updated_at": "2026-09-08T19:57:30Z",
+    "pushed_at": "2026-09-08T17:30:34Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 35.58,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1242,
+    "forks": 154,
+    "open_issues": 6,
+    "updated_at": "2026-09-08T12:51:42Z",
+    "pushed_at": "2026-09-08T12:50:39Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 34.06,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4664,
+    "forks": 714,
+    "open_issues": 0,
+    "updated_at": "2026-09-08T20:03:46Z",
+    "pushed_at": "2026-09-07T18:59:25Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.36,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1947,
+    "forks": 232,
+    "open_issues": 33,
+    "updated_at": "2026-09-08T14:03:15Z",
+    "pushed_at": "2026-09-08T07:19:26Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.91,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "open-edge-platform/geti",
+    "name": "geti",
+    "url": "https://github.com/open-edge-platform/geti",
+    "description": "Build, train, optimize, and run computer vision models locally, from raw images to live inference. Open source, optimized for Intel XPU (CPU-only and CUDA also supported).",
+    "language": "Python",
+    "stars": 1327,
+    "forks": 477,
+    "open_issues": 158,
+    "updated_at": "2026-09-08T16:52:21Z",
+    "pushed_at": "2026-09-08T18:05:18Z",
+    "topics": [
+      "automl",
+      "computer-vision",
+      "deep-learning",
+      "geti",
+      "image-classification",
+      "image-segmentation",
+      "incremental-learning",
+      "machine-learning",
+      "neural-networks-compression",
+      "object-detection",
+      "openvino",
+      "pytorch",
+      "quantization",
+      "self-supervised-learning",
+      "semi-supervised-learning",
+      "transfer-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 26.71,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "pditommaso/awesome-pipeline",
+    "name": "awesome-pipeline",
+    "url": "https://github.com/pditommaso/awesome-pipeline",
+    "description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
+    "language": "",
+    "stars": 6625,
+    "forks": 650,
+    "open_issues": 33,
+    "updated_at": "2026-09-08T15:30:03Z",
+    "pushed_at": "2026-09-08T15:19:15Z",
+    "topics": [
+      "awesome-list",
+      "workflow"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 26.31,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3239,
+    "forks": 377,
+    "open_issues": 12,
+    "updated_at": "2026-09-08T19:20:53Z",
+    "pushed_at": "2026-09-08T17:30:25Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.51,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1218,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-08T02:05:55Z",
+    "pushed_at": "2026-09-07T07:42:43Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "faridrashidi/cnsplots",
+    "name": "cnsplots",
+    "url": "https://github.com/faridrashidi/cnsplots",
+    "description": "🎨 Toolkit for generating publication-quality plots for Cell, Nature and Science journals",
+    "language": "Python",
+    "stars": 663,
+    "forks": 73,
+    "open_issues": 0,
+    "updated_at": "2026-09-08T19:33:27Z",
+    "pushed_at": "2026-09-08T19:47:04Z",
+    "topics": [
+      "data-science",
+      "data-visualization",
+      "plotting",
+      "publication-quality",
+      "python",
+      "scientific-publications"
+    ],
+    "application_area": "临床预测",
+    "score": 22.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "genomics",
+        "omics",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 668,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-09-08T15:42:23Z",
+    "pushed_at": "2026-09-08T15:41:12Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.34,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "qiyanghong2020/ukbFound",
+    "name": "ukbFound",
+    "url": "https://github.com/qiyanghong2020/ukbFound",
+    "description": "Machine learning for deep phenotyping, patient stratification, and disease risk prediction. npj Digital Medicine (2026).",
+    "language": "Jupyter Notebook",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "updated_at": "2026-09-08T06:49:05Z",
+    "pushed_at": "2026-09-08T06:47:21Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 9.16
+  },
+  {
+    "full_name": "nmemranhussain/DiaVigil",
+    "name": "DiaVigil",
+    "url": "https://github.com/nmemranhussain/DiaVigil",
+    "description": "DiaVigil is a 3-agent clinical BI copilot designed to curb 30-day diabetic hospital readmissions and mitigate HRRP penalties. Combining DuckDB SQL extraction, XGBoost prediction with SHAP explainability, and Groq Compound LLM synthesis, it turns EHR data into real-time risk scores and actionable, protocol-aligned discharge plans for care teams.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-08T20:08:18Z",
+    "pushed_at": "2026-09-08T20:06:15Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 8.4
+  }
+]
