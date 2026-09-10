@@ -1,0 +1,324 @@
+[
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1243,
+    "forks": 154,
+    "open_issues": 6,
+    "updated_at": "2026-09-09T03:07:52Z",
+    "pushed_at": "2026-09-08T12:50:39Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 34.06,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8668,
+    "forks": 1619,
+    "open_issues": 527,
+    "updated_at": "2026-09-09T20:42:53Z",
+    "pushed_at": "2026-09-09T20:42:36Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.77,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4664,
+    "forks": 714,
+    "open_issues": 0,
+    "updated_at": "2026-09-08T20:03:46Z",
+    "pushed_at": "2026-09-07T18:59:25Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.21,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "open-edge-platform/geti",
+    "name": "geti",
+    "url": "https://github.com/open-edge-platform/geti",
+    "description": "Build, train, optimize, and run computer vision models locally, from raw images to live inference. Open source, optimized for Intel XPU (CPU-only and CUDA also supported).",
+    "language": "Python",
+    "stars": 1328,
+    "forks": 477,
+    "open_issues": 154,
+    "updated_at": "2026-09-09T20:09:04Z",
+    "pushed_at": "2026-09-09T20:06:13Z",
+    "topics": [
+      "automl",
+      "computer-vision",
+      "deep-learning",
+      "geti",
+      "image-classification",
+      "image-segmentation",
+      "incremental-learning",
+      "machine-learning",
+      "neural-networks-compression",
+      "object-detection",
+      "openvino",
+      "pytorch",
+      "quantization",
+      "self-supervised-learning",
+      "semi-supervised-learning",
+      "transfer-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 26.71,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 550,
+    "forks": 112,
+    "open_issues": 14,
+    "updated_at": "2026-09-09T15:53:18Z",
+    "pushed_at": "2026-09-09T15:46:51Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.44,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 451,
+    "forks": 100,
+    "open_issues": 627,
+    "updated_at": "2026-09-09T19:24:58Z",
+    "pushed_at": "2026-09-09T19:24:29Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 25.43,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "imaging",
+        "hospital"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1218,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-09T09:33:21Z",
+    "pushed_at": "2026-09-09T09:29:49Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 456,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-09-09T11:45:41Z",
+    "pushed_at": "2026-09-09T11:44:44Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.84,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 668,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-09-09T15:39:53Z",
+    "pushed_at": "2026-09-09T15:35:10Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.34,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "qiyanghong2020/ukbFound",
+    "name": "ukbFound",
+    "url": "https://github.com/qiyanghong2020/ukbFound",
+    "description": "Machine learning for deep phenotyping, patient stratification, and disease risk prediction. npj Digital Medicine (2026).",
+    "language": "Jupyter Notebook",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "updated_at": "2026-09-08T06:49:05Z",
+    "pushed_at": "2026-09-08T06:47:21Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 9.02
+  }
+]
