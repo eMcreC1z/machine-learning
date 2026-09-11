@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.41,
+    "seconds": 1.75,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-09-01"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.36,
+    "seconds": 1.57,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-01"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.33,
+    "seconds": 1.94,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-09-01"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.33,
+    "seconds": 1.76,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-09-01"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.28,
+    "seconds": 1.92,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-01"
   },
   {
@@ -50,16 +50,16 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.29,
+    "seconds": 1.97,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-09-01"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-09-01&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.174.227. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 0.31,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.76,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-09-01"
   },
   {
@@ -68,17 +68,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.91,
+    "seconds": 1.25,
     "repo": "K-Dense-AI/scientific-agent-skills"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/andrewekhalel/MLQuestions/readme",
+    "url": "https://api.github.com/repos/PyO3/pyo3/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.85,
-    "repo": "andrewekhalel/MLQuestions"
+    "seconds": 1.28,
+    "repo": "PyO3/pyo3"
   },
   {
     "source": "github_readme",
@@ -86,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.95,
+    "seconds": 1.47,
     "repo": "r0f1/datascience"
   },
   {
@@ -95,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.78,
+    "seconds": 1.41,
     "repo": "aipoch/open-science"
   },
   {
@@ -104,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.08,
+    "seconds": 1.69,
     "repo": "bobeff/programming-math-science"
   },
   {
@@ -113,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.1,
+    "seconds": 1.96,
     "repo": "uhub/awesome-matlab"
   },
   {
@@ -122,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.78,
+    "seconds": 1.52,
     "repo": "martinus/unordered_dense"
   },
   {
@@ -131,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.96,
+    "seconds": 1.4,
     "repo": "trevor-vincent/awesome-high-performance-computing"
   },
   {
@@ -140,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.02,
+    "seconds": 2.03,
     "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
   },
   {
@@ -149,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.07,
+    "seconds": 2.01,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -158,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.13,
+    "seconds": 1.79,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -167,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.2,
+    "seconds": 1.6,
     "repo": "liutaocode/TTS-arxiv-daily"
   },
   {
@@ -176,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.9,
+    "seconds": 1.56,
     "repo": "UKGovernmentBEIS/inspect_evals"
   },
   {
@@ -185,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.65,
+    "seconds": 1.09,
     "repo": "TissueImageAnalytics/tiatoolbox"
   },
   {
@@ -194,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.0,
+    "seconds": 1.3,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -203,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.31,
+    "seconds": 1.88,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -212,7 +212,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.27,
+    "seconds": 1.63,
     "repo": "fregu856/papers"
   },
   {
@@ -221,7 +221,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.12,
+    "seconds": 1.89,
     "repo": "leipzig/awesome-reproducible-research"
   },
   {
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.01
+    "seconds": 0.73
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.16
+    "seconds": 1.26
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 4.27
+    "seconds": 3.52
   }
 ]
