@@ -1,0 +1,449 @@
+[
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1247,
+    "forks": 157,
+    "open_issues": 8,
+    "updated_at": "2026-09-16T01:27:43Z",
+    "pushed_at": "2026-09-08T12:50:39Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 34.08,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 1882,
+    "forks": 174,
+    "open_issues": 8,
+    "updated_at": "2026-09-16T05:52:57Z",
+    "pushed_at": "2026-09-13T12:51:03Z",
+    "topics": [
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "science",
+      "single-cell"
+    ],
+    "application_area": "临床预测",
+    "score": 32.26,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "volcano-sh/volcano",
+    "name": "volcano",
+    "url": "https://github.com/volcano-sh/volcano",
+    "description": "A Cloud Native Batch System (Project under CNCF)",
+    "language": "Go",
+    "stars": 5950,
+    "forks": 1539,
+    "open_issues": 830,
+    "updated_at": "2026-09-16T07:49:27Z",
+    "pushed_at": "2026-09-16T07:17:25Z",
+    "topics": [
+      "ai",
+      "batch-systems",
+      "bigdata",
+      "gene",
+      "golang",
+      "hpc",
+      "kubernetes",
+      "machine-learning",
+      "serving",
+      "training"
+    ],
+    "application_area": "病理与组学",
+    "score": 30.48,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4669,
+    "forks": 715,
+    "open_issues": 0,
+    "updated_at": "2026-09-15T19:22:27Z",
+    "pushed_at": "2026-09-07T18:59:25Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.36,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "mims-harvard/ToolUniverse",
+    "name": "ToolUniverse",
+    "url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
+    "language": "Python",
+    "stars": 1686,
+    "forks": 256,
+    "open_issues": 16,
+    "updated_at": "2026-09-16T07:11:15Z",
+    "pushed_at": "2026-09-16T07:11:08Z",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-communication",
+      "ai-for-science",
+      "ai-scientists",
+      "automated-science",
+      "autonomous-agents",
+      "co-pilot",
+      "co-scientist",
+      "llms",
+      "lrm",
+      "mcp-servers",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "scientific-skill",
+      "tool-use"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.72,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "large language model"
+      ],
+      "medical": [
+        "diagnosis",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "open-edge-platform/geti",
+    "name": "geti",
+    "url": "https://github.com/open-edge-platform/geti",
+    "description": "Build, train, optimize, and run computer vision models locally, from raw images to live inference. Open source, optimized for Intel XPU (CPU-only and CUDA also supported).",
+    "language": "Python",
+    "stars": 1335,
+    "forks": 477,
+    "open_issues": 162,
+    "updated_at": "2026-09-16T07:06:10Z",
+    "pushed_at": "2026-09-16T08:09:47Z",
+    "topics": [
+      "automl",
+      "computer-vision",
+      "deep-learning",
+      "geti",
+      "image-classification",
+      "image-segmentation",
+      "incremental-learning",
+      "machine-learning",
+      "neural-networks-compression",
+      "object-detection",
+      "openvino",
+      "pytorch",
+      "quantization",
+      "self-supervised-learning",
+      "semi-supervised-learning",
+      "transfer-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 26.72,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3310,
+    "forks": 395,
+    "open_issues": 13,
+    "updated_at": "2026-09-16T08:09:04Z",
+    "pushed_at": "2026-09-16T07:15:28Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.58,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1221,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-16T06:59:09Z",
+    "pushed_at": "2026-09-16T06:59:04Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 668,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-09-16T02:26:55Z",
+    "pushed_at": "2026-09-16T02:26:51Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 23.14,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "FAST-Imaging/FAST",
+    "name": "FAST",
+    "url": "https://github.com/FAST-Imaging/FAST",
+    "description": "A framework for high-performance medical image processing, neural network inference and visualization",
+    "language": "C++",
+    "stars": 516,
+    "forks": 113,
+    "open_issues": 13,
+    "updated_at": "2026-09-16T07:53:55Z",
+    "pushed_at": "2026-09-16T07:53:50Z",
+    "topics": [
+      "deep-learning",
+      "digital-pathology",
+      "gpu-computing",
+      "image-processing",
+      "medical-imaging",
+      "opencl",
+      "parallel-computing",
+      "python",
+      "streaming",
+      "ultrasound",
+      "visualization"
+    ],
+    "application_area": "医学影像",
+    "score": 22.34
+  },
+  {
+    "full_name": "yuzhimanhua/Awesome-Scientific-Language-Models",
+    "name": "Awesome-Scientific-Language-Models",
+    "url": "https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models",
+    "description": "A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery (EMNLP'24)",
+    "language": "",
+    "stars": 665,
+    "forks": 37,
+    "open_issues": 0,
+    "updated_at": "2026-09-16T03:17:39Z",
+    "pushed_at": "2026-09-16T03:17:35Z",
+    "topics": [
+      "ai4science",
+      "awesome-resources",
+      "large-language-models",
+      "scientific-text-mining",
+      "survey"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 21.46,
+    "evidence_terms": {
+      "ml": [
+        "large language model",
+        "nlp"
+      ],
+      "medical": [
+        "medicine"
+      ]
+    }
+  },
+  {
+    "full_name": "DIAGNijmegen/rse-grand-challenge",
+    "name": "rse-grand-challenge",
+    "url": "https://github.com/DIAGNijmegen/rse-grand-challenge",
+    "description": "A platform for end-to-end development of machine learning solutions in biomedical imaging",
+    "language": "Python",
+    "stars": 193,
+    "forks": 57,
+    "open_issues": 30,
+    "updated_at": "2026-09-16T07:55:25Z",
+    "pushed_at": "2026-09-16T07:55:22Z",
+    "topics": [
+      "ai",
+      "challenges",
+      "computer-vision",
+      "django",
+      "django-rest-framework",
+      "docker",
+      "machine-learning",
+      "medical-imaging",
+      "python",
+      "reproducible-research"
+    ],
+    "application_area": "医学影像",
+    "score": 18.6
+  },
+  {
+    "full_name": "prathikshaa16/vision-transformers-medical-imaging",
+    "name": "vision-transformers-medical-imaging",
+    "url": "https://github.com/prathikshaa16/vision-transformers-medical-imaging",
+    "description": "Recent Advances in Vision Transformers for Medical Image Analysis: A Comparative Study of Deep Learning Approaches",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-16T07:41:50Z",
+    "pushed_at": "2026-09-16T07:41:46Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 6.8
+  },
+  {
+    "full_name": "Sun-lab/STpath-CRC",
+    "name": "STpath-CRC",
+    "url": "https://github.com/Sun-lab/STpath-CRC",
+    "description": "Deep learning models for pathological images of colorectal cancer",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-16T00:47:31Z",
+    "pushed_at": "2026-09-16T00:47:27Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  }
+]
