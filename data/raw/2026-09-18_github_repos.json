@@ -1,0 +1,425 @@
+[
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1249,
+    "forks": 157,
+    "open_issues": 8,
+    "updated_at": "2026-09-17T03:40:06Z",
+    "pushed_at": "2026-09-08T12:50:39Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 34.09,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 1889,
+    "forks": 175,
+    "open_issues": 8,
+    "updated_at": "2026-09-17T09:02:32Z",
+    "pushed_at": "2026-09-17T05:39:52Z",
+    "topics": [
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "science",
+      "single-cell"
+    ],
+    "application_area": "临床预测",
+    "score": 32.27,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "andrewekhalel/MLQuestions",
+    "name": "MLQuestions",
+    "url": "https://github.com/andrewekhalel/MLQuestions",
+    "description": "Machine Learning and Computer Vision Engineer - Technical Interview Questions",
+    "language": "Python",
+    "stars": 4891,
+    "forks": 798,
+    "open_issues": 6,
+    "updated_at": "2026-09-17T18:39:12Z",
+    "pushed_at": "2026-09-17T18:39:05Z",
+    "topics": [
+      "computer-vision-interview-questions",
+      "data-science-interview",
+      "data-science-interview-questions",
+      "data-science-interviews",
+      "deep-learning-interview",
+      "deep-learning-interview-questions",
+      "machine-learning-interview",
+      "machine-learning-interview-questions",
+      "ml-interview",
+      "ml-interview-prep",
+      "ml-interviews",
+      "nlp-interview-questions"
+    ],
+    "application_area": "临床预测",
+    "score": 29.71,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1967,
+    "forks": 239,
+    "open_issues": 37,
+    "updated_at": "2026-09-17T21:25:45Z",
+    "pushed_at": "2026-09-17T08:27:45Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.95,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 404,
+    "forks": 60,
+    "open_issues": 27,
+    "updated_at": "2026-09-17T20:23:13Z",
+    "pushed_at": "2026-09-17T20:23:08Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.71,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3325,
+    "forks": 397,
+    "open_issues": 12,
+    "updated_at": "2026-09-17T18:47:26Z",
+    "pushed_at": "2026-09-17T18:27:39Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.59,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1222,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-17T11:25:02Z",
+    "pushed_at": "2026-09-17T11:24:58Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 417,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-09-09T10:02:00Z",
+    "pushed_at": "2026-09-09T10:01:13Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 24.16,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "pathology",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 456,
+    "forks": 52,
+    "open_issues": 1,
+    "updated_at": "2026-09-17T11:20:53Z",
+    "pushed_at": "2026-09-17T11:20:49Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.83,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 668,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-09-17T15:54:15Z",
+    "pushed_at": "2026-09-17T15:54:10Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 23.14,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "supervisely/supervisely",
+    "name": "supervisely",
+    "url": "https://github.com/supervisely/supervisely",
+    "description": "Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task",
+    "language": "Python",
+    "stars": 545,
+    "forks": 78,
+    "open_issues": 81,
+    "updated_at": "2026-09-17T19:56:44Z",
+    "pushed_at": "2026-09-17T19:56:42Z",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "neural-networks",
+      "python"
+    ],
+    "application_area": "医学影像",
+    "score": 21.6,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "KatherLab/MediSwarm",
+    "name": "MediSwarm",
+    "url": "https://github.com/KatherLab/MediSwarm",
+    "description": "MediSwarm is an open-source project for advancing medical deep learning using swarm intelligence and NVFlare. Developed by the Odelia consortium, it ensures data privacy through federated learning, enabling collaborative, decentralized model training across institutions for improved medical research and applications.",
+    "language": "Python",
+    "stars": 4,
+    "forks": 3,
+    "open_issues": 60,
+    "updated_at": "2026-09-17T15:22:22Z",
+    "pushed_at": "2026-09-17T15:22:19Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 9.7
+  },
+  {
+    "full_name": "talmeillet/Final-Project-Predicting-Infections-during-Hospitalization-among-Postsurgical-Patients",
+    "name": "Final-Project-Predicting-Infections-during-Hospitalization-among-Postsurgical-Patients",
+    "url": "https://github.com/talmeillet/Final-Project-Predicting-Infections-during-Hospitalization-among-Postsurgical-Patients",
+    "description": "A multimodal clinical AI framework for early prediction of postoperative infections using structured EHR data, Hebrew clinical narratives, machine learning, and NLP.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-17T23:26:25Z",
+    "pushed_at": "2026-09-17T23:26:21Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
+  },
+  {
+    "full_name": "Sun-lab/STpath-CRC",
+    "name": "STpath-CRC",
+    "url": "https://github.com/Sun-lab/STpath-CRC",
+    "description": "Deep learning models for pathological images of colorectal cancer",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-16T00:47:31Z",
+    "pushed_at": "2026-09-16T00:47:27Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 5.86
+  }
+]
