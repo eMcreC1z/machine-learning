@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.2,
+    "seconds": 1.52,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-09-08"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.9,
+    "seconds": 1.77,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-08"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.35,
+    "seconds": 1.38,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-09-08"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.81,
+    "seconds": 2.49,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-09-08"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.56,
+    "seconds": 2.17,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-08"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.61,
+    "seconds": 1.53,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-09-08"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.92,
+    "seconds": 1.8,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-09-08"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.26,
+    "seconds": 1.39,
     "repo": "andrewekhalel/MLQuestions"
   },
   {
@@ -77,26 +77,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.72,
+    "seconds": 0.99,
     "repo": "aipoch/open-science"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/NVIDIA/skills/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.6,
-    "repo": "NVIDIA/skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai4s-research/awesome-ai-for-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.75,
-    "repo": "ai4s-research/awesome-ai-for-science"
   },
   {
     "source": "github_readme",
@@ -104,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.17,
+    "seconds": 1.21,
     "repo": "aipoch/medical-research-skills"
   },
   {
@@ -113,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.86,
+    "seconds": 1.74,
     "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
   },
   {
@@ -122,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.68,
+    "seconds": 1.61,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -131,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.55,
+    "seconds": 2.1,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -149,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.51,
+    "seconds": 1.76,
     "repo": "liutaocode/TTS-arxiv-daily"
   },
   {
@@ -158,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.9,
+    "seconds": 0.98,
     "repo": "supervisely/supervisely"
   },
   {
@@ -167,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.7,
+    "seconds": 1.47,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -176,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.89,
+    "seconds": 0.77,
     "repo": "luohongk/Embodied-AI-Daily"
   },
   {
@@ -185,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.33,
+    "seconds": 1.41,
     "repo": "zapplyjobs/awesome-ml-internships-2027"
   },
   {
@@ -194,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.67,
+    "seconds": 1.41,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -203,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.95,
+    "seconds": 1.59,
     "repo": "fregu856/papers"
   },
   {
@@ -212,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.38,
+    "seconds": 1.39,
     "repo": "leipzig/awesome-reproducible-research"
   },
   {
@@ -221,8 +203,26 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.82,
+    "seconds": 0.94,
     "repo": "Jianqiuer/Awesome6DPoseEstimation"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Aperivue/medsci-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.33,
+    "repo": "Aperivue/medsci-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/kaapana/kaapana/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.95,
+    "repo": "kaapana/kaapana"
   },
   {
     "source": "pubmed_esearch",
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 4.03
+    "seconds": 1.49
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.7
+    "seconds": 1.92
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.63
+    "seconds": 2.86
   }
 ]

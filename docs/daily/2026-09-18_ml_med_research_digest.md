@@ -1,6 +1,6 @@
 # 医学机器学习自动整理日报 - 2026-09-18
 
-> 自动采集时间：2026-09-18 07:48:53。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-09-18 09:19:45。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
@@ -16,17 +16,17 @@
 | 1 | [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) | 1249 | 2026-09-17T03:40:06Z | 医学影像 | Latest Advances on Agentic AI & AI Agents for Healthcare；评分 34.09 |
 | 2 | [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | 1889 | 2026-09-17T09:02:32Z | 临床预测 | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.；评分 32.27 |
 | 3 | [andrewekhalel/MLQuestions](https://github.com/andrewekhalel/MLQuestions) | 4891 | 2026-09-17T18:39:12Z | 临床预测 | Machine Learning and Computer Vision Engineer - Technical Interview Questions；评分 29.71 |
-| 4 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1967 | 2026-09-17T21:25:45Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
-| 5 | [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) | 404 | 2026-09-17T20:23:13Z | 医学影像 | A curated list of reproducible research case studies, projects, tutorials, and media；评分 27.71 |
-| 6 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 3325 | 2026-09-17T18:47:26Z | 临床文本与大模型 | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows e... |
-| 7 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1222 | 2026-09-17T11:25:02Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.77 |
-| 8 | [fregu856/papers](https://github.com/fregu856/papers) | 417 | 2026-09-09T10:02:00Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).；评分 24.16 |
-| 9 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 456 | 2026-09-17T11:20:53Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.83 |
+| 4 | [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) | 404 | 2026-09-17T20:23:13Z | 医学影像 | A curated list of reproducible research case studies, projects, tutorials, and media；评分 27.71 |
+| 5 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1222 | 2026-09-17T11:25:02Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.77 |
+| 6 | [kaapana/kaapana](https://github.com/kaapana/kaapana) | 275 | 2026-09-17T17:28:35Z | 医学影像 | Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflow... |
+| 7 | [fregu856/papers](https://github.com/fregu856/papers) | 417 | 2026-09-09T10:02:00Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).；评分 24.16 |
+| 8 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 456 | 2026-09-17T11:20:53Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.83 |
+| 9 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 306 | 2026-09-17T12:15:05Z | 医学影像 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Co... |
 | 10 | [liutaocode/TTS-arxiv-daily](https://github.com/liutaocode/TTS-arxiv-daily) | 668 | 2026-09-17T15:54:15Z | 医学影像 | Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)；评分 23.14 |
 | 11 | [supervisely/supervisely](https://github.com/supervisely/supervisely) | 545 | 2026-09-17T19:56:44Z | 医学影像 | Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task；评分 21.6 |
 | 12 | [KatherLab/MediSwarm](https://github.com/KatherLab/MediSwarm) | 4 | 2026-09-17T15:22:22Z | 综合医学机器学习 | MediSwarm is an open-source project for advancing medical deep learning using swarm intelligence and NVFlare. Developed by the Odelia consortium, it ensures da... |
 | 13 | [talmeillet/Final-Project-Predicting-Infections-during-Hospi...](https://github.com/talmeillet/Final-Project-Predicting-Infections-during-Hospitalization-among-Postsurgical-Patients) | 0 | 2026-09-17T23:26:25Z | 临床预测 | A multimodal clinical AI framework for early prediction of postoperative infections using structured EHR data, Hebrew clinical narratives, machine learning, an... |
-| 14 | [Sun-lab/STpath-CRC](https://github.com/Sun-lab/STpath-CRC) | 0 | 2026-09-16T00:47:31Z | 综合医学机器学习 | Deep learning models for pathological images of colorectal cancer；评分 5.86 |
+| 14 | [Sun-lab/STpath-CRC](https://github.com/Sun-lab/STpath-CRC) | 0 | 2026-09-16T00:47:31Z | 综合医学机器学习 | Deep learning models for pathological images of colorectal cancer；评分 5.71 |
 
 ## 高水平论文候选
 
@@ -57,7 +57,6 @@
 
 ### 临床文本与大模型
 
-- 可复用项目：[NVIDIA/skills](https://github.com/NVIDIA/skills)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Exploratory Implementation and Feasibility Report of CLASS (Clinical LLM Abstraction & Structuring System), A Large Language Model Pipeline for Extracting Unstructured Data From Clinical Notes.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
@@ -105,33 +104,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=2.2
-- github: OK; status=200; seconds=1.9
-- github: OK; status=200; seconds=1.35
-- github: OK; status=200; seconds=1.81
-- github: OK; status=200; seconds=1.56
-- github: OK; status=200; seconds=1.61
-- github: OK; status=200; seconds=1.92
+- github: OK; status=200; seconds=1.52
+- github: OK; status=200; seconds=1.77
+- github: OK; status=200; seconds=1.38
+- github: OK; status=200; seconds=2.49
+- github: OK; status=200; seconds=2.17
+- github: OK; status=200; seconds=1.53
+- github: OK; status=200; seconds=1.8
+- github_readme: OK; status=200; seconds=1.39
+- github_readme: OK; status=200; seconds=0.99
+- github_readme: OK; status=200; seconds=1.21
+- github_readme: OK; status=200; seconds=1.74
+- github_readme: OK; status=200; seconds=1.61
+- github_readme: OK; status=200; seconds=2.1
 - github_readme: OK; status=200; seconds=1.26
-- github_readme: OK; status=200; seconds=2.72
-- github_readme: OK; status=200; seconds=1.6
-- github_readme: OK; status=200; seconds=1.75
-- github_readme: OK; status=200; seconds=1.17
-- github_readme: OK; status=200; seconds=1.86
-- github_readme: OK; status=200; seconds=1.68
-- github_readme: OK; status=200; seconds=1.55
-- github_readme: OK; status=200; seconds=1.26
-- github_readme: OK; status=200; seconds=1.51
-- github_readme: OK; status=200; seconds=0.9
-- github_readme: OK; status=200; seconds=1.7
-- github_readme: OK; status=200; seconds=0.89
+- github_readme: OK; status=200; seconds=1.76
+- github_readme: OK; status=200; seconds=0.98
+- github_readme: OK; status=200; seconds=1.47
+- github_readme: OK; status=200; seconds=0.77
+- github_readme: OK; status=200; seconds=1.41
+- github_readme: OK; status=200; seconds=1.41
+- github_readme: OK; status=200; seconds=1.59
+- github_readme: OK; status=200; seconds=1.39
+- github_readme: OK; status=200; seconds=0.94
 - github_readme: OK; status=200; seconds=1.33
-- github_readme: OK; status=200; seconds=1.67
-- github_readme: OK; status=200; seconds=1.95
-- github_readme: OK; status=200; seconds=1.38
-- github_readme: OK; status=200; seconds=0.82
-- pubmed_esearch: OK; status=200; seconds=4.03
-- pubmed_esummary: OK; status=200; seconds=1.7
-- crossref: OK; status=200; seconds=2.63
+- github_readme: OK; status=200; seconds=0.95
+- pubmed_esearch: OK; status=200; seconds=1.49
+- pubmed_esummary: OK; status=200; seconds=1.92
+- crossref: OK; status=200; seconds=2.86
 
 本次运行已完成：2026-09-18_ml_med_research_digest.md
