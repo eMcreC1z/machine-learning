@@ -1,0 +1,517 @@
+[
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 1888,
+    "forks": 175,
+    "open_issues": 8,
+    "updated_at": "2026-09-18T16:58:04Z",
+    "pushed_at": "2026-09-17T05:39:52Z",
+    "topics": [
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "science",
+      "single-cell"
+    ],
+    "application_area": "临床预测",
+    "score": 32.27,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 482,
+    "forks": 48,
+    "open_issues": 1,
+    "updated_at": "2026-09-18T08:39:53Z",
+    "pushed_at": "2026-09-18T08:39:49Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 30.47,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "radiology",
+        "imaging",
+        "pathology",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 1968,
+    "forks": 239,
+    "open_issues": 37,
+    "updated_at": "2026-09-18T15:51:50Z",
+    "pushed_at": "2026-09-18T08:41:11Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 27.95,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 404,
+    "forks": 60,
+    "open_issues": 27,
+    "updated_at": "2026-09-19T02:30:50Z",
+    "pushed_at": "2026-09-19T02:30:52Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.71,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3350,
+    "forks": 401,
+    "open_issues": 14,
+    "updated_at": "2026-09-19T01:15:34Z",
+    "pushed_at": "2026-09-19T00:31:39Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.61,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1222,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-18T13:28:08Z",
+    "pushed_at": "2026-09-18T13:28:04Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 275,
+    "forks": 67,
+    "open_issues": 1,
+    "updated_at": "2026-09-17T17:28:35Z",
+    "pushed_at": "2026-09-18T13:26:38Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 24.37,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 417,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-09-09T10:02:00Z",
+    "pushed_at": "2026-09-09T10:01:13Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 24.02,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "pathology",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 456,
+    "forks": 52,
+    "open_issues": 1,
+    "updated_at": "2026-09-18T10:56:07Z",
+    "pushed_at": "2026-09-18T10:56:03Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.83,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "Aperivue/medsci-skills",
+    "name": "medsci-skills",
+    "url": "https://github.com/Aperivue/medsci-skills",
+    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+    "language": "Python",
+    "stars": 308,
+    "forks": 73,
+    "open_issues": 5,
+    "updated_at": "2026-09-19T02:18:54Z",
+    "pushed_at": "2026-09-15T11:28:17Z",
+    "topics": [
+      "agent-skills",
+      "biostatistics",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "codex",
+      "cursor",
+      "diagnostic-accuracy",
+      "irb-protocol",
+      "literature-review",
+      "manuscript",
+      "medical-ai",
+      "medical-research",
+      "meta-analysis",
+      "physician-researcher",
+      "prisma",
+      "pubmed",
+      "radiology",
+      "reporting-guidelines",
+      "systematic-review"
+    ],
+    "application_area": "医学影像",
+    "score": 23.56,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 668,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-09-19T02:19:06Z",
+    "pushed_at": "2026-09-19T02:19:03Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 23.14,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 724,
+    "forks": 124,
+    "open_issues": 113,
+    "updated_at": "2026-09-18T11:10:15Z",
+    "pushed_at": "2026-09-18T08:06:52Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-ai",
+      "awesome-ai-agents",
+      "awesome-ai-tools",
+      "awesome-list",
+      "awesome-skills",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 22.19,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "Tolu-Oye/alzheimers-mri-segmentation",
+    "name": "alzheimers-mri-segmentation",
+    "url": "https://github.com/Tolu-Oye/alzheimers-mri-segmentation",
+    "description": "Deep learning project for brain MRI segmentation in Alzheimer’s disease using U-Net and U-Net++.",
+    "language": "Jupyter Notebook",
+    "stars": 8,
+    "forks": 6,
+    "open_issues": 0,
+    "updated_at": "2026-09-18T22:14:56Z",
+    "pushed_at": "2026-09-18T22:14:52Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 12.68
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 21,
+    "updated_at": "2026-09-19T02:06:27Z",
+    "pushed_at": "2026-09-19T02:06:23Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.18
+  },
+  {
+    "full_name": "Cheesenoice/multimodal-pathology-genomics-brca",
+    "name": "multimodal-pathology-genomics-brca",
+    "url": "https://github.com/Cheesenoice/multimodal-pathology-genomics-brca",
+    "description": "An End-to-End Multimodal Deep Learning Framework Integrating Gigapixel WSIs and RNA-Seq Transcriptomics for Breast Cancer PAM50 Subtyping, Long-Term Survival Prognosis, and Dual-Domain Explainable AI (TCGA-BRCA).",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-18T17:39:07Z",
+    "pushed_at": "2026-09-18T17:39:03Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 10.0
+  },
+  {
+    "full_name": "KatherLab/MediSwarm",
+    "name": "MediSwarm",
+    "url": "https://github.com/KatherLab/MediSwarm",
+    "description": "MediSwarm is an open-source project for advancing medical deep learning using swarm intelligence and NVFlare. Developed by the Odelia consortium, it ensures data privacy through federated learning, enabling collaborative, decentralized model training across institutions for improved medical research and applications.",
+    "language": "Python",
+    "stars": 4,
+    "forks": 3,
+    "open_issues": 60,
+    "updated_at": "2026-09-18T09:44:14Z",
+    "pushed_at": "2026-09-18T15:54:07Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 9.7
+  },
+  {
+    "full_name": "LukeH479/multimodal-pe-fusion-dissertation",
+    "name": "multimodal-pe-fusion-dissertation",
+    "url": "https://github.com/LukeH479/multimodal-pe-fusion-dissertation",
+    "description": "Multimodal CT–EHR fusion for pulmonary embolism diagnosis and prognosis using heterogeneous deep learning ensembles",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-18T17:05:13Z",
+    "pushed_at": "2026-09-18T17:05:09Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 8.4
+  }
+]
