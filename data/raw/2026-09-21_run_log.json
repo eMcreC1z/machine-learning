@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.17,
+    "seconds": 5.07,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-09-11"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.3,
+    "seconds": 1.27,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-11"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.84,
+    "seconds": 1.14,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-09-11"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.14,
+    "seconds": 1.65,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-09-11"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.04,
+    "seconds": 1.37,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-11"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.49,
+    "seconds": 3.57,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-09-11"
   },
   {
@@ -59,35 +59,26 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.82,
+    "seconds": 2.61,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-09-11"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/fffaraz/awesome-cpp/readme",
+    "url": "https://api.github.com/repos/practical-tutorials/project-based-learning/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.24,
-    "repo": "fffaraz/awesome-cpp"
+    "seconds": 0.77,
+    "repo": "practical-tutorials/project-based-learning"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/rust-unofficial/awesome-rust/readme",
+    "url": "https://api.github.com/repos/BehiSecc/awesome-claude-skills/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.53,
-    "repo": "rust-unofficial/awesome-rust"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/lucidrains/vit-pytorch/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.3,
-    "repo": "lucidrains/vit-pytorch"
+    "seconds": 0.73,
+    "repo": "BehiSecc/awesome-claude-skills"
   },
   {
     "source": "github_readme",
@@ -95,17 +86,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.89,
+    "seconds": 0.79,
     "repo": "aipoch/open-science"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/ai4s-research/awesome-ai-for-science/readme",
+    "url": "https://api.github.com/repos/alvinreal/awesome-opensource-ai/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.27,
-    "repo": "ai4s-research/awesome-ai-for-science"
+    "seconds": 0.99,
+    "repo": "alvinreal/awesome-opensource-ai"
   },
   {
     "source": "github_readme",
@@ -113,17 +104,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.19,
+    "seconds": 0.77,
     "repo": "aipoch/medical-research-skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/huang-sir1/radiology-skills/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.11,
-    "repo": "huang-sir1/radiology-skills"
   },
   {
     "source": "github_readme",
@@ -131,8 +113,17 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.81,
+    "seconds": 0.65,
     "repo": "mims-harvard/ToolUniverse"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/open-edge-platform/geti/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.73,
+    "repo": "open-edge-platform/geti"
   },
   {
     "source": "github_readme",
@@ -140,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.38,
+    "seconds": 2.77,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -149,17 +140,35 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.22,
+    "seconds": 4.57,
     "repo": "superiorlu/AITreasureBox"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/luohongk/Embodied-AI-Daily/readme",
+    "url": "https://api.github.com/repos/UKGovernmentBEIS/inspect_evals/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.9,
-    "repo": "luohongk/Embodied-AI-Daily"
+    "seconds": 1.04,
+    "repo": "UKGovernmentBEIS/inspect_evals"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/trackawesomelist/trackawesomelist/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.29,
+    "repo": "trackawesomelist/trackawesomelist"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/liutaocode/TTS-arxiv-daily/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.34,
+    "repo": "liutaocode/TTS-arxiv-daily"
   },
   {
     "source": "github_readme",
@@ -167,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.18,
+    "seconds": 1.07,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -176,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.21,
+    "seconds": 1.17,
     "repo": "zapplyjobs/awesome-ml-internships-2027"
   },
   {
@@ -185,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.41,
+    "seconds": 1.33,
     "repo": "zezhishao/DailyArXiv"
   },
   {
@@ -194,35 +203,26 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.38,
+    "seconds": 1.19,
     "repo": "leipzig/awesome-reproducible-research"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/Aperivue/medsci-skills/readme",
+    "url": "https://api.github.com/repos/Kaleidophon/deep-significance/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.55,
-    "repo": "Aperivue/medsci-skills"
+    "seconds": 0.99,
+    "repo": "Kaleidophon/deep-significance"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/Foruck/Awesome-Human-Motion/readme",
+    "url": "https://api.github.com/repos/Jianqiuer/Awesome6DPoseEstimation/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.45,
-    "repo": "Foruck/Awesome-Human-Motion"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/kaapana/kaapana/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.91,
-    "repo": "kaapana/kaapana"
+    "seconds": 1.39,
+    "repo": "Jianqiuer/Awesome6DPoseEstimation"
   },
   {
     "source": "pubmed_esearch",
@@ -230,15 +230,15 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.03
+    "seconds": 1.0
   },
   {
     "source": "pubmed_esummary",
-    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42763871%2C42763813%2C42763730%2C42763653%2C42763542%2C42763541%2C42763426%2C42763412%2C42763332%2C42763331%2C42763319%2C42763258%2C42763257%2C42763252%2C42763092%2C42763082%2C42762955%2C42762926%2C42762846%2C42762659%2C42762598%2C42762382%2C42762293%2C42762281%2C42762227%2C42762207%2C42762172%2C42762153%2C42762115%2C42762081%2C42761937%2C42761841%2C42761820%2C42761724%2C42761635%2C42761566%2C42761482%2C42761271%2C42761253%2C42761247",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42764073%2C42764067%2C42763991%2C42763979%2C42763978%2C42763976%2C42763965%2C42763871%2C42763813%2C42763730%2C42763653%2C42763542%2C42763541%2C42763426%2C42763412%2C42763332%2C42763331%2C42763319%2C42763258%2C42763257%2C42763252%2C42763092%2C42763082%2C42762955%2C42762926%2C42762846%2C42762659%2C42762598%2C42762382%2C42762293%2C42762281%2C42762227%2C42762207%2C42762172%2C42762153%2C42762115%2C42762081%2C42761937%2C42761841%2C42761820",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.52
+    "seconds": 1.31
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.76
+    "seconds": 2.83
   }
 ]
