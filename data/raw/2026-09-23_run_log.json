@@ -1,0 +1,251 @@
+[
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-09-13&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.78,
+    "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-09-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-09-13&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.35,
+    "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22radiomics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-09-13&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.39,
+    "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-09-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-09-13&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.32,
+    "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-09-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-09-13&sort=updated&order=desc&per_page=20",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.25,
+    "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-09-13&sort=updated&order=desc&per_page=20",
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.200.205. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.36,
+    "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-09-13"
+  },
+  {
+    "source": "github",
+    "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-09-13&sort=updated&order=desc&per_page=20",
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.200.205. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.31,
+    "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-09-13"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/aipoch/open-science/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.92,
+    "repo": "aipoch/open-science"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/NVIDIA/skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.85,
+    "repo": "NVIDIA/skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/aipoch/medical-research-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.86,
+    "repo": "aipoch/medical-research-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/uhub/awesome-matlab/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.44,
+    "repo": "uhub/awesome-matlab"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/JunMa11/MICCAI-OpenSourcePapers/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.08,
+    "repo": "JunMa11/MICCAI-OpenSourcePapers"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/liliu-avril/Awesome-Segment-Anything/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.12,
+    "repo": "liliu-avril/Awesome-Segment-Anything"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/AspirinCode/papers-for-molecular-design-using-DL/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.31,
+    "repo": "AspirinCode/papers-for-molecular-design-using-DL"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/superiorlu/AITreasureBox/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.29,
+    "repo": "superiorlu/AITreasureBox"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.09,
+    "repo": "zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/UKGovernmentBEIS/inspect_evals/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.93,
+    "repo": "UKGovernmentBEIS/inspect_evals"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/imteekay/machine-learning-research/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.05,
+    "repo": "imteekay/machine-learning-research"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zapplyjobs/awesome-ml-internships-2027/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.0,
+    "repo": "zapplyjobs/awesome-ml-internships-2027"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zezhishao/DailyArXiv/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.22,
+    "repo": "zezhishao/DailyArXiv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/leipzig/awesome-reproducible-research/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.05,
+    "repo": "leipzig/awesome-reproducible-research"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/xiejhhhhhh/Draftpaper_loop/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.11,
+    "repo": "xiejhhhhhh/Draftpaper_loop"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Aperivue/medsci-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.94,
+    "repo": "Aperivue/medsci-skills"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/kaapana/kaapana/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 0.78,
+    "repo": "kaapana/kaapana"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/workopia/US-New-Grad-Internship-Jobs/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.34,
+    "repo": "workopia/US-New-Grad-Internship-Jobs"
+  },
+  {
+    "source": "pubmed_esearch",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28%28machine+learning%5BTitle%2FAbstract%5D%29+OR+%28deep+learning%5BTitle%2FAbstract%5D%29+OR+%28artificial+intelligence%5BTitle%2FAbstract%5D%29+OR+%28foundation+model%5BTitle%2FAbstract%5D%29+OR+%28large+language+model%5BTitle%2FAbstract%5D%29%29+AND+%28%28medicine%5BTitle%2FAbstract%5D%29+OR+%28clinical%5BTitle%2FAbstract%5D%29+OR+%28diagnosis%5BTitle%2FAbstract%5D%29+OR+%28prognosis%5BTitle%2FAbstract%5D%29+OR+%28medical+imaging%5BTitle%2FAbstract%5D%29+OR+%28radiology%5BTitle%2FAbstract%5D%29+OR+%28pathology%5BTitle%2FAbstract%5D%29+OR+%28genomics%5BTitle%2FAbstract%5D%29+OR+%28multi-omics%5BTitle%2FAbstract%5D%29+OR+%28electronic+health+records%5BTitle%2FAbstract%5D%29%29&retmode=json&retmax=40&sort=pub%2Bdate&datetype=pdat&mindate=2026%2F09%2F13&maxdate=2026%2F09%2F23",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.11
+  },
+  {
+    "source": "pubmed_esummary",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42773068%2C42773006%2C42772970%2C42772888%2C42772813%2C42772752%2C42772750%2C42772748%2C42772745%2C42772740%2C42772687%2C42772683%2C42772657%2C42772604%2C42772585%2C42772582%2C42772536%2C42772466%2C42772460%2C42772386%2C42772332%2C42772311%2C42772256%2C42772249%2C42772131%2C42772054%2C42771980%2C42771946%2C42771945%2C42771911%2C42771890%2C42771885%2C42771879%2C42771831%2C42771802%2C42771768%2C42771714%2C42771641%2C42771639%2C42771632",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.55
+  },
+  {
+    "source": "crossref",
+    "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-09-13%2Cuntil-pub-date%3A2026-09-23%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 3.94
+  }
+]
