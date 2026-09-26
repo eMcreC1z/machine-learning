@@ -1,0 +1,476 @@
+[
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 1919,
+    "forks": 175,
+    "open_issues": 8,
+    "updated_at": "2026-09-25T23:12:21Z",
+    "pushed_at": "2026-09-17T05:39:52Z",
+    "topics": [
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "science",
+      "single-cell"
+    ],
+    "application_area": "临床预测",
+    "score": 32.3,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 484,
+    "forks": 48,
+    "open_issues": 1,
+    "updated_at": "2026-09-26T01:47:20Z",
+    "pushed_at": "2026-09-26T01:47:16Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 30.48,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "radiology",
+        "imaging",
+        "pathology",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8709,
+    "forks": 1630,
+    "open_issues": 522,
+    "updated_at": "2026-09-26T01:55:07Z",
+    "pushed_at": "2026-09-25T20:12:56Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.78,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 405,
+    "forks": 60,
+    "open_issues": 27,
+    "updated_at": "2026-09-22T21:00:38Z",
+    "pushed_at": "2026-09-22T21:00:31Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.28,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 416,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-09-23T09:27:46Z",
+    "pushed_at": "2026-09-23T09:27:42Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 25.82,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "pathology",
+        "disease",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1222,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-24T03:33:08Z",
+    "pushed_at": "2026-09-24T03:33:05Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.63,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "hazratali/awesome-ai-summerschool",
+    "name": "awesome-ai-summerschool",
+    "url": "https://github.com/hazratali/awesome-ai-summerschool",
+    "description": "An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare",
+    "language": "",
+    "stars": 738,
+    "forks": 62,
+    "open_issues": 0,
+    "updated_at": "2026-09-25T10:54:21Z",
+    "pushed_at": "2026-09-25T10:54:17Z",
+    "topics": [
+      "artificial-intelligence",
+      "courses",
+      "deep-learning",
+      "machine-learning",
+      "summer-school"
+    ],
+    "application_area": "医学影像",
+    "score": 24.57,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 452,
+    "forks": 101,
+    "open_issues": 637,
+    "updated_at": "2026-09-24T20:04:48Z",
+    "pushed_at": "2026-09-24T20:04:44Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 24.09,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "foundation model",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 456,
+    "forks": 52,
+    "open_issues": 1,
+    "updated_at": "2026-09-25T11:32:44Z",
+    "pushed_at": "2026-09-25T11:32:40Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.83,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "Aperivue/medsci-skills",
+    "name": "medsci-skills",
+    "url": "https://github.com/Aperivue/medsci-skills",
+    "description": "Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication figures, submission. Works with Claude Code, Codex, Cursor & GitHub Copilot. Built by a physician-researcher, tested on real publications. MIT.",
+    "language": "Python",
+    "stars": 315,
+    "forks": 75,
+    "open_issues": 5,
+    "updated_at": "2026-09-26T01:10:51Z",
+    "pushed_at": "2026-09-26T01:10:50Z",
+    "topics": [
+      "agent-skills",
+      "biostatistics",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "codex",
+      "cursor",
+      "diagnostic-accuracy",
+      "irb-protocol",
+      "literature-review",
+      "manuscript",
+      "medical-ai",
+      "medical-research",
+      "meta-analysis",
+      "physician-researcher",
+      "prisma",
+      "pubmed",
+      "radiology",
+      "reporting-guidelines",
+      "systematic-review"
+    ],
+    "application_area": "医学影像",
+    "score": 23.62,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "LidiaGarrucho/MAMA-MIA",
+    "name": "MAMA-MIA",
+    "url": "https://github.com/LidiaGarrucho/MAMA-MIA",
+    "description": "The MAMA-MIA Dataset: A Multi-Center Breast Cancer DCE-MRI Public Dataset with Expert Segmentations",
+    "language": "Jupyter Notebook",
+    "stars": 116,
+    "forks": 13,
+    "open_issues": 5,
+    "updated_at": "2026-09-23T12:57:29Z",
+    "pushed_at": "2026-09-23T12:57:25Z",
+    "topics": [
+      "3d-segmentation",
+      "benchmark-dataset",
+      "breast-cancer",
+      "breast-cancer-dataset",
+      "cancer-imaging-research",
+      "dce-mri",
+      "deep-learning",
+      "foundation-models",
+      "medical-imaging",
+      "mri-images",
+      "mri-segmentation",
+      "nnunet-v2",
+      "pretrained-models",
+      "pretrained-weights",
+      "public-dataset",
+      "radiomics",
+      "tumor-classification",
+      "tumor-segmentation"
+    ],
+    "application_area": "医学影像",
+    "score": 18.91
+  },
+  {
+    "full_name": "DIAGNijmegen/rse-grand-challenge",
+    "name": "rse-grand-challenge",
+    "url": "https://github.com/DIAGNijmegen/rse-grand-challenge",
+    "description": "A platform for end-to-end development of machine learning solutions in biomedical imaging",
+    "language": "Python",
+    "stars": 193,
+    "forks": 57,
+    "open_issues": 28,
+    "updated_at": "2026-09-25T19:29:46Z",
+    "pushed_at": "2026-09-25T19:29:43Z",
+    "topics": [
+      "ai",
+      "challenges",
+      "computer-vision",
+      "django",
+      "django-rest-framework",
+      "docker",
+      "machine-learning",
+      "medical-imaging",
+      "python",
+      "reproducible-research"
+    ],
+    "application_area": "医学影像",
+    "score": 18.6
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 12,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-09-26T00:55:06Z",
+    "pushed_at": "2026-09-26T00:55:02Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 13.1
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 21,
+    "updated_at": "2026-09-26T02:07:25Z",
+    "pushed_at": "2026-09-26T02:07:22Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.18
+  },
+  {
+    "full_name": "KatherLab/MediSwarm",
+    "name": "MediSwarm",
+    "url": "https://github.com/KatherLab/MediSwarm",
+    "description": "MediSwarm is an open-source project for advancing medical deep learning using swarm intelligence and NVFlare. Developed by the Odelia consortium, it ensures data privacy through federated learning, enabling collaborative, decentralized model training across institutions for improved medical research and applications.",
+    "language": "Python",
+    "stars": 4,
+    "forks": 3,
+    "open_issues": 58,
+    "updated_at": "2026-09-25T12:23:25Z",
+    "pushed_at": "2026-09-25T12:23:22Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 9.7
+  }
+]
