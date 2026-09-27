@@ -1,0 +1,396 @@
+[
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 484,
+    "forks": 48,
+    "open_issues": 1,
+    "updated_at": "2026-09-27T10:57:50Z",
+    "pushed_at": "2026-09-27T10:57:46Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 30.48,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "radiology",
+        "imaging",
+        "pathology",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8715,
+    "forks": 1634,
+    "open_issues": 523,
+    "updated_at": "2026-09-27T19:43:52Z",
+    "pushed_at": "2026-09-27T21:08:39Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.78,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "seandavi/awesome-single-cell",
+    "name": "awesome-single-cell",
+    "url": "https://github.com/seandavi/awesome-single-cell",
+    "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
+    "language": "",
+    "stars": 3863,
+    "forks": 1094,
+    "open_issues": 12,
+    "updated_at": "2026-09-27T21:07:52Z",
+    "pushed_at": "2026-09-27T21:07:42Z",
+    "topics": [
+      "analysis-pipeline",
+      "atac-seq",
+      "awesome-list",
+      "bioinformatics",
+      "cell-clusters",
+      "cell-differentiation",
+      "cell-populations",
+      "clustering",
+      "data-integration",
+      "data-visualization",
+      "dimensionality-reduction",
+      "gene-expression",
+      "gene-expression-profiles",
+      "python",
+      "rna-seq-data",
+      "rna-seq-experiments",
+      "scrna-seq-data",
+      "single-cell",
+      "spatial-transcriptomics"
+    ],
+    "application_area": "医学影像",
+    "score": 28.11,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1223,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-27T04:40:19Z",
+    "pushed_at": "2026-09-27T04:40:16Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 582,
+    "forks": 62,
+    "open_issues": 0,
+    "updated_at": "2026-09-26T23:59:48Z",
+    "pushed_at": "2026-09-26T23:59:44Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.76,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 456,
+    "forks": 52,
+    "open_issues": 1,
+    "updated_at": "2026-09-25T11:32:44Z",
+    "pushed_at": "2026-09-25T11:32:40Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.54,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 452,
+    "forks": 101,
+    "open_issues": 638,
+    "updated_at": "2026-09-27T19:50:39Z",
+    "pushed_at": "2026-09-27T19:50:34Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 23.04,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "neural network"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 729,
+    "forks": 133,
+    "open_issues": 125,
+    "updated_at": "2026-09-27T17:04:25Z",
+    "pushed_at": "2026-09-27T09:26:44Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-ai",
+      "awesome-ai-agents",
+      "awesome-ai-tools",
+      "awesome-list",
+      "awesome-skills",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 22.24,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 668,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-09-27T16:03:23Z",
+    "pushed_at": "2026-09-27T16:03:19Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 20.54,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "LidiaGarrucho/MAMA-MIA",
+    "name": "MAMA-MIA",
+    "url": "https://github.com/LidiaGarrucho/MAMA-MIA",
+    "description": "The MAMA-MIA Dataset: A Multi-Center Breast Cancer DCE-MRI Public Dataset with Expert Segmentations",
+    "language": "Jupyter Notebook",
+    "stars": 117,
+    "forks": 13,
+    "open_issues": 5,
+    "updated_at": "2026-09-27T12:40:15Z",
+    "pushed_at": "2026-09-23T12:57:25Z",
+    "topics": [
+      "3d-segmentation",
+      "benchmark-dataset",
+      "breast-cancer",
+      "breast-cancer-dataset",
+      "cancer-imaging-research",
+      "dce-mri",
+      "deep-learning",
+      "foundation-models",
+      "medical-imaging",
+      "mri-images",
+      "mri-segmentation",
+      "nnunet-v2",
+      "pretrained-models",
+      "pretrained-weights",
+      "public-dataset",
+      "radiomics",
+      "tumor-classification",
+      "tumor-segmentation"
+    ],
+    "application_area": "医学影像",
+    "score": 19.21
+  },
+  {
+    "full_name": "ANTsX/ANTsTorch",
+    "name": "ANTsTorch",
+    "url": "https://github.com/ANTsX/ANTsTorch",
+    "description": "Pre-trained models and utilities for deep learning on medical images in PyTorch",
+    "language": "Python",
+    "stars": 7,
+    "forks": 5,
+    "open_issues": 2,
+    "updated_at": "2026-09-27T22:58:56Z",
+    "pushed_at": "2026-09-27T22:59:32Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 10.78
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 21,
+    "updated_at": "2026-09-27T20:01:59Z",
+    "pushed_at": "2026-09-27T20:01:55Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.18
+  },
+  {
+    "full_name": "aycaaozturk/AML-project",
+    "name": "AML-project",
+    "url": "https://github.com/aycaaozturk/AML-project",
+    "description": "Development of AI-based digital twins for Acute Myeloid Leukemia (AML) using clinical patient data, incorporating data preprocessing, survival analysis, and machine learning to enable personalized prognosis and precision medicine.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-27T19:29:26Z",
+    "pushed_at": "2026-09-27T19:29:23Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
+  },
+  {
+    "full_name": "Yaoyao28/clinical-outcome-prediction",
+    "name": "clinical-outcome-prediction",
+    "url": "https://github.com/Yaoyao28/clinical-outcome-prediction",
+    "description": "End-to-end machine learning pipeline for predicting clinical outcomes using MIMIC-IV.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-09-27T19:29:54Z",
+    "pushed_at": "2026-09-27T19:29:49Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 6.8
+  }
+]
