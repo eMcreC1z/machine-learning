@@ -1,0 +1,313 @@
+[
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 406,
+    "forks": 60,
+    "open_issues": 27,
+    "updated_at": "2026-09-28T06:35:16Z",
+    "pushed_at": "2026-09-22T21:00:31Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.72,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 416,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-09-23T09:27:46Z",
+    "pushed_at": "2026-09-23T09:27:42Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 25.39,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "pathology",
+        "disease",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 584,
+    "forks": 63,
+    "open_issues": 1,
+    "updated_at": "2026-09-28T02:41:24Z",
+    "pushed_at": "2026-09-26T23:59:44Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.78,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1223,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-09-28T15:13:35Z",
+    "pushed_at": "2026-09-28T15:12:36Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 452,
+    "forks": 101,
+    "open_issues": 639,
+    "updated_at": "2026-09-28T22:14:34Z",
+    "pushed_at": "2026-09-28T22:14:30Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 23.84,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 456,
+    "forks": 52,
+    "open_issues": 1,
+    "updated_at": "2026-09-28T00:54:04Z",
+    "pushed_at": "2026-09-28T00:54:00Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.83,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "supervisely/supervisely",
+    "name": "supervisely",
+    "url": "https://github.com/supervisely/supervisely",
+    "description": "Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task",
+    "language": "Python",
+    "stars": 543,
+    "forks": 78,
+    "open_issues": 34,
+    "updated_at": "2026-09-28T21:20:54Z",
+    "pushed_at": "2026-09-28T21:20:53Z",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "neural-networks",
+      "python"
+    ],
+    "application_area": "医学影像",
+    "score": 21.59,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 668,
+    "forks": 41,
+    "open_issues": 1,
+    "updated_at": "2026-09-28T16:47:38Z",
+    "pushed_at": "2026-09-28T16:47:34Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 20.54,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "LidiaGarrucho/MAMA-MIA",
+    "name": "MAMA-MIA",
+    "url": "https://github.com/LidiaGarrucho/MAMA-MIA",
+    "description": "The MAMA-MIA Dataset: A Multi-Center Breast Cancer DCE-MRI Public Dataset with Expert Segmentations",
+    "language": "Jupyter Notebook",
+    "stars": 117,
+    "forks": 13,
+    "open_issues": 5,
+    "updated_at": "2026-09-27T12:40:15Z",
+    "pushed_at": "2026-09-23T12:57:25Z",
+    "topics": [
+      "3d-segmentation",
+      "benchmark-dataset",
+      "breast-cancer",
+      "breast-cancer-dataset",
+      "cancer-imaging-research",
+      "dce-mri",
+      "deep-learning",
+      "foundation-models",
+      "medical-imaging",
+      "mri-images",
+      "mri-segmentation",
+      "nnunet-v2",
+      "pretrained-models",
+      "pretrained-weights",
+      "public-dataset",
+      "radiomics",
+      "tumor-classification",
+      "tumor-segmentation"
+    ],
+    "application_area": "医学影像",
+    "score": 19.06
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 12,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-09-28T22:39:15Z",
+    "pushed_at": "2026-09-28T22:39:10Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 13.1
+  }
+]
