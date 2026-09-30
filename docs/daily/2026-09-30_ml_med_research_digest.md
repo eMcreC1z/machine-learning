@@ -1,23 +1,24 @@
 # 医学机器学习自动整理日报 - 2026-09-30
 
-> 自动采集时间：2026-09-30 15:38:18。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-09-30 17:42:42。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
 - GitHub 项目候选：0 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：5 篇
-- 采集异常来源：7 个
+- 采集异常来源：8 个
 
 ## 采集限制
 
-- github: HTTP 403: {"message":"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more d...
-- github: HTTP 403: {"message":"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more d...
-- github: HTTP 403: {"message":"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more d...
-- github: HTTP 403: {"message":"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more d...
-- github: HTTP 403: {"message":"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more d...
-- github: HTTP 403: {"message":"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more d...
-- github: HTTP 403: {"message":"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more d...
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- crossref: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
 
 ## 优先关注 GitHub 项目
 
@@ -34,32 +35,27 @@
 | 3 | [AI Latency, Report Turnaround Time, and Adoption in a Multi-Vendor AI Ecosystem: A Multi-Site Observational Study.](https://pubmed.ncbi.nlm.nih.gov/42810607/) | Journal of the American College of Radiology : JACR | 2026 Sep 29 | DOI: 10.1016/j.jacr.2026.09.026; PMID: 42810607 | 医学影像 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
 | 4 | [The clinician-artificial intelligence scientist: a proposed career pathway in medicine.](https://pubmed.ncbi.nlm.nih.gov/42810919/) | The Lancet. Digital health | 2026 Sep 29 | DOI: 10.1016/j.landig.2026.101077; PMID: 42810919 | 综合医学机器学习 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
 | 5 | [Machine learning methods and schizophrenia spectrum disorders: a scoping review.](https://pubmed.ncbi.nlm.nih.gov/42810795/) | BMJ open | 2026 Sep 29 | DOI: 10.1136/bmjopen-2025-112849; PMID: 42810795 | 综合医学机器学习 | 高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核 |
-| 6 | [From alternators to adaptive intelligence: Reimagining radiology education through integrated AI learning platforms.](https://pubmed.ncbi.nlm.nih.gov/42810257/) | Clinical imaging | 2026 Sep 24 | DOI: 10.1016/j.clinimag.2026.110963; PMID: 42810257 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 7 | [Understanding and communication of radiology reports in primary care: A cross-sectional survey.](https://pubmed.ncbi.nlm.nih.gov/42810216/) | Journal of medical imaging and radiation sciences | 2026 Sep 22 | DOI: 10.1016/j.jmir.2026.102609; PMID: 42810216 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 8 | [Deep learning for cardiac CT segmentation for congenital heart disease: A systematic review.](https://pubmed.ncbi.nlm.nih.gov/42809584/) | PloS one | 2026 | DOI: 10.1371/journal.pone.0357600; PMID: 42809584 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 9 | [Artificial Intelligence for Clinical Decision-Making in Retinal Disorders: From Screening and Diagnosis to Treatment and Longitudinal Manag...](https://pubmed.ncbi.nlm.nih.gov/42810675/) | Progress in retinal and eye research | 2026 Sep 29 | DOI: 10.1016/j.preteyeres.2026.101533; PMID: 42810675 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 10 | [Artificial Intelligence for early detection of Oral Squamous Cell Carcinoma: A Systematic Review.](https://pubmed.ncbi.nlm.nih.gov/42810641/) | Journal of stomatology, oral and maxillofacial surgery | 2026 Sep 29 | DOI: 10.1016/j.jormas.2026.103015; PMID: 42810641 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 11 | [Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy.](https://pubmed.ncbi.nlm.nih.gov/42810617/) | Practical radiation oncology | 2026 Sep 29 | DOI: 10.1016/j.prro.2026.09.009; PMID: 42810617 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 12 | [Clinical feature grouping-based FT-Transformer for postpartum depression risk prediction: a longitudinal cohort study in perinatal women.](https://pubmed.ncbi.nlm.nih.gov/42810281/) | Psychiatry research | 2026 Sep 27 | DOI: 10.1016/j.psychres.2026.117475; PMID: 42810281 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 13 | [Integrative multi-omics analysis identifies programmed cell death-related biomarkers and their environmentally relevant toxicological inter...](https://pubmed.ncbi.nlm.nih.gov/42810262/) | Ecotoxicology and environmental safety | 2026 Sep 29 | DOI: 10.1016/j.ecoenv.2026.120853; PMID: 42810262 | 病理与组学 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 14 | [Detecting Misspelled Drug Names Using Transformer-Based Language Models: Model Development and External Validation.](https://pubmed.ncbi.nlm.nih.gov/42809845/) | JMIR medical informatics | 2026 Sep 29 | DOI: 10.2196/91151; PMID: 42809845 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 15 | [Detection of previous knee injuries using lower limb-worn inertial measurement units: A cross-sectional machine-learning study.](https://pubmed.ncbi.nlm.nih.gov/42809372/) | Knee surgery, sports traumatology, arthroscopy : offic... | 2026 Sep 29 | DOI: 10.1002/ksa.70631; PMID: 42809372 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 16 | [MedRev: Reversing Negative Transfer in Medical Multi-modal Foundation Model Fine-tuning for Improved Medical Image Analysis](https://doi.org/10.26599/tst.2026.9010095) | Tsinghua Science and Technology | 2026-09-30 | DOI: 10.26599/tst.2026.9010095 | 临床文本与大模型 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 17 | [Scalp-ear-nipple syndrome: a clinical and pathogenetic review using novel artificial intelligence methodology.](https://pubmed.ncbi.nlm.nih.gov/42810978/) | The British journal of dermatology | 2026 Sep 30 | DOI: 10.1093/bjd/ljag260; PMID: 42810978 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 18 | [Beyond the algorithm: A qualitative study of expert perceptions on the impact of injury prediction models in men's professional football.](https://pubmed.ncbi.nlm.nih.gov/42810916/) | Journal of science and medicine in sport | 2026 Sep 21 | DOI: 10.1016/j.jsams.2026.09.010; PMID: 42810916 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 19 | [From task-specific AI to cardiovascular foundation models: a new era of multimodal interpretation.](https://pubmed.ncbi.nlm.nih.gov/42810857/) | Heart (British Cardiac Society) | 2026 Sep 29 | DOI: 10.1136/heartjnl-2026-328835; PMID: 42810857 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 20 | [Central visual field defect patterns and progression in glaucoma: a multicentre 10-year study.](https://pubmed.ncbi.nlm.nih.gov/42810824/) | The British journal of ophthalmology | 2026 Sep 29 | DOI: 10.1136/bjo-2026-330374; PMID: 42810824 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 6 | [Separating Ranking Signal, Incremental Feature Value, and Evaluation-Induced Optimism in Breast MRI Treatment-Effect Analysis: Foundation M...](https://pubmed.ncbi.nlm.nih.gov/42811224/) | Journal of imaging informatics in medicine | 2026 Sep 29 | DOI: 10.1007/s10278-026-02344-w; PMID: 42811224 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 7 | [A Generalizable Multimodal Model for Treatment-Stratified Risk and Survival Assessment under Real-World Constraints: A Multi-Center Study o...](https://pubmed.ncbi.nlm.nih.gov/42811525/) | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | 2026 Sep 29 | DOI: 10.1002/advs.78019; PMID: 42811525 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 8 | [[Artificial intelligence-enabled full-course diagnosis and treatment for patients with severe burns and wounds requiring repair: from risk...](https://pubmed.ncbi.nlm.nih.gov/42811574/) | Zhonghua shao shang yu chuang mian xiu fu za zhi | 2026 Sep 20 | DOI: 10.3760/cma.j.cn501225-20260718-00265; PMID: 42811574 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 9 | [From alternators to adaptive intelligence: Reimagining radiology education through integrated AI learning platforms.](https://pubmed.ncbi.nlm.nih.gov/42810257/) | Clinical imaging | 2026 Sep 24 | DOI: 10.1016/j.clinimag.2026.110963; PMID: 42810257 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 10 | [Understanding and communication of radiology reports in primary care: A cross-sectional survey.](https://pubmed.ncbi.nlm.nih.gov/42810216/) | Journal of medical imaging and radiation sciences | 2026 Sep 22 | DOI: 10.1016/j.jmir.2026.102609; PMID: 42810216 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 11 | [A SHAP-Based Interpretable Model for MDRO-Infection Risk in Chronically Multimorbid Middle-Aged and Elderly ICU Adults.](https://pubmed.ncbi.nlm.nih.gov/42812082/) | British journal of hospital medicine (London, England... | 2026 Sep 21 | DOI: 10.31083/BJHM58253; PMID: 42812082 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 12 | [[Construction and validation of a multimodal risk prediction model for burn sepsis in infants and toddlers based on deep learning].](https://pubmed.ncbi.nlm.nih.gov/42811577/) | Zhonghua shao shang yu chuang mian xiu fu za zhi | 2026 Sep 20 | DOI: 10.3760/cma.j.cn501225-20260519-00200; PMID: 42811577 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 13 | [Exosome-mediated muscle-bone crosstalk: mechanisms and therapeutic potential.](https://pubmed.ncbi.nlm.nih.gov/42811317/) | Journal of translational medicine | 2026 Sep 24 | DOI: 10.1186/s12967-026-08994-2; PMID: 42811317 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 14 | [Tomosynthesis and Synthesized-2D Breast AI Outputs in a Biopsy-Referred Cohort: A Diagnostic Study of Agreement and Incremental Decision-Su...](https://pubmed.ncbi.nlm.nih.gov/42811225/) | Journal of imaging informatics in medicine | 2026 Sep 29 | DOI: 10.1007/s10278-026-02255-w; PMID: 42811225 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 15 | [Deep learning classification of radiologic pattern is associated with progression of interstitial lung abnormalities and with survival.](https://pubmed.ncbi.nlm.nih.gov/42811099/) | American journal of respiratory and critical care medi... | 2026 Sep 29 | DOI: 10.1093/ajrccm/aamag525; PMID: 42811099 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 16 | [Artificial Intelligence for Clinical Decision-Making in Retinal Disorders: From Screening and Diagnosis to Treatment and Longitudinal Manag...](https://pubmed.ncbi.nlm.nih.gov/42810675/) | Progress in retinal and eye research | 2026 Sep 29 | DOI: 10.1016/j.preteyeres.2026.101533; PMID: 42810675 | 药物与转化 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 17 | [Artificial Intelligence for early detection of Oral Squamous Cell Carcinoma: A Systematic Review.](https://pubmed.ncbi.nlm.nih.gov/42810641/) | Journal of stomatology, oral and maxillofacial surgery | 2026 Sep 29 | DOI: 10.1016/j.jormas.2026.103015; PMID: 42810641 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 18 | [Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy.](https://pubmed.ncbi.nlm.nih.gov/42810617/) | Practical radiation oncology | 2026 Sep 29 | DOI: 10.1016/j.prro.2026.09.009; PMID: 42810617 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 19 | [Clinical feature grouping-based FT-Transformer for postpartum depression risk prediction: a longitudinal cohort study in perinatal women.](https://pubmed.ncbi.nlm.nih.gov/42810281/) | Psychiatry research | 2026 Sep 27 | DOI: 10.1016/j.psychres.2026.117475; PMID: 42810281 | 临床预测 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 20 | [Integrative multi-omics analysis identifies programmed cell death-related biomarkers and their environmentally relevant toxicological inter...](https://pubmed.ncbi.nlm.nih.gov/42810262/) | Ecotoxicology and environmental safety | 2026 Sep 29 | DOI: 10.1016/j.ecoenv.2026.120853; PMID: 42810262 | 病理与组学 | 需按最新版中科院分区、JCR和期刊目录复核 |
 
 ## 医学研究应用整理
 
-### 临床文本与大模型
-
-- 论文线索：MedRev: Reversing Negative Transfer in Medical Multi-modal Foundation Model Fine-tuning for Improved Medical Image Analysis。优先核验研究设计、样本来源、外部验证和代码可得性。
-- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
-
 ### 临床预测
 
-- 论文线索：Clinical feature grouping-based FT-Transformer for postpartum depression risk prediction: a longitudinal cohort study in perinatal women.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 论文线索：A Generalizable Multimodal Model for Treatment-Stratified Risk and Survival Assessment under Real-World Constraints: A Multi-Center Study of Colorectal Cancer.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 医学影像
@@ -79,7 +75,7 @@
 
 ### 药物与转化
 
-- 论文线索：Artificial Intelligence for Clinical Decision-Making in Retinal Disorders: From Screening and Diagnosis to Treatment and Longitudinal Management.。优先核验研究设计、样本来源、外部验证和代码可得性。
+- 论文线索：Exosome-mediated muscle-bone crosstalk: mechanisms and therapeutic potential.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ## 质量控制清单
@@ -98,15 +94,15 @@
 
 ## 运行来源
 
-- github: FAILED; status=403; seconds=0.47
-- github: FAILED; status=403; seconds=0.33
-- github: FAILED; status=403; seconds=0.31
-- github: FAILED; status=403; seconds=0.4
-- github: FAILED; status=403; seconds=0.33
-- github: FAILED; status=403; seconds=0.36
-- github: FAILED; status=403; seconds=0.33
-- pubmed_esearch: OK; status=200; seconds=2.7
-- pubmed_esummary: OK; status=200; seconds=1.56
-- crossref: OK; status=200; seconds=2.7
+- github: FAILED; status=None; seconds=5.06
+- github: FAILED; status=None; seconds=5.02
+- github: FAILED; status=None; seconds=5.01
+- github: FAILED; status=None; seconds=5.02
+- github: FAILED; status=None; seconds=5.01
+- github: FAILED; status=None; seconds=5.01
+- github: FAILED; status=None; seconds=5.03
+- pubmed_esearch: OK; status=200; seconds=0.78
+- pubmed_esummary: OK; status=200; seconds=2.42
+- crossref: FAILED; status=None; seconds=5.01
 
 本次运行已完成：2026-09-30_ml_med_research_digest.md
