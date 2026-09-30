@@ -3,63 +3,63 @@
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-09-20&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.26,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.47,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-09-20"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-09-20&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.01,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.33,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-20"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22radiomics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-09-20&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.03,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.31,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-09-20"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-09-20&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.03,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.4,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-09-20"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-09-20&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.04,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.33,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-20"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-09-20&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.02,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.36,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-09-20"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-09-20&sort=updated&order=desc&per_page=20",
     "ok": false,
-    "status": null,
-    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.01,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 125.37.179.148. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.33,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-09-20"
   },
   {
@@ -68,22 +68,22 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.51
+    "seconds": 2.7
   },
   {
     "source": "pubmed_esummary",
-    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42806662%2C42806362%2C42806359%2C42806266%2C42806261%2C42806246%2C42806211%2C42806201%2C42806200%2C42806199%2C42806197%2C42806168%2C42806140%2C42806126%2C42806203%2C42806181%2C42805891%2C42805866%2C42805865%2C42805808%2C42805769%2C42805668%2C42805667%2C42805589%2C42805547%2C42805537%2C42805511%2C42805494%2C42805435%2C42805392%2C42805348%2C42805322%2C42805314%2C42805285%2C42805277%2C42805256%2C42805249%2C42805241%2C42805101%2C42805095",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42810978%2C42810950%2C42810919%2C42810916%2C42810857%2C42810824%2C42810795%2C42810675%2C42810641%2C42810617%2C42810608%2C42810607%2C42810594%2C42810525%2C42810441%2C42810386%2C42810281%2C42810262%2C42810257%2C42810216%2C42810147%2C42810146%2C42810100%2C42810045%2C42810032%2C42809934%2C42809886%2C42809848%2C42809845%2C42809841%2C42809836%2C42809834%2C42809832%2C42809591%2C42809584%2C42809514%2C42809486%2C42809384%2C42809378%2C42809372",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.86
+    "seconds": 1.56
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-09-20%2Cuntil-pub-date%3A2026-09-30%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
-    "ok": false,
-    "status": null,
-    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.03
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.7
   }
 ]
