@@ -14,7 +14,7 @@
     "ok": false,
     "status": null,
     "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.01,
+    "seconds": 5.02,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-21"
   },
   {
@@ -23,7 +23,7 @@
     "ok": false,
     "status": null,
     "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.02,
+    "seconds": 5.01,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-09-21"
   },
   {
@@ -41,7 +41,7 @@
     "ok": false,
     "status": null,
     "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.02,
+    "seconds": 5.03,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-21"
   },
   {
@@ -50,7 +50,7 @@
     "ok": false,
     "status": null,
     "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
-    "seconds": 5.02,
+    "seconds": 5.01,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-09-21"
   },
   {
@@ -68,15 +68,15 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.26
+    "seconds": 0.77
   },
   {
     "source": "pubmed_esummary",
-    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42814997%2C42814992%2C42814924%2C42814917%2C42814874%2C42814689%2C42814672%2C42814670%2C42814631%2C42814599%2C42814531%2C42814513%2C42814497%2C42814496%2C42814494%2C42814492%2C42814484%2C42814479%2C42814453%2C42814440%2C42814437%2C42814428%2C42814414%2C42814259%2C42814229%2C42814225%2C42814197%2C42814195%2C42814183%2C42814122%2C42814120%2C42814096%2C42814025%2C42813999%2C42813998%2C42813788%2C42813755%2C42813733%2C42813708%2C42813671",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=42816308%2C42816139%2C42816089%2C42815949%2C42815905%2C42815888%2C42815822%2C42815749%2C42815746%2C42815679%2C42815662%2C42815622%2C42815589%2C42815516%2C42815436%2C42815425%2C42815378%2C42815324%2C42815298%2C42815256%2C42815239%2C42815208%2C42815088%2C42815038%2C42815003%2C42815002%2C42814997%2C42814992%2C42814924%2C42814917%2C42814874%2C42814689%2C42814672%2C42814670%2C42814631%2C42814599%2C42814531%2C42814513%2C42814497%2C42814496",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.21
+    "seconds": 1.14
   },
   {
     "source": "crossref",
