@@ -1,0 +1,789 @@
+[
+  {
+    "title": "High-risk without safeguards? The EU AI Act and the push for deregulation of medical AI.",
+    "journal": "BMJ digital health & AI",
+    "date": "2026",
+    "authors": [
+      "Van Kolfschooten H",
+      "Solaiman B",
+      "Onitiu D"
+    ],
+    "pmid": "42825232",
+    "doi": "10.1136/bmjdh-2026-000184",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825232/",
+    "source": "PubMed",
+    "application_area": "临床预测",
+    "priority_journal": true,
+    "cas_q1_note": "高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 6.7
+  },
+  {
+    "title": "Shifting bottleneck: AI capability and healthcare adaptation.",
+    "journal": "BMJ digital health & AI",
+    "date": "2026",
+    "authors": [
+      "Siddle J",
+      "Connell A"
+    ],
+    "pmid": "42825284",
+    "doi": "10.1136/bmjdh-2026-000264",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825284/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": true,
+    "cas_q1_note": "高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 6.0
+  },
+  {
+    "title": "From principles to practice: an actionable framework for AI governance in healthcare organisations.",
+    "journal": "BMJ digital health & AI",
+    "date": "2026",
+    "authors": [
+      "Freeman S",
+      "Wang A",
+      "Saraf S",
+      "Potts E",
+      "Mckimm A",
+      "Coiera E"
+    ],
+    "pmid": "42825247",
+    "doi": "10.1136/bmjdh-2026-000018",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825247/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": true,
+    "cas_q1_note": "高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 6.0
+  },
+  {
+    "title": "State of clinical AI in 2026.",
+    "journal": "BMJ digital health & AI",
+    "date": "2026",
+    "authors": [
+      "Worth JE",
+      "Perez A",
+      "Wu DJ",
+      "Brodeur P",
+      "Tat E",
+      "Manrai A"
+    ],
+    "pmid": "42825240",
+    "doi": "10.1136/bmjdh-2026-000113",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825240/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": true,
+    "cas_q1_note": "高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 6.0
+  },
+  {
+    "title": "Contested futures of AI ethics for global population health.",
+    "journal": "BMJ digital health & AI",
+    "date": "2026",
+    "authors": [
+      "Shaw J",
+      "Vallès-Peris N",
+      "Domènech M"
+    ],
+    "pmid": "42824907",
+    "doi": "10.1136/bmjdh-2026-000098",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824907/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": true,
+    "cas_q1_note": "高影响/Q1候选，需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 6.0
+  },
+  {
+    "title": "First-in-human dosimetry and biodistribution of [(89)Zr]Zr-oxine-labeled autologous leukocytes using PET/CT.",
+    "journal": "European journal of nuclear medicine and molecular imaging",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Gultekin K",
+      "Bartels JL",
+      "Cardenas CE",
+      "Kumar Y",
+      "Gimblet GR",
+      "Jones CL"
+    ],
+    "pmid": "42825819",
+    "doi": "10.1007/s00259-026-08158-w",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825819/",
+    "source": "PubMed",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 2.4
+  },
+  {
+    "title": "Integrating tongue image and health examination records for MASLD risk prediction via multimodal deep learning: A prospective diagnostic accuracy study.",
+    "journal": "Medicine",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Hu X",
+      "Shi J",
+      "Zhang Z",
+      "Qiu J",
+      "Pei W"
+    ],
+    "pmid": "42826304",
+    "doi": "10.1097/MD.0000000000050918",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826304/",
+    "source": "PubMed",
+    "application_area": "临床预测",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.7
+  },
+  {
+    "title": "Periodontitis Risk Assessment and Prevention Planning: Comparative Study of Multimodal Large Language Models and Periodontist Evaluations.",
+    "journal": "Journal of medical Internet research",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Swinckels L",
+      "Alves Rabelo K",
+      "Delamare EL",
+      "Loos BG",
+      "Lahoud P",
+      "Bijwaard H"
+    ],
+    "pmid": "42826249",
+    "doi": "10.2196/87781",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826249/",
+    "source": "PubMed",
+    "application_area": "临床预测",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.7
+  },
+  {
+    "title": "Fundamentals of Hyperpigmentation Disorders: Causes, Concerns, and Treatment Strategies, Particularly in Skin of Color Patients.",
+    "journal": "Journal of drugs in dermatology : JDD",
+    "date": "2026 Oct 1",
+    "authors": [
+      "Taylor S",
+      "Desai SR",
+      "Frey C",
+      "Elbuluk N",
+      "Grimes PE",
+      "Alexis A"
+    ],
+    "pmid": "42826152",
+    "doi": "10.36849/JDD.10255",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826152/",
+    "source": "PubMed",
+    "application_area": "药物与转化",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.7
+  },
+  {
+    "title": "Artificial Intelligence and machine learning in toxicogenomics for drug safety assessment: a critical review.",
+    "journal": "Toxicology mechanisms and methods",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Fatima B",
+      "Zaka M",
+      "Ashraf M",
+      "Ajaz N"
+    ],
+    "pmid": "42826081",
+    "doi": "10.1080/15376516.2026.2741364",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826081/",
+    "source": "PubMed",
+    "application_area": "药物与转化",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.7
+  },
+  {
+    "title": "Imaging in Upper Tract Urothelial Carcinoma: Diagnostic Accuracy of Current Modalities for Local Tumor Staging.",
+    "journal": "Current urology reports",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Dudinec JV",
+      "Tan YG",
+      "Refugia JM",
+      "Nabavizadeh R",
+      "Shah AM",
+      "Abern MR"
+    ],
+    "pmid": "42825969",
+    "doi": "10.1007/s11934-026-01366-9",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825969/",
+    "source": "PubMed",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.7
+  },
+  {
+    "title": "Development and Validation of Human-AI Collaborative Workflow in SNOMED CT Mapping of Bilingual Clinical Text.",
+    "journal": "Journal of medical systems",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Lee H",
+      "Choi S",
+      "Kim D",
+      "Hong K",
+      "Kim H",
+      "Jeong CW"
+    ],
+    "pmid": "42825967",
+    "doi": "10.1007/s10916-026-02465-3",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825967/",
+    "source": "PubMed",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.7
+  },
+  {
+    "title": "A study on the predictive value of CT plain scan of pericoronal fat thickness combined with clinical indicators for young patients with coronary atherosclerotic heart disease.",
+    "journal": "European journal of translational myology",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Ruan A",
+      "Zhang L",
+      "Gu Y"
+    ],
+    "pmid": "42825469",
+    "doi": "10.4081/ejtm.2026.15842",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825469/",
+    "source": "PubMed",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.7
+  },
+  {
+    "title": "Longitudinal symptom severity tracking in vagus nerve stimulation patients: a 2-stage LLM-based pipeline with explainable AI.",
+    "journal": "JAMIA open",
+    "date": "2026 Oct",
+    "authors": [
+      "Thakkar V",
+      "Silverman GM",
+      "Putzer M",
+      "Kc A",
+      "Ikramuddin S",
+      "Melnik T"
+    ],
+    "pmid": "42824969",
+    "doi": "10.1093/jamiaopen/ooag195",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824969/",
+    "source": "PubMed",
+    "application_area": "临床文本与大模型",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.7
+  },
+  {
+    "title": "Hyperspectral imaging and machine learning in brain tumor surgery: Current evidence, clinical applications, and future directions",
+    "journal": "Surgical Neurology International",
+    "date": "2026-10-02",
+    "authors": [],
+    "pmid": null,
+    "doi": "10.25259/sni_847_2026",
+    "url": "https://doi.org/10.25259/sni_847_2026",
+    "source": "Crossref",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "citation_count": 0,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.2
+  },
+  {
+    "title": "A multimodal deep learning radiomics nomogram integrating clinicopathological features for predicting pathological complete response after neoadjuvant therapy in triple-negative breast cancer: a multicenter retrospective study",
+    "journal": "Frontiers in Oncology",
+    "date": "2026-10-02",
+    "authors": [],
+    "pmid": null,
+    "doi": "10.3389/fonc.2026.1893983",
+    "url": "https://doi.org/10.3389/fonc.2026.1893983",
+    "source": "Crossref",
+    "application_area": "医学影像",
+    "priority_journal": false,
+    "citation_count": 0,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.2
+  },
+  {
+    "title": "Machine Learning for Human-Autonomy Teaming in Surgical Skill Assessment: Scoping Review.",
+    "journal": "JMIR AI",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Barati K",
+      "Ramirez Campos MS",
+      "Doyle TE"
+    ],
+    "pmid": "42826381",
+    "doi": "10.2196/94109",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826381/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Clinician Trust and Human Factors in AI-Enabled Clinical Decision Support in Acute Care: Mixed Methods Study.",
+    "journal": "JMIR human factors",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Darla M",
+      "Miltz D",
+      "Chandnani K",
+      "Purkayastha S",
+      "Diehl JW",
+      "Bhavani SV"
+    ],
+    "pmid": "42826375",
+    "doi": "10.2196/95472",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826375/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Empathy Cuts Both Ways in Clinical AI.",
+    "journal": "JMIR human factors",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Sorin V",
+      "Klang E"
+    ],
+    "pmid": "42826373",
+    "doi": "10.2196/108778",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826373/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Authors' Reply: Empathy Cuts Both Ways in Clinical AI.",
+    "journal": "JMIR human factors",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Bae SW",
+      "Zhang T",
+      "Chung T",
+      "Dey A"
+    ],
+    "pmid": "42826372",
+    "doi": "10.2196/110739",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826372/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Utility of Augmented Reality Glasses With Waveguide Optics and Facial Recognition Technology for Patient Verification in a Simulated Outpatient Setting: Physician Questionnaire Survey Study.",
+    "journal": "JMIR human factors",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Ogasawara RA",
+      "Yoshida S",
+      "Okamoto K",
+      "Nagaoka E",
+      "Sagawa H",
+      "Sumita K"
+    ],
+    "pmid": "42826354",
+    "doi": "10.2196/95664",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826354/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Applications and recent advances of 3D printing technology in bone diseases: A bibliometric analysis.",
+    "journal": "Medicine",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Gou YY",
+      "Wei LK",
+      "Li RS",
+      "Xiao ZG",
+      "Zhao X",
+      "Qi LS"
+    ],
+    "pmid": "42826308",
+    "doi": "10.1097/MD.0000000000050939",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826308/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "AI-Assisted Clinical Documentation in Routine Danish General Practice: Quantitative Pre-Post Study.",
+    "journal": "JMIR human factors",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Olsen LN",
+      "Harbig P",
+      "Laurberg AB",
+      "Laurberg J",
+      "Charles MH"
+    ],
+    "pmid": "42826248",
+    "doi": "10.2196/94431",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826248/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Voice-Enabled Virtual Patients for Interactive Training in Standardized Clinical Assessment: Mixed Methods Pilot Study.",
+    "journal": "Journal of medical Internet research",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Bossio Botero V",
+      "Yadav V",
+      "Ouyang J",
+      "Abbas A",
+      "Worthington M"
+    ],
+    "pmid": "42826247",
+    "doi": "10.2196/89066",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826247/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Advances needed for improving leprosy diagnosis in Brazil.",
+    "journal": "Expert review of anti-infective therapy",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Carvalho SCC",
+      "Lopes-Luz L",
+      "Santos VS"
+    ],
+    "pmid": "42826223",
+    "doi": "10.1080/14787210.2026.2744223",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826223/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Progressive remodeling of global protein interaction networks in a mouse model of tauopathy.",
+    "journal": "Cell reports",
+    "date": "2026 Oct 1",
+    "authors": [
+      "Lin W",
+      "Phanse S",
+      "van der Spek SJF",
+      "Lampl N",
+      "Stephens MC",
+      "Wang Z"
+    ],
+    "pmid": "42826098",
+    "doi": "10.1016/j.celrep.2026.118084",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826098/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Eye-Tracking Phenotypes Across the Depressive Spectrum: Joint Modeling of Diagnostic Group and Symptom Severity.",
+    "journal": "CNS neuroscience & therapeutics",
+    "date": "2026 Oct",
+    "authors": [
+      "Chen X",
+      "Huang M"
+    ],
+    "pmid": "42826067",
+    "doi": "10.1002/cns.71198",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826067/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "TESERA: morphologic subtyping and prognostic stratification of hepatocellular carcinoma from H&E whole-slide images.",
+    "journal": "Hepatology (Baltimore, Md.)",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Yasaka TM",
+      "Afrin S",
+      "Chen PY",
+      "Molina LM",
+      "Kim CK",
+      "Chakkingal P"
+    ],
+    "pmid": "42826064",
+    "doi": "10.1097/HEP.0000000000001879",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826064/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Artificial Intelligence in High-resolution Anorectal Manometry: Current Applications and Future Directions.",
+    "journal": "Current gastroenterology reports",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Seo M",
+      "Joo S",
+      "Jung KW"
+    ],
+    "pmid": "42826007",
+    "doi": "10.1007/s11894-026-01056-z",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826007/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "[Core data set telemedicine in intensive care medicine. Requirement catalogue via Delphi study].",
+    "journal": "Die Anaesthesiologie",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Dohmen S",
+      "Jungwirth B",
+      "Balzer F",
+      "Schewe JC",
+      "Röder D",
+      "Schewe CM"
+    ],
+    "pmid": "42825956",
+    "doi": "10.1007/s00101-026-01745-4",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825956/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Mapping the evolution of dual-task paradigms in cognitive aging: A bibliometric analysis of research landscapes and translational applications.",
+    "journal": "GeroScience",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Zhang S",
+      "Wu R",
+      "Xu Y",
+      "Li H",
+      "Chen C",
+      "Lin Z"
+    ],
+    "pmid": "42825889",
+    "doi": "10.1007/s11357-026-02556-6",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825889/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Machine learning for operative time prediction in robotic ventral hernia repair patients: Perspective on predictive model development and validation.",
+    "journal": "Langenbeck's archives of surgery",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Jasur R",
+      "Molai-Rad AM",
+      "Khasanova D",
+      "Bahreini A",
+      "Niyazov S",
+      "Jumakulov N"
+    ],
+    "pmid": "42825805",
+    "doi": "10.1007/s00423-026-04321-x",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825805/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Precision medicine requires precision prescribing: rethinking antiseizure medication regulation in Europe.",
+    "journal": "Current medical research and opinion",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Russo E",
+      "La Neve A",
+      "Iudice A",
+      "Roberti R",
+      "Antiseizure Medications Commission of the Italian League against Epilepsy"
+    ],
+    "pmid": "42825785",
+    "doi": "10.1080/03007995.2026.2740837",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825785/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Viewpoint on Computational Modeling of Multisensory Integration.",
+    "journal": "Multisensory research",
+    "date": "2026 Sep 29",
+    "authors": [
+      "Beierholm UR",
+      "Colonius H",
+      "Shams L"
+    ],
+    "pmid": "42825777",
+    "doi": "10.1163/22134808-bja10212",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825777/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Approaches used in Canadian academic institutions to keep nursing students safe during clinical placements: a systematic review protocol of policy and expert opinion.",
+    "journal": "JBI evidence synthesis",
+    "date": "2026 Oct 2",
+    "authors": [
+      "McCloskey R",
+      "Morris P",
+      "McGill A",
+      "Witherspoon R",
+      "Gregg E",
+      "Keeping-Burke L"
+    ],
+    "pmid": "42825643",
+    "doi": "10.11124/JBIES-25-00568",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825643/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Multiclass Diagnostic Improvement of Interstitial Cystitis (IC) and Overactive Bladder (OAB) via Machine Learning Pipeline on Surface-Enhanced Raman Spectroscopy (SERS).",
+    "journal": "ACS sensors",
+    "date": "2026 Oct 2",
+    "authors": [
+      "Cho M",
+      "Kang S",
+      "Hwang JS",
+      "Jue M",
+      "Shin JH",
+      "Kim JK"
+    ],
+    "pmid": "42825574",
+    "doi": "10.1021/acssensors.6c02725",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825574/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Development and temporal validation of a proof-of-concept artificial intelligence model for binary classification of cervical cotest.",
+    "journal": "European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP)",
+    "date": "2026 Sep 30",
+    "authors": [
+      "Chiappa V",
+      "Caia C",
+      "Interlenghi M",
+      "Paolini B",
+      "Palladino S",
+      "Costeniero D"
+    ],
+    "pmid": "42825519",
+    "doi": "10.1097/CEJ.0000000000001039",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825519/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Electroencephalography research in neuropathic pain (Review).",
+    "journal": "Molecular medicine reports",
+    "date": "2026 Nov",
+    "authors": [
+      "Zhou L",
+      "Liao N",
+      "Wang H",
+      "Zhao J",
+      "Jiang H",
+      "Dang S"
+    ],
+    "pmid": "42825354",
+    "doi": "10.3892/mmr.2026.14033",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825354/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Data-reflector: an agentic exploratory data analysis platform for researchers.",
+    "journal": "JAMIA open",
+    "date": "2026 Oct",
+    "authors": [
+      "Sabounchi M",
+      "Hazare N",
+      "Capone C",
+      "Jangda M",
+      "Oh W",
+      "Jayaraman P"
+    ],
+    "pmid": "42825291",
+    "doi": "10.1093/jamiaopen/ooag194",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825291/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Dynamic prediction of the development of extrahepatic organ failures in ICU patients with decompensated cirrhosis.",
+    "journal": "eGastroenterology",
+    "date": "2026",
+    "authors": [
+      "Yeo YH",
+      "Que L",
+      "Zhang M",
+      "Zu J",
+      "Wu Y",
+      "Chiang DJ"
+    ],
+    "pmid": "42825283",
+    "doi": "10.1136/egastro-2026-100463",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825283/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  }
+]
