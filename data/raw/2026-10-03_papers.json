@@ -278,36 +278,6 @@
     "score": 1.7
   },
   {
-    "title": "Hyperspectral imaging and machine learning in brain tumor surgery: Current evidence, clinical applications, and future directions",
-    "journal": "Surgical Neurology International",
-    "date": "2026-10-02",
-    "authors": [],
-    "pmid": null,
-    "doi": "10.25259/sni_847_2026",
-    "url": "https://doi.org/10.25259/sni_847_2026",
-    "source": "Crossref",
-    "application_area": "医学影像",
-    "priority_journal": false,
-    "citation_count": 0,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.2
-  },
-  {
-    "title": "A multimodal deep learning radiomics nomogram integrating clinicopathological features for predicting pathological complete response after neoadjuvant therapy in triple-negative breast cancer: a multicenter retrospective study",
-    "journal": "Frontiers in Oncology",
-    "date": "2026-10-02",
-    "authors": [],
-    "pmid": null,
-    "doi": "10.3389/fonc.2026.1893983",
-    "url": "https://doi.org/10.3389/fonc.2026.1893983",
-    "source": "Crossref",
-    "application_area": "医学影像",
-    "priority_journal": false,
-    "citation_count": 0,
-    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
-    "score": 1.2
-  },
-  {
     "title": "Machine Learning for Human-Autonomy Teaming in Surgical Skill Assessment: Scoping Review.",
     "journal": "JMIR AI",
     "date": "2026 Oct 2",
@@ -780,6 +750,43 @@
     "pmid": "42825283",
     "doi": "10.1136/egastro-2026-100463",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42825283/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Diagnostic Efficiency of Artificial Intelligence Integrated Intraoral Mobile Photographs in Identification of Oral Potentially Malignant Disorders: An Umbrella Review.",
+    "journal": "International journal of dentistry",
+    "date": "2026",
+    "authors": [
+      "Kumar PDM",
+      "Lavanya C",
+      "Sivakumar S",
+      "Ranganathan K",
+      "Pavithra M",
+      "Palanivel Pandian R"
+    ],
+    "pmid": "42824956",
+    "doi": "10.1155/ijod/6654212",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824956/",
+    "source": "PubMed",
+    "application_area": "综合医学机器学习",
+    "priority_journal": false,
+    "cas_q1_note": "需按最新版中科院分区、JCR和期刊目录复核",
+    "score": 1.0
+  },
+  {
+    "title": "Artificial Intelligence-Based Adaptive Simulation Integrated With a Workforce Decision-Support System to Improve Simulated Nursing Leadership Performance: A Randomized Controlled Study.",
+    "journal": "Cureus",
+    "date": "2026 Oct",
+    "authors": [
+      "Almalki M"
+    ],
+    "pmid": "42824897",
+    "doi": "10.7759/cureus.117315",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824897/",
     "source": "PubMed",
     "application_area": "综合医学机器学习",
     "priority_journal": false,

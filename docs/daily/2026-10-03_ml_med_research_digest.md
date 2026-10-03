@@ -1,33 +1,30 @@
 # 医学机器学习自动整理日报 - 2026-10-03
 
-> 自动采集时间：2026-10-03 07:42:58。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-10-03 10:07:18。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：16 个
+- GitHub 项目候选：0 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：5 篇
-- 采集异常来源：0 个
+- 采集异常来源：8 个
+
+## 采集限制
+
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- github: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
+- crossref: URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))
 
 ## 优先关注 GitHub 项目
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) | 1261 | 2026-10-02T14:53:51Z | 医学影像 | Latest Advances on Agentic AI & AI Agents for Healthcare；评分 34.11 |
-| 2 | [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | 8746 | 2026-10-02T22:12:42Z | 医学影像 | AI Toolkit for Healthcare Imaging；评分 29.79 |
-| 3 | [mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) | 2206 | 2026-10-02T20:30:34Z | 医学影像 | This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and... |
-| 4 | [r0f1/datascience](https://github.com/r0f1/datascience) | 4678 | 2026-10-02T00:41:28Z | 临床预测 | Curated list of Python resources for data science.；评分 29.36 |
-| 5 | [fregu856/papers](https://github.com/fregu856/papers) | 416 | 2026-10-02T15:54:05Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).；评分 26.1 |
-| 6 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 3503 | 2026-10-02T23:35:49Z | 临床文本与大模型 | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows e... |
-| 7 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1222 | 2026-10-02T07:41:02Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.77 |
-| 8 | [OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) | 584 | 2026-09-28T02:41:24Z | 病理与组学 | 近期活跃项目；评分 24.22 |
-| 9 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 457 | 2026-10-02T11:37:29Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.83 |
-| 10 | [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) | 681 | 2026-10-02T19:56:42Z | 病理与组学 | Track 500+ Awesome List Updates, Track it - not just star it!；评分 21.68 |
-| 11 | [DIAGNijmegen/rse-grand-challenge](https://github.com/DIAGNijmegen/rse-grand-challenge) | 193 | 2026-10-02T18:45:57Z | 医学影像 | A platform for end-to-end development of machine learning solutions in biomedical imaging；评分 18.6 |
-| 12 | [LidiaGarrucho/MAMA-MIA](https://github.com/LidiaGarrucho/MAMA-MIA) | 117 | 2026-09-27T12:40:15Z | 医学影像 | The MAMA-MIA Dataset: A Multi-Center Breast Cancer DCE-MRI Public Dataset with Expert Segmentations；评分 18.49 |
-| 13 | [ANTsX/ANTsTorch](https://github.com/ANTsX/ANTsTorch) | 7 | 2026-10-02T20:07:21Z | 综合医学机器学习 | Pre-trained models and utilities for deep learning on medical images in PyTorch；评分 10.78 |
-| 14 | [ruixv/NLOS_Overview](https://github.com/ruixv/NLOS_Overview) | 6 | 2026-10-02T20:06:07Z | 医学影像 | Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes；评分 10.18 |
-| 15 | [ushakiran45/SIH26139-Hybrid-QML](https://github.com/ushakiran45/SIH26139-Hybrid-QML) | 0 | 2026-10-02T22:38:42Z | 医学影像 | Hybrid Quantum Machine Learning Platform for Early Disease Detection (SIH26139): PennyLane VQC vs SVM on EfficientNet-B3 features, with Grad-CAM, applied to di... |
+| - | 未采集到项目 | - | - | - | 查看日志并扩大关键词或配置 GITHUB_TOKEN |
 
 ## 高水平论文候选
 
@@ -47,41 +44,32 @@
 | 12 | [Development and Validation of Human-AI Collaborative Workflow in SNOMED CT Mapping of Bilingual Clinical Text.](https://pubmed.ncbi.nlm.nih.gov/42825967/) | Journal of medical systems | 2026 Oct 2 | DOI: 10.1007/s10916-026-02465-3; PMID: 42825967 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
 | 13 | [A study on the predictive value of CT plain scan of pericoronal fat thickness combined with clinical indicators for young patients with cor...](https://pubmed.ncbi.nlm.nih.gov/42825469/) | European journal of translational myology | 2026 Oct 2 | DOI: 10.4081/ejtm.2026.15842; PMID: 42825469 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
 | 14 | [Longitudinal symptom severity tracking in vagus nerve stimulation patients: a 2-stage LLM-based pipeline with explainable AI.](https://pubmed.ncbi.nlm.nih.gov/42824969/) | JAMIA open | 2026 Oct | DOI: 10.1093/jamiaopen/ooag195; PMID: 42824969 | 临床文本与大模型 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 15 | [Hyperspectral imaging and machine learning in brain tumor surgery: Current evidence, clinical applications, and future directions](https://doi.org/10.25259/sni_847_2026) | Surgical Neurology International | 2026-10-02 | DOI: 10.25259/sni_847_2026 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 16 | [A multimodal deep learning radiomics nomogram integrating clinicopathological features for predicting pathological complete response after...](https://doi.org/10.3389/fonc.2026.1893983) | Frontiers in Oncology | 2026-10-02 | DOI: 10.3389/fonc.2026.1893983 | 医学影像 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 17 | [Machine Learning for Human-Autonomy Teaming in Surgical Skill Assessment: Scoping Review.](https://pubmed.ncbi.nlm.nih.gov/42826381/) | JMIR AI | 2026 Oct 2 | DOI: 10.2196/94109; PMID: 42826381 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 18 | [Clinician Trust and Human Factors in AI-Enabled Clinical Decision Support in Acute Care: Mixed Methods Study.](https://pubmed.ncbi.nlm.nih.gov/42826375/) | JMIR human factors | 2026 Oct 2 | DOI: 10.2196/95472; PMID: 42826375 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 19 | [Empathy Cuts Both Ways in Clinical AI.](https://pubmed.ncbi.nlm.nih.gov/42826373/) | JMIR human factors | 2026 Oct 2 | DOI: 10.2196/108778; PMID: 42826373 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
-| 20 | [Authors' Reply: Empathy Cuts Both Ways in Clinical AI.](https://pubmed.ncbi.nlm.nih.gov/42826372/) | JMIR human factors | 2026 Oct 2 | DOI: 10.2196/110739; PMID: 42826372 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 15 | [Machine Learning for Human-Autonomy Teaming in Surgical Skill Assessment: Scoping Review.](https://pubmed.ncbi.nlm.nih.gov/42826381/) | JMIR AI | 2026 Oct 2 | DOI: 10.2196/94109; PMID: 42826381 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 16 | [Clinician Trust and Human Factors in AI-Enabled Clinical Decision Support in Acute Care: Mixed Methods Study.](https://pubmed.ncbi.nlm.nih.gov/42826375/) | JMIR human factors | 2026 Oct 2 | DOI: 10.2196/95472; PMID: 42826375 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 17 | [Empathy Cuts Both Ways in Clinical AI.](https://pubmed.ncbi.nlm.nih.gov/42826373/) | JMIR human factors | 2026 Oct 2 | DOI: 10.2196/108778; PMID: 42826373 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 18 | [Authors' Reply: Empathy Cuts Both Ways in Clinical AI.](https://pubmed.ncbi.nlm.nih.gov/42826372/) | JMIR human factors | 2026 Oct 2 | DOI: 10.2196/110739; PMID: 42826372 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 19 | [Utility of Augmented Reality Glasses With Waveguide Optics and Facial Recognition Technology for Patient Verification in a Simulated Outpat...](https://pubmed.ncbi.nlm.nih.gov/42826354/) | JMIR human factors | 2026 Oct 2 | DOI: 10.2196/95664; PMID: 42826354 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
+| 20 | [Applications and recent advances of 3D printing technology in bone diseases: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42826308/) | Medicine | 2026 Oct 2 | DOI: 10.1097/MD.0000000000050939; PMID: 42826308 | 综合医学机器学习 | 需按最新版中科院分区、JCR和期刊目录复核 |
 
 ## 医学研究应用整理
 
 ### 临床文本与大模型
 
-- 可复用项目：[NVIDIA/skills](https://github.com/NVIDIA/skills)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Longitudinal symptom severity tracking in vagus nerve stimulation patients: a 2-stage LLM-based pipeline with explainable AI.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 临床预测
 
-- 可复用项目：[r0f1/datascience](https://github.com/r0f1/datascience)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：High-risk without safeguards? The EU AI Act and the push for deregulation of medical AI.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 医学影像
 
-- 可复用项目：[AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：First-in-human dosimetry and biodistribution of [(89)Zr]Zr-oxine-labeled autologous leukocytes using PET/CT.。优先核验研究设计、样本来源、外部验证和代码可得性。
-- 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
-
-### 病理与组学
-
-- 可复用项目：[OmicsML/awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers)，适合先看 README、数据要求、许可证和最近提交。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 综合医学机器学习
 
-- 可复用项目：[imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Shifting bottleneck: AI capability and healthcare adaptation.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
@@ -106,33 +94,15 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=2.09
-- github: OK; status=200; seconds=1.24
-- github: OK; status=200; seconds=1.06
-- github: OK; status=200; seconds=1.42
-- github: OK; status=200; seconds=2.14
-- github: OK; status=200; seconds=1.54
-- github: OK; status=200; seconds=1.38
-- github_readme: OK; status=200; seconds=0.74
-- github_readme: OK; status=200; seconds=0.72
-- github_readme: OK; status=200; seconds=0.85
-- github_readme: OK; status=200; seconds=1.26
-- github_readme: OK; status=200; seconds=1.23
-- github_readme: OK; status=200; seconds=0.79
-- github_readme: OK; status=200; seconds=6.06
-- github_readme: OK; status=200; seconds=1.2
-- github_readme: OK; status=200; seconds=1.69
-- github_readme: OK; status=200; seconds=6.95
-- github_readme: OK; status=200; seconds=1.31
-- github_readme: OK; status=200; seconds=7.23
-- github_readme: OK; status=200; seconds=2.25
-- github_readme: OK; status=200; seconds=1.1
-- github_readme: OK; status=200; seconds=1.79
-- github_readme: OK; status=200; seconds=1.22
-- github_readme: OK; status=200; seconds=1.1
-- github_readme: OK; status=200; seconds=9.13
-- pubmed_esearch: OK; status=200; seconds=0.73
-- pubmed_esummary: OK; status=200; seconds=1.19
-- crossref: OK; status=200; seconds=15.41
+- github: FAILED; status=None; seconds=5.07
+- github: FAILED; status=None; seconds=5.01
+- github: FAILED; status=None; seconds=5.03
+- github: FAILED; status=None; seconds=5.03
+- github: FAILED; status=None; seconds=5.01
+- github: FAILED; status=None; seconds=5.03
+- github: FAILED; status=None; seconds=5.01
+- pubmed_esearch: OK; status=200; seconds=1.01
+- pubmed_esummary: OK; status=200; seconds=1.6
+- crossref: FAILED; status=None; seconds=5.03
 
 本次运行已完成：2026-10-03_ml_med_research_digest.md

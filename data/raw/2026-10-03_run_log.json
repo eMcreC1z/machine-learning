@@ -2,227 +2,65 @@
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-09-23&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.09,
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.07,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-09-23"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-09-23&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.24,
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.01,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-23"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22radiomics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-09-23&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.06,
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.03,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-09-23"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-09-23&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.42,
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.03,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-09-23"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-09-23&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.14,
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.01,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-09-23"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-09-23&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.54,
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.03,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-09-23"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-09-23&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.38,
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.01,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-09-23"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/PyO3/pyo3/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.74,
-    "repo": "PyO3/pyo3"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/Project-MONAI/MONAI/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.72,
-    "repo": "Project-MONAI/MONAI"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/aipoch/open-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.85,
-    "repo": "aipoch/open-science"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/zapplyjobs/Internships-2027/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.26,
-    "repo": "zapplyjobs/Internships-2027"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/r0f1/datascience/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.23,
-    "repo": "r0f1/datascience"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/NVIDIA/skills/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 0.79,
-    "repo": "NVIDIA/skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/protontypes/open-sustainable-technology/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 6.06,
-    "repo": "protontypes/open-sustainable-technology"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/mathworks/MATLAB-Simulink-Challenge-Project-Hub/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.2,
-    "repo": "mathworks/MATLAB-Simulink-Challenge-Project-Hub"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.69,
-    "repo": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/liliu-avril/Awesome-Segment-Anything/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 6.95,
-    "repo": "liliu-avril/Awesome-Segment-Anything"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.31,
-    "repo": "zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/superiorlu/AITreasureBox/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 7.23,
-    "repo": "superiorlu/AITreasureBox"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/trackawesomelist/trackawesomelist/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.25,
-    "repo": "trackawesomelist/trackawesomelist"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/OmicsML/awesome-foundation-model-single-cell-papers/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.1,
-    "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/luohongk/Embodied-AI-Daily/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.79,
-    "repo": "luohongk/Embodied-AI-Daily"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/imteekay/machine-learning-research/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.22,
-    "repo": "imteekay/machine-learning-research"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/zapplyjobs/awesome-ml-internships-2027/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.1,
-    "repo": "zapplyjobs/awesome-ml-internships-2027"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/fregu856/papers/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 9.13,
-    "repo": "fregu856/papers"
   },
   {
     "source": "pubmed_esearch",
@@ -230,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 0.73
+    "seconds": 1.01
   },
   {
     "source": "pubmed_esummary",
@@ -238,14 +76,14 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.19
+    "seconds": 1.6
   },
   {
     "source": "crossref",
     "url": "https://api.crossref.org/works?query.title=machine+learning+artificial+intelligence+medicine+clinical+prediction+medical+imaging+bioinformatics&filter=from-pub-date%3A2026-09-23%2Cuntil-pub-date%3A2026-10-03%2Ctype%3Ajournal-article&rows=40&sort=published&order=desc",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 15.41
+    "ok": false,
+    "status": null,
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "seconds": 5.03
   }
 ]
