@@ -1,1 +1,392 @@
-[]
+[
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1261,
+    "forks": 161,
+    "open_issues": 9,
+    "updated_at": "2026-10-02T14:53:51Z",
+    "pushed_at": "2026-10-02T14:53:46Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 34.12,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4678,
+    "forks": 716,
+    "open_issues": 0,
+    "updated_at": "2026-10-02T00:41:28Z",
+    "pushed_at": "2026-10-01T14:23:27Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.22,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 2007,
+    "forks": 245,
+    "open_issues": 40,
+    "updated_at": "2026-10-03T08:35:19Z",
+    "pushed_at": "2026-10-03T08:35:13Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 28.0,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "openmedlab/Awesome-Medical-Dataset",
+    "name": "Awesome-Medical-Dataset",
+    "url": "https://github.com/openmedlab/Awesome-Medical-Dataset",
+    "description": "Collection of awesome medical dataset resources.",
+    "language": "",
+    "stars": 2161,
+    "forks": 210,
+    "open_issues": 65,
+    "updated_at": "2026-10-03T09:45:46Z",
+    "pushed_at": "2026-10-02T22:42:22Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 26.03,
+    "evidence_terms": {
+      "ml": [
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "patient",
+        "imaging",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "trackawesomelist/trackawesomelist",
+    "name": "trackawesomelist",
+    "url": "https://github.com/trackawesomelist/trackawesomelist",
+    "description": "Track 500+ Awesome List Updates, Track it - not just star it!",
+    "language": "",
+    "stars": 681,
+    "forks": 67,
+    "open_issues": 15,
+    "updated_at": "2026-10-03T05:14:41Z",
+    "pushed_at": "2026-10-03T05:14:37Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "track",
+      "trending"
+    ],
+    "application_area": "医学影像",
+    "score": 25.88,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "patient",
+        "imaging",
+        "genomics",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/open-science",
+    "name": "open-science",
+    "url": "https://github.com/aipoch/open-science",
+    "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+    "language": "TypeScript",
+    "stars": 5369,
+    "forks": 495,
+    "open_issues": 47,
+    "updated_at": "2026-10-03T12:16:23Z",
+    "pushed_at": "2026-10-03T12:19:43Z",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-for-science",
+      "ai-research",
+      "ai-research-workbench",
+      "ai-workbench",
+      "bioinformatics",
+      "desktop-app",
+      "local-first",
+      "mcp",
+      "model-agnostic",
+      "open-science",
+      "open-source",
+      "reproducible-research",
+      "research-tools",
+      "science",
+      "science-agent",
+      "scientific-ai",
+      "scientific-computing",
+      "scientific-research"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 25.76,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 584,
+    "forks": 64,
+    "open_issues": 0,
+    "updated_at": "2026-10-03T03:58:12Z",
+    "pushed_at": "2026-10-03T03:58:07Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.79,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1222,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-02T07:41:02Z",
+    "pushed_at": "2026-10-02T07:40:58Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.63,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 457,
+    "forks": 52,
+    "open_issues": 1,
+    "updated_at": "2026-10-02T11:37:29Z",
+    "pushed_at": "2026-10-02T11:37:26Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.69,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "LidiaGarrucho/MAMA-MIA",
+    "name": "MAMA-MIA",
+    "url": "https://github.com/LidiaGarrucho/MAMA-MIA",
+    "description": "The MAMA-MIA Dataset: A Multi-Center Breast Cancer DCE-MRI Public Dataset with Expert Segmentations",
+    "language": "Jupyter Notebook",
+    "stars": 117,
+    "forks": 13,
+    "open_issues": 5,
+    "updated_at": "2026-09-27T12:40:15Z",
+    "pushed_at": "2026-09-23T12:57:25Z",
+    "topics": [
+      "3d-segmentation",
+      "benchmark-dataset",
+      "breast-cancer",
+      "breast-cancer-dataset",
+      "cancer-imaging-research",
+      "dce-mri",
+      "deep-learning",
+      "foundation-models",
+      "medical-imaging",
+      "mri-images",
+      "mri-segmentation",
+      "nnunet-v2",
+      "pretrained-models",
+      "pretrained-weights",
+      "public-dataset",
+      "radiomics",
+      "tumor-classification",
+      "tumor-segmentation"
+    ],
+    "application_area": "医学影像",
+    "score": 18.49
+  },
+  {
+    "full_name": "maju116/platypus",
+    "name": "platypus",
+    "url": "https://github.com/maju116/platypus",
+    "description": "Deep learning for medical image segmentation in R: 2D and 3D, DICOM and NIfTI, one specification.",
+    "language": "R",
+    "stars": 134,
+    "forks": 9,
+    "open_issues": 30,
+    "updated_at": "2026-10-03T10:24:52Z",
+    "pushed_at": "2026-10-03T10:24:47Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 16.82
+  },
+  {
+    "full_name": "ushakiran45/SIH26139-Hybrid-QML",
+    "name": "SIH26139-Hybrid-QML",
+    "url": "https://github.com/ushakiran45/SIH26139-Hybrid-QML",
+    "description": "Hybrid Quantum Machine Learning Platform for Early Disease Detection (SIH26139): PennyLane VQC vs SVM on EfficientNet-B3 features, with Grad-CAM, applied to diabetic retinopathy screening. Research prototype, not a diagnostic tool",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-03T07:51:58Z",
+    "pushed_at": "2026-10-03T07:51:57Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 6.8
+  },
+  {
+    "full_name": "taiwo-oluwamojo/taiwo-oluwamojo",
+    "name": "taiwo-oluwamojo",
+    "url": "https://github.com/taiwo-oluwamojo/taiwo-oluwamojo",
+    "description": "Bioinformatics & AI Researcher | Machine Learning for Multi-Omics",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-02T21:39:57Z",
+    "pushed_at": "2026-10-02T21:39:53Z",
+    "topics": [],
+    "application_area": "病理与组学",
+    "score": 6.8
+  }
+]
