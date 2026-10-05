@@ -1,0 +1,323 @@
+[
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4677,
+    "forks": 715,
+    "open_issues": 0,
+    "updated_at": "2026-10-03T20:50:27Z",
+    "pushed_at": "2026-10-01T14:23:27Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.22,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "openmedlab/Awesome-Medical-Dataset",
+    "name": "Awesome-Medical-Dataset",
+    "url": "https://github.com/openmedlab/Awesome-Medical-Dataset",
+    "description": "Collection of awesome medical dataset resources.",
+    "language": "",
+    "stars": 2161,
+    "forks": 210,
+    "open_issues": 65,
+    "updated_at": "2026-10-03T09:45:46Z",
+    "pushed_at": "2026-10-02T22:42:22Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 25.88,
+    "evidence_terms": {
+      "ml": [
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "patient",
+        "imaging",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/open-science",
+    "name": "open-science",
+    "url": "https://github.com/aipoch/open-science",
+    "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+    "language": "TypeScript",
+    "stars": 5403,
+    "forks": 497,
+    "open_issues": 51,
+    "updated_at": "2026-10-05T00:07:49Z",
+    "pushed_at": "2026-10-05T01:00:36Z",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-for-science",
+      "ai-research",
+      "ai-research-workbench",
+      "ai-workbench",
+      "bioinformatics",
+      "desktop-app",
+      "local-first",
+      "mcp",
+      "model-agnostic",
+      "open-science",
+      "open-source",
+      "reproducible-research",
+      "research-tools",
+      "science",
+      "science-agent",
+      "scientific-ai",
+      "scientific-computing",
+      "scientific-research"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 25.78,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 584,
+    "forks": 64,
+    "open_issues": 0,
+    "updated_at": "2026-10-04T11:12:53Z",
+    "pushed_at": "2026-10-03T03:58:07Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.79,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1223,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-04T16:26:49Z",
+    "pushed_at": "2026-10-02T07:40:58Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 457,
+    "forks": 52,
+    "open_issues": 1,
+    "updated_at": "2026-10-03T21:10:20Z",
+    "pushed_at": "2026-10-03T21:10:17Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.69,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "pykale/pykale",
+    "name": "pykale",
+    "url": "https://github.com/pykale/pykale",
+    "description": "Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research, part of the 🔥PyTorch ecosystem. ⭐ Star to support our work!",
+    "language": "Python",
+    "stars": 489,
+    "forks": 73,
+    "open_issues": 18,
+    "updated_at": "2026-10-04T22:11:30Z",
+    "pushed_at": "2026-10-04T22:24:27Z",
+    "topics": [
+      "computer-vision",
+      "data-science",
+      "deep-learning",
+      "domain-adaptation",
+      "graph-analysis",
+      "knowledge-aware-learning",
+      "machine-learning",
+      "medical-image-analysis",
+      "meta-learning",
+      "multimodal",
+      "multimodal-learning",
+      "python",
+      "pytorch",
+      "transfer-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 22.16,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 12,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-10-05T00:38:26Z",
+    "pushed_at": "2026-10-05T00:38:23Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 13.1
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 21,
+    "updated_at": "2026-10-04T20:02:05Z",
+    "pushed_at": "2026-10-04T20:02:01Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.18
+  },
+  {
+    "full_name": "taiwo-oluwamojo/taiwo-oluwamojo",
+    "name": "taiwo-oluwamojo",
+    "url": "https://github.com/taiwo-oluwamojo/taiwo-oluwamojo",
+    "description": "Bioinformatics & AI Researcher | Machine Learning for Multi-Omics",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-02T21:39:57Z",
+    "pushed_at": "2026-10-02T21:39:53Z",
+    "topics": [],
+    "application_area": "病理与组学",
+    "score": 6.51
+  },
+  {
+    "full_name": "cheraga/Disease-Prediction-from-Medical-Data",
+    "name": "Disease-Prediction-from-Medical-Data",
+    "url": "https://github.com/cheraga/Disease-Prediction-from-Medical-Data",
+    "description": "Machine learning project for disease likelihood prediction from structured medical data.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-04T23:00:08Z",
+    "pushed_at": "2026-10-04T23:00:04Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  }
+]
