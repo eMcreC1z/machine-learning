@@ -1,1 +1,485 @@
-[]
+[
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1263,
+    "forks": 161,
+    "open_issues": 9,
+    "updated_at": "2026-10-06T01:51:39Z",
+    "pushed_at": "2026-10-02T14:53:46Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 33.98,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4676,
+    "forks": 715,
+    "open_issues": 0,
+    "updated_at": "2026-10-06T01:35:09Z",
+    "pushed_at": "2026-10-01T14:23:27Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.22,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 405,
+    "forks": 61,
+    "open_issues": 28,
+    "updated_at": "2026-10-05T10:00:05Z",
+    "pushed_at": "2026-10-03T15:10:53Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.58,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "mims-harvard/ToolUniverse",
+    "name": "ToolUniverse",
+    "url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
+    "language": "Python",
+    "stars": 1720,
+    "forks": 261,
+    "open_issues": 21,
+    "updated_at": "2026-10-07T03:48:28Z",
+    "pushed_at": "2026-10-07T02:15:15Z",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-communication",
+      "ai-for-science",
+      "ai-scientists",
+      "automated-science",
+      "autonomous-agents",
+      "co-pilot",
+      "co-scientist",
+      "llms",
+      "lrm",
+      "mcp-servers",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "scientific-skill",
+      "tool-use"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.77,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "large language model"
+      ],
+      "medical": [
+        "diagnosis",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 415,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-10-06T11:20:36Z",
+    "pushed_at": "2026-10-06T11:20:32Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 26.1,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "pathology",
+        "disease",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "zapplyjobs/Internships-2027",
+    "name": "Internships-2027",
+    "url": "https://github.com/zapplyjobs/Internships-2027",
+    "description": "2027 tech & software engineering internships for students — new grad US roles, summer & full-year",
+    "language": "HTML",
+    "stars": 5219,
+    "forks": 799,
+    "open_issues": 2,
+    "updated_at": "2026-10-07T05:36:47Z",
+    "pushed_at": "2026-10-07T05:36:43Z",
+    "topics": [
+      "2027",
+      "applications",
+      "college",
+      "early-career",
+      "hiring",
+      "internship",
+      "internships",
+      "interviews",
+      "job-search",
+      "jobboard",
+      "jobs",
+      "jobs-2027",
+      "junior",
+      "new-grad-jobs",
+      "newgrad",
+      "remote-job",
+      "summer-internship",
+      "swe",
+      "tech-internship",
+      "university"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 26.03,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "openmedlab/Awesome-Medical-Dataset",
+    "name": "Awesome-Medical-Dataset",
+    "url": "https://github.com/openmedlab/Awesome-Medical-Dataset",
+    "description": "Collection of awesome medical dataset resources.",
+    "language": "",
+    "stars": 2165,
+    "forks": 210,
+    "open_issues": 65,
+    "updated_at": "2026-10-07T02:55:27Z",
+    "pushed_at": "2026-10-02T22:42:22Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 26.03,
+    "evidence_terms": {
+      "ml": [
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "patient",
+        "imaging",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "albumentations-team/AlbumentationsX",
+    "name": "AlbumentationsX",
+    "url": "https://github.com/albumentations-team/AlbumentationsX",
+    "description": "Image augmentation for computer vision. AGPL-3.0-only or commercial licensing.",
+    "language": "Python",
+    "stars": 566,
+    "forks": 44,
+    "open_issues": 25,
+    "updated_at": "2026-10-07T04:45:53Z",
+    "pushed_at": "2026-10-07T04:45:50Z",
+    "topics": [
+      "3d",
+      "augmentation",
+      "bounding-box",
+      "computer-vision",
+      "data-augmentation",
+      "deep-learning",
+      "deeplearning",
+      "image-augmentation",
+      "image-classification",
+      "image-processing",
+      "image-segmentations",
+      "instance-segmentation",
+      "keypoint-detection",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "python",
+      "pytorch",
+      "segmentation",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 25.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1224,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-07T05:20:54Z",
+    "pushed_at": "2026-10-07T05:20:50Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 588,
+    "forks": 65,
+    "open_issues": 0,
+    "updated_at": "2026-10-05T18:49:23Z",
+    "pushed_at": "2026-10-03T03:58:07Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.67,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 457,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-10-06T11:04:22Z",
+    "pushed_at": "2026-10-06T11:04:17Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.84,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "rendeirolab/LazySlide",
+    "name": "LazySlide",
+    "url": "https://github.com/rendeirolab/LazySlide",
+    "description": "Accessible and interoperable whole slide image analysis for digital pathology in Python",
+    "language": "Python",
+    "stars": 327,
+    "forks": 32,
+    "open_issues": 7,
+    "updated_at": "2026-10-06T20:30:10Z",
+    "pushed_at": "2026-10-06T20:30:04Z",
+    "topics": [
+      "bioinformatics",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "foundation-models",
+      "histopathology",
+      "medical-imaging",
+      "pathology",
+      "python",
+      "scverse",
+      "spatialdata",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 23.14,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 451,
+    "forks": 101,
+    "open_issues": 645,
+    "updated_at": "2026-10-06T21:09:28Z",
+    "pushed_at": "2026-10-06T21:09:24Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 20.43,
+    "evidence_terms": {
+      "ml": [
+        "foundation model"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "bhuvannv13/Integrative-Multi-Omics-Subtyping-of-Colon-Adenocarcinoma-Using-Deep-Learning-and-Explainable-AI",
+    "name": "Integrative-Multi-Omics-Subtyping-of-Colon-Adenocarcinoma-Using-Deep-Learning-and-Explainable-AI",
+    "url": "https://github.com/bhuvannv13/Integrative-Multi-Omics-Subtyping-of-Colon-Adenocarcinoma-Using-Deep-Learning-and-Explainable-AI",
+    "description": "This study leverages deep learning and explainable AI to integrate transcriptomic, copy-number, and DNA methylation data from TCGA colon adenocarcinoma. The approach uncovers molecular patterns beyond established subtyping frameworks, evaluates their prognostic significance.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-06T10:13:55Z",
+    "pushed_at": "2026-10-06T10:13:50Z",
+    "topics": [],
+    "application_area": "病理与组学",
+    "score": 6.8
+  }
+]
