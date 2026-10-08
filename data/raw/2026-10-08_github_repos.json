@@ -1,0 +1,402 @@
+[
+  {
+    "full_name": "josephmisiti/awesome-machine-learning",
+    "name": "awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "language": "Python",
+    "stars": 74539,
+    "forks": 15668,
+    "open_issues": 22,
+    "updated_at": "2026-10-08T00:17:27Z",
+    "pushed_at": "2026-10-07T21:59:25Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 35.58,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1265,
+    "forks": 162,
+    "open_issues": 9,
+    "updated_at": "2026-10-07T22:37:28Z",
+    "pushed_at": "2026-10-02T14:53:46Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 34.13,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4677,
+    "forks": 715,
+    "open_issues": 0,
+    "updated_at": "2026-10-07T15:53:34Z",
+    "pushed_at": "2026-10-01T14:23:27Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.36,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "name": "tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+    "language": "Python",
+    "stars": 556,
+    "forks": 113,
+    "open_issues": 19,
+    "updated_at": "2026-10-07T13:50:39Z",
+    "pushed_at": "2026-10-07T13:50:47Z",
+    "topics": [
+      "cell-classification",
+      "cell-segmentation",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "histopathology",
+      "image-analysis",
+      "machine-learning",
+      "medical-image-analysis",
+      "python",
+      "stain-normalization",
+      "tissue-analysis",
+      "tissue-segmentation",
+      "whole-slide-imaging"
+    ],
+    "application_area": "医学影像",
+    "score": 26.47,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "openmedlab/Awesome-Medical-Dataset",
+    "name": "Awesome-Medical-Dataset",
+    "url": "https://github.com/openmedlab/Awesome-Medical-Dataset",
+    "description": "Collection of awesome medical dataset resources.",
+    "language": "",
+    "stars": 2166,
+    "forks": 210,
+    "open_issues": 65,
+    "updated_at": "2026-10-07T15:18:57Z",
+    "pushed_at": "2026-10-02T22:42:22Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 26.03,
+    "evidence_terms": {
+      "ml": [
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "patient",
+        "imaging",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "SheffieldML/GPy",
+    "name": "GPy",
+    "url": "https://github.com/SheffieldML/GPy",
+    "description": "Gaussian processes framework in python",
+    "language": "Python",
+    "stars": 2169,
+    "forks": 572,
+    "open_issues": 249,
+    "updated_at": "2026-10-07T21:34:23Z",
+    "pushed_at": "2026-10-07T21:48:58Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 25.08,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "medicine",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1224,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-07T05:20:54Z",
+    "pushed_at": "2026-10-07T05:20:50Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.77,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 588,
+    "forks": 65,
+    "open_issues": 0,
+    "updated_at": "2026-10-05T18:49:23Z",
+    "pushed_at": "2026-10-03T03:58:07Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.52,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 457,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-10-06T11:04:22Z",
+    "pushed_at": "2026-10-06T11:04:17Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.7,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "maju116/platypus",
+    "name": "platypus",
+    "url": "https://github.com/maju116/platypus",
+    "description": "Deep learning for medical image segmentation in R: 2D and 3D, DICOM and NIfTI, one specification.",
+    "language": "R",
+    "stars": 134,
+    "forks": 9,
+    "open_issues": 10,
+    "updated_at": "2026-10-07T20:58:54Z",
+    "pushed_at": "2026-10-07T23:23:56Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 16.82
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 12,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-10-07T23:06:09Z",
+    "pushed_at": "2026-10-07T23:06:03Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 13.1
+  },
+  {
+    "full_name": "ANTsX/ANTsTorch",
+    "name": "ANTsTorch",
+    "url": "https://github.com/ANTsX/ANTsTorch",
+    "description": "Pre-trained models and utilities for deep learning on medical images in PyTorch",
+    "language": "Python",
+    "stars": 7,
+    "forks": 5,
+    "open_issues": 2,
+    "updated_at": "2026-10-07T20:27:42Z",
+    "pushed_at": "2026-10-07T20:27:37Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 10.78
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 21,
+    "updated_at": "2026-10-07T20:01:53Z",
+    "pushed_at": "2026-10-07T20:01:49Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.18
+  },
+  {
+    "full_name": "KatherLab/MediSwarm",
+    "name": "MediSwarm",
+    "url": "https://github.com/KatherLab/MediSwarm",
+    "description": "MediSwarm is an open-source project for advancing medical deep learning using swarm intelligence and NVFlare. Developed by the Odelia consortium, it ensures data privacy through federated learning, enabling collaborative, decentralized model training across institutions for improved medical research and applications.",
+    "language": "Python",
+    "stars": 4,
+    "forks": 3,
+    "open_issues": 59,
+    "updated_at": "2026-10-07T16:05:36Z",
+    "pushed_at": "2026-10-07T16:05:33Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 9.7
+  },
+  {
+    "full_name": "bhuvannv13/Integrative-Multi-Omics-Subtyping-of-Colon-Adenocarcinoma-Using-Deep-Learning-and-Explainable-AI",
+    "name": "Integrative-Multi-Omics-Subtyping-of-Colon-Adenocarcinoma-Using-Deep-Learning-and-Explainable-AI",
+    "url": "https://github.com/bhuvannv13/Integrative-Multi-Omics-Subtyping-of-Colon-Adenocarcinoma-Using-Deep-Learning-and-Explainable-AI",
+    "description": "This study leverages deep learning and explainable AI to integrate transcriptomic, copy-number, and DNA methylation data from TCGA colon adenocarcinoma. The approach uncovers molecular patterns beyond established subtyping frameworks, evaluates their prognostic significance.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-07T11:25:09Z",
+    "pushed_at": "2026-10-06T10:13:50Z",
+    "topics": [
+      "bioinformatics",
+      "deep-learning",
+      "explainable-ai",
+      "multi-omics",
+      "variational-autoencoder"
+    ],
+    "application_area": "病理与组学",
+    "score": 6.8
+  }
+]
