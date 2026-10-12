@@ -1,0 +1,311 @@
+[
+  {
+    "full_name": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "name": "Awesome-AI-Agents-for-Healthcare",
+    "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+    "description": "Latest Advances on Agentic AI & AI Agents for Healthcare",
+    "language": "",
+    "stars": 1269,
+    "forks": 162,
+    "open_issues": 9,
+    "updated_at": "2026-10-11T07:30:45Z",
+    "pushed_at": "2026-10-02T14:53:46Z",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "healthcare-agents",
+      "medical-agents"
+    ],
+    "application_area": "医学影像",
+    "score": 34.13,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology"
+      ]
+    }
+  },
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 485,
+    "forks": 48,
+    "open_issues": 1,
+    "updated_at": "2026-10-12T00:49:25Z",
+    "pushed_at": "2026-10-12T00:49:21Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 30.48,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "radiology",
+        "imaging",
+        "pathology",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8764,
+    "forks": 1650,
+    "open_issues": 508,
+    "updated_at": "2026-10-11T23:39:40Z",
+    "pushed_at": "2026-10-11T23:39:30Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.8,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 2028,
+    "forks": 249,
+    "open_issues": 45,
+    "updated_at": "2026-10-11T21:29:02Z",
+    "pushed_at": "2026-10-11T08:36:10Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 28.03,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "pditommaso/awesome-pipeline",
+    "name": "awesome-pipeline",
+    "url": "https://github.com/pditommaso/awesome-pipeline",
+    "description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
+    "language": "",
+    "stars": 6626,
+    "forks": 650,
+    "open_issues": 32,
+    "updated_at": "2026-10-11T19:14:46Z",
+    "pushed_at": "2026-10-11T19:14:38Z",
+    "topics": [
+      "awesome-list",
+      "workflow"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 26.31,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 590,
+    "forks": 65,
+    "open_issues": 0,
+    "updated_at": "2026-10-09T07:13:07Z",
+    "pushed_at": "2026-10-03T03:58:07Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.53,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1224,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-09T00:59:29Z",
+    "pushed_at": "2026-10-09T00:59:25Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.49,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+    "name": "Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+    "url": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+    "description": "Tech internships & CS jobs tracker - 180 open software engineering internships from 4,300 employer job boards, auto-updated every 30 min with visa-sponsorship and H-1B sponsor data.",
+    "language": "Python",
+    "stars": 884,
+    "forks": 24,
+    "open_issues": 1,
+    "updated_at": "2026-10-11T22:42:51Z",
+    "pushed_at": "2026-10-11T22:42:48Z",
+    "topics": [
+      "2027",
+      "career",
+      "computer-science",
+      "faang",
+      "h1b",
+      "hiring",
+      "internship-search",
+      "internships",
+      "job-board",
+      "job-search",
+      "jobs",
+      "new-grad",
+      "software-engineering",
+      "summer-2027",
+      "summer-2027-internships",
+      "swe-internship-2027",
+      "swe-internships",
+      "tech-internships",
+      "tech-jobs",
+      "visa-sponsorship"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 21.68,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 21,
+    "updated_at": "2026-10-11T20:10:09Z",
+    "pushed_at": "2026-10-11T20:10:06Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.18
+  },
+  {
+    "full_name": "bhuvannv13/Integrative-Multi-Omics-Subtyping-of-Colon-Adenocarcinoma-Using-Deep-Learning-and-Explainable-AI",
+    "name": "Integrative-Multi-Omics-Subtyping-of-Colon-Adenocarcinoma-Using-Deep-Learning-and-Explainable-AI",
+    "url": "https://github.com/bhuvannv13/Integrative-Multi-Omics-Subtyping-of-Colon-Adenocarcinoma-Using-Deep-Learning-and-Explainable-AI",
+    "description": "This study leverages deep learning and explainable AI to integrate transcriptomic, copy-number, and DNA methylation data from TCGA colon adenocarcinoma. The approach uncovers molecular patterns beyond established subtyping frameworks, evaluates their prognostic significance.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-10T11:06:07Z",
+    "pushed_at": "2026-10-10T11:06:03Z",
+    "topics": [
+      "bioinformatics",
+      "deep-learning",
+      "explainable-ai",
+      "multi-omics",
+      "variational-autoencoder"
+    ],
+    "application_area": "病理与组学",
+    "score": 6.66
+  }
+]
