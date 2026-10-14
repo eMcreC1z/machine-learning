@@ -1,1 +1,365 @@
-[]
+[
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 405,
+    "forks": 62,
+    "open_issues": 29,
+    "updated_at": "2026-10-13T20:00:47Z",
+    "pushed_at": "2026-10-13T20:00:40Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.73,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "mdozmorov/MachineLearning_notes",
+    "name": "MachineLearning_notes",
+    "url": "https://github.com/mdozmorov/MachineLearning_notes",
+    "description": "Machine learning and deep learning resources",
+    "language": "",
+    "stars": 574,
+    "forks": 91,
+    "open_issues": 0,
+    "updated_at": "2026-10-13T16:52:56Z",
+    "pushed_at": "2026-10-13T16:52:52Z",
+    "topics": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 27.58,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "medicine",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3587,
+    "forks": 438,
+    "open_issues": 14,
+    "updated_at": "2026-10-13T23:49:22Z",
+    "pushed_at": "2026-10-14T01:22:12Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 25.78,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 450,
+    "forks": 101,
+    "open_issues": 650,
+    "updated_at": "2026-10-13T21:28:38Z",
+    "pushed_at": "2026-10-13T21:28:34Z",
+    "topics": [],
+    "application_area": "临床文本与大模型",
+    "score": 24.83,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence",
+        "foundation model"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1225,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-12T04:50:45Z",
+    "pushed_at": "2026-10-12T03:23:41Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.63,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
+    "language": "",
+    "stars": 415,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-10-12T16:08:03Z",
+    "pushed_at": "2026-10-12T16:07:58Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 24.56,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "pathology",
+        "disease",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 458,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-10-13T20:04:13Z",
+    "pushed_at": "2026-10-13T14:41:04Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.85,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "Beliavsky/Fortran-code-on-GitHub",
+    "name": "Fortran-code-on-GitHub",
+    "url": "https://github.com/Beliavsky/Fortran-code-on-GitHub",
+    "description": "Directory of Fortran codes on GitHub, arranged by topic",
+    "language": "",
+    "stars": 390,
+    "forks": 73,
+    "open_issues": 42,
+    "updated_at": "2026-10-13T22:38:34Z",
+    "pushed_at": "2026-10-13T22:38:30Z",
+    "topics": [
+      "cfd",
+      "earth-science",
+      "electronic-structure",
+      "finite-elements",
+      "fortran",
+      "linear-algebra",
+      "list",
+      "machine-learning",
+      "modern-fortran",
+      "numerical-integration",
+      "numerical-methods",
+      "numerical-optimization",
+      "nwp",
+      "quantum-chemistry",
+      "scientific-computing",
+      "statistics"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 19.97,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "medicine"
+      ]
+    }
+  },
+  {
+    "full_name": "ANTsX/ANTsPyNet",
+    "name": "ANTsPyNet",
+    "url": "https://github.com/ANTsX/ANTsPyNet",
+    "description": "Pre-trained models and utilities for deep learning on medical images in Python (Keras/TensorFlow)",
+    "language": "Python",
+    "stars": 262,
+    "forks": 35,
+    "open_issues": 9,
+    "updated_at": "2026-10-14T00:42:58Z",
+    "pushed_at": "2026-10-14T00:42:54Z",
+    "topics": [
+      "convolutional-neural-networks",
+      "deep-learning",
+      "python"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 18.01
+  },
+  {
+    "full_name": "maju116/platypus",
+    "name": "platypus",
+    "url": "https://github.com/maju116/platypus",
+    "description": "Deep learning for medical image segmentation in R: 2D and 3D, DICOM and NIfTI, one specification.",
+    "language": "R",
+    "stars": 136,
+    "forks": 9,
+    "open_issues": 15,
+    "updated_at": "2026-10-13T21:14:16Z",
+    "pushed_at": "2026-10-13T21:19:45Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 16.85
+  },
+  {
+    "full_name": "SaharStudios/LungCancerClassification",
+    "name": "LungCancerClassification",
+    "url": "https://github.com/SaharStudios/LungCancerClassification",
+    "description": "This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.",
+    "language": "Jupyter Notebook",
+    "stars": 12,
+    "forks": 4,
+    "open_issues": 0,
+    "updated_at": "2026-10-14T01:40:21Z",
+    "pushed_at": "2026-10-14T01:40:18Z",
+    "topics": [
+      "ai-in-healthcare-and-biology",
+      "biomedical-ai",
+      "cancer-classification",
+      "histopathology",
+      "image-classification",
+      "lidc-dataset",
+      "lung-cancer-classification",
+      "lung-cancer-detection",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "pyradiomics",
+      "streamlit",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 13.1
+  },
+  {
+    "full_name": "ANTsX/ANTsTorch",
+    "name": "ANTsTorch",
+    "url": "https://github.com/ANTsX/ANTsTorch",
+    "description": "Pre-trained models and utilities for deep learning on medical images in PyTorch",
+    "language": "Python",
+    "stars": 7,
+    "forks": 5,
+    "open_issues": 2,
+    "updated_at": "2026-10-14T00:42:17Z",
+    "pushed_at": "2026-10-14T00:42:12Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 10.78
+  },
+  {
+    "full_name": "nmemranhussain/DiaVigil",
+    "name": "DiaVigil",
+    "url": "https://github.com/nmemranhussain/DiaVigil",
+    "description": "DiaVigil is a 3-agent clinical BI copilot designed to curb 30-day diabetic hospital readmissions and mitigate HRRP penalties. Combining DuckDB SQL extraction, XGBoost prediction with SHAP explainability, and Groq Compound LLM synthesis, it turns EHR data into real-time risk scores and actionable, protocol-aligned discharge plans for care teams.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-14T01:24:39Z",
+    "pushed_at": "2026-10-14T01:24:36Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 8.4
+  }
+]
