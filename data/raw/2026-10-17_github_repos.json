@@ -1,0 +1,531 @@
+[
+  {
+    "full_name": "interpretml/interpret",
+    "name": "interpret",
+    "url": "https://github.com/interpretml/interpret",
+    "description": "Fit interpretable models. Explain blackbox machine learning.",
+    "language": "C++",
+    "stars": 6961,
+    "forks": 791,
+    "open_issues": 43,
+    "updated_at": "2026-10-16T22:35:18Z",
+    "pushed_at": "2026-10-17T00:19:16Z",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "bias",
+      "blackbox",
+      "differential-privacy",
+      "explainability",
+      "explainable-ai",
+      "explainable-ml",
+      "gradient-boosting",
+      "iml",
+      "interpretability",
+      "interpretable-ai",
+      "interpretable-machine-learning",
+      "interpretable-ml",
+      "interpretml",
+      "machine-learning",
+      "scikit-learn",
+      "transparency",
+      "xai"
+    ],
+    "application_area": "医学影像",
+    "score": 28.92,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "medical",
+        "hospital",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "ai4s-research/awesome-ai-for-science",
+    "name": "awesome-ai-for-science",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "language": "",
+    "stars": 2034,
+    "forks": 252,
+    "open_issues": 48,
+    "updated_at": "2026-10-16T12:52:11Z",
+    "pushed_at": "2026-10-16T08:35:06Z",
+    "topics": [
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 28.04,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical",
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "mdozmorov/MachineLearning_notes",
+    "name": "MachineLearning_notes",
+    "url": "https://github.com/mdozmorov/MachineLearning_notes",
+    "description": "Machine learning and deep learning resources",
+    "language": "",
+    "stars": 574,
+    "forks": 91,
+    "open_issues": 0,
+    "updated_at": "2026-10-16T12:26:32Z",
+    "pushed_at": "2026-10-16T12:26:27Z",
+    "topics": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 27.58,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "medicine",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A Deep Learning Python Toolkit for Healthcare Applications.",
+    "language": "Python",
+    "stars": 1673,
+    "forks": 823,
+    "open_issues": 111,
+    "updated_at": "2026-10-17T00:20:55Z",
+    "pushed_at": "2026-10-17T00:20:49Z",
+    "topics": [
+      "clinical-data",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "medical-code",
+      "preprocessing"
+    ],
+    "application_area": "药物与转化",
+    "score": 27.47,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "hospital"
+      ]
+    }
+  },
+  {
+    "full_name": "TorchIO-project/torchio",
+    "name": "torchio",
+    "url": "https://github.com/TorchIO-project/torchio",
+    "description": "Medical imaging processing for AI applications.",
+    "language": "Python",
+    "stars": 2450,
+    "forks": 284,
+    "open_issues": 52,
+    "updated_at": "2026-10-16T23:22:20Z",
+    "pushed_at": "2026-10-16T23:23:13Z",
+    "topics": [
+      "augmentation",
+      "data-augmentation",
+      "deep-learning",
+      "machine-learning",
+      "medical-image-analysis",
+      "medical-image-computing",
+      "medical-image-processing",
+      "python",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 26.64,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3622,
+    "forks": 454,
+    "open_issues": 20,
+    "updated_at": "2026-10-16T22:26:13Z",
+    "pushed_at": "2026-10-17T00:30:22Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.62,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "Vincentqyw/cv-arxiv-daily",
+    "name": "cv-arxiv-daily",
+    "url": "https://github.com/Vincentqyw/cv-arxiv-daily",
+    "description": "🎓Automatically Update CV Papers Daily using Github Actions",
+    "language": "Python",
+    "stars": 1506,
+    "forks": 567,
+    "open_issues": 0,
+    "updated_at": "2026-10-16T02:55:19Z",
+    "pushed_at": "2026-10-16T02:55:16Z",
+    "topics": [
+      "3d-reconstruction",
+      "arxiv",
+      "cv",
+      "deep-learning",
+      "image-matching",
+      "lidar",
+      "localization",
+      "mapping",
+      "nerf",
+      "paper",
+      "paperwithcode",
+      "robotics",
+      "sfm",
+      "slam",
+      "structure-from-motion"
+    ],
+    "application_area": "医学影像",
+    "score": 25.64,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "hazratali/awesome-ai-summerschool",
+    "name": "awesome-ai-summerschool",
+    "url": "https://github.com/hazratali/awesome-ai-summerschool",
+    "description": "An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare",
+    "language": "",
+    "stars": 746,
+    "forks": 66,
+    "open_issues": 0,
+    "updated_at": "2026-10-16T08:27:12Z",
+    "pushed_at": "2026-10-16T08:27:06Z",
+    "topics": [
+      "artificial-intelligence",
+      "courses",
+      "deep-learning",
+      "machine-learning",
+      "summer-school"
+    ],
+    "application_area": "医学影像",
+    "score": 24.63,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1227,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-14T21:19:11Z",
+    "pushed_at": "2026-10-12T03:23:41Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.49,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 742,
+    "forks": 138,
+    "open_issues": 137,
+    "updated_at": "2026-10-16T23:44:22Z",
+    "pushed_at": "2026-10-16T21:01:18Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-ai",
+      "awesome-ai-agents",
+      "awesome-ai-tools",
+      "awesome-list",
+      "awesome-skills",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 22.3,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 670,
+    "forks": 42,
+    "open_issues": 2,
+    "updated_at": "2026-10-16T15:47:30Z",
+    "pushed_at": "2026-10-16T15:47:25Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 21.36,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "patient"
+      ]
+    }
+  },
+  {
+    "full_name": "trackawesomelist/trackawesomelist",
+    "name": "trackawesomelist",
+    "url": "https://github.com/trackawesomelist/trackawesomelist",
+    "description": "Track 500+ Awesome List Updates, Track it - not just star it!",
+    "language": "",
+    "stars": 685,
+    "forks": 67,
+    "open_issues": 16,
+    "updated_at": "2026-10-16T17:43:16Z",
+    "pushed_at": "2026-10-16T16:37:49Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "track",
+      "trending"
+    ],
+    "application_area": "医学影像",
+    "score": 20.89,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "name": "AlterLab-Academic-Skills",
+    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills",
+    "description": "242 evaluated academic Claude/agent skills across 18 research domains — bioinformatics, cheminformatics, data science, databases, clinical, social science, Turkish academia & more. Every skill ships an executable eval. Citation verifier, research→write→review pipeline, 7 multi-agent workflows. Claude Code plugins; also Cursor, Codex, Gemini CLI.",
+    "language": "Python",
+    "stars": 76,
+    "forks": 16,
+    "open_issues": 5,
+    "updated_at": "2026-10-16T23:37:30Z",
+    "pushed_at": "2026-10-14T19:53:58Z",
+    "topics": [
+      "academic-research",
+      "agent-skills",
+      "anthropic",
+      "bioinformatics",
+      "cheminformatics",
+      "citation",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "clinical-research",
+      "data-science",
+      "data-visualization",
+      "llm-agents",
+      "model-context-protocol",
+      "prompt-engineering",
+      "reproducible-research",
+      "research-tools",
+      "scientific-computing",
+      "scientific-writing",
+      "turkish-academia"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 16.19
+  },
+  {
+    "full_name": "gopaljilab/Clinical-Insight-Engine",
+    "name": "Clinical-Insight-Engine",
+    "url": "https://github.com/gopaljilab/Clinical-Insight-Engine",
+    "description": "Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines a Python-based interpretable machine learning model with a modern React frontend, presenting results differently for clinicians and patients.",
+    "language": "HTML",
+    "stars": 23,
+    "forks": 88,
+    "open_issues": 140,
+    "updated_at": "2026-10-16T19:01:50Z",
+    "pushed_at": "2026-10-16T19:01:45Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 15.24
+  },
+  {
+    "full_name": "radxtools/collageradiomics",
+    "name": "collageradiomics",
+    "url": "https://github.com/radxtools/collageradiomics",
+    "description": "Python Implementation of the CoLlAGe radiomics descriptor. CoLlAGe captures subtle anisotropic differences in disease pathologies by measuring entropy of co-occurrences of voxel-level gradient orientations on imaging computed within a local neighborhood.",
+    "language": "Python",
+    "stars": 20,
+    "forks": 13,
+    "open_issues": 31,
+    "updated_at": "2026-10-14T18:01:13Z",
+    "pushed_at": "2026-10-14T18:00:52Z",
+    "topics": [
+      "3d-slicer-extension",
+      "cancer-imaging",
+      "cancer-imaging-research",
+      "computational-imaging",
+      "docker",
+      "feature-extraction",
+      "itcr",
+      "python",
+      "radiomics",
+      "radiomics-feature-extraction",
+      "radiomics-features"
+    ],
+    "application_area": "医学影像",
+    "score": 14.32
+  },
+  {
+    "full_name": "ANTsX/ANTsTorch",
+    "name": "ANTsTorch",
+    "url": "https://github.com/ANTsX/ANTsTorch",
+    "description": "Pre-trained models and utilities for deep learning on medical images in PyTorch",
+    "language": "Python",
+    "stars": 7,
+    "forks": 5,
+    "open_issues": 2,
+    "updated_at": "2026-10-16T18:52:53Z",
+    "pushed_at": "2026-10-16T18:52:49Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 10.78
+  },
+  {
+    "full_name": "KatherLab/MediSwarm",
+    "name": "MediSwarm",
+    "url": "https://github.com/KatherLab/MediSwarm",
+    "description": "MediSwarm is an open-source project for advancing medical deep learning using swarm intelligence and NVFlare. Developed by the Odelia consortium, it ensures data privacy through federated learning, enabling collaborative, decentralized model training across institutions for improved medical research and applications.",
+    "language": "Python",
+    "stars": 4,
+    "forks": 3,
+    "open_issues": 48,
+    "updated_at": "2026-10-16T14:02:42Z",
+    "pushed_at": "2026-10-16T14:02:38Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 9.7
+  }
+]
