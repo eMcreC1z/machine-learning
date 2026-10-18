@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.98,
+    "seconds": 1.9,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-10-08"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.92,
+    "seconds": 1.91,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-10-08"
   },
   {
@@ -23,53 +23,44 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.02,
+    "seconds": 1.76,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-10-08"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-10-08&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.89,
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 107.173.152.125. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 1.49,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-10-08"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-10-08&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.93,
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 107.173.152.125. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.95,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-10-08"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-10-08&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.86,
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 107.173.152.125. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.94,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-10-08"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-10-08&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.14,
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 107.173.152.125. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.91,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-10-08"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/rust-unofficial/awesome-rust/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.31,
-    "repo": "rust-unofficial/awesome-rust"
   },
   {
     "source": "github_readme",
@@ -77,26 +68,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.11,
+    "seconds": 0.91,
     "repo": "Project-MONAI/MONAI"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/interpretml/interpret/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.41,
-    "repo": "interpretml/interpret"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/aipoch/open-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.25,
-    "repo": "aipoch/open-science"
   },
   {
     "source": "github_readme",
@@ -104,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.63,
+    "seconds": 1.46,
     "repo": "r0f1/datascience"
   },
   {
@@ -113,62 +86,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.32,
+    "seconds": 1.29,
     "repo": "ZhengPeng7/BiRefNet"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/seandavi/awesome-single-cell/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.6,
-    "repo": "seandavi/awesome-single-cell"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/protontypes/open-sustainable-technology/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.85,
-    "repo": "protontypes/open-sustainable-technology"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/SheffieldML/GPy/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.15,
-    "repo": "SheffieldML/GPy"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/ai4s-research/awesome-ai-for-science/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.73,
-    "repo": "ai4s-research/awesome-ai-for-science"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/youngfish42/Awesome-FL/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.85,
-    "repo": "youngfish42/Awesome-FL"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/Awesome-Image-Registration-Organization/awesome-image-registration/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.84,
-    "repo": "Awesome-Image-Registration-Organization/awesome-image-registration"
   },
   {
     "source": "github_readme",
@@ -176,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.7,
+    "seconds": 1.64,
     "repo": "Vincentqyw/cv-arxiv-daily"
   },
   {
@@ -185,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.93,
+    "seconds": 1.61,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -194,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.32,
+    "seconds": 1.04,
     "repo": "mlmed/torchxrayvision"
   },
   {
@@ -203,26 +122,107 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.54,
+    "seconds": 1.5,
     "repo": "zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/superiorlu/AITreasureBox/readme",
+    "url": "https://api.github.com/repos/SpikingChen/SNN-Daily-Arxiv/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.05,
+    "repo": "SpikingChen/SNN-Daily-Arxiv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/luohongk/Embodied-AI-Daily/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.12,
+    "repo": "luohongk/Embodied-AI-Daily"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/imteekay/machine-learning-research/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.53,
+    "repo": "imteekay/machine-learning-research"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zezhishao/DailyArXiv/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.9,
+    "repo": "zezhishao/DailyArXiv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/fregu856/papers/readme",
     "ok": true,
     "status": 200,
     "error": null,
     "seconds": 1.98,
-    "repo": "superiorlu/AITreasureBox"
+    "repo": "fregu856/papers"
   },
   {
     "source": "github_readme",
-    "url": "https://api.github.com/repos/best-of-ai/best-of-ai/readme",
+    "url": "https://api.github.com/repos/leipzig/awesome-reproducible-research/readme",
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.69,
-    "repo": "best-of-ai/best-of-ai"
+    "seconds": 1.71,
+    "repo": "leipzig/awesome-reproducible-research"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/kaapana/kaapana/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.11,
+    "repo": "kaapana/kaapana"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/GISWLH/DataScience-master/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.51,
+    "repo": "GISWLH/DataScience-master"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/alopatenko/LLMEvaluation/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.71,
+    "repo": "alopatenko/LLMEvaluation"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/gopala-kr/summary/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.62,
+    "repo": "gopala-kr/summary"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/AI-in-Transportation-Lab/awesome-jepa/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.39,
+    "repo": "AI-in-Transportation-Lab/awesome-jepa"
   },
   {
     "source": "pubmed_esearch",
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.22
+    "seconds": 1.24
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.65
+    "seconds": 1.78
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.82
+    "seconds": 1.78
   }
 ]

@@ -75,52 +75,6 @@
     }
   },
   {
-    "full_name": "interpretml/interpret",
-    "name": "interpret",
-    "url": "https://github.com/interpretml/interpret",
-    "description": "Fit interpretable models. Explain blackbox machine learning.",
-    "language": "C++",
-    "stars": 6962,
-    "forks": 791,
-    "open_issues": 43,
-    "updated_at": "2026-10-17T20:04:14Z",
-    "pushed_at": "2026-10-18T00:41:17Z",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "bias",
-      "blackbox",
-      "differential-privacy",
-      "explainability",
-      "explainable-ai",
-      "explainable-ml",
-      "gradient-boosting",
-      "iml",
-      "interpretability",
-      "interpretable-ai",
-      "interpretable-machine-learning",
-      "interpretable-ml",
-      "interpretml",
-      "machine-learning",
-      "scikit-learn",
-      "transparency",
-      "xai"
-    ],
-    "application_area": "医学影像",
-    "score": 28.92,
-    "evidence_terms": {
-      "ml": [
-        "machine learning"
-      ],
-      "medical": [
-        "medical",
-        "hospital",
-        "disease",
-        "cancer"
-      ]
-    }
-  },
-  {
     "full_name": "mlmed/torchxrayvision",
     "name": "torchxrayvision",
     "url": "https://github.com/mlmed/torchxrayvision",
@@ -169,81 +123,41 @@
     }
   },
   {
-    "full_name": "seandavi/awesome-single-cell",
-    "name": "awesome-single-cell",
-    "url": "https://github.com/seandavi/awesome-single-cell",
-    "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
-    "language": "",
-    "stars": 3877,
-    "forks": 1098,
-    "open_issues": 8,
-    "updated_at": "2026-10-17T21:10:44Z",
-    "pushed_at": "2026-10-17T21:10:34Z",
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 406,
+    "forks": 62,
+    "open_issues": 28,
+    "updated_at": "2026-10-16T08:34:37Z",
+    "pushed_at": "2026-10-14T02:09:38Z",
     "topics": [
-      "analysis-pipeline",
-      "atac-seq",
-      "awesome-list",
-      "bioinformatics",
-      "cell-clusters",
-      "cell-differentiation",
-      "cell-populations",
-      "clustering",
-      "data-integration",
-      "data-visualization",
-      "dimensionality-reduction",
-      "gene-expression",
-      "gene-expression-profiles",
-      "python",
-      "rna-seq-data",
-      "rna-seq-experiments",
-      "scrna-seq-data",
-      "single-cell",
-      "spatial-transcriptomics"
-    ],
-    "application_area": "医学影像",
-    "score": 28.12,
-    "evidence_terms": {
-      "ml": [
-        "machine learning"
-      ],
-      "medical": [
-        "genomics"
-      ]
-    }
-  },
-  {
-    "full_name": "ai4s-research/awesome-ai-for-science",
-    "name": "awesome-ai-for-science",
-    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
-    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
-    "language": "",
-    "stars": 2034,
-    "forks": 255,
-    "open_issues": 48,
-    "updated_at": "2026-10-17T08:35:07Z",
-    "pushed_at": "2026-10-17T08:35:01Z",
-    "topics": [
-      "ai-for-science",
-      "ai4s",
-      "ai4science",
       "awesome",
       "awesome-list",
-      "bioinformatics",
-      "scientific-ai"
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
     ],
     "application_area": "医学影像",
-    "score": 28.05,
+    "score": 27.59,
     "evidence_terms": {
       "ml": [
         "machine learning",
-        "llm",
+        "deep learning",
+        "artificial intelligence",
         "nlp"
       ],
       "medical": [
-        "medical",
         "medicine",
         "clinical",
-        "omics"
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
       ]
     }
   },
@@ -289,38 +203,35 @@
     }
   },
   {
-    "full_name": "Awesome-Image-Registration-Organization/awesome-image-registration",
-    "name": "awesome-image-registration",
-    "url": "https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration",
-    "description": "image registration related books, papers, videos, and toolboxes",
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).",
     "language": "",
-    "stars": 1550,
-    "forks": 182,
+    "stars": 415,
+    "forks": 55,
     "open_issues": 0,
-    "updated_at": "2026-10-17T08:26:45Z",
-    "pushed_at": "2026-10-17T08:26:41Z",
+    "updated_at": "2026-10-16T14:43:08Z",
+    "pushed_at": "2026-10-16T14:43:03Z",
     "topics": [
-      "awesome",
-      "awesome-list",
-      "image",
-      "image-processing",
-      "image-registration",
-      "medical-images",
-      "natural-images",
-      "point-cloud-registration",
-      "remote-sensing-image",
-      "slam"
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
     ],
     "application_area": "医学影像",
-    "score": 24.76,
+    "score": 24.56,
     "evidence_terms": {
       "ml": [
-        "deep learning",
-        "computer vision"
+        "deep learning"
       ],
       "medical": [
-        "medical",
-        "imaging"
+        "medicine",
+        "clinical",
+        "prognosis",
+        "pathology",
+        "cancer",
+        "survival"
       ]
     }
   },
@@ -351,46 +262,133 @@
     }
   },
   {
-    "full_name": "best-of-ai/best-of-ai",
-    "name": "best-of-ai",
-    "url": "https://github.com/best-of-ai/best-of-ai",
-    "description": "A curated list of best ai tools",
-    "language": "HTML",
-    "stars": 742,
-    "forks": 139,
-    "open_issues": 139,
-    "updated_at": "2026-10-17T10:36:06Z",
-    "pushed_at": "2026-10-17T09:39:44Z",
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 276,
+    "forks": 67,
+    "open_issues": 1,
+    "updated_at": "2026-10-14T09:53:04Z",
+    "pushed_at": "2026-10-16T09:22:45Z",
     "topics": [
       "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-assistant",
-      "ai-chatbot",
-      "ai-engineering",
-      "ai-tools",
-      "ai-tools-directory",
-      "awesome",
-      "awesome-ai",
-      "awesome-ai-agents",
-      "awesome-ai-tools",
-      "awesome-list",
-      "awesome-skills",
-      "best-ai-tools",
-      "best-of-ai",
-      "bestofai",
-      "free-ai-tools",
-      "top-ai-tools"
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
     ],
     "application_area": "医学影像",
-    "score": 22.3,
+    "score": 24.09,
     "evidence_terms": {
       "ml": [
-        "computer vision"
+        "machine learning",
+        "deep learning",
+        "radiomics"
       ],
       "medical": [
         "medical",
-        "imaging"
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 458,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-10-16T18:05:23Z",
+    "pushed_at": "2026-10-16T18:05:19Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.7,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "AI-in-Transportation-Lab/awesome-jepa",
+    "name": "awesome-jepa",
+    "url": "https://github.com/AI-in-Transportation-Lab/awesome-jepa",
+    "description": "A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Joint Embedding Predictive Architecture (JEPA).",
+    "language": "JavaScript",
+    "stars": 168,
+    "forks": 15,
+    "open_issues": 0,
+    "updated_at": "2026-10-17T03:40:45Z",
+    "pushed_at": "2026-10-17T03:40:42Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.72,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "patient",
+        "radiology",
+        "imaging",
+        "ehr"
+      ]
+    }
+  },
+  {
+    "full_name": "alopatenko/LLMEvaluation",
+    "name": "LLMEvaluation",
+    "url": "https://github.com/alopatenko/LLMEvaluation",
+    "description": "A comprehensive guide to LLM evaluation methods designed to assist in identifying the most suitable evaluation techniques for various use cases, promote the adoption of best practices in LLM assessment, and critically assess the effectiveness of these evaluation methods.",
+    "language": "HTML",
+    "stars": 206,
+    "forks": 30,
+    "open_issues": 0,
+    "updated_at": "2026-10-17T21:30:24Z",
+    "pushed_at": "2026-10-17T21:30:21Z",
+    "topics": [
+      "evaluation",
+      "generative-ai-benchmarking",
+      "llm",
+      "llm-benchmarking",
+      "llm-evaluation"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 22.7,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "clinical"
       ]
     }
   },
@@ -450,20 +448,5 @@
     "topics": [],
     "application_area": "医学影像",
     "score": 10.41
-  },
-  {
-    "full_name": "ahmed-patel6/cdss",
-    "name": "cdss",
-    "url": "https://github.com/ahmed-patel6/cdss",
-    "description": "A clinical decision support system mini project for nlp and dl",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "updated_at": "2026-10-17T17:32:41Z",
-    "pushed_at": "2026-10-17T17:32:37Z",
-    "topics": [],
-    "application_area": "临床文本与大模型",
-    "score": 6.8
   }
 ]

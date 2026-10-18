@@ -1,13 +1,20 @@
 # 医学机器学习自动整理日报 - 2026-10-18
 
-> 自动采集时间：2026-10-18 08:48:26。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-10-18 08:48:59。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
 - GitHub 项目候选：14 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：4 篇
-- 采集异常来源：0 个
+- 采集异常来源：4 个
+
+## 采集限制
+
+- github: HTTP 403: {"message":"API rate limit exceeded for 107.173.152.125. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more...
+- github: HTTP 403: {"message":"API rate limit exceeded for 107.173.152.125. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more...
+- github: HTTP 403: {"message":"API rate limit exceeded for 107.173.152.125. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more...
+- github: HTTP 403: {"message":"API rate limit exceeded for 107.173.152.125. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more...
 
 ## 优先关注 GitHub 项目
 
@@ -15,18 +22,18 @@
 | --- | --- | ---: | --- | --- | --- |
 | 1 | [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | 8786 | 2026-10-17T23:47:35Z | 医学影像 | AI Toolkit for Healthcare Imaging；评分 29.81 |
 | 2 | [r0f1/datascience](https://github.com/r0f1/datascience) | 4681 | 2026-10-17T20:55:52Z | 临床预测 | Curated list of Python resources for data science.；评分 29.37 |
-| 3 | [interpretml/interpret](https://github.com/interpretml/interpret) | 6962 | 2026-10-17T20:04:14Z | 医学影像 | Fit interpretable models. Explain blackbox machine learning.；评分 28.92 |
-| 4 | [mlmed/torchxrayvision](https://github.com/mlmed/torchxrayvision) | 1210 | 2026-10-17T23:21:42Z | 医学影像 | TorchXRayVision: A library of chest X-ray datasets and models. Classifiers, segmentation, and autoencoders.；评分 28.35 |
-| 5 | [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell) | 3877 | 2026-10-17T21:10:44Z | 医学影像 | Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.；评分 28.12 |
-| 6 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 2034 | 2026-10-17T08:35:07Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
-| 7 | [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily) | 1506 | 2026-10-16T02:55:19Z | 医学影像 | 🎓Automatically Update CV Papers Daily using Github Actions；评分 25.5 |
-| 8 | [Awesome-Image-Registration-Organization/awesome-image-regis...](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) | 1550 | 2026-10-17T08:26:45Z | 医学影像 | image registration related books, papers, videos, and toolboxes；评分 24.76 |
-| 9 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1227 | 2026-10-14T21:19:11Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.35 |
-| 10 | [best-of-ai/best-of-ai](https://github.com/best-of-ai/best-of-ai) | 742 | 2026-10-17T10:36:06Z | 医学影像 | A curated list of best ai tools；评分 22.3 |
-| 11 | [radxtools/collageradiomics](https://github.com/radxtools/collageradiomics) | 20 | 2026-10-14T18:01:13Z | 医学影像 | Python Implementation of the CoLlAGe radiomics descriptor. CoLlAGe captures subtle anisotropic differences in disease pathologies by measuring entropy of co-oc... |
-| 12 | [ANTsX/ANTsTorch](https://github.com/ANTsX/ANTsTorch) | 7 | 2026-10-17T23:55:29Z | 综合医学机器学习 | Pre-trained models and utilities for deep learning on medical images in PyTorch；评分 10.78 |
-| 13 | [ruixv/NLOS_Overview](https://github.com/ruixv/NLOS_Overview) | 7 | 2026-10-17T20:15:27Z | 医学影像 | Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes；评分 10.41 |
-| 14 | [ahmed-patel6/cdss](https://github.com/ahmed-patel6/cdss) | 0 | 2026-10-17T17:32:41Z | 临床文本与大模型 | A clinical decision support system mini project for nlp and dl；评分 6.8 |
+| 3 | [mlmed/torchxrayvision](https://github.com/mlmed/torchxrayvision) | 1210 | 2026-10-17T23:21:42Z | 医学影像 | TorchXRayVision: A library of chest X-ray datasets and models. Classifiers, segmentation, and autoencoders.；评分 28.35 |
+| 4 | [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) | 406 | 2026-10-16T08:34:37Z | 医学影像 | A curated list of reproducible research case studies, projects, tutorials, and media；评分 27.59 |
+| 5 | [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily) | 1506 | 2026-10-16T02:55:19Z | 医学影像 | 🎓Automatically Update CV Papers Daily using Github Actions；评分 25.5 |
+| 6 | [fregu856/papers](https://github.com/fregu856/papers) | 415 | 2026-10-16T14:43:08Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).；评分 24.56 |
+| 7 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1227 | 2026-10-14T21:19:11Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.35 |
+| 8 | [kaapana/kaapana](https://github.com/kaapana/kaapana) | 276 | 2026-10-14T09:53:04Z | 医学影像 | Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflow... |
+| 9 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 458 | 2026-10-16T18:05:23Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.7 |
+| 10 | [AI-in-Transportation-Lab/awesome-jepa](https://github.com/AI-in-Transportation-Lab/awesome-jepa) | 168 | 2026-10-17T03:40:45Z | 医学影像 | A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Joint Embedding Predictive Architectu... |
+| 11 | [alopatenko/LLMEvaluation](https://github.com/alopatenko/LLMEvaluation) | 206 | 2026-10-17T21:30:24Z | 临床文本与大模型 | A comprehensive guide to LLM evaluation methods designed to assist in identifying the most suitable evaluation techniques for various use cases, promote the ad... |
+| 12 | [radxtools/collageradiomics](https://github.com/radxtools/collageradiomics) | 20 | 2026-10-14T18:01:13Z | 医学影像 | Python Implementation of the CoLlAGe radiomics descriptor. CoLlAGe captures subtle anisotropic differences in disease pathologies by measuring entropy of co-oc... |
+| 13 | [ANTsX/ANTsTorch](https://github.com/ANTsX/ANTsTorch) | 7 | 2026-10-17T23:55:29Z | 综合医学机器学习 | Pre-trained models and utilities for deep learning on medical images in PyTorch；评分 10.78 |
+| 14 | [ruixv/NLOS_Overview](https://github.com/ruixv/NLOS_Overview) | 7 | 2026-10-17T20:15:27Z | 医学影像 | Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes；评分 10.41 |
 
 ## 高水平论文候选
 
@@ -57,7 +64,7 @@
 
 ### 临床文本与大模型
 
-- 可复用项目：[ahmed-patel6/cdss](https://github.com/ahmed-patel6/cdss)，适合先看 README、数据要求、许可证和最近提交。
+- 可复用项目：[alopatenko/LLMEvaluation](https://github.com/alopatenko/LLMEvaluation)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Metastasis Extraction From Non-Small Cell Lung Cancer Clinical Notes Using Large Language Model-Based Classification: Retrospective Comparative Study.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
@@ -80,7 +87,7 @@
 
 ### 综合医学机器学习
 
-- 可复用项目：[ANTsX/ANTsTorch](https://github.com/ANTsX/ANTsTorch)，适合先看 README、数据要求、许可证和最近提交。
+- 可复用项目：[imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Keeping artificial intelligence agents within the clinical task.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
@@ -105,33 +112,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=1.98
-- github: OK; status=200; seconds=1.92
-- github: OK; status=200; seconds=2.02
-- github: OK; status=200; seconds=1.89
-- github: OK; status=200; seconds=1.93
-- github: OK; status=200; seconds=1.86
-- github: OK; status=200; seconds=2.14
-- github_readme: OK; status=200; seconds=2.31
-- github_readme: OK; status=200; seconds=1.11
-- github_readme: OK; status=200; seconds=1.41
-- github_readme: OK; status=200; seconds=1.25
-- github_readme: OK; status=200; seconds=1.63
-- github_readme: OK; status=200; seconds=1.32
-- github_readme: OK; status=200; seconds=1.6
-- github_readme: OK; status=200; seconds=1.85
-- github_readme: OK; status=200; seconds=1.15
-- github_readme: OK; status=200; seconds=1.73
-- github_readme: OK; status=200; seconds=1.85
-- github_readme: OK; status=200; seconds=1.84
-- github_readme: OK; status=200; seconds=1.7
-- github_readme: OK; status=200; seconds=1.93
-- github_readme: OK; status=200; seconds=1.32
-- github_readme: OK; status=200; seconds=1.54
+- github: OK; status=200; seconds=1.9
+- github: OK; status=200; seconds=1.91
+- github: OK; status=200; seconds=1.76
+- github: FAILED; status=403; seconds=1.49
+- github: FAILED; status=403; seconds=0.95
+- github: FAILED; status=403; seconds=0.94
+- github: FAILED; status=403; seconds=0.91
+- github_readme: OK; status=200; seconds=0.91
+- github_readme: OK; status=200; seconds=1.46
+- github_readme: OK; status=200; seconds=1.29
+- github_readme: OK; status=200; seconds=1.64
+- github_readme: OK; status=200; seconds=1.61
+- github_readme: OK; status=200; seconds=1.04
+- github_readme: OK; status=200; seconds=1.5
+- github_readme: OK; status=200; seconds=2.05
+- github_readme: OK; status=200; seconds=1.12
+- github_readme: OK; status=200; seconds=1.53
+- github_readme: OK; status=200; seconds=1.9
 - github_readme: OK; status=200; seconds=1.98
-- github_readme: OK; status=200; seconds=1.69
-- pubmed_esearch: OK; status=200; seconds=1.22
-- pubmed_esummary: OK; status=200; seconds=1.65
-- crossref: OK; status=200; seconds=1.82
+- github_readme: OK; status=200; seconds=1.71
+- github_readme: OK; status=200; seconds=1.11
+- github_readme: OK; status=200; seconds=1.51
+- github_readme: OK; status=200; seconds=1.71
+- github_readme: OK; status=200; seconds=1.62
+- github_readme: OK; status=200; seconds=1.39
+- pubmed_esearch: OK; status=200; seconds=1.24
+- pubmed_esummary: OK; status=200; seconds=1.78
+- crossref: OK; status=200; seconds=1.78
 
 本次运行已完成：2026-10-18_ml_med_research_digest.md
