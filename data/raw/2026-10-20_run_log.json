@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.01,
+    "seconds": 2.17,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-10-10"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.21,
+    "seconds": 1.92,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-10-10"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.1,
+    "seconds": 2.22,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-10-10"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.17,
+    "seconds": 2.2,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-10-10"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.93,
+    "seconds": 2.06,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-10-10"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.86,
+    "seconds": 2.09,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-10-10"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.82,
+    "seconds": 1.9,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-10-10"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.78,
+    "seconds": 1.98,
     "repo": "rust-unofficial/awesome-rust"
   },
   {
@@ -77,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.36,
+    "seconds": 1.34,
     "repo": "aipoch/open-science"
   },
   {
@@ -86,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.59,
+    "seconds": 1.74,
     "repo": "r0f1/datascience"
   },
   {
@@ -95,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.46,
+    "seconds": 1.81,
     "repo": "NVIDIA/skills"
   },
   {
@@ -104,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.48,
+    "seconds": 1.51,
     "repo": "sunlabuiuc/PyHealth"
   },
   {
@@ -113,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.72,
+    "seconds": 1.95,
     "repo": "Vincentqyw/cv-arxiv-daily"
   },
   {
@@ -122,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.19,
+    "seconds": 2.09,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -131,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.75,
+    "seconds": 1.77,
     "repo": "benchflow-ai/awesome-evals"
   },
   {
@@ -140,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.38,
+    "seconds": 1.3,
     "repo": "Project-MONAI/MONAILabel"
   },
   {
@@ -149,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.6,
+    "seconds": 1.59,
     "repo": "zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"
   },
   {
@@ -167,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.69,
+    "seconds": 1.67,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -176,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.11,
+    "seconds": 2.09,
     "repo": "SpikingChen/SNN-Daily-Arxiv"
   },
   {
@@ -185,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.64,
+    "seconds": 1.72,
     "repo": "mk-runner/Awesome-Radiology-Report-Generation"
   },
   {
@@ -194,7 +194,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.26,
+    "seconds": 1.14,
     "repo": "luohongk/Embodied-AI-Daily"
   },
   {
@@ -212,7 +212,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.05,
+    "seconds": 1.49,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -221,7 +221,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.35,
+    "seconds": 1.18,
     "repo": "RosettaCommons/atomworks"
   },
   {
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.39
+    "seconds": 1.37
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.95
+    "seconds": 1.72
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.89
+    "seconds": 2.41
   }
 ]
