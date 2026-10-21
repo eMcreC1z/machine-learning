@@ -1,1 +1,375 @@
-[]
+[
+  {
+    "full_name": "mk-runner/Awesome-Radiology-Report-Generation",
+    "name": "Awesome-Radiology-Report-Generation",
+    "url": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "language": "",
+    "stars": 489,
+    "forks": 48,
+    "open_issues": 1,
+    "updated_at": "2026-10-21T02:39:00Z",
+    "pushed_at": "2026-10-21T02:38:55Z",
+    "topics": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "application_area": "医学影像",
+    "score": 30.5,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "large language model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "radiology",
+        "imaging",
+        "pathology",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4681,
+    "forks": 718,
+    "open_issues": 0,
+    "updated_at": "2026-10-19T08:05:45Z",
+    "pushed_at": "2026-10-17T20:55:45Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.22,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 406,
+    "forks": 63,
+    "open_issues": 29,
+    "updated_at": "2026-10-16T08:34:37Z",
+    "pushed_at": "2026-10-14T02:09:38Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.18,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3669,
+    "forks": 456,
+    "open_issues": 14,
+    "updated_at": "2026-10-21T02:37:39Z",
+    "pushed_at": "2026-10-21T01:16:25Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.65,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "Vincentqyw/cv-arxiv-daily",
+    "name": "cv-arxiv-daily",
+    "url": "https://github.com/Vincentqyw/cv-arxiv-daily",
+    "description": "🎓Automatically Update CV Papers Daily using Github Actions",
+    "language": "Python",
+    "stars": 1506,
+    "forks": 567,
+    "open_issues": 0,
+    "updated_at": "2026-10-21T03:01:43Z",
+    "pushed_at": "2026-10-21T03:01:39Z",
+    "topics": [
+      "3d-reconstruction",
+      "arxiv",
+      "cv",
+      "deep-learning",
+      "image-matching",
+      "lidar",
+      "localization",
+      "mapping",
+      "nerf",
+      "paper",
+      "paperwithcode",
+      "robotics",
+      "sfm",
+      "slam",
+      "structure-from-motion"
+    ],
+    "application_area": "医学影像",
+    "score": 25.64,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1228,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-19T09:18:19Z",
+    "pushed_at": "2026-10-18T01:08:39Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.64,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 276,
+    "forks": 67,
+    "open_issues": 1,
+    "updated_at": "2026-10-19T07:55:16Z",
+    "pushed_at": "2026-10-20T15:56:23Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 24.38,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "hazratali/awesome-ai-summerschool",
+    "name": "awesome-ai-summerschool",
+    "url": "https://github.com/hazratali/awesome-ai-summerschool",
+    "description": "An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare",
+    "language": "",
+    "stars": 746,
+    "forks": 66,
+    "open_issues": 0,
+    "updated_at": "2026-10-20T23:19:06Z",
+    "pushed_at": "2026-10-20T23:19:02Z",
+    "topics": [
+      "artificial-intelligence",
+      "courses",
+      "deep-learning",
+      "machine-learning",
+      "summer-school"
+    ],
+    "application_area": "医学影像",
+    "score": 23.63,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 451,
+    "forks": 100,
+    "open_issues": 655,
+    "updated_at": "2026-10-20T20:05:41Z",
+    "pushed_at": "2026-10-20T20:05:36Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 21.43,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "llm"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "radxtools/collageradiomics",
+    "name": "collageradiomics",
+    "url": "https://github.com/radxtools/collageradiomics",
+    "description": "Python Implementation of the CoLlAGe radiomics descriptor. CoLlAGe captures subtle anisotropic differences in disease pathologies by measuring entropy of co-occurrences of voxel-level gradient orientations on imaging computed within a local neighborhood.",
+    "language": "Python",
+    "stars": 20,
+    "forks": 13,
+    "open_issues": 4,
+    "updated_at": "2026-10-20T05:07:22Z",
+    "pushed_at": "2026-10-20T05:07:18Z",
+    "topics": [
+      "3d-slicer-extension",
+      "cancer-imaging",
+      "cancer-imaging-research",
+      "computational-imaging",
+      "docker",
+      "feature-extraction",
+      "itcr",
+      "python",
+      "radiomics",
+      "radiomics-feature-extraction",
+      "radiomics-features"
+    ],
+    "application_area": "医学影像",
+    "score": 14.61
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 7,
+    "forks": 0,
+    "open_issues": 21,
+    "updated_at": "2026-10-21T02:05:47Z",
+    "pushed_at": "2026-10-21T02:05:43Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.41
+  },
+  {
+    "full_name": "pranjalpanwar81/healthcare-ai-security",
+    "name": "healthcare-ai-security",
+    "url": "https://github.com/pranjalpanwar81/healthcare-ai-security",
+    "description": "HealthGuard AI is a full-stack healthcare platform combining custom machine learning (98.2% accuracy) with AI-powered tools for secure medical record management and clinical decision support.",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-21T00:06:28Z",
+    "pushed_at": "2026-10-21T00:06:24Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  }
+]
