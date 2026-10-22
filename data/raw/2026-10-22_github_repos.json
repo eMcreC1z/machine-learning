@@ -26,76 +26,6 @@
     }
   },
   {
-    "full_name": "r0f1/datascience",
-    "name": "datascience",
-    "url": "https://github.com/r0f1/datascience",
-    "description": "Curated list of Python resources for data science.",
-    "language": "",
-    "stars": 4682,
-    "forks": 716,
-    "open_issues": 0,
-    "updated_at": "2026-10-21T07:26:11Z",
-    "pushed_at": "2026-10-17T20:55:45Z",
-    "topics": [
-      "artificial-intelligence",
-      "awesome",
-      "awesome-list",
-      "bayes",
-      "data-analysis",
-      "data-mining",
-      "data-science",
-      "data-visualization",
-      "datascience",
-      "deep-learning",
-      "deeplearning",
-      "machine-learning",
-      "python",
-      "statistics"
-    ],
-    "application_area": "临床预测",
-    "score": 29.37,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "deep learning",
-        "artificial intelligence"
-      ],
-      "medical": [
-        "medicine",
-        "cancer",
-        "survival"
-      ]
-    }
-  },
-  {
-    "full_name": "52CV/CV-Surveys",
-    "name": "CV-Surveys",
-    "url": "https://github.com/52CV/CV-Surveys",
-    "description": "计算机视觉相关综述。包括目标检测、跟踪........",
-    "language": "",
-    "stars": 2250,
-    "forks": 252,
-    "open_issues": 2,
-    "updated_at": "2026-10-21T10:14:59Z",
-    "pushed_at": "2026-10-21T10:14:54Z",
-    "topics": [],
-    "application_area": "医学影像",
-    "score": 28.41,
-    "evidence_terms": {
-      "ml": [
-        "machine learning",
-        "deep learning",
-        "artificial intelligence",
-        "computer vision"
-      ],
-      "medical": [
-        "medical",
-        "diagnosis",
-        "imaging"
-      ]
-    }
-  },
-  {
     "full_name": "seandavi/awesome-single-cell",
     "name": "awesome-single-cell",
     "url": "https://github.com/seandavi/awesome-single-cell",
@@ -139,45 +69,6 @@
     }
   },
   {
-    "full_name": "NVIDIA/skills",
-    "name": "skills",
-    "url": "https://github.com/NVIDIA/skills",
-    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
-    "language": "Python",
-    "stars": 3683,
-    "forks": 455,
-    "open_issues": 14,
-    "updated_at": "2026-10-21T23:04:56Z",
-    "pushed_at": "2026-10-21T22:44:31Z",
-    "topics": [
-      "agent-skills",
-      "agentic-ai",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "coding-agents",
-      "cuda",
-      "developer-tools",
-      "llm",
-      "omniverse",
-      "physical-ai",
-      "rag",
-      "robotics",
-      "simulation"
-    ],
-    "application_area": "病理与组学",
-    "score": 26.65,
-    "evidence_terms": {
-      "ml": [
-        "llm"
-      ],
-      "medical": [
-        "clinical",
-        "genomics"
-      ]
-    }
-  },
-  {
     "full_name": "Vincentqyw/cv-arxiv-daily",
     "name": "cv-arxiv-daily",
     "url": "https://github.com/Vincentqyw/cv-arxiv-daily",
@@ -214,67 +105,6 @@
         "llm"
       ],
       "medical": [
-        "imaging"
-      ]
-    }
-  },
-  {
-    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
-    "name": "awesome-foundation-model-single-cell-papers",
-    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
-    "description": "",
-    "language": "",
-    "stars": 592,
-    "forks": 66,
-    "open_issues": 0,
-    "updated_at": "2026-10-20T05:31:23Z",
-    "pushed_at": "2026-10-19T19:05:34Z",
-    "topics": [
-      "ai-virtual-cell",
-      "awesome-list",
-      "biological-foundation-model",
-      "large-language-models",
-      "single-cell-foundation-model",
-      "single-cell-multiomics",
-      "survey"
-    ],
-    "application_area": "病理与组学",
-    "score": 24.69,
-    "evidence_terms": {
-      "ml": [
-        "foundation model",
-        "llm"
-      ],
-      "medical": [
-        "pathology",
-        "genomics",
-        "omics",
-        "cancer"
-      ]
-    }
-  },
-  {
-    "full_name": "liliu-avril/Awesome-Segment-Anything",
-    "name": "Awesome-Segment-Anything",
-    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
-    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
-    "language": "",
-    "stars": 1228,
-    "forks": 75,
-    "open_issues": 0,
-    "updated_at": "2026-10-19T09:18:19Z",
-    "pushed_at": "2026-10-18T01:08:39Z",
-    "topics": [],
-    "application_area": "医学影像",
-    "score": 24.49,
-    "evidence_terms": {
-      "ml": [
-        "artificial intelligence",
-        "foundation model",
-        "computer vision"
-      ],
-      "medical": [
-        "medical",
         "imaging"
       ]
     }
@@ -337,31 +167,27 @@
     }
   },
   {
-    "full_name": "radxtools/collageradiomics",
-    "name": "collageradiomics",
-    "url": "https://github.com/radxtools/collageradiomics",
-    "description": "Python Implementation of the CoLlAGe radiomics descriptor. CoLlAGe captures subtle anisotropic differences in disease pathologies by measuring entropy of co-occurrences of voxel-level gradient orientations on imaging computed within a local neighborhood.",
+    "full_name": "iszhanjiawei/flow_matching_arxiv_daily",
+    "name": "flow_matching_arxiv_daily",
+    "url": "https://github.com/iszhanjiawei/flow_matching_arxiv_daily",
+    "description": "",
     "language": "Python",
-    "stars": 20,
-    "forks": 13,
-    "open_issues": 4,
-    "updated_at": "2026-10-20T05:07:22Z",
-    "pushed_at": "2026-10-20T05:07:18Z",
-    "topics": [
-      "3d-slicer-extension",
-      "cancer-imaging",
-      "cancer-imaging-research",
-      "computational-imaging",
-      "docker",
-      "feature-extraction",
-      "itcr",
-      "python",
-      "radiomics",
-      "radiomics-feature-extraction",
-      "radiomics-features"
-    ],
+    "stars": 106,
+    "forks": 3,
+    "open_issues": 0,
+    "updated_at": "2026-10-21T16:20:31Z",
+    "pushed_at": "2026-10-21T16:20:26Z",
+    "topics": [],
     "application_area": "医学影像",
-    "score": 14.47
+    "score": 15.82,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "patient"
+      ]
+    }
   },
   {
     "full_name": "dstrick17/DacNet",
@@ -404,36 +230,6 @@
     ],
     "application_area": "病理与组学",
     "score": 11.42
-  },
-  {
-    "full_name": "ANTsX/ANTsTorch",
-    "name": "ANTsTorch",
-    "url": "https://github.com/ANTsX/ANTsTorch",
-    "description": "Pre-trained models and utilities for deep learning on medical images in PyTorch",
-    "language": "Python",
-    "stars": 7,
-    "forks": 5,
-    "open_issues": 2,
-    "updated_at": "2026-10-21T19:36:36Z",
-    "pushed_at": "2026-10-21T19:36:32Z",
-    "topics": [],
-    "application_area": "综合医学机器学习",
-    "score": 10.78
-  },
-  {
-    "full_name": "ruixv/NLOS_Overview",
-    "name": "NLOS_Overview",
-    "url": "https://github.com/ruixv/NLOS_Overview",
-    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
-    "language": "Python",
-    "stars": 7,
-    "forks": 0,
-    "open_issues": 21,
-    "updated_at": "2026-10-21T20:16:47Z",
-    "pushed_at": "2026-10-21T20:17:30Z",
-    "topics": [],
-    "application_area": "医学影像",
-    "score": 10.41
   },
   {
     "full_name": "heinminntun/Multi-Task-Deep-Learning-via-UNETR-",

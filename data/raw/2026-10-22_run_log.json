@@ -2,28 +2,28 @@
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-10-12&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.08,
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 107.173.152.125. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.96,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-10-12"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-10-12&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.91,
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 107.173.152.125. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.91,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-10-12"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22radiomics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-10-12&sort=updated&order=desc&per_page=20",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 2.07,
+    "ok": false,
+    "status": 403,
+    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 107.173.152.125. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "seconds": 0.99,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-10-12"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.92,
+    "seconds": 1.91,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-10-12"
   },
   {
@@ -41,7 +41,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.95,
+    "seconds": 1.94,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-10-12"
   },
   {
@@ -50,7 +50,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.89,
+    "seconds": 2.05,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-10-12"
   },
   {
@@ -59,7 +59,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.11,
+    "seconds": 2.23,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-10-12"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.79,
+    "seconds": 1.81,
     "repo": "josephmisiti/awesome-machine-learning"
   },
   {
@@ -77,17 +77,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.41,
+    "seconds": 1.39,
     "repo": "aipoch/open-science"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/r0f1/datascience/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.88,
-    "repo": "r0f1/datascience"
   },
   {
     "source": "github_readme",
@@ -95,26 +86,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.86,
+    "seconds": 1.68,
     "repo": "seandavi/awesome-single-cell"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/NVIDIA/skills/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.76,
-    "repo": "NVIDIA/skills"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/52CV/CV-Surveys/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.59,
-    "repo": "52CV/CV-Surveys"
   },
   {
     "source": "github_readme",
@@ -122,17 +95,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.93,
+    "seconds": 1.76,
     "repo": "Vincentqyw/cv-arxiv-daily"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/liliu-avril/Awesome-Segment-Anything/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.92,
-    "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
     "source": "github_readme",
@@ -140,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.04,
+    "seconds": 2.01,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -149,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.53,
+    "seconds": 1.57,
     "repo": "wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List"
   },
   {
@@ -158,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.94,
+    "seconds": 1.86,
     "repo": "trackawesomelist/trackawesomelist"
   },
   {
@@ -167,26 +131,8 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.91,
+    "seconds": 1.86,
     "repo": "liutaocode/TTS-arxiv-daily"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/OmicsML/awesome-foundation-model-single-cell-papers/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.68,
-    "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
-  },
-  {
-    "source": "github_readme",
-    "url": "https://api.github.com/repos/SpikingChen/SNN-Daily-Arxiv/readme",
-    "ok": true,
-    "status": 200,
-    "error": null,
-    "seconds": 1.99,
-    "repo": "SpikingChen/SNN-Daily-Arxiv"
   },
   {
     "source": "github_readme",
@@ -194,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.65,
+    "seconds": 1.56,
     "repo": "zapplyjobs/awesome-ml-internships-2027"
   },
   {
@@ -203,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.37,
+    "seconds": 1.21,
     "repo": "NVIDIA-BioNeMo/Proteina-Complexa"
   },
   {
@@ -212,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.57,
+    "seconds": 1.68,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -221,8 +167,62 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.94,
+    "seconds": 4.76,
     "repo": "zezhishao/DailyArXiv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/andrew/ultimate-awesome/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 3.15,
+    "repo": "andrew/ultimate-awesome"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/slrbl/Intrusion-and-anomaly-detection-with-machine-learning/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.85,
+    "repo": "slrbl/Intrusion-and-anomaly-detection-with-machine-learning"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zackbatist/open-archaeo/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.57,
+    "repo": "zackbatist/open-archaeo"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/iszhanjiawei/flow_matching_arxiv_daily/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.15,
+    "repo": "iszhanjiawei/flow_matching_arxiv_daily"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zapplyjobs/New-Grad-Data-Science-Jobs-2027/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.54,
+    "repo": "zapplyjobs/New-Grad-Data-Science-Jobs-2027"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/the911fund/skill-of-skills/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.9,
+    "repo": "the911fund/skill-of-skills"
   },
   {
     "source": "pubmed_esearch",
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.4
+    "seconds": 1.25
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.89
+    "seconds": 1.77
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.04
+    "seconds": 2.76
   }
 ]
