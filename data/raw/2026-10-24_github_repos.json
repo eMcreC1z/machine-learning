@@ -1,0 +1,456 @@
+[
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4683,
+    "forks": 716,
+    "open_issues": 0,
+    "updated_at": "2026-10-23T22:44:59Z",
+    "pushed_at": "2026-10-17T20:55:45Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.37,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "52CV/CV-Surveys",
+    "name": "CV-Surveys",
+    "url": "https://github.com/52CV/CV-Surveys",
+    "description": "计算机视觉相关综述。包括目标检测、跟踪........",
+    "language": "",
+    "stars": 2251,
+    "forks": 252,
+    "open_issues": 2,
+    "updated_at": "2026-10-23T12:06:50Z",
+    "pushed_at": "2026-10-21T10:14:54Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 28.41,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "diagnosis",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A Deep Learning Python Toolkit for Healthcare Applications.",
+    "language": "Python",
+    "stars": 1676,
+    "forks": 830,
+    "open_issues": 118,
+    "updated_at": "2026-10-23T22:29:55Z",
+    "pushed_at": "2026-10-23T22:29:49Z",
+    "topics": [
+      "clinical-data",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "medical-code",
+      "preprocessing"
+    ],
+    "application_area": "药物与转化",
+    "score": 27.48,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "hospital"
+      ]
+    }
+  },
+  {
+    "full_name": "mdozmorov/MachineLearning_notes",
+    "name": "MachineLearning_notes",
+    "url": "https://github.com/mdozmorov/MachineLearning_notes",
+    "description": "Machine learning and deep learning resources",
+    "language": "",
+    "stars": 574,
+    "forks": 91,
+    "open_issues": 0,
+    "updated_at": "2026-10-22T23:14:20Z",
+    "pushed_at": "2026-10-22T23:14:15Z",
+    "topics": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 27.44,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "medicine",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3711,
+    "forks": 458,
+    "open_issues": 16,
+    "updated_at": "2026-10-23T23:39:40Z",
+    "pushed_at": "2026-10-23T22:11:34Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.67,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "Vincentqyw/cv-arxiv-daily",
+    "name": "cv-arxiv-daily",
+    "url": "https://github.com/Vincentqyw/cv-arxiv-daily",
+    "description": "🎓Automatically Update CV Papers Daily using Github Actions",
+    "language": "Python",
+    "stars": 1507,
+    "forks": 565,
+    "open_issues": 0,
+    "updated_at": "2026-10-23T06:33:34Z",
+    "pushed_at": "2026-10-21T16:11:41Z",
+    "topics": [
+      "3d-reconstruction",
+      "arxiv",
+      "cv",
+      "deep-learning",
+      "image-matching",
+      "lidar",
+      "localization",
+      "mapping",
+      "nerf",
+      "paper",
+      "paperwithcode",
+      "robotics",
+      "sfm",
+      "slam",
+      "structure-from-motion"
+    ],
+    "application_area": "医学影像",
+    "score": 25.64,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "ANTsX/ANTsPy",
+    "name": "ANTsPy",
+    "url": "https://github.com/ANTsX/ANTsPy",
+    "description": "A fast medical imaging analysis library in Python with algorithms for registration, segmentation, and more.",
+    "language": "Python",
+    "stars": 890,
+    "forks": 181,
+    "open_issues": 49,
+    "updated_at": "2026-10-23T17:12:18Z",
+    "pushed_at": "2026-10-23T21:07:06Z",
+    "topics": [
+      "medical-imaging",
+      "neuroimaging",
+      "python"
+    ],
+    "application_area": "医学影像",
+    "score": 24.39,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 592,
+    "forks": 65,
+    "open_issues": 0,
+    "updated_at": "2026-10-20T05:31:23Z",
+    "pushed_at": "2026-10-19T19:05:34Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.39,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 458,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-10-23T18:16:26Z",
+    "pushed_at": "2026-10-23T18:16:21Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.85,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 670,
+    "forks": 42,
+    "open_issues": 2,
+    "updated_at": "2026-10-23T16:08:06Z",
+    "pushed_at": "2026-10-23T16:08:01Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 21.36,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "patient"
+      ]
+    }
+  },
+  {
+    "full_name": "maju116/rplatypus",
+    "name": "rplatypus",
+    "url": "https://github.com/maju116/rplatypus",
+    "description": "Deep learning for medical images in R: semantic and instance segmentation, object detection, 2D and 3D, DICOM and NIfTI, one specification.",
+    "language": "R",
+    "stars": 136,
+    "forks": 9,
+    "open_issues": 8,
+    "updated_at": "2026-10-23T20:53:10Z",
+    "pushed_at": "2026-10-23T20:59:25Z",
+    "topics": [
+      "deep-learning",
+      "dicom",
+      "image-segmentation",
+      "medical-imaging",
+      "nifti",
+      "object-detection",
+      "r",
+      "r-package",
+      "reticulate",
+      "rstats",
+      "torch",
+      "unet"
+    ],
+    "application_area": "医学影像",
+    "score": 18.45
+  },
+  {
+    "full_name": "gopaljilab/Clinical-Insight-Engine",
+    "name": "Clinical-Insight-Engine",
+    "url": "https://github.com/gopaljilab/Clinical-Insight-Engine",
+    "description": "Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines a Python-based interpretable machine learning model with a modern React frontend, presenting results differently for clinicians and patients.",
+    "language": "HTML",
+    "stars": 23,
+    "forks": 88,
+    "open_issues": 111,
+    "updated_at": "2026-10-23T23:08:37Z",
+    "pushed_at": "2026-10-23T23:11:11Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 15.24
+  },
+  {
+    "full_name": "radxtools/collageradiomics",
+    "name": "collageradiomics",
+    "url": "https://github.com/radxtools/collageradiomics",
+    "description": "Python Implementation of the CoLlAGe radiomics descriptor. CoLlAGe captures subtle anisotropic differences in disease pathologies by measuring entropy of co-occurrences of voxel-level gradient orientations on imaging computed within a local neighborhood.",
+    "language": "Python",
+    "stars": 20,
+    "forks": 13,
+    "open_issues": 4,
+    "updated_at": "2026-10-20T05:07:22Z",
+    "pushed_at": "2026-10-20T05:07:18Z",
+    "topics": [
+      "3d-slicer-extension",
+      "cancer-imaging",
+      "cancer-imaging-research",
+      "computational-imaging",
+      "docker",
+      "feature-extraction",
+      "itcr",
+      "python",
+      "radiomics",
+      "radiomics-feature-extraction",
+      "radiomics-features"
+    ],
+    "application_area": "医学影像",
+    "score": 14.18
+  },
+  {
+    "full_name": "ANTsX/ANTsTorch",
+    "name": "ANTsTorch",
+    "url": "https://github.com/ANTsX/ANTsTorch",
+    "description": "Pre-trained models and utilities for deep learning on medical images in PyTorch",
+    "language": "Python",
+    "stars": 7,
+    "forks": 5,
+    "open_issues": 2,
+    "updated_at": "2026-10-23T20:37:13Z",
+    "pushed_at": "2026-10-23T20:37:09Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 10.78
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 7,
+    "forks": 0,
+    "open_issues": 21,
+    "updated_at": "2026-10-23T20:48:33Z",
+    "pushed_at": "2026-10-23T20:48:28Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.41
+  },
+  {
+    "full_name": "jbetancourt589/EHR-Data-Preprocessing-",
+    "name": "EHR-Data-Preprocessing-",
+    "url": "https://github.com/jbetancourt589/EHR-Data-Preprocessing-",
+    "description": "Preprocessing pipeline for EHR data — formats raw MIMIC records into LLM-ready training data.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-23T20:19:00Z",
+    "pushed_at": "2026-10-23T20:18:56Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 7.6
+  }
+]
