@@ -1,0 +1,477 @@
+[
+  {
+    "full_name": "lukasmasuch/best-of-ml-python",
+    "name": "best-of-ml-python",
+    "url": "https://github.com/lukasmasuch/best-of-ml-python",
+    "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "language": "",
+    "stars": 23846,
+    "forks": 3148,
+    "open_issues": 59,
+    "updated_at": "2026-10-25T22:52:22Z",
+    "pushed_at": "2026-10-25T22:52:06Z",
+    "topics": [
+      "automl",
+      "chatgpt",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "data-visualizations",
+      "deep-learning",
+      "gpt",
+      "gpt-3",
+      "jax",
+      "keras",
+      "machine-learning",
+      "ml",
+      "nlp",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow",
+      "transformer"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 33.36,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "neural network",
+        "nlp"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "speedyapply/2027-AI-College-Jobs",
+    "name": "2027-AI-College-Jobs",
+    "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+    "description": "2027 AI/ML internship & new graduate job list updated daily",
+    "language": "",
+    "stars": 6597,
+    "forks": 242,
+    "open_issues": 4,
+    "updated_at": "2026-10-26T00:42:10Z",
+    "pushed_at": "2026-10-25T15:52:14Z",
+    "topics": [
+      "ai",
+      "applications",
+      "artificial-intelligence",
+      "college",
+      "data",
+      "data-science",
+      "fulltime",
+      "hiring",
+      "intern",
+      "internship",
+      "internships",
+      "interviews",
+      "jobbboard",
+      "jobs",
+      "junior",
+      "machine-learning",
+      "ml",
+      "newgrad",
+      "quant",
+      "university"
+    ],
+    "application_area": "医学影像",
+    "score": 29.66,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4685,
+    "forks": 716,
+    "open_issues": 0,
+    "updated_at": "2026-10-24T22:32:07Z",
+    "pushed_at": "2026-10-17T20:55:45Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.22,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "52CV/CV-Surveys",
+    "name": "CV-Surveys",
+    "url": "https://github.com/52CV/CV-Surveys",
+    "description": "计算机视觉相关综述。包括目标检测、跟踪........",
+    "language": "",
+    "stars": 2251,
+    "forks": 252,
+    "open_issues": 2,
+    "updated_at": "2026-10-23T12:06:50Z",
+    "pushed_at": "2026-10-21T10:14:54Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 28.13,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "diagnosis",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A Deep Learning Python Toolkit for Healthcare Applications.",
+    "language": "Python",
+    "stars": 1681,
+    "forks": 833,
+    "open_issues": 101,
+    "updated_at": "2026-10-26T00:44:42Z",
+    "pushed_at": "2026-10-26T00:44:36Z",
+    "topics": [
+      "clinical-data",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "medical-code",
+      "preprocessing"
+    ],
+    "application_area": "药物与转化",
+    "score": 27.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "hospital"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3733,
+    "forks": 458,
+    "open_issues": 14,
+    "updated_at": "2026-10-26T00:12:47Z",
+    "pushed_at": "2026-10-26T00:12:40Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.68,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/open-science",
+    "name": "open-science",
+    "url": "https://github.com/aipoch/open-science",
+    "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+    "language": "TypeScript",
+    "stars": 5363,
+    "forks": 535,
+    "open_issues": 46,
+    "updated_at": "2026-10-26T00:21:20Z",
+    "pushed_at": "2026-10-26T00:22:17Z",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-for-science",
+      "ai-research",
+      "ai-research-workbench",
+      "ai-workbench",
+      "desktop-app",
+      "local-first",
+      "mcp",
+      "model-agnostic",
+      "open-science",
+      "open-source",
+      "reproducible-research",
+      "research-tools",
+      "science",
+      "science-agent",
+      "science-package",
+      "scientific-ai",
+      "scientific-computing",
+      "scientific-research"
+    ],
+    "application_area": "医学影像",
+    "score": 26.61,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "Vincentqyw/cv-arxiv-daily",
+    "name": "cv-arxiv-daily",
+    "url": "https://github.com/Vincentqyw/cv-arxiv-daily",
+    "description": "🎓Automatically Update CV Papers Daily using Github Actions",
+    "language": "Python",
+    "stars": 1506,
+    "forks": 565,
+    "open_issues": 0,
+    "updated_at": "2026-10-24T08:09:41Z",
+    "pushed_at": "2026-10-21T16:11:41Z",
+    "topics": [
+      "3d-reconstruction",
+      "arxiv",
+      "cv",
+      "deep-learning",
+      "image-matching",
+      "lidar",
+      "localization",
+      "mapping",
+      "nerf",
+      "paper",
+      "paperwithcode",
+      "robotics",
+      "sfm",
+      "slam",
+      "structure-from-motion"
+    ],
+    "application_area": "医学影像",
+    "score": 25.5,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1229,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-24T03:24:40Z",
+    "pushed_at": "2026-10-24T03:24:36Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.64,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 592,
+    "forks": 65,
+    "open_issues": 0,
+    "updated_at": "2026-10-20T05:31:23Z",
+    "pushed_at": "2026-10-19T19:05:34Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.11,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "maju116/rplatypus",
+    "name": "rplatypus",
+    "url": "https://github.com/maju116/rplatypus",
+    "description": "Deep learning for medical images in R: semantic and instance segmentation, object detection, 2D and 3D, DICOM and NIfTI, one specification.",
+    "language": "R",
+    "stars": 136,
+    "forks": 9,
+    "open_issues": 9,
+    "updated_at": "2026-10-25T23:19:05Z",
+    "pushed_at": "2026-10-25T23:23:37Z",
+    "topics": [
+      "deep-learning",
+      "dicom",
+      "image-segmentation",
+      "medical-imaging",
+      "nifti",
+      "object-detection",
+      "r",
+      "r-package",
+      "reticulate",
+      "rstats",
+      "torch",
+      "unet"
+    ],
+    "application_area": "医学影像",
+    "score": 18.45
+  },
+  {
+    "full_name": "radxtools/collageradiomics",
+    "name": "collageradiomics",
+    "url": "https://github.com/radxtools/collageradiomics",
+    "description": "Python Implementation of the CoLlAGe radiomics descriptor. CoLlAGe captures subtle anisotropic differences in disease pathologies by measuring entropy of co-occurrences of voxel-level gradient orientations on imaging computed within a local neighborhood.",
+    "language": "Python",
+    "stars": 20,
+    "forks": 13,
+    "open_issues": 4,
+    "updated_at": "2026-10-20T05:07:22Z",
+    "pushed_at": "2026-10-20T05:07:18Z",
+    "topics": [
+      "3d-slicer-extension",
+      "cancer-imaging",
+      "cancer-imaging-research",
+      "computational-imaging",
+      "docker",
+      "feature-extraction",
+      "itcr",
+      "python",
+      "radiomics",
+      "radiomics-feature-extraction",
+      "radiomics-features"
+    ],
+    "application_area": "医学影像",
+    "score": 13.89
+  },
+  {
+    "full_name": "SimonYip22/Clinical-Entity-Extraction-Validation-System",
+    "name": "Clinical-Entity-Extraction-Validation-System",
+    "url": "https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System",
+    "description": "Clinical NLP system structuring entities from ICU progress notes combining regex-based entity extraction and fine-tuned BioClinicalBERT validation",
+    "language": "Jupyter Notebook",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-25T18:24:30Z",
+    "pushed_at": "2026-10-25T18:24:27Z",
+    "topics": [
+      "bioclinicalbert",
+      "docker",
+      "entity-extraction",
+      "fastapi",
+      "fine-tuning",
+      "github-actions",
+      "google-cloud",
+      "huggingface-transformer",
+      "icu",
+      "mimic-iii",
+      "nlp-machine-learning",
+      "numpy",
+      "pandas",
+      "pytorch",
+      "regex",
+      "scikit-learn",
+      "transformer"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 9.21
+  }
+]
