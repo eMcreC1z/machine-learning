@@ -1,0 +1,477 @@
+[
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8805,
+    "forks": 1687,
+    "open_issues": 524,
+    "updated_at": "2026-10-26T21:48:06Z",
+    "pushed_at": "2026-10-26T21:44:32Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.82,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "speedyapply/2027-AI-College-Jobs",
+    "name": "2027-AI-College-Jobs",
+    "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+    "description": "2027 AI/ML internship & new graduate job list updated daily",
+    "language": "",
+    "stars": 6599,
+    "forks": 243,
+    "open_issues": 4,
+    "updated_at": "2026-10-27T00:51:15Z",
+    "pushed_at": "2026-10-26T18:32:20Z",
+    "topics": [
+      "ai",
+      "applications",
+      "artificial-intelligence",
+      "college",
+      "data",
+      "data-science",
+      "fulltime",
+      "hiring",
+      "intern",
+      "internship",
+      "internships",
+      "interviews",
+      "jobbboard",
+      "jobs",
+      "junior",
+      "machine-learning",
+      "ml",
+      "newgrad",
+      "quant",
+      "university"
+    ],
+    "application_area": "医学影像",
+    "score": 29.66,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4686,
+    "forks": 716,
+    "open_issues": 0,
+    "updated_at": "2026-10-26T11:41:51Z",
+    "pushed_at": "2026-10-17T20:55:45Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.37,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "google/deepvariant",
+    "name": "deepvariant",
+    "url": "https://github.com/google/deepvariant",
+    "description": "DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.",
+    "language": "Python",
+    "stars": 3826,
+    "forks": 807,
+    "open_issues": 8,
+    "updated_at": "2026-10-27T00:46:46Z",
+    "pushed_at": "2026-10-26T22:57:17Z",
+    "topics": [
+      "bioinformatics",
+      "deep-learning",
+      "deep-neural-network",
+      "deepvariant",
+      "dna",
+      "genome",
+      "genomics",
+      "machine-learning",
+      "ngs",
+      "science",
+      "sequencing",
+      "tensorflow"
+    ],
+    "application_area": "病理与组学",
+    "score": 28.29,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "neural network"
+      ],
+      "medical": [
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A Deep Learning Python Toolkit for Healthcare Applications.",
+    "language": "Python",
+    "stars": 1687,
+    "forks": 834,
+    "open_issues": 96,
+    "updated_at": "2026-10-27T00:36:57Z",
+    "pushed_at": "2026-10-27T00:36:48Z",
+    "topics": [
+      "clinical-data",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "medical-code",
+      "preprocessing"
+    ],
+    "application_area": "药物与转化",
+    "score": 27.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "hospital"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/open-science",
+    "name": "open-science",
+    "url": "https://github.com/aipoch/open-science",
+    "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+    "language": "TypeScript",
+    "stars": 5374,
+    "forks": 536,
+    "open_issues": 46,
+    "updated_at": "2026-10-27T00:47:00Z",
+    "pushed_at": "2026-10-27T00:45:04Z",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-for-science",
+      "ai-research",
+      "ai-research-workbench",
+      "ai-workbench",
+      "desktop-app",
+      "local-first",
+      "mcp",
+      "model-agnostic",
+      "open-science",
+      "open-source",
+      "reproducible-research",
+      "research-tools",
+      "science",
+      "science-agent",
+      "science-package",
+      "scientific-ai",
+      "scientific-computing",
+      "scientific-research"
+    ],
+    "application_area": "医学影像",
+    "score": 26.62,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "ANTsX/ANTs",
+    "name": "ANTs",
+    "url": "https://github.com/ANTsX/ANTs",
+    "description": "Advanced Normalization Tools (ANTs)",
+    "language": "C++",
+    "stars": 1509,
+    "forks": 409,
+    "open_issues": 103,
+    "updated_at": "2026-10-26T23:11:38Z",
+    "pushed_at": "2026-10-26T23:11:33Z",
+    "topics": [
+      "image-registration",
+      "image-segmentation",
+      "medical-image-processing",
+      "neuroimaging"
+    ],
+    "application_area": "医学影像",
+    "score": 25.84,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "Vincentqyw/cv-arxiv-daily",
+    "name": "cv-arxiv-daily",
+    "url": "https://github.com/Vincentqyw/cv-arxiv-daily",
+    "description": "🎓Automatically Update CV Papers Daily using Github Actions",
+    "language": "Python",
+    "stars": 1507,
+    "forks": 566,
+    "open_issues": 0,
+    "updated_at": "2026-10-26T15:41:51Z",
+    "pushed_at": "2026-10-26T15:41:45Z",
+    "topics": [
+      "3d-reconstruction",
+      "arxiv",
+      "cv",
+      "deep-learning",
+      "image-matching",
+      "lidar",
+      "localization",
+      "mapping",
+      "nerf",
+      "paper",
+      "paperwithcode",
+      "robotics",
+      "sfm",
+      "slam",
+      "structure-from-motion"
+    ],
+    "application_area": "医学影像",
+    "score": 25.64,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 594,
+    "forks": 66,
+    "open_issues": 0,
+    "updated_at": "2026-10-26T18:08:05Z",
+    "pushed_at": "2026-10-26T17:20:22Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.84,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1229,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-24T03:24:40Z",
+    "pushed_at": "2026-10-24T03:24:36Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.5,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "ANTsX/ANTsPy",
+    "name": "ANTsPy",
+    "url": "https://github.com/ANTsX/ANTsPy",
+    "description": "A fast medical imaging analysis library in Python with algorithms for registration, segmentation, and more.",
+    "language": "Python",
+    "stars": 890,
+    "forks": 181,
+    "open_issues": 50,
+    "updated_at": "2026-10-26T20:17:56Z",
+    "pushed_at": "2026-10-26T20:18:07Z",
+    "topics": [
+      "medical-imaging",
+      "neuroimaging",
+      "python"
+    ],
+    "application_area": "医学影像",
+    "score": 24.39,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "hazratali/awesome-ai-summerschool",
+    "name": "awesome-ai-summerschool",
+    "url": "https://github.com/hazratali/awesome-ai-summerschool",
+    "description": "An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare",
+    "language": "",
+    "stars": 747,
+    "forks": 66,
+    "open_issues": 0,
+    "updated_at": "2026-10-26T21:36:38Z",
+    "pushed_at": "2026-10-26T21:36:32Z",
+    "topics": [
+      "artificial-intelligence",
+      "courses",
+      "deep-learning",
+      "machine-learning",
+      "summer-school"
+    ],
+    "application_area": "医学影像",
+    "score": 23.63,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "Kaiden118/RunSleuth-Evidence-Grounded-ML-Training-Failure-Diagnosis-and-Repair-Verification",
+    "name": "RunSleuth-Evidence-Grounded-ML-Training-Failure-Diagnosis-and-Repair-Verification",
+    "url": "https://github.com/Kaiden118/RunSleuth-Evidence-Grounded-ML-Training-Failure-Diagnosis-and-Repair-Verification",
+    "description": "An evidence-grounded LLM agent for diagnosing PyTorch training failures and verifying proposed repairs through bounded retraining.",
+    "language": "Python",
+    "stars": 27,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-26T23:38:14Z",
+    "pushed_at": "2026-10-26T23:38:11Z",
+    "topics": [
+      "agents",
+      "chatgpt-api",
+      "claude-api",
+      "deepseek-api",
+      "gemini",
+      "llm",
+      "muse-spark",
+      "qwen",
+      "repair-tools"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 12.59
+  },
+  {
+    "full_name": "junyuchen245/MIR",
+    "name": "MIR",
+    "url": "https://github.com/junyuchen245/MIR",
+    "description": "A deep learning-based medical image registration package based on PyTorch.",
+    "language": "Jupyter Notebook",
+    "stars": 26,
+    "forks": 2,
+    "open_issues": 1,
+    "updated_at": "2026-10-26T21:30:04Z",
+    "pushed_at": "2026-10-26T21:30:00Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 12.44
+  }
+]
