@@ -1,0 +1,281 @@
+[
+  {
+    "full_name": "speedyapply/2027-AI-College-Jobs",
+    "name": "2027-AI-College-Jobs",
+    "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+    "description": "2027 AI/ML internship & new graduate job list updated daily",
+    "language": "",
+    "stars": 6604,
+    "forks": 244,
+    "open_issues": 4,
+    "updated_at": "2026-10-27T22:46:20Z",
+    "pushed_at": "2026-10-27T17:47:50Z",
+    "topics": [
+      "ai",
+      "applications",
+      "artificial-intelligence",
+      "college",
+      "data",
+      "data-science",
+      "fulltime",
+      "hiring",
+      "intern",
+      "internship",
+      "internships",
+      "interviews",
+      "jobbboard",
+      "jobs",
+      "junior",
+      "machine-learning",
+      "ml",
+      "newgrad",
+      "quant",
+      "university"
+    ],
+    "application_area": "医学影像",
+    "score": 30.66,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "ANTsX/ANTs",
+    "name": "ANTs",
+    "url": "https://github.com/ANTsX/ANTs",
+    "description": "Advanced Normalization Tools (ANTs)",
+    "language": "C++",
+    "stars": 1510,
+    "forks": 409,
+    "open_issues": 101,
+    "updated_at": "2026-10-27T21:23:24Z",
+    "pushed_at": "2026-10-27T21:23:17Z",
+    "topics": [
+      "image-registration",
+      "image-segmentation",
+      "medical-image-processing",
+      "neuroimaging"
+    ],
+    "application_area": "医学影像",
+    "score": 25.84,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "Vincentqyw/cv-arxiv-daily",
+    "name": "cv-arxiv-daily",
+    "url": "https://github.com/Vincentqyw/cv-arxiv-daily",
+    "description": "🎓Automatically Update CV Papers Daily using Github Actions",
+    "language": "Python",
+    "stars": 1507,
+    "forks": 567,
+    "open_issues": 0,
+    "updated_at": "2026-10-26T15:41:51Z",
+    "pushed_at": "2026-10-26T15:41:45Z",
+    "topics": [
+      "3d-reconstruction",
+      "arxiv",
+      "cv",
+      "deep-learning",
+      "image-matching",
+      "lidar",
+      "localization",
+      "mapping",
+      "nerf",
+      "paper",
+      "paperwithcode",
+      "robotics",
+      "sfm",
+      "slam",
+      "structure-from-motion"
+    ],
+    "application_area": "医学影像",
+    "score": 25.5,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A Deep Learning Python Toolkit for Healthcare Applications.",
+    "language": "Python",
+    "stars": 1687,
+    "forks": 836,
+    "open_issues": 88,
+    "updated_at": "2026-10-27T23:24:16Z",
+    "pushed_at": "2026-10-28T00:20:37Z",
+    "topics": [
+      "clinical-data",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "medical-code",
+      "preprocessing"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 24.89,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 595,
+    "forks": 66,
+    "open_issues": 0,
+    "updated_at": "2026-10-27T08:39:02Z",
+    "pushed_at": "2026-10-26T17:20:22Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.84,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "ANTsX/ANTsPy",
+    "name": "ANTsPy",
+    "url": "https://github.com/ANTsX/ANTsPy",
+    "description": "A fast medical imaging analysis library in Python with algorithms for registration, segmentation, and more.",
+    "language": "Python",
+    "stars": 890,
+    "forks": 182,
+    "open_issues": 50,
+    "updated_at": "2026-10-27T22:20:00Z",
+    "pushed_at": "2026-10-27T22:20:11Z",
+    "topics": [
+      "medical-imaging",
+      "neuroimaging",
+      "python"
+    ],
+    "application_area": "医学影像",
+    "score": 24.39,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1229,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-24T03:24:40Z",
+    "pushed_at": "2026-10-24T03:24:36Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.35,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "gopaljilab/Clinical-Insight-Engine",
+    "name": "Clinical-Insight-Engine",
+    "url": "https://github.com/gopaljilab/Clinical-Insight-Engine",
+    "description": "Clinical Insight Engine is a full-stack clinical decision support system designed to surface early diabetes risk signals from routine patient data. It combines a Python-based interpretable machine learning model with a modern React frontend, presenting results differently for clinicians and patients.",
+    "language": "HTML",
+    "stars": 25,
+    "forks": 88,
+    "open_issues": 9,
+    "updated_at": "2026-10-27T21:32:23Z",
+    "pushed_at": "2026-10-27T21:32:18Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 15.38
+  },
+  {
+    "full_name": "HealthRex/ARMD-Predict",
+    "name": "ARMD-Predict",
+    "url": "https://github.com/HealthRex/ARMD-Predict",
+    "description": "Patient-specific antibiograms at culture ordering: code for ARMD-Predict, multi-site machine learning models that estimate antibiotic susceptibility before culture results.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "updated_at": "2026-10-27T22:03:43Z",
+    "pushed_at": "2026-10-27T22:03:39Z",
+    "topics": [
+      "antibiogram",
+      "antibiotic-resistance",
+      "ehr",
+      "machine-learning",
+      "multisite"
+    ],
+    "application_area": "临床预测",
+    "score": 7.25
+  }
+]
