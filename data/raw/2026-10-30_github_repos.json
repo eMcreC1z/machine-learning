@@ -1,0 +1,451 @@
+[
+  {
+    "full_name": "speedyapply/2027-AI-College-Jobs",
+    "name": "2027-AI-College-Jobs",
+    "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+    "description": "2027 AI/ML internship & new graduate job list updated daily",
+    "language": "",
+    "stars": 6608,
+    "forks": 243,
+    "open_issues": 4,
+    "updated_at": "2026-10-29T19:27:13Z",
+    "pushed_at": "2026-10-29T18:17:42Z",
+    "topics": [
+      "ai",
+      "applications",
+      "artificial-intelligence",
+      "college",
+      "data",
+      "data-science",
+      "fulltime",
+      "hiring",
+      "intern",
+      "internship",
+      "internships",
+      "interviews",
+      "jobbboard",
+      "jobs",
+      "junior",
+      "machine-learning",
+      "ml",
+      "newgrad",
+      "quant",
+      "university"
+    ],
+    "application_area": "医学影像",
+    "score": 30.66,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8812,
+    "forks": 1690,
+    "open_issues": 533,
+    "updated_at": "2026-10-29T22:59:57Z",
+    "pushed_at": "2026-10-29T22:59:47Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.82,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4685,
+    "forks": 718,
+    "open_issues": 0,
+    "updated_at": "2026-10-29T20:09:26Z",
+    "pushed_at": "2026-10-29T20:09:17Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.37,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "mdozmorov/MachineLearning_notes",
+    "name": "MachineLearning_notes",
+    "url": "https://github.com/mdozmorov/MachineLearning_notes",
+    "description": "Machine learning and deep learning resources",
+    "language": "",
+    "stars": 574,
+    "forks": 91,
+    "open_issues": 0,
+    "updated_at": "2026-10-29T01:55:49Z",
+    "pushed_at": "2026-10-29T01:55:45Z",
+    "topics": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 27.58,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "medicine",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "vanshb03/Summer2027-Internships",
+    "name": "Summer2027-Internships",
+    "url": "https://github.com/vanshb03/Summer2027-Internships",
+    "description": "Collection of Summer, Fall, Spring 2027 tech internships!",
+    "language": "",
+    "stars": 9160,
+    "forks": 312,
+    "open_issues": 1,
+    "updated_at": "2026-10-29T23:09:13Z",
+    "pushed_at": "2026-10-29T23:09:10Z",
+    "topics": [
+      "fall-2025",
+      "fall-2026",
+      "github",
+      "internship",
+      "internships",
+      "job-search",
+      "job-search-tools",
+      "jobs",
+      "spring-2027",
+      "summer",
+      "summer-2027",
+      "university",
+      "winter-2026",
+      "winternship"
+    ],
+    "application_area": "医学影像",
+    "score": 27.19,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "genomics",
+        "biomarker"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3782,
+    "forks": 471,
+    "open_issues": 13,
+    "updated_at": "2026-10-29T21:20:57Z",
+    "pushed_at": "2026-10-29T21:20:52Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.72,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "Vincentqyw/cv-arxiv-daily",
+    "name": "cv-arxiv-daily",
+    "url": "https://github.com/Vincentqyw/cv-arxiv-daily",
+    "description": "🎓Automatically Update CV Papers Daily using Github Actions",
+    "language": "Python",
+    "stars": 1509,
+    "forks": 568,
+    "open_issues": 0,
+    "updated_at": "2026-10-28T08:30:16Z",
+    "pushed_at": "2026-10-26T15:41:45Z",
+    "topics": [
+      "3d-reconstruction",
+      "arxiv",
+      "cv",
+      "deep-learning",
+      "image-matching",
+      "lidar",
+      "localization",
+      "mapping",
+      "nerf",
+      "paper",
+      "paperwithcode",
+      "robotics",
+      "sfm",
+      "slam",
+      "structure-from-motion"
+    ],
+    "application_area": "医学影像",
+    "score": 25.51,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 595,
+    "forks": 67,
+    "open_issues": 0,
+    "updated_at": "2026-10-28T02:33:53Z",
+    "pushed_at": "2026-10-26T17:20:22Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.71,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1229,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-24T03:24:40Z",
+    "pushed_at": "2026-10-24T03:24:36Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.07,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 672,
+    "forks": 41,
+    "open_issues": 2,
+    "updated_at": "2026-10-29T17:47:46Z",
+    "pushed_at": "2026-10-29T17:47:42Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 21.35,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "patient"
+      ]
+    }
+  },
+  {
+    "full_name": "maju116/rplatypus",
+    "name": "rplatypus",
+    "url": "https://github.com/maju116/rplatypus",
+    "description": "Deep learning for medical images in R: semantic and instance segmentation, object detection, 2D and 3D, DICOM and NIfTI, one specification.",
+    "language": "R",
+    "stars": 136,
+    "forks": 9,
+    "open_issues": 7,
+    "updated_at": "2026-10-29T22:29:56Z",
+    "pushed_at": "2026-10-29T22:53:38Z",
+    "topics": [
+      "deep-learning",
+      "dicom",
+      "image-segmentation",
+      "medical-imaging",
+      "nifti",
+      "object-detection",
+      "r",
+      "r-package",
+      "reticulate",
+      "rstats",
+      "torch",
+      "unet"
+    ],
+    "application_area": "医学影像",
+    "score": 18.45
+  },
+  {
+    "full_name": "Nanboy-Ronan/awesome-medical-ai-papers",
+    "name": "awesome-medical-ai-papers",
+    "url": "https://github.com/Nanboy-Ronan/awesome-medical-ai-papers",
+    "description": "Curated medical AI and healthcare AI papers from major CS/AI conferences, with reproducible publication-share, ICLR decision-rate, and topic-trend studies for 2023–2025.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-29T21:46:18Z",
+    "pushed_at": "2026-10-29T21:46:14Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "brain-computer-interface",
+      "clinical-nlp",
+      "computational-pathology",
+      "conference-papers",
+      "cvpr",
+      "eeg",
+      "healthcare-ai",
+      "iclr",
+      "icml",
+      "medical-ai",
+      "medical-imaging",
+      "medical-llm",
+      "neurips",
+      "open-data",
+      "research-papers",
+      "research-trends"
+    ],
+    "application_area": "医学影像",
+    "score": 9.2
+  },
+  {
+    "full_name": "api-evangelist/deep-6-ai",
+    "name": "deep-6-ai",
+    "url": "https://github.com/api-evangelist/deep-6-ai",
+    "description": "Deep 6 AI — independent third-party profile of a public API surface, by API Evangelist. Deep 6 AI was a clinical-trial acceleration company that used artificial intelligence and natural language processing to mine structured and unstructured clinical data in electronic health records, matching eligible patients to clinical trials in minutes rather",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-29T19:49:13Z",
+    "pushed_at": "2026-10-29T19:49:09Z",
+    "topics": [
+      "apis-json",
+      "artificial-intelligence",
+      "clinical-trials",
+      "company",
+      "electronic-health-records",
+      "healthcare",
+      "life-sciences",
+      "machine-learning",
+      "natural-language-processing",
+      "patient-matching",
+      "precision-medicine"
+    ],
+    "application_area": "药物与转化",
+    "score": 6.8
+  }
+]
