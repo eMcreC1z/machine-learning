@@ -1,0 +1,316 @@
+[
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines.",
+    "language": "Python",
+    "stars": 1688,
+    "forks": 838,
+    "open_issues": 71,
+    "updated_at": "2026-10-28T22:22:20Z",
+    "pushed_at": "2026-10-28T22:54:41Z",
+    "topics": [
+      "benchmark",
+      "clinical-data",
+      "clinical-nlp",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "ehr",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "healthcare-ai",
+      "llm",
+      "machine-learning",
+      "medical-ai",
+      "medical-code",
+      "mimic-iii",
+      "mimic-iv",
+      "preprocessing",
+      "python",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 34.1,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "imaging",
+        "ehr"
+      ]
+    }
+  },
+  {
+    "full_name": "speedyapply/2027-AI-College-Jobs",
+    "name": "2027-AI-College-Jobs",
+    "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+    "description": "2027 AI/ML internship & new graduate job list updated daily",
+    "language": "",
+    "stars": 6607,
+    "forks": 243,
+    "open_issues": 4,
+    "updated_at": "2026-10-28T20:01:46Z",
+    "pushed_at": "2026-10-28T18:11:42Z",
+    "topics": [
+      "ai",
+      "applications",
+      "artificial-intelligence",
+      "college",
+      "data",
+      "data-science",
+      "fulltime",
+      "hiring",
+      "intern",
+      "internship",
+      "internships",
+      "interviews",
+      "jobbboard",
+      "jobs",
+      "junior",
+      "machine-learning",
+      "ml",
+      "newgrad",
+      "quant",
+      "university"
+    ],
+    "application_area": "医学影像",
+    "score": 30.66,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "foundation model",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3778,
+    "forks": 469,
+    "open_issues": 16,
+    "updated_at": "2026-10-28T21:36:42Z",
+    "pushed_at": "2026-10-29T00:24:27Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.72,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "Vincentqyw/cv-arxiv-daily",
+    "name": "cv-arxiv-daily",
+    "url": "https://github.com/Vincentqyw/cv-arxiv-daily",
+    "description": "🎓Automatically Update CV Papers Daily using Github Actions",
+    "language": "Python",
+    "stars": 1509,
+    "forks": 568,
+    "open_issues": 0,
+    "updated_at": "2026-10-28T08:30:16Z",
+    "pushed_at": "2026-10-26T15:41:45Z",
+    "topics": [
+      "3d-reconstruction",
+      "arxiv",
+      "cv",
+      "deep-learning",
+      "image-matching",
+      "lidar",
+      "localization",
+      "mapping",
+      "nerf",
+      "paper",
+      "paperwithcode",
+      "robotics",
+      "sfm",
+      "slam",
+      "structure-from-motion"
+    ],
+    "application_area": "医学影像",
+    "score": 25.65,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 595,
+    "forks": 67,
+    "open_issues": 0,
+    "updated_at": "2026-10-28T02:33:53Z",
+    "pushed_at": "2026-10-26T17:20:22Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.85,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1229,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-24T03:24:40Z",
+    "pushed_at": "2026-10-24T03:24:36Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.21,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "maju116/rplatypus",
+    "name": "rplatypus",
+    "url": "https://github.com/maju116/rplatypus",
+    "description": "Deep learning for medical images in R: semantic and instance segmentation, object detection, 2D and 3D, DICOM and NIfTI, one specification.",
+    "language": "R",
+    "stars": 136,
+    "forks": 9,
+    "open_issues": 7,
+    "updated_at": "2026-10-28T20:59:38Z",
+    "pushed_at": "2026-10-28T21:08:18Z",
+    "topics": [
+      "deep-learning",
+      "dicom",
+      "image-segmentation",
+      "medical-imaging",
+      "nifti",
+      "object-detection",
+      "r",
+      "r-package",
+      "reticulate",
+      "rstats",
+      "torch",
+      "unet"
+    ],
+    "application_area": "医学影像",
+    "score": 18.45
+  },
+  {
+    "full_name": "ANTsX/ANTsTorch",
+    "name": "ANTsTorch",
+    "url": "https://github.com/ANTsX/ANTsTorch",
+    "description": "Processing and deep learning utilities for quantitative medical imaging with PyTorch",
+    "language": "Python",
+    "stars": 7,
+    "forks": 6,
+    "open_issues": 2,
+    "updated_at": "2026-10-28T23:53:57Z",
+    "pushed_at": "2026-10-28T23:53:52Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 11.68
+  },
+  {
+    "full_name": "ruixv/NLOS_Overview",
+    "name": "NLOS_Overview",
+    "url": "https://github.com/ruixv/NLOS_Overview",
+    "description": "Recent Advances on Non-Line-of-Sight Imaging: Conventional Physical Models, Deep Learning, and New Scenes",
+    "language": "Python",
+    "stars": 7,
+    "forks": 0,
+    "open_issues": 24,
+    "updated_at": "2026-10-28T20:53:31Z",
+    "pushed_at": "2026-10-28T20:53:26Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 10.41
+  },
+  {
+    "full_name": "AnshulRaghu/ehr-uncertainty",
+    "name": "ehr-uncertainty",
+    "url": "https://github.com/AnshulRaghu/ehr-uncertainty",
+    "description": "Machine learning research project investigating missing data and uncertainty in EHR datasets.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-10-28T21:03:21Z",
+    "pushed_at": "2026-10-28T21:03:17Z",
+    "topics": [],
+    "application_area": "临床预测",
+    "score": 6.8
+  }
+]
