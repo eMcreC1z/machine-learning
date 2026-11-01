@@ -1,0 +1,261 @@
+[
+  {
+    "full_name": "vanshb03/Summer2027-Internships",
+    "name": "Summer2027-Internships",
+    "url": "https://github.com/vanshb03/Summer2027-Internships",
+    "description": "Collection of Summer, Fall, Spring 2027 tech internships!",
+    "language": "",
+    "stars": 9165,
+    "forks": 312,
+    "open_issues": 1,
+    "updated_at": "2026-11-01T09:07:56Z",
+    "pushed_at": "2026-11-01T09:46:57Z",
+    "topics": [
+      "fall-2025",
+      "fall-2026",
+      "github",
+      "internship",
+      "internships",
+      "job-search",
+      "job-search-tools",
+      "jobs",
+      "spring-2027",
+      "summer",
+      "summer-2027",
+      "university",
+      "winter-2026",
+      "winternship"
+    ],
+    "application_area": "临床预测",
+    "score": 29.39,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "medicine"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4687,
+    "forks": 718,
+    "open_issues": 0,
+    "updated_at": "2026-10-31T20:22:41Z",
+    "pushed_at": "2026-10-29T20:09:17Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.37,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "trackawesomelist/trackawesomelist",
+    "name": "trackawesomelist",
+    "url": "https://github.com/trackawesomelist/trackawesomelist",
+    "description": "Track 500+ Awesome List Updates, Track it - not just star it!",
+    "language": "",
+    "stars": 693,
+    "forks": 68,
+    "open_issues": 18,
+    "updated_at": "2026-11-01T05:58:39Z",
+    "pushed_at": "2026-11-01T05:58:35Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "track",
+      "trending"
+    ],
+    "application_area": "医学影像",
+    "score": 25.92,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm",
+        "computer vision",
+        "nlp"
+      ],
+      "medical": [
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "SheffieldML/GPy",
+    "name": "GPy",
+    "url": "https://github.com/SheffieldML/GPy",
+    "description": "Gaussian processes framework in python",
+    "language": "Python",
+    "stars": 2169,
+    "forks": 573,
+    "open_issues": 2,
+    "updated_at": "2026-11-01T09:51:26Z",
+    "pushed_at": "2026-11-01T09:40:45Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 25.08,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "medicine",
+        "clinical"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1229,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-10-30T10:51:41Z",
+    "pushed_at": "2026-10-30T10:51:38Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.64,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 596,
+    "forks": 67,
+    "open_issues": 0,
+    "updated_at": "2026-10-30T09:09:37Z",
+    "pushed_at": "2026-10-26T17:20:22Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.57,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liutaocode/TTS-arxiv-daily",
+    "name": "TTS-arxiv-daily",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "language": "Python",
+    "stars": 672,
+    "forks": 41,
+    "open_issues": 2,
+    "updated_at": "2026-11-01T03:21:05Z",
+    "pushed_at": "2026-11-01T03:21:01Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 21.35,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "patient"
+      ]
+    }
+  },
+  {
+    "full_name": "Nanboy-Ronan/awesome-medical-ai-papers",
+    "name": "awesome-medical-ai-papers",
+    "url": "https://github.com/Nanboy-Ronan/awesome-medical-ai-papers",
+    "description": "Curated medical AI and healthcare AI papers from major CS/AI conferences, with reproducible publication-share, ICLR decision-rate, and topic-trend studies for 2023–2025.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-11-01T00:40:32Z",
+    "pushed_at": "2026-10-30T16:54:19Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "brain-computer-interface",
+      "clinical-nlp",
+      "computational-pathology",
+      "conference-papers",
+      "cvpr",
+      "eeg",
+      "healthcare-ai",
+      "iclr",
+      "icml",
+      "medical-ai",
+      "medical-imaging",
+      "medical-llm",
+      "neurips",
+      "open-data",
+      "research-papers",
+      "research-trends"
+    ],
+    "application_area": "医学影像",
+    "score": 9.2
+  }
+]
