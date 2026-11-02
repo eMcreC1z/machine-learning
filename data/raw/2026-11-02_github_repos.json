@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines.",
+    "language": "Python",
+    "stars": 1692,
+    "forks": 847,
+    "open_issues": 72,
+    "updated_at": "2026-11-02T00:12:57Z",
+    "pushed_at": "2026-11-02T00:56:15Z",
+    "topics": [
+      "benchmark",
+      "clinical-data",
+      "clinical-nlp",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "ehr",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "healthcare-ai",
+      "llm",
+      "machine-learning",
+      "medical-ai",
+      "medical-code",
+      "mimic-iii",
+      "mimic-iv",
+      "preprocessing",
+      "python",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 31.71,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "ehr"
+      ]
+    }
+  },
+  {
+    "full_name": "kaapana/kaapana",
+    "name": "kaapana",
+    "url": "https://github.com/kaapana/kaapana",
+    "description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "language": "Python",
+    "stars": 276,
+    "forks": 67,
+    "open_issues": 1,
+    "updated_at": "2026-11-01T19:57:54Z",
+    "pushed_at": "2026-11-01T20:03:04Z",
+    "topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "application_area": "医学影像",
+    "score": 24.52,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "radiomics"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  }
+]
