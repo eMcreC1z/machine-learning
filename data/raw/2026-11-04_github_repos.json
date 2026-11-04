@@ -1,1 +1,259 @@
-[]
+[
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4688,
+    "forks": 718,
+    "open_issues": 0,
+    "updated_at": "2026-11-02T04:17:45Z",
+    "pushed_at": "2026-10-29T20:09:17Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.08,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 409,
+    "forks": 65,
+    "open_issues": 29,
+    "updated_at": "2026-11-02T15:09:11Z",
+    "pushed_at": "2026-11-02T15:09:05Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.64,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1228,
+    "forks": 75,
+    "open_issues": 0,
+    "updated_at": "2026-11-02T02:58:37Z",
+    "pushed_at": "2026-10-30T10:51:38Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.49,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "zezhishao/DailyArXiv",
+    "name": "DailyArXiv",
+    "url": "https://github.com/zezhishao/DailyArXiv",
+    "description": "Daily ArXiv Papers.",
+    "language": "Python",
+    "stars": 451,
+    "forks": 99,
+    "open_issues": 665,
+    "updated_at": "2026-11-03T21:54:32Z",
+    "pushed_at": "2026-11-03T21:54:28Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.22,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "foundation model",
+        "neural network"
+      ],
+      "medical": [
+        "clinical",
+        "patient"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 457,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-11-03T11:37:25Z",
+    "pushed_at": "2026-11-03T11:37:21Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.84,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (600+ papers since 2018).",
+    "language": "",
+    "stars": 415,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-11-01T16:04:28Z",
+    "pushed_at": "2026-11-01T16:04:24Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 22.01,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medicine",
+        "pathology",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "workopia/US-New-Grad-Internship-Jobs",
+    "name": "US-New-Grad-Internship-Jobs",
+    "url": "https://github.com/workopia/US-New-Grad-Internship-Jobs",
+    "description": "US new grad, entry-level & internship jobs — updated daily by Workopia",
+    "language": "JavaScript",
+    "stars": 311,
+    "forks": 14,
+    "open_issues": 0,
+    "updated_at": "2026-11-04T01:08:07Z",
+    "pushed_at": "2026-11-04T01:08:03Z",
+    "topics": [
+      "careers",
+      "entry-level",
+      "graduate-jobs",
+      "internships",
+      "job-search",
+      "jobs",
+      "new-grad"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 20.14,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "MEDomicsLab/MEDiml-pkg",
+    "name": "MEDiml-pkg",
+    "url": "https://github.com/MEDomicsLab/MEDiml-pkg",
+    "description": "Medical Image Analysis with Machine Learning (MEDiml): An open-source Python package for medical images processing, radiomic features extraction and model training and testing.",
+    "language": "Jupyter Notebook",
+    "stars": 8,
+    "forks": 2,
+    "open_issues": 1,
+    "updated_at": "2026-11-03T02:17:51Z",
+    "pushed_at": "2026-11-03T13:24:40Z",
+    "topics": [
+      "cancer-imaging-research",
+      "image-processing",
+      "medical-image-analysis",
+      "medical-image-processing",
+      "medical-imaging",
+      "medimage",
+      "python",
+      "radiomics",
+      "radiomics-analysis",
+      "radiomics-feature-extraction"
+    ],
+    "application_area": "医学影像",
+    "score": 11.99
+  }
+]
