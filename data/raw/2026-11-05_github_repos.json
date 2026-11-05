@@ -1,0 +1,291 @@
+[
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines.",
+    "language": "Python",
+    "stars": 1694,
+    "forks": 851,
+    "open_issues": 78,
+    "updated_at": "2026-11-04T23:44:47Z",
+    "pushed_at": "2026-11-05T00:23:33Z",
+    "topics": [
+      "benchmark",
+      "clinical-data",
+      "clinical-nlp",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "ehr",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "healthcare-ai",
+      "llm",
+      "machine-learning",
+      "medical-ai",
+      "medical-code",
+      "mimic-iii",
+      "mimic-iv",
+      "preprocessing",
+      "python",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 34.11,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "imaging",
+        "ehr"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4688,
+    "forks": 718,
+    "open_issues": 0,
+    "updated_at": "2026-11-02T04:17:45Z",
+    "pushed_at": "2026-10-29T20:09:17Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.08,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "vanshb03/Summer2027-Internships",
+    "name": "Summer2027-Internships",
+    "url": "https://github.com/vanshb03/Summer2027-Internships",
+    "description": "Collection of Summer, Fall, Spring 2027 tech internships!",
+    "language": "",
+    "stars": 9171,
+    "forks": 313,
+    "open_issues": 2,
+    "updated_at": "2026-11-05T00:40:24Z",
+    "pushed_at": "2026-11-05T00:40:20Z",
+    "topics": [
+      "fall-2025",
+      "fall-2026",
+      "github",
+      "internship",
+      "internships",
+      "job-search",
+      "job-search-tools",
+      "jobs",
+      "spring-2027",
+      "summer",
+      "summer-2027",
+      "university",
+      "winter-2026",
+      "winternship"
+    ],
+    "application_area": "医学影像",
+    "score": 27.4,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3862,
+    "forks": 488,
+    "open_issues": 15,
+    "updated_at": "2026-11-05T00:43:12Z",
+    "pushed_at": "2026-11-05T00:43:06Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "病理与组学",
+    "score": 26.98,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 457,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-11-04T11:24:31Z",
+    "pushed_at": "2026-11-04T12:22:28Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.84,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (600+ papers since 2018).",
+    "language": "",
+    "stars": 415,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-11-01T16:04:28Z",
+    "pushed_at": "2026-11-01T16:04:24Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 21.87,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medicine",
+        "pathology",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "maju116/rplatypus",
+    "name": "rplatypus",
+    "url": "https://github.com/maju116/rplatypus",
+    "description": "Deep learning for medical images in R: semantic and instance segmentation, object detection, 2D and 3D, DICOM and NIfTI, one specification.",
+    "language": "R",
+    "stars": 136,
+    "forks": 9,
+    "open_issues": 7,
+    "updated_at": "2026-11-04T21:17:14Z",
+    "pushed_at": "2026-11-04T21:23:36Z",
+    "topics": [
+      "deep-learning",
+      "dicom",
+      "image-segmentation",
+      "medical-imaging",
+      "nifti",
+      "object-detection",
+      "r",
+      "r-package",
+      "reticulate",
+      "rstats",
+      "torch",
+      "unet"
+    ],
+    "application_area": "医学影像",
+    "score": 18.45
+  },
+  {
+    "full_name": "MEDomicsLab/MEDiml-pkg",
+    "name": "MEDiml-pkg",
+    "url": "https://github.com/MEDomicsLab/MEDiml-pkg",
+    "description": "Medical Image Analysis with Machine Learning (MEDiml): An open-source Python package for medical images processing, radiomic features extraction and model training and testing.",
+    "language": "Jupyter Notebook",
+    "stars": 8,
+    "forks": 2,
+    "open_issues": 1,
+    "updated_at": "2026-11-03T02:17:51Z",
+    "pushed_at": "2026-11-03T13:24:40Z",
+    "topics": [
+      "cancer-imaging-research",
+      "image-processing",
+      "medical-image-analysis",
+      "medical-image-processing",
+      "medical-imaging",
+      "medimage",
+      "python",
+      "radiomics",
+      "radiomics-analysis",
+      "radiomics-feature-extraction"
+    ],
+    "application_area": "医学影像",
+    "score": 11.99
+  }
+]
