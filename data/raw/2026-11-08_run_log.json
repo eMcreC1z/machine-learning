@@ -2,19 +2,19 @@
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22medical+imaging%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-10-29&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 1.58,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.63,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-10-29"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22clinical+prediction%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-10-29&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 1.31,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.57,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-10-29"
   },
   {
@@ -23,44 +23,206 @@
     "ok": false,
     "status": 403,
     "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 1.36,
+    "seconds": 1.34,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-10-29"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22electronic+health+record%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-10-29&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 1.35,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.71,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-10-29"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22bioinformatics%22+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E5+pushed%3A%3E%3D2026-10-29&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 1.34,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.52,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-10-29"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-10-29&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 1.34,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.55,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-10-29"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-10-29&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 1.35,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.61,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-10-29"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/spmallick/learnopencv/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.39,
+    "repo": "spmallick/learnopencv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ai-boost/awesome-prompts/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.62,
+    "repo": "ai-boost/awesome-prompts"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/vanshb03/Summer2027-Internships/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.7,
+    "repo": "vanshb03/Summer2027-Internships"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/r0f1/datascience/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.35,
+    "repo": "r0f1/datascience"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/ai4s-research/awesome-ai-for-science/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.48,
+    "repo": "ai4s-research/awesome-ai-for-science"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/liliu-avril/Awesome-Segment-Anything/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.62,
+    "repo": "liliu-avril/Awesome-Segment-Anything"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/superiorlu/AITreasureBox/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.84,
+    "repo": "superiorlu/AITreasureBox"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/best-of-ai/best-of-ai/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.6,
+    "repo": "best-of-ai/best-of-ai"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/SpikingChen/SNN-Daily-Arxiv/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.81,
+    "repo": "SpikingChen/SNN-Daily-Arxiv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zapplyjobs/awesome-ml-internships-2027/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.24,
+    "repo": "zapplyjobs/awesome-ml-internships-2027"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/imteekay/machine-learning-research/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.18,
+    "repo": "imteekay/machine-learning-research"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/zezhishao/DailyArXiv/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.72,
+    "repo": "zezhishao/DailyArXiv"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/fregu856/papers/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.8,
+    "repo": "fregu856/papers"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/matrix-agent/awesome-agentic-world-modeling/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.7,
+    "repo": "matrix-agent/awesome-agentic-world-modeling"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/Jianqiuer/Awesome6DPoseEstimation/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.66,
+    "repo": "Jianqiuer/Awesome6DPoseEstimation"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/AspirinCode/awesome-AI4MolConformation-MD/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.6,
+    "repo": "AspirinCode/awesome-AI4MolConformation-MD"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/andrew/ultimate-awesome/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 1.56,
+    "repo": "andrew/ultimate-awesome"
+  },
+  {
+    "source": "github_readme",
+    "url": "https://api.github.com/repos/KaiWU5/Awesome-AI4AI/readme",
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.65,
+    "repo": "KaiWU5/Awesome-AI4AI"
   },
   {
     "source": "pubmed_esearch",
@@ -68,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.42
+    "seconds": 1.83
   },
   {
     "source": "pubmed_esummary",
@@ -76,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.53
+    "seconds": 2.36
   },
   {
     "source": "crossref",
@@ -84,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 5.07
+    "seconds": 4.34
   }
 ]

@@ -1,29 +1,29 @@
 # 医学机器学习自动整理日报 - 2026-11-08
 
-> 自动采集时间：2026-11-08 18:01:41。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-11-08 18:06:03。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
-- GitHub 项目候选：0 个
+- GitHub 项目候选：7 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：7 篇
-- 采集异常来源：7 个
+- 采集异常来源：1 个
 
 ## 采集限制
 
-- github: HTTP 403: {"message":"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more det...
-- github: HTTP 403: {"message":"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more det...
-- github: HTTP 403: {"message":"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more det...
-- github: HTTP 403: {"message":"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more det...
-- github: HTTP 403: {"message":"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more det...
-- github: HTTP 403: {"message":"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more det...
 - github: HTTP 403: {"message":"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more det...
 
 ## 优先关注 GitHub 项目
 
 | 排名 | 项目 | Stars | 最近更新 | 方向 | 推荐理由 |
 | --- | --- | ---: | --- | --- | --- |
-| - | 未采集到项目 | - | - | - | 查看日志并扩大关键词或配置 GITHUB_TOKEN |
+| 1 | [r0f1/datascience](https://github.com/r0f1/datascience) | 4689 | 2026-11-05T05:02:02Z | 临床预测 | Curated list of Python resources for data science.；评分 28.94 |
+| 2 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 2080 | 2026-11-08T08:33:21Z | 医学影像 | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, m... |
+| 3 | [fregu856/papers](https://github.com/fregu856/papers) | 415 | 2026-11-08T06:22:15Z | 医学影像 | I categorize, annotate and write comments for all research papers I read (600+ papers since 2018).；评分 25.7 |
+| 4 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | 1229 | 2026-11-08T06:19:47Z | 医学影像 | This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).；评分 24.79 |
+| 5 | [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) | 456 | 2026-11-05T15:08:11Z | 综合医学机器学习 | ✨ AI/ML Research；评分 23.55 |
+| 6 | [best-of-ai/best-of-ai](https://github.com/best-of-ai/best-of-ai) | 754 | 2026-11-08T09:20:55Z | 医学影像 | A curated list of best ai tools；评分 22.37 |
+| 7 | [maju116/rplatypus](https://github.com/maju116/rplatypus) | 136 | 2026-11-08T08:40:30Z | 医学影像 | Deep learning for medical images in R: semantic and instance segmentation, object detection, 2D and 3D, DICOM and NIfTI, one specification.；评分 18.45 |
 
 ## 高水平论文候选
 
@@ -54,16 +54,19 @@
 
 ### 临床预测
 
+- 可复用项目：[r0f1/datascience](https://github.com/r0f1/datascience)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：A novel tumor cell origin-based risk score (TCOMRS) to predict liver metastasis and guide treatment in colon adenocarcinoma.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 医学影像
 
+- 可复用项目：[ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：Upper airway morphometry in acute neck infections: Clinical associations and deep learning-based segmentation.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
 ### 综合医学机器学习
 
+- 可复用项目：[imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)，适合先看 README、数据要求、许可证和最近提交。
 - 论文线索：AI for Postoperative Pain and Opioid Stewardship in Pediatric Surgery: A Systematic Review.。优先核验研究设计、样本来源、外部验证和代码可得性。
 - 转化建议：把候选方法拆成数据来源、标签定义、模型、验证、统计报告和临床解释六个模块，先做小样本复现实验，再决定是否扩展到真实课题。
 
@@ -88,15 +91,33 @@
 
 ## 运行来源
 
-- github: FAILED; status=403; seconds=1.58
-- github: FAILED; status=403; seconds=1.31
-- github: FAILED; status=403; seconds=1.36
-- github: FAILED; status=403; seconds=1.35
+- github: OK; status=200; seconds=2.63
+- github: OK; status=200; seconds=2.57
 - github: FAILED; status=403; seconds=1.34
-- github: FAILED; status=403; seconds=1.34
-- github: FAILED; status=403; seconds=1.35
-- pubmed_esearch: OK; status=200; seconds=2.42
-- pubmed_esummary: OK; status=200; seconds=2.53
-- crossref: OK; status=200; seconds=5.07
+- github: OK; status=200; seconds=2.71
+- github: OK; status=200; seconds=2.52
+- github: OK; status=200; seconds=2.55
+- github: OK; status=200; seconds=2.61
+- github_readme: OK; status=200; seconds=2.39
+- github_readme: OK; status=200; seconds=2.62
+- github_readme: OK; status=200; seconds=2.7
+- github_readme: OK; status=200; seconds=2.35
+- github_readme: OK; status=200; seconds=2.48
+- github_readme: OK; status=200; seconds=2.62
+- github_readme: OK; status=200; seconds=2.84
+- github_readme: OK; status=200; seconds=2.6
+- github_readme: OK; status=200; seconds=2.81
+- github_readme: OK; status=200; seconds=2.24
+- github_readme: OK; status=200; seconds=2.18
+- github_readme: OK; status=200; seconds=2.72
+- github_readme: OK; status=200; seconds=2.8
+- github_readme: OK; status=200; seconds=2.7
+- github_readme: OK; status=200; seconds=1.66
+- github_readme: OK; status=200; seconds=2.6
+- github_readme: OK; status=200; seconds=1.56
+- github_readme: OK; status=200; seconds=2.65
+- pubmed_esearch: OK; status=200; seconds=1.83
+- pubmed_esummary: OK; status=200; seconds=2.36
+- crossref: OK; status=200; seconds=4.34
 
 本次运行已完成：2026-11-08_ml_med_research_digest.md
