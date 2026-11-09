@@ -1,1 +1,481 @@
-[]
+[
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines.",
+    "language": "Python",
+    "stars": 1697,
+    "forks": 864,
+    "open_issues": 96,
+    "updated_at": "2026-11-09T06:23:20Z",
+    "pushed_at": "2026-11-09T03:49:07Z",
+    "topics": [
+      "benchmark",
+      "clinical-data",
+      "clinical-nlp",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "ehr",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "healthcare-ai",
+      "llm",
+      "machine-learning",
+      "medical-ai",
+      "medical-code",
+      "mimic-iii",
+      "mimic-iv",
+      "preprocessing",
+      "python",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 34.13,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "imaging",
+        "ehr"
+      ]
+    }
+  },
+  {
+    "full_name": "volcano-sh/volcano",
+    "name": "volcano",
+    "url": "https://github.com/volcano-sh/volcano",
+    "description": "A Cloud Native Batch System (Project under CNCF)",
+    "language": "Go",
+    "stars": 6074,
+    "forks": 1618,
+    "open_issues": 912,
+    "updated_at": "2026-11-09T07:01:37Z",
+    "pushed_at": "2026-11-09T07:13:38Z",
+    "topics": [
+      "ai",
+      "batch-systems",
+      "bigdata",
+      "gene",
+      "golang",
+      "hpc",
+      "kubernetes",
+      "machine-learning",
+      "serving",
+      "training"
+    ],
+    "application_area": "病理与组学",
+    "score": 30.55,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 409,
+    "forks": 65,
+    "open_issues": 29,
+    "updated_at": "2026-11-02T15:09:11Z",
+    "pushed_at": "2026-11-02T15:09:05Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 26.92,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "AspirinCode/papers-for-molecular-design-using-DL",
+    "name": "papers-for-molecular-design-using-DL",
+    "url": "https://github.com/AspirinCode/papers-for-molecular-design-using-DL",
+    "description": "List of Molecular and Material design using Generative AI and Deep Learning",
+    "language": "",
+    "stars": 952,
+    "forks": 121,
+    "open_issues": 0,
+    "updated_at": "2026-11-09T06:43:36Z",
+    "pushed_at": "2026-11-09T06:43:31Z",
+    "topics": [
+      "deep-generative-models",
+      "diffusion",
+      "drug-design",
+      "energy-based-model",
+      "gan",
+      "generative-ai",
+      "gnns",
+      "lstm",
+      "material-design",
+      "molecular-design",
+      "prompt-learning",
+      "reinforcement-learning",
+      "rnn",
+      "score-based-generative-models",
+      "transformer",
+      "vae"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 26.65,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "large language model",
+        "llm"
+      ],
+      "medical": [
+        "omics"
+      ]
+    }
+  },
+  {
+    "full_name": "valeman/awesome-conformal-prediction",
+    "name": "awesome-conformal-prediction",
+    "url": "https://github.com/valeman/awesome-conformal-prediction",
+    "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
+    "language": "",
+    "stars": 1336,
+    "forks": 124,
+    "open_issues": 6,
+    "updated_at": "2026-11-08T13:13:36Z",
+    "pushed_at": "2026-11-05T19:39:55Z",
+    "topics": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "conformal-prediction",
+      "datascience",
+      "deeplearning",
+      "explainable-ai",
+      "machine-learning",
+      "machinelearning",
+      "probability",
+      "probability-distribution",
+      "probability-distributions",
+      "python",
+      "r",
+      "robust-ml",
+      "statistics",
+      "uncertainty",
+      "uncertainty-estimation",
+      "uncertainty-quantification"
+    ],
+    "application_area": "医学影像",
+    "score": 26.05,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "albumentations-team/AlbumentationsX",
+    "name": "AlbumentationsX",
+    "url": "https://github.com/albumentations-team/AlbumentationsX",
+    "description": "Image augmentation for computer vision. AGPL-3.0-only or commercial licensing.",
+    "language": "Python",
+    "stars": 592,
+    "forks": 45,
+    "open_issues": 18,
+    "updated_at": "2026-11-09T05:13:53Z",
+    "pushed_at": "2026-11-09T05:14:05Z",
+    "topics": [
+      "3d",
+      "augmentation",
+      "bounding-box",
+      "computer-vision",
+      "data-augmentation",
+      "deep-learning",
+      "deeplearning",
+      "image-augmentation",
+      "image-classification",
+      "image-processing",
+      "image-segmentations",
+      "instance-segmentation",
+      "keypoint-detection",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "python",
+      "pytorch",
+      "segmentation",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 25.59,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (600+ papers since 2018).",
+    "language": "",
+    "stars": 415,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-11-08T06:22:15Z",
+    "pushed_at": "2026-11-08T06:22:11Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 25.56,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "foundation model"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "pathology",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1229,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-11-08T06:19:47Z",
+    "pushed_at": "2026-11-08T06:19:43Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.65,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 456,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-11-05T15:08:11Z",
+    "pushed_at": "2026-11-05T12:47:23Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.41,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "ratschlab/DeepSpot",
+    "name": "DeepSpot",
+    "url": "https://github.com/ratschlab/DeepSpot",
+    "description": "DeepSpot: Deep learning model for predicting spatial transcriptomics from H&E histopathology images. Supports spot-level (Visium) and single-cell (Xenium) resolution.",
+    "language": "Jupyter Notebook",
+    "stars": 105,
+    "forks": 21,
+    "open_issues": 0,
+    "updated_at": "2026-11-09T06:10:34Z",
+    "pushed_at": "2026-11-09T06:10:30Z",
+    "topics": [
+      "bioinformatics",
+      "cancer-research",
+      "computational-pathology",
+      "deep-learning",
+      "digital-pathology",
+      "foundation-models",
+      "gene-expression",
+      "histopathology",
+      "machine-learning",
+      "pathology",
+      "pytorch",
+      "single-cell",
+      "spatial-biology",
+      "spatial-transcriptomics",
+      "visium",
+      "xenium"
+    ],
+    "application_area": "病理与组学",
+    "score": 19.31
+  },
+  {
+    "full_name": "maju116/rplatypus",
+    "name": "rplatypus",
+    "url": "https://github.com/maju116/rplatypus",
+    "description": "Deep learning for medical images in R: semantic and instance segmentation, object detection, 2D and 3D, DICOM and NIfTI, one specification.",
+    "language": "R",
+    "stars": 136,
+    "forks": 9,
+    "open_issues": 8,
+    "updated_at": "2026-11-09T07:15:04Z",
+    "pushed_at": "2026-11-09T07:14:59Z",
+    "topics": [
+      "deep-learning",
+      "dicom",
+      "image-segmentation",
+      "medical-imaging",
+      "nifti",
+      "object-detection",
+      "r",
+      "r-package",
+      "reticulate",
+      "rstats",
+      "torch",
+      "unet"
+    ],
+    "application_area": "医学影像",
+    "score": 18.45
+  },
+  {
+    "full_name": "MEDomicsLab/MEDiml-pkg",
+    "name": "MEDiml-pkg",
+    "url": "https://github.com/MEDomicsLab/MEDiml-pkg",
+    "description": "Medical Image Analysis with Machine Learning (MEDiml): An open-source Python package for medical images processing, radiomic features extraction and model training and testing.",
+    "language": "Jupyter Notebook",
+    "stars": 8,
+    "forks": 2,
+    "open_issues": 1,
+    "updated_at": "2026-11-03T02:17:51Z",
+    "pushed_at": "2026-11-06T19:19:38Z",
+    "topics": [
+      "cancer-imaging-research",
+      "image-processing",
+      "medical-image-analysis",
+      "medical-image-processing",
+      "medical-imaging",
+      "medimage",
+      "python",
+      "radiomics",
+      "radiomics-analysis",
+      "radiomics-feature-extraction"
+    ],
+    "application_area": "医学影像",
+    "score": 11.28
+  },
+  {
+    "full_name": "Nanboy-Ronan/awesome-medical-ai-papers",
+    "name": "awesome-medical-ai-papers",
+    "url": "https://github.com/Nanboy-Ronan/awesome-medical-ai-papers",
+    "description": "Curated medical AI and healthcare AI papers from major CS/AI conferences, with reproducible publication-share, ICLR decision-rate, and topic-trend studies for 2023–2025.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-11-08T17:18:45Z",
+    "pushed_at": "2026-11-08T17:18:41Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "brain-computer-interface",
+      "clinical-nlp",
+      "computational-pathology",
+      "conference-papers",
+      "cvpr",
+      "eeg",
+      "healthcare-ai",
+      "iclr",
+      "icml",
+      "medical-ai",
+      "medical-imaging",
+      "medical-llm",
+      "neurips",
+      "open-data",
+      "research-papers",
+      "research-trends"
+    ],
+    "application_area": "医学影像",
+    "score": 9.2
+  }
+]
