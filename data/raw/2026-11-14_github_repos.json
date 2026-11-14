@@ -1,0 +1,529 @@
+[
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines.",
+    "language": "Python",
+    "stars": 1698,
+    "forks": 876,
+    "open_issues": 86,
+    "updated_at": "2026-11-12T07:10:22Z",
+    "pushed_at": "2026-11-14T00:40:48Z",
+    "topics": [
+      "benchmark",
+      "clinical-data",
+      "clinical-nlp",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "ehr",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "healthcare-ai",
+      "llm",
+      "machine-learning",
+      "medical-ai",
+      "medical-code",
+      "mimic-iii",
+      "mimic-iv",
+      "preprocessing",
+      "python",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 33.99,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "imaging",
+        "ehr"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 3972,
+    "forks": 522,
+    "open_issues": 17,
+    "updated_at": "2026-11-14T00:04:45Z",
+    "pushed_at": "2026-11-14T00:20:26Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "病理与组学",
+    "score": 27.07,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "albumentations-team/AlbumentationsX",
+    "name": "AlbumentationsX",
+    "url": "https://github.com/albumentations-team/AlbumentationsX",
+    "description": "Image augmentation for computer vision. AGPL-3.0-only or commercial licensing.",
+    "language": "Python",
+    "stars": 595,
+    "forks": 46,
+    "open_issues": 26,
+    "updated_at": "2026-11-13T17:36:45Z",
+    "pushed_at": "2026-11-14T00:40:45Z",
+    "topics": [
+      "3d",
+      "augmentation",
+      "bounding-box",
+      "computer-vision",
+      "data-augmentation",
+      "deep-learning",
+      "deeplearning",
+      "image-augmentation",
+      "image-classification",
+      "image-processing",
+      "image-segmentations",
+      "instance-segmentation",
+      "keypoint-detection",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "python",
+      "pytorch",
+      "segmentation",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 25.61,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (600+ papers since 2018).",
+    "language": "",
+    "stars": 415,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-11-10T10:14:41Z",
+    "pushed_at": "2026-11-10T10:14:34Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 25.27,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "foundation model"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "pathology",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "Nanboy-Ronan/awesome-medical-imaging-agents",
+    "name": "awesome-medical-imaging-agents",
+    "url": "https://github.com/Nanboy-Ronan/awesome-medical-imaging-agents",
+    "description": "Awesome list for medical imaging agents: radiology agents, pathology agents, segmentation agents, medical VLM agents, self-evolving agents, benchmarks, datasets, tools, and papers.",
+    "language": "Python",
+    "stars": 87,
+    "forks": 9,
+    "open_issues": 0,
+    "updated_at": "2026-11-13T02:39:34Z",
+    "pushed_at": "2026-11-12T16:41:25Z",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "computer-vision",
+      "deep-learning",
+      "healthcare",
+      "medical-image-analysis",
+      "medical-imaging",
+      "radiology",
+      "self-evolving",
+      "self-evolving-agents",
+      "trustworth-ai"
+    ],
+    "application_area": "医学影像",
+    "score": 25.08,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "diagnosis",
+        "radiology",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 602,
+    "forks": 67,
+    "open_issues": 0,
+    "updated_at": "2026-11-13T14:29:26Z",
+    "pushed_at": "2026-11-13T19:24:59Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.87,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "hazratali/awesome-ai-summerschool",
+    "name": "awesome-ai-summerschool",
+    "url": "https://github.com/hazratali/awesome-ai-summerschool",
+    "description": "An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare",
+    "language": "",
+    "stars": 750,
+    "forks": 66,
+    "open_issues": 0,
+    "updated_at": "2026-11-14T00:25:01Z",
+    "pushed_at": "2026-11-13T22:39:05Z",
+    "topics": [
+      "artificial-intelligence",
+      "courses",
+      "deep-learning",
+      "machine-learning",
+      "summer-school"
+    ],
+    "application_area": "医学影像",
+    "score": 23.64,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medical",
+        "medicine",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 457,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-11-10T19:06:07Z",
+    "pushed_at": "2026-11-12T11:31:08Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.41,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "BiaPyX/BiaPy",
+    "name": "BiaPy",
+    "url": "https://github.com/BiaPyX/BiaPy",
+    "description": "Open source Python library for building bioimage analysis pipelines",
+    "language": "Jupyter Notebook",
+    "stars": 219,
+    "forks": 45,
+    "open_issues": 2,
+    "updated_at": "2026-11-13T18:28:06Z",
+    "pushed_at": "2026-11-13T19:56:57Z",
+    "topics": [
+      "biomedical-image-processing",
+      "classification",
+      "computer-vision",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "denoising",
+      "image-processing",
+      "image-segmentation",
+      "instance-segmentation",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "object-tracking",
+      "python",
+      "pytorch",
+      "segmentation",
+      "self-supervised-learning",
+      "semantic-segmentation",
+      "super-resolution"
+    ],
+    "application_area": "医学影像",
+    "score": 22.86,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "neural network"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "AI-in-Transportation-Lab/awesome-jepa",
+    "name": "awesome-jepa",
+    "url": "https://github.com/AI-in-Transportation-Lab/awesome-jepa",
+    "description": "A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Joint Embedding Predictive Architecture (JEPA).",
+    "language": "JavaScript",
+    "stars": 190,
+    "forks": 17,
+    "open_issues": 0,
+    "updated_at": "2026-11-12T07:29:31Z",
+    "pushed_at": "2026-11-13T05:49:31Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 22.86,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "clinical",
+        "patient",
+        "radiology",
+        "imaging",
+        "ehr"
+      ]
+    }
+  },
+  {
+    "full_name": "1999kevin/awesome_medical_world_models",
+    "name": "awesome_medical_world_models",
+    "url": "https://github.com/1999kevin/awesome_medical_world_models",
+    "description": "This is the paper collection for awesome medical_world_models.",
+    "language": "",
+    "stars": 64,
+    "forks": 0,
+    "open_issues": 1,
+    "updated_at": "2026-11-13T10:56:24Z",
+    "pushed_at": "2026-11-11T08:02:24Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 21.45,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "radiology",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "maju116/rplatypus",
+    "name": "rplatypus",
+    "url": "https://github.com/maju116/rplatypus",
+    "description": "Deep learning for medical images in R: semantic and instance segmentation, object detection, 2D and 3D, DICOM and NIfTI, one specification.",
+    "language": "R",
+    "stars": 136,
+    "forks": 9,
+    "open_issues": 7,
+    "updated_at": "2026-11-11T12:39:06Z",
+    "pushed_at": "2026-11-13T22:15:55Z",
+    "topics": [
+      "deep-learning",
+      "dicom",
+      "image-segmentation",
+      "medical-imaging",
+      "nifti",
+      "object-detection",
+      "r",
+      "r-package",
+      "reticulate",
+      "rstats",
+      "torch",
+      "unet"
+    ],
+    "application_area": "医学影像",
+    "score": 20.76,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "neural network"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "axondeepseg/axondeepseg",
+    "name": "axondeepseg",
+    "url": "https://github.com/axondeepseg/axondeepseg",
+    "description": "Axon/Myelin segmentation using Deep Learning",
+    "language": "Python",
+    "stars": 129,
+    "forks": 34,
+    "open_issues": 56,
+    "updated_at": "2026-10-30T14:47:49Z",
+    "pushed_at": "2026-11-13T23:37:49Z",
+    "topics": [
+      "axon",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "electron-microscopy",
+      "histology",
+      "machine-learning",
+      "microscopy",
+      "myelin",
+      "neuropoly",
+      "segmentation",
+      "spinalcord"
+    ],
+    "application_area": "医学影像",
+    "score": 19.37,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "neural network"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  },
+  {
+    "full_name": "Manavarya09/public-apis-live",
+    "name": "public-apis-live",
+    "url": "https://github.com/Manavarya09/public-apis-live",
+    "description": "Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search.",
+    "language": "TypeScript",
+    "stars": 157,
+    "forks": 16,
+    "open_issues": 5,
+    "updated_at": "2026-11-13T14:02:08Z",
+    "pushed_at": "2026-11-13T20:53:48Z",
+    "topics": [
+      "api",
+      "api-list",
+      "apis",
+      "claude",
+      "developer-tools",
+      "free-apis",
+      "mcp",
+      "nextjs",
+      "npm-package",
+      "public-apis"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 17.44,
+    "evidence_terms": {
+      "ml": [
+        "machine learning"
+      ],
+      "medical": [
+        "medical"
+      ]
+    }
+  }
+]
