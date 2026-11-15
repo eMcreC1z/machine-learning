@@ -5,7 +5,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.13,
+    "seconds": 2.64,
     "query": "\"medical imaging\" \"deep learning\" in:name,description,readme stars:>5 pushed:>=2026-11-05"
   },
   {
@@ -14,7 +14,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.69,
+    "seconds": 2.58,
     "query": "\"clinical prediction\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-11-05"
   },
   {
@@ -23,7 +23,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.75,
+    "seconds": 2.57,
     "query": "\"radiomics\" \"machine learning\" in:name,description,readme stars:>3 pushed:>=2026-11-05"
   },
   {
@@ -32,7 +32,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.81,
+    "seconds": 2.59,
     "query": "\"electronic health record\" \"machine learning\" in:name,description,readme pushed:>=2026-11-05"
   },
   {
@@ -41,25 +41,25 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.78,
+    "seconds": 2.6,
     "query": "\"bioinformatics\" \"machine learning\" in:name,description,readme stars:>5 pushed:>=2026-11-05"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22pathology%22+%22deep+learning%22+in%3Aname%2Cdescription%2Creadme+stars%3A%3E3+pushed%3A%3E%3D2026-11-05&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 1.43,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.57,
     "query": "\"pathology\" \"deep learning\" in:name,description,readme stars:>3 pushed:>=2026-11-05"
   },
   {
     "source": "github",
     "url": "https://api.github.com/search/repositories?q=%22survival+analysis%22+%22machine+learning%22+%22medicine%22+in%3Aname%2Cdescription%2Creadme+pushed%3A%3E%3D2026-11-05&sort=updated&order=desc&per_page=20",
-    "ok": false,
-    "status": 403,
-    "error": "HTTP 403: {\"message\":\"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
-    "seconds": 1.57,
+    "ok": true,
+    "status": 200,
+    "error": null,
+    "seconds": 2.59,
     "query": "\"survival analysis\" \"machine learning\" \"medicine\" in:name,description,readme pushed:>=2026-11-05"
   },
   {
@@ -68,7 +68,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.08,
+    "seconds": 2.66,
     "repo": "ai-boost/awesome-prompts"
   },
   {
@@ -77,7 +77,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.96,
+    "seconds": 2.76,
     "repo": "vanshb03/Summer2027-Internships"
   },
   {
@@ -86,7 +86,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.67,
+    "seconds": 2.54,
     "repo": "ai4s-research/awesome-ai-for-science"
   },
   {
@@ -95,7 +95,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.83,
+    "seconds": 1.65,
     "repo": "mims-harvard/ToolUniverse"
   },
   {
@@ -104,7 +104,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.57,
+    "seconds": 2.58,
     "repo": "Vincentqyw/cv-arxiv-daily"
   },
   {
@@ -113,7 +113,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 1.91,
+    "seconds": 1.78,
     "repo": "open-edge-platform/geti"
   },
   {
@@ -122,7 +122,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.66,
+    "seconds": 2.64,
     "repo": "valeman/awesome-conformal-prediction"
   },
   {
@@ -131,7 +131,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.72,
+    "seconds": 2.93,
     "repo": "liliu-avril/Awesome-Segment-Anything"
   },
   {
@@ -140,7 +140,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.6,
+    "seconds": 2.36,
     "repo": "sib-swiss/training-collection"
   },
   {
@@ -149,7 +149,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.89,
+    "seconds": 2.81,
     "repo": "superiorlu/AITreasureBox"
   },
   {
@@ -158,7 +158,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.17,
+    "seconds": 2.59,
     "repo": "best-of-ai/best-of-ai"
   },
   {
@@ -167,7 +167,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.65,
+    "seconds": 2.58,
     "repo": "trackawesomelist/trackawesomelist"
   },
   {
@@ -176,7 +176,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.31,
+    "seconds": 2.2,
     "repo": "OmicsML/awesome-foundation-model-single-cell-papers"
   },
   {
@@ -185,7 +185,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.02,
+    "seconds": 2.94,
     "repo": "SpikingChen/SNN-Daily-Arxiv"
   },
   {
@@ -203,7 +203,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.51,
+    "seconds": 2.24,
     "repo": "imteekay/machine-learning-research"
   },
   {
@@ -212,7 +212,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.9,
+    "seconds": 2.77,
     "repo": "fregu856/papers"
   },
   {
@@ -221,7 +221,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.07,
+    "seconds": 2.51,
     "repo": "leipzig/awesome-reproducible-research"
   },
   {
@@ -230,7 +230,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 2.71
+    "seconds": 1.84
   },
   {
     "source": "pubmed_esummary",
@@ -238,7 +238,7 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.06
+    "seconds": 2.6
   },
   {
     "source": "crossref",
@@ -246,6 +246,6 @@
     "ok": true,
     "status": 200,
     "error": null,
-    "seconds": 3.12
+    "seconds": 2.81
   }
 ]

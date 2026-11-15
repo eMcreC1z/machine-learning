@@ -1,18 +1,13 @@
 # 医学机器学习自动整理日报 - 2026-11-15
 
-> 自动采集时间：2026-11-15 17:11:08。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
+> 自动采集时间：2026-11-15 17:13:38。数据源包括 GitHub Search、PubMed E-utilities、Crossref。中科院分区、JCR Quartile、影响因子和期刊目录需按最新版官方目录人工复核。
 
 ## 今日概览
 
 - GitHub 项目候选：15 个
 - 论文候选：40 篇
 - 高影响/Q1候选论文：2 篇
-- 采集异常来源：2 个
-
-## 采集限制
-
-- github: HTTP 403: {"message":"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more det...
-- github: HTTP 403: {"message":"API rate limit exceeded for 166.0.132.93. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more det...
+- 采集异常来源：0 个
 
 ## 优先关注 GitHub 项目
 
@@ -111,33 +106,33 @@
 
 ## 运行来源
 
-- github: OK; status=200; seconds=3.13
-- github: OK; status=200; seconds=2.69
-- github: OK; status=200; seconds=2.75
-- github: OK; status=200; seconds=2.81
-- github: OK; status=200; seconds=2.78
-- github: FAILED; status=403; seconds=1.43
-- github: FAILED; status=403; seconds=1.57
-- github_readme: OK; status=200; seconds=3.08
-- github_readme: OK; status=200; seconds=2.96
-- github_readme: OK; status=200; seconds=2.67
-- github_readme: OK; status=200; seconds=1.83
-- github_readme: OK; status=200; seconds=2.57
-- github_readme: OK; status=200; seconds=1.91
+- github: OK; status=200; seconds=2.64
+- github: OK; status=200; seconds=2.58
+- github: OK; status=200; seconds=2.57
+- github: OK; status=200; seconds=2.59
+- github: OK; status=200; seconds=2.6
+- github: OK; status=200; seconds=2.57
+- github: OK; status=200; seconds=2.59
 - github_readme: OK; status=200; seconds=2.66
-- github_readme: OK; status=200; seconds=2.72
-- github_readme: OK; status=200; seconds=2.6
-- github_readme: OK; status=200; seconds=2.89
-- github_readme: OK; status=200; seconds=3.17
-- github_readme: OK; status=200; seconds=2.65
-- github_readme: OK; status=200; seconds=2.31
-- github_readme: OK; status=200; seconds=3.02
+- github_readme: OK; status=200; seconds=2.76
+- github_readme: OK; status=200; seconds=2.54
+- github_readme: OK; status=200; seconds=1.65
+- github_readme: OK; status=200; seconds=2.58
+- github_readme: OK; status=200; seconds=1.78
+- github_readme: OK; status=200; seconds=2.64
+- github_readme: OK; status=200; seconds=2.93
+- github_readme: OK; status=200; seconds=2.36
+- github_readme: OK; status=200; seconds=2.81
+- github_readme: OK; status=200; seconds=2.59
+- github_readme: OK; status=200; seconds=2.58
+- github_readme: OK; status=200; seconds=2.2
+- github_readme: OK; status=200; seconds=2.94
 - github_readme: OK; status=200; seconds=2.3
+- github_readme: OK; status=200; seconds=2.24
+- github_readme: OK; status=200; seconds=2.77
 - github_readme: OK; status=200; seconds=2.51
-- github_readme: OK; status=200; seconds=2.9
-- github_readme: OK; status=200; seconds=3.07
-- pubmed_esearch: OK; status=200; seconds=2.71
-- pubmed_esummary: OK; status=200; seconds=3.06
-- crossref: OK; status=200; seconds=3.12
+- pubmed_esearch: OK; status=200; seconds=1.84
+- pubmed_esummary: OK; status=200; seconds=2.6
+- crossref: OK; status=200; seconds=2.81
 
 本次运行已完成：2026-11-15_ml_med_research_digest.md
