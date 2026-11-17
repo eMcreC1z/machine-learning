@@ -1,1 +1,284 @@
-[]
+[
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 4021,
+    "forks": 531,
+    "open_issues": 20,
+    "updated_at": "2026-11-16T19:55:39Z",
+    "pushed_at": "2026-11-16T22:08:38Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "病理与组学",
+    "score": 27.11,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 604,
+    "forks": 67,
+    "open_issues": 0,
+    "updated_at": "2026-11-16T05:18:12Z",
+    "pushed_at": "2026-11-13T19:24:59Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 24.88,
+    "evidence_terms": {
+      "ml": [
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "pathology",
+        "genomics",
+        "omics",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "fregu856/papers",
+    "name": "papers",
+    "url": "https://github.com/fregu856/papers",
+    "description": "I categorize, annotate and write comments for all research papers I read (600+ papers since 2018).",
+    "language": "",
+    "stars": 415,
+    "forks": 55,
+    "open_issues": 0,
+    "updated_at": "2026-11-10T10:14:41Z",
+    "pushed_at": "2026-11-15T14:47:39Z",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "papers"
+    ],
+    "application_area": "医学影像",
+    "score": 24.84,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "foundation model"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "pathology",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "ANTsX/ANTs",
+    "name": "ANTs",
+    "url": "https://github.com/ANTsX/ANTs",
+    "description": "Advanced Normalization Tools (ANTs)",
+    "language": "C++",
+    "stars": 1512,
+    "forks": 410,
+    "open_issues": 96,
+    "updated_at": "2026-11-08T16:07:51Z",
+    "pushed_at": "2026-11-16T22:09:56Z",
+    "topics": [
+      "image-registration",
+      "image-segmentation",
+      "medical-image-processing",
+      "neuroimaging"
+    ],
+    "application_area": "医学影像",
+    "score": 24.7,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "imaging",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1228,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-11-11T13:05:11Z",
+    "pushed_at": "2026-11-14T08:00:35Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.07,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 457,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-11-10T19:06:07Z",
+    "pushed_at": "2026-11-15T23:17:29Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 22.98,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "best-of-ai/best-of-ai",
+    "name": "best-of-ai",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "language": "HTML",
+    "stars": 764,
+    "forks": 154,
+    "open_issues": 171,
+    "updated_at": "2026-11-16T23:51:51Z",
+    "pushed_at": "2026-11-16T22:42:44Z",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-ai",
+      "awesome-ai-agents",
+      "awesome-ai-tools",
+      "awesome-list",
+      "awesome-skills",
+      "best-ai-tools",
+      "best-of-ai",
+      "bestofai",
+      "free-ai-tools",
+      "top-ai-tools"
+    ],
+    "application_area": "医学影像",
+    "score": 22.42,
+    "evidence_terms": {
+      "ml": [
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "MEDomicsLab/MEDiml-pkg",
+    "name": "MEDiml-pkg",
+    "url": "https://github.com/MEDomicsLab/MEDiml-pkg",
+    "description": "MEDical Image analysis with Machine Learning (MEDiml): An open-source Python package for medical images processing, radiomic features extraction and model training and testing.",
+    "language": "Jupyter Notebook",
+    "stars": 8,
+    "forks": 2,
+    "open_issues": 0,
+    "updated_at": "2026-11-12T03:18:21Z",
+    "pushed_at": "2026-11-13T01:24:48Z",
+    "topics": [
+      "cancer-imaging-research",
+      "image-processing",
+      "medical-image-analysis",
+      "medical-image-processing",
+      "medical-imaging",
+      "medimage",
+      "python",
+      "radiomics",
+      "radiomics-analysis",
+      "radiomics-feature-extraction"
+    ],
+    "application_area": "医学影像",
+    "score": 11.56
+  },
+  {
+    "full_name": "KatherLab/MediSwarm",
+    "name": "MediSwarm",
+    "url": "https://github.com/KatherLab/MediSwarm",
+    "description": "MediSwarm is an open-source project for advancing medical deep learning using swarm intelligence and NVFlare. Developed by the Odelia consortium, it ensures data privacy through federated learning, enabling collaborative, decentralized model training across institutions for improved medical research and applications.",
+    "language": "Python",
+    "stars": 4,
+    "forks": 3,
+    "open_issues": 49,
+    "updated_at": "2026-10-19T10:26:03Z",
+    "pushed_at": "2026-11-16T21:28:27Z",
+    "topics": [],
+    "application_area": "综合医学机器学习",
+    "score": 5.7
+  }
+]
