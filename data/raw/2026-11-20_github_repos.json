@@ -1,1 +1,434 @@
-[]
+[
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines.",
+    "language": "Python",
+    "stars": 1700,
+    "forks": 909,
+    "open_issues": 112,
+    "updated_at": "2026-11-19T21:55:58Z",
+    "pushed_at": "2026-11-19T21:41:31Z",
+    "topics": [
+      "benchmark",
+      "clinical-data",
+      "clinical-nlp",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "ehr",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "healthcare-ai",
+      "llm",
+      "machine-learning",
+      "medical-ai",
+      "medical-code",
+      "mimic-iii",
+      "mimic-iv",
+      "preprocessing",
+      "python",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 34.16,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "imaging",
+        "ehr"
+      ]
+    }
+  },
+  {
+    "full_name": "leipzig/awesome-reproducible-research",
+    "name": "awesome-reproducible-research",
+    "url": "https://github.com/leipzig/awesome-reproducible-research",
+    "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+    "language": "Python",
+    "stars": 415,
+    "forks": 66,
+    "open_issues": 31,
+    "updated_at": "2026-11-19T13:12:35Z",
+    "pushed_at": "2026-11-13T14:08:56Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "reproducibility",
+      "reproducible-analysis",
+      "reproducible-research",
+      "reproducible-science",
+      "reproducible-workflows"
+    ],
+    "application_area": "医学影像",
+    "score": 27.82,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "nlp"
+      ],
+      "medical": [
+        "medicine",
+        "clinical",
+        "radiology",
+        "imaging",
+        "genomics",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 607,
+    "forks": 68,
+    "open_issues": 0,
+    "updated_at": "2026-11-19T08:26:23Z",
+    "pushed_at": "2026-11-20T00:49:09Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 27.49,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "patient",
+        "pathology",
+        "genomics",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "NVIDIA/skills",
+    "name": "skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "language": "Python",
+    "stars": 4084,
+    "forks": 546,
+    "open_issues": 24,
+    "updated_at": "2026-11-19T21:31:09Z",
+    "pushed_at": "2026-11-20T01:09:51Z",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cuda",
+      "developer-tools",
+      "llm",
+      "omniverse",
+      "physical-ai",
+      "rag",
+      "robotics",
+      "simulation"
+    ],
+    "application_area": "病理与组学",
+    "score": 27.15,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "albumentations-team/AlbumentationsX",
+    "name": "AlbumentationsX",
+    "url": "https://github.com/albumentations-team/AlbumentationsX",
+    "description": "Image augmentation for computer vision. AGPL-3.0-only or commercial licensing.",
+    "language": "Python",
+    "stars": 598,
+    "forks": 46,
+    "open_issues": 25,
+    "updated_at": "2026-11-19T18:39:53Z",
+    "pushed_at": "2026-11-20T01:09:31Z",
+    "topics": [
+      "3d",
+      "augmentation",
+      "bounding-box",
+      "computer-vision",
+      "data-augmentation",
+      "deep-learning",
+      "deeplearning",
+      "image-augmentation",
+      "image-classification",
+      "image-processing",
+      "image-segmentations",
+      "instance-segmentation",
+      "keypoint-detection",
+      "machine-learning",
+      "medical-imaging",
+      "object-detection",
+      "python",
+      "pytorch",
+      "segmentation",
+      "tensorflow"
+    ],
+    "application_area": "医学影像",
+    "score": 25.62,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1227,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-11-19T22:56:45Z",
+    "pushed_at": "2026-11-14T08:00:35Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.79,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 455,
+    "forks": 53,
+    "open_issues": 1,
+    "updated_at": "2026-11-19T20:46:04Z",
+    "pushed_at": "2026-11-17T12:00:46Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 23.83,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "trackawesomelist/trackawesomelist",
+    "name": "trackawesomelist",
+    "url": "https://github.com/trackawesomelist/trackawesomelist",
+    "description": "Track 500+ Awesome List Updates, Track it - not just star it!",
+    "language": "",
+    "stars": 702,
+    "forks": 69,
+    "open_issues": 19,
+    "updated_at": "2026-11-18T19:06:20Z",
+    "pushed_at": "2026-11-19T20:33:38Z",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "track",
+      "trending"
+    ],
+    "application_area": "病理与组学",
+    "score": 20.81,
+    "evidence_terms": {
+      "ml": [
+        "llm"
+      ],
+      "medical": [
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "MEDomicsLab/MEDiml-pkg",
+    "name": "MEDiml-pkg",
+    "url": "https://github.com/MEDomicsLab/MEDiml-pkg",
+    "description": "MEDical Image analysis with Machine Learning (MEDiml): An open-source Python package for medical images processing, radiomic features extraction and model training and testing.",
+    "language": "Jupyter Notebook",
+    "stars": 8,
+    "forks": 2,
+    "open_issues": 0,
+    "updated_at": "2026-11-12T03:18:21Z",
+    "pushed_at": "2026-11-13T01:24:48Z",
+    "topics": [
+      "cancer-imaging-research",
+      "image-processing",
+      "medical-image-analysis",
+      "medical-image-processing",
+      "medical-imaging",
+      "medimage",
+      "python",
+      "radiomics",
+      "radiomics-analysis",
+      "radiomics-feature-extraction"
+    ],
+    "application_area": "医学影像",
+    "score": 11.13
+  },
+  {
+    "full_name": "MEDomicsLab/MEDiml-app",
+    "name": "MEDiml-app",
+    "url": "https://github.com/MEDomicsLab/MEDiml-app",
+    "description": "MEDical Image analysis with Machine Learning (MEDiml) is a user-friendly application that enables the standardized extraction of radiomics features from medical images and the integration of machine learning to enhance medical research.",
+    "language": "JavaScript",
+    "stars": 4,
+    "forks": 2,
+    "open_issues": 8,
+    "updated_at": "2026-11-19T01:03:36Z",
+    "pushed_at": "2026-11-14T22:45:39Z",
+    "topics": [
+      "cancer-imaging-research",
+      "electron",
+      "feature-extraction",
+      "image-processing",
+      "machine-learning",
+      "medical-imaging",
+      "radiomics",
+      "react",
+      "reactjs"
+    ],
+    "application_area": "医学影像",
+    "score": 10.97
+  },
+  {
+    "full_name": "wangziblake/CardioMM_MMCMR-427K",
+    "name": "CardioMM_MMCMR-427K",
+    "url": "https://github.com/wangziblake/CardioMM_MMCMR-427K",
+    "description": "Enabling Ultra-Fast Cardiovascular Imaging Across Heterogeneous Clinical Environments with A Generalist Foundation Model and Multimodal Database",
+    "language": "Python",
+    "stars": 14,
+    "forks": 3,
+    "open_issues": 0,
+    "updated_at": "2026-09-15T13:02:36Z",
+    "pushed_at": "2026-11-19T21:46:16Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 8.21
+  },
+  {
+    "full_name": "utkukose/ai-cardiology-tkd-NB-lecture",
+    "name": "ai-cardiology-tkd-NB-lecture",
+    "url": "https://github.com/utkukose/ai-cardiology-tkd-NB-lecture",
+    "description": "Artificial intelligence with Python for cardiologists, Turkish Society of Cardiology: 11 weeks of lecture pages, interactive labs, Jupyter notebooks and PDF notes. | Kardiyologlar için Python ile yapay zekâ, Türk Kardiyoloji Derneği: 11 haftalık ders sayfaları, etkileşimli lablar, Jupyter defterleri ve PDF ders notları.",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-11-19T23:06:36Z",
+    "pushed_at": "2026-11-19T22:00:27Z",
+    "topics": [
+      "artificial-intelligence",
+      "cardiology",
+      "clinical-decision-support",
+      "deep-learning",
+      "derin-ogrenme",
+      "ecg",
+      "echocardiography",
+      "explainable-ai",
+      "kardiyoloji",
+      "machine-learning",
+      "makine-ogrenmesi",
+      "medical-ai",
+      "medical-education",
+      "prompt-engineering",
+      "python",
+      "saglikta-yapay-zeka",
+      "yapay-zeka"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 6.0
+  },
+  {
+    "full_name": "shubhamkjha369/Hepatocellular-Carcinoma-Subtyping-Survival-Analysis-Risk-Scoring-and-Clinical-Analysis",
+    "name": "Hepatocellular-Carcinoma-Subtyping-Survival-Analysis-Risk-Scoring-and-Clinical-Analysis",
+    "url": "https://github.com/shubhamkjha369/Hepatocellular-Carcinoma-Subtyping-Survival-Analysis-Risk-Scoring-and-Clinical-Analysis",
+    "description": "Designed and validated a computational oncology pipeline for hepatocellular carcinoma using RNA expression data, integrating machine learning, survival analysis, SHAP explainability, tumor microenvironment deconvolution, and multi-cohort external validation for precision medicine applications.",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-06-15T17:19:50Z",
+    "pushed_at": "2026-11-19T06:09:13Z",
+    "topics": [
+      "bioinformatics",
+      "biomarker-discovery",
+      "cancer-genomics",
+      "computational-biology",
+      "cox-regression",
+      "differential-gene-expression",
+      "explainable-ai",
+      "external-validation",
+      "gene-coexpression-network",
+      "hepatocellular-carcinoma",
+      "pathway-analysis",
+      "patient-similarity-network",
+      "precision-oncology",
+      "rna-seq",
+      "survival-analysis",
+      "transcriptomics"
+    ],
+    "application_area": "临床预测",
+    "score": 5.0
+  }
+]
