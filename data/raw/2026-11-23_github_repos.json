@@ -1,1 +1,312 @@
-[]
+[
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 2081,
+    "forks": 205,
+    "open_issues": 8,
+    "updated_at": "2026-11-22T16:36:27Z",
+    "pushed_at": "2026-11-20T06:00:50Z",
+    "topics": [
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "science",
+      "single-cell"
+    ],
+    "application_area": "临床预测",
+    "score": 32.54,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "MIC-DKFZ/nnUNet",
+    "name": "nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "description": "",
+    "language": "Python",
+    "stars": 9064,
+    "forks": 2519,
+    "open_issues": 22,
+    "updated_at": "2026-11-22T23:38:45Z",
+    "pushed_at": "2026-11-22T21:39:22Z",
+    "topics": [
+      "segmentation"
+    ],
+    "application_area": "医学影像",
+    "score": 31.13,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "mims-harvard/ToolUniverse",
+    "name": "ToolUniverse",
+    "url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
+    "language": "Python",
+    "stars": 1798,
+    "forks": 279,
+    "open_issues": 13,
+    "updated_at": "2026-11-20T21:15:13Z",
+    "pushed_at": "2026-11-22T20:32:57Z",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-communication",
+      "ai-for-science",
+      "ai-scientists",
+      "automated-science",
+      "autonomous-agents",
+      "co-pilot",
+      "co-scientist",
+      "llms",
+      "lrm",
+      "mcp-servers",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "scientific-skill",
+      "tool-use"
+    ],
+    "application_area": "病理与组学",
+    "score": 28.21,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "large language model"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "diagnosis",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 609,
+    "forks": 69,
+    "open_issues": 1,
+    "updated_at": "2026-11-22T08:08:54Z",
+    "pushed_at": "2026-11-20T00:49:09Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 27.51,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "patient",
+        "pathology",
+        "genomics",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "valeman/awesome-conformal-prediction",
+    "name": "awesome-conformal-prediction",
+    "url": "https://github.com/valeman/awesome-conformal-prediction",
+    "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
+    "language": "",
+    "stars": 1346,
+    "forks": 124,
+    "open_issues": 6,
+    "updated_at": "2026-11-22T06:59:45Z",
+    "pushed_at": "2026-11-21T15:55:14Z",
+    "topics": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "conformal-prediction",
+      "datascience",
+      "deeplearning",
+      "explainable-ai",
+      "machine-learning",
+      "machinelearning",
+      "probability",
+      "probability-distribution",
+      "probability-distributions",
+      "python",
+      "r",
+      "robust-ml",
+      "statistics",
+      "uncertainty",
+      "uncertainty-estimation",
+      "uncertainty-quantification"
+    ],
+    "application_area": "医学影像",
+    "score": 26.06,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "diagnosis"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1227,
+    "forks": 76,
+    "open_issues": 0,
+    "updated_at": "2026-11-19T22:56:45Z",
+    "pushed_at": "2026-11-22T09:19:51Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 24.36,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "MEDomicsLab/MEDiml-app",
+    "name": "MEDiml-app",
+    "url": "https://github.com/MEDomicsLab/MEDiml-app",
+    "description": "MEDical Image analysis with Machine Learning (MEDiml) is a user-friendly application that enables the standardized extraction of radiomics features from medical images and the integration of machine learning to enhance medical research.",
+    "language": "JavaScript",
+    "stars": 4,
+    "forks": 2,
+    "open_issues": 9,
+    "updated_at": "2026-11-19T01:03:36Z",
+    "pushed_at": "2026-11-14T22:45:39Z",
+    "topics": [
+      "cancer-imaging-research",
+      "electron",
+      "feature-extraction",
+      "image-processing",
+      "machine-learning",
+      "medical-imaging",
+      "radiomics",
+      "react",
+      "reactjs"
+    ],
+    "application_area": "医学影像",
+    "score": 10.68
+  },
+  {
+    "full_name": "utkukose/ai-cardiology-tkd-NB-lecture",
+    "name": "ai-cardiology-tkd-NB-lecture",
+    "url": "https://github.com/utkukose/ai-cardiology-tkd-NB-lecture",
+    "description": "Artificial intelligence with Python for cardiologists, Turkish Society of Cardiology: 11 weeks of lecture pages, interactive labs, Jupyter notebooks and PDF notes. | Kardiyologlar için Python ile yapay zekâ, Türk Kardiyoloji Derneği: 11 haftalık ders sayfaları, etkileşimli lablar, Jupyter defterleri ve PDF ders notları.",
+    "language": "HTML",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-11-22T23:52:37Z",
+    "pushed_at": "2026-11-23T00:11:15Z",
+    "topics": [
+      "artificial-intelligence",
+      "cardiology",
+      "clinical-decision-support",
+      "deep-learning",
+      "derin-ogrenme",
+      "ecg",
+      "echocardiography",
+      "explainable-ai",
+      "kardiyoloji",
+      "machine-learning",
+      "makine-ogrenmesi",
+      "medical-ai",
+      "medical-education",
+      "prompt-engineering",
+      "python",
+      "saglikta-yapay-zeka",
+      "yapay-zeka"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 8.8
+  },
+  {
+    "full_name": "ludvigalden/ehr-omop-meds-femr",
+    "name": "ehr-omop-meds-femr",
+    "url": "https://github.com/ludvigalden/ehr-omop-meds-femr",
+    "description": "Machine learning and data engineering for a pipeline for electronic health records (EHR) → OMOP CDM → MEDS/FEMR → CLMBR-T Base",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "2026-11-06T12:13:20Z",
+    "pushed_at": "2026-11-22T23:29:20Z",
+    "topics": [
+      "clmbr",
+      "data-engineering",
+      "ehr",
+      "etl-pipeline",
+      "femr",
+      "machine-learning",
+      "meds",
+      "omop-cdm"
+    ],
+    "application_area": "临床预测",
+    "score": 4.51
+  }
+]
