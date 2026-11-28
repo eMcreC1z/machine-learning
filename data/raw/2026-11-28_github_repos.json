@@ -1,0 +1,415 @@
+[
+  {
+    "full_name": "sunlabuiuc/PyHealth",
+    "name": "PyHealth",
+    "url": "https://github.com/sunlabuiuc/PyHealth",
+    "description": "A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines.",
+    "language": "Python",
+    "stars": 1712,
+    "forks": 974,
+    "open_issues": 115,
+    "updated_at": "2026-11-27T02:41:20Z",
+    "pushed_at": "2026-11-28T00:27:39Z",
+    "topics": [
+      "benchmark",
+      "clinical-data",
+      "clinical-nlp",
+      "clinical-research",
+      "data-mining",
+      "deep-learning",
+      "ehr",
+      "electronic-health-record",
+      "electronic-medical-record",
+      "healthcare",
+      "healthcare-ai",
+      "llm",
+      "machine-learning",
+      "medical-ai",
+      "medical-code",
+      "mimic-iii",
+      "mimic-iv",
+      "preprocessing",
+      "python",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 34.08,
+    "evidence_terms": {
+      "ml": [
+        "deep learning",
+        "llm",
+        "nlp"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "diagnosis",
+        "imaging",
+        "ehr"
+      ]
+    }
+  },
+  {
+    "full_name": "aipoch/medical-research-skills",
+    "name": "medical-research-skills",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "language": "Python",
+    "stars": 2092,
+    "forks": 206,
+    "open_issues": 9,
+    "updated_at": "2026-11-27T16:42:47Z",
+    "pushed_at": "2026-11-20T06:00:50Z",
+    "topics": [
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "computational-biology",
+      "data-analysis",
+      "data-visualization",
+      "differential-expression",
+      "genomics",
+      "medical",
+      "medical-research",
+      "science",
+      "single-cell"
+    ],
+    "application_area": "临床预测",
+    "score": 32.56,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "genomics",
+        "omics",
+        "ehr",
+        "disease"
+      ]
+    }
+  },
+  {
+    "full_name": "vanshb03/Summer2027-Internships",
+    "name": "Summer2027-Internships",
+    "url": "https://github.com/vanshb03/Summer2027-Internships",
+    "description": "Collection of Summer, Fall, Spring 2027 tech internships!",
+    "language": "",
+    "stars": 9195,
+    "forks": 313,
+    "open_issues": 2,
+    "updated_at": "2026-11-27T22:31:42Z",
+    "pushed_at": "2026-11-28T03:19:10Z",
+    "topics": [
+      "fall-2025",
+      "fall-2026",
+      "github",
+      "internship",
+      "internships",
+      "job-search",
+      "job-search-tools",
+      "jobs",
+      "spring-2027",
+      "summer",
+      "summer-2027",
+      "university",
+      "winter-2026",
+      "winternship"
+    ],
+    "application_area": "医学影像",
+    "score": 30.8,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "llm",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging",
+        "pathology"
+      ]
+    }
+  },
+  {
+    "full_name": "Project-MONAI/MONAI",
+    "name": "MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "description": "AI Toolkit for Healthcare Imaging",
+    "language": "Python",
+    "stars": 8875,
+    "forks": 1740,
+    "open_issues": 562,
+    "updated_at": "2026-11-27T22:03:55Z",
+    "pushed_at": "2026-11-27T23:47:05Z",
+    "topics": [
+      "deep-learning",
+      "healthcare-imaging",
+      "medical-image-computing",
+      "medical-image-processing",
+      "monai",
+      "python3",
+      "pytorch"
+    ],
+    "application_area": "医学影像",
+    "score": 29.85,
+    "evidence_terms": {
+      "ml": [
+        "deep learning"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "r0f1/datascience",
+    "name": "datascience",
+    "url": "https://github.com/r0f1/datascience",
+    "description": "Curated list of Python resources for data science.",
+    "language": "",
+    "stars": 4698,
+    "forks": 721,
+    "open_issues": 3,
+    "updated_at": "2026-11-25T20:17:23Z",
+    "pushed_at": "2026-11-25T13:26:54Z",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "bayes",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "deeplearning",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "application_area": "临床预测",
+    "score": 29.09,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "medical": [
+        "medicine",
+        "cancer",
+        "survival"
+      ]
+    }
+  },
+  {
+    "full_name": "mims-harvard/ToolUniverse",
+    "name": "ToolUniverse",
+    "url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
+    "language": "Python",
+    "stars": 1811,
+    "forks": 283,
+    "open_issues": 10,
+    "updated_at": "2026-11-26T17:14:25Z",
+    "pushed_at": "2026-11-28T02:40:49Z",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-communication",
+      "ai-for-science",
+      "ai-scientists",
+      "automated-science",
+      "autonomous-agents",
+      "co-pilot",
+      "co-scientist",
+      "llms",
+      "lrm",
+      "mcp-servers",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "scientific-skill",
+      "tool-use"
+    ],
+    "application_area": "病理与组学",
+    "score": 28.37,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "large language model"
+      ],
+      "medical": [
+        "medical",
+        "clinical",
+        "diagnosis",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "OmicsML/awesome-foundation-model-single-cell-papers",
+    "name": "awesome-foundation-model-single-cell-papers",
+    "url": "https://github.com/OmicsML/awesome-foundation-model-single-cell-papers",
+    "description": "",
+    "language": "",
+    "stars": 610,
+    "forks": 68,
+    "open_issues": 0,
+    "updated_at": "2026-11-24T09:35:03Z",
+    "pushed_at": "2026-11-23T01:50:03Z",
+    "topics": [
+      "ai-virtual-cell",
+      "awesome-list",
+      "biological-foundation-model",
+      "large-language-models",
+      "single-cell-foundation-model",
+      "single-cell-multiomics",
+      "survey"
+    ],
+    "application_area": "病理与组学",
+    "score": 27.07,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "foundation model",
+        "llm"
+      ],
+      "medical": [
+        "patient",
+        "pathology",
+        "genomics",
+        "omics",
+        "disease",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "mdozmorov/MachineLearning_notes",
+    "name": "MachineLearning_notes",
+    "url": "https://github.com/mdozmorov/MachineLearning_notes",
+    "description": "Machine learning and deep learning resources",
+    "language": "",
+    "stars": 575,
+    "forks": 90,
+    "open_issues": 1,
+    "updated_at": "2026-11-16T01:27:58Z",
+    "pushed_at": "2026-11-27T01:50:18Z",
+    "topics": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "application_area": "医学影像",
+    "score": 25.87,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "llm",
+        "neural network",
+        "computer vision"
+      ],
+      "medical": [
+        "medicine",
+        "genomics"
+      ]
+    }
+  },
+  {
+    "full_name": "liliu-avril/Awesome-Segment-Anything",
+    "name": "Awesome-Segment-Anything",
+    "url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+    "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).",
+    "language": "",
+    "stars": 1227,
+    "forks": 77,
+    "open_issues": 0,
+    "updated_at": "2026-11-19T22:56:45Z",
+    "pushed_at": "2026-11-25T12:07:00Z",
+    "topics": [],
+    "application_area": "医学影像",
+    "score": 23.65,
+    "evidence_terms": {
+      "ml": [
+        "artificial intelligence",
+        "foundation model",
+        "computer vision"
+      ],
+      "medical": [
+        "medical",
+        "imaging"
+      ]
+    }
+  },
+  {
+    "full_name": "imteekay/machine-learning-research",
+    "name": "machine-learning-research",
+    "url": "https://github.com/imteekay/machine-learning-research",
+    "description": "✨ AI/ML Research",
+    "language": "Jupyter Notebook",
+    "stars": 456,
+    "forks": 53,
+    "open_issues": 0,
+    "updated_at": "2026-11-20T14:30:21Z",
+    "pushed_at": "2026-11-27T13:37:30Z",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "science"
+    ],
+    "application_area": "综合医学机器学习",
+    "score": 22.84,
+    "evidence_terms": {
+      "ml": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "medical": [
+        "clinical",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "full_name": "dermatologist/pyomop",
+    "name": "pyomop",
+    "url": "https://github.com/dermatologist/pyomop",
+    "description": "Python package for managing OHDSI clinical data models. Includes support for LLM based plain text queries, MCP server and FHIR import.",
+    "language": "Python",
+    "stars": 69,
+    "forks": 12,
+    "open_issues": 22,
+    "updated_at": "2026-11-22T22:19:36Z",
+    "pushed_at": "2026-11-27T21:14:21Z",
+    "topics": [
+      "cdm",
+      "clinical-trials",
+      "datawarehouse",
+      "hacktoberfest",
+      "health-data-analysis",
+      "health-informatics",
+      "llm",
+      "ohdsi",
+      "python",
+      "text-to-sql"
+    ],
+    "application_area": "临床文本与大模型",
+    "score": 15.14
+  }
+]
